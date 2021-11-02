@@ -24,9 +24,17 @@ Högre rekryteringskostnader<br>
 Långsammare tid-till-anställning, Längre tid till resultat<br>
 Tid tillbringad med att granska kandidater mer än en gång</p>
 
+#### Lösningen
+1. SMS
+> Skicka enkelt SMS-uppdateringar och påminnelser till en eller flera kandidater
 
+2. Anpassade åtgärdssteg och e-postmeddelanden
+> Förbättrad kommunikation med kandidater med skräddarsydda e-postmallar
+> Högre detaljnivå på företagets feedback om kandidater
+
+3. 3. Panelgranskning
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTc2MjQ4NiwtMTA2ODIyNTg0NiwtMT
+eyJoaXN0b3J5IjpbLTE5MjY2OTg0MiwtMTA2ODIyNTg0NiwtMT
 UzMTUzNzk0Ml19
 -->
