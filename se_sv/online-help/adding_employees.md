@@ -27,7 +27,7 @@ Från sidan  Medarbetare  kan enskilda eller flera medarbetare läggas till i sy
 7.  Klicka på  Nästa  för att slutföra importprocessen.  
     Excel-arken måste ha uppgifterna i varje kolumn i samma ordning som den har angetts i EasyCruit för att uppgifterna ska importeras på rätt sätt. Detta fungerar inte i den senaste versionen av Microsoft® Excel. Om du vill använda den måste du först spara filen i formatet Excel 1997-2003.
 
-## Se även: 
+#### Se även: 
 [Redigera, radera och skicka e-post till en medarbetare](https://www.google.com/url?q=http://edit_delete_and_email_an_employee.htm&source=gmail-html&ust=1635933967305000&usg=AFQjCNGtu9epmSaZndJcJituLPwZZ7Kwpg)
 Adding Employees
 [Vägledning för användare – Rekryteringsprojekt](https://www.google.com/url?q=http://guide_for_users_vacancies.htm&source=gmail-html&ust=1635933967305000&usg=AFQjCNEFwKvRIEtsgL2Q7bZZXzfSOLnRMg)
@@ -36,5 +36,5 @@ Adding Employees
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTMyOTgwN119
+eyJoaXN0b3J5IjpbLTEzNzEyMTk1MDMsLTQ5OTMyOTgwN119
 -->
