@@ -57,8 +57,18 @@ Följande ämnen beskriver tillgängliga behörigheter.
 -   Skall ej ha tillgång till att se kandidater och dess status i övriga projekt  – Detta är standardalternativet i systemet som förhindrar användaren från att se eventuella andra ansökningar som kandidaten gjort.
 -   Skall ha tillgång till medarbetare  – Aktiverar funktionen  [Medarbetare](https://www.google.com/url?q=http://guide_for_users_employees.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNGrsD9JJUpJDsODWjlEzDyzU_UGog)  på Startsidan.
 -   Skall ej ha tillgång till att i processlistan se om en kandidat har blivit vidarebefordrad  – Förhindrar att användare se eventuella vidarebefordrade kandidaters historik.
+
+## Användargränssnitt
+
+-   Använd begränsat grafiskt gränssnitt  – Detta är ett redundant alternativ som inte behöver aktiveras.
+-   Lösenordskontroll  – Säkerställer att en användare måste ange unika lösenord för fem lösenordsändringar innan de kan återanvända ett tidigare lösenord.
+-   Inloggning är endast möjlig via Single Sign On (SSO)  – Gör det möjligt för användare som loggar in i EasyCruit med användning av Internet Explorer, Windows Single Sign-On (SSO) att använda sina Windows-autentiseringsuppgifter från Microsoft Active Directory. Användare slipper därmed komma ihåg ytterligare en användarnamn/lösenordskombination.
+
+## WebService
+
+-   WebService (exportera uppgifter från EasyCruit)  – Detta är valfritt och visas endast om det är aktiverat. Läs mer information om  [web services](https://www.google.com/url?q=http://guide_for_administrators_integration_apis.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNFWXXUTKEfH4hbAeozKyiqwrM_Tfg)  här.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MDg5MTAzOCwxMjY2NjEyODEwLC05MT
+eyJoaXN0b3J5IjpbLTkwNDY2NzI0OCwxMjY2NjEyODEwLC05MT
 U0NzU4OTIsNzMwOTk4MTE2XX0=
 -->
