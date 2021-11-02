@@ -32,9 +32,18 @@ Tid tillbringad med att granska kandidater mer än en gång</p>
 > Förbättrad kommunikation med kandidater med skräddarsydda e-postmallar
 > Högre detaljnivå på företagets feedback om kandidater
 
-3. 3. Panelgranskning
+3. Panelgranskning
+>Enkelt att begära, visa och jämföra feedback om kandidater
+>Minska risken att anställa en kandidat som inte passar
+
+4. Tvåvägs-e-post
+> Integration med ditt vanliga e-postverktyg
+
+5. Avtalsmall
+> Koppla dokument för att skapa varumärkta avtal för nyanställda
+> 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjY2OTg0MiwtMTA2ODIyNTg0NiwtMT
-UzMTUzNzk0Ml19
+eyJoaXN0b3J5IjpbLTExNTA5MTkzMzMsLTEwNjgyMjU4NDYsLT
+E1MzE1Mzc5NDJdfQ==
 -->
