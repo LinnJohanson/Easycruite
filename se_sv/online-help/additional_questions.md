@@ -45,7 +45,7 @@ Det finns flera olika kategorier av övriga frågor, vissa innehåller uppgifter
 1.  I Verktygsfältet väljer du  Inställningar  och sedan  Övriga frågor  för att visa sidan  Övriga Frågor.
 2.  Välj den flik som krävs för att komma till rätt fråga och klicka sedan på penn-ikonen.
 
-## Se även:
+#### Se även:
 
 [Frågetyper](https://www.google.com/url?q=http://question_types.htm&source=gmail-html&ust=1635933586126000&usg=AFQjCNHXzdM-eN2G0AYHqVBLchupdUMkoQ)
 [Ansökningsmallar](https://www.google.com/url?q=http://application_templates.htm&source=gmail-html&ust=1635933586126000&usg=AFQjCNEj4pz8fzBDVfX6b4okuYXgnx9j7A)
@@ -54,5 +54,5 @@ Det finns flera olika kategorier av övriga frågor, vissa innehåller uppgifter
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc1MjI2OTkzXX0=
+eyJoaXN0b3J5IjpbODgyNTQ3MDg5XX0=
 -->
