@@ -19,10 +19,14 @@ Inkonsekventa meddelande till kandidater<br>
 Lägre effektivitet och dålig synlighet av feedback,
 Mindre informerade anställningsval, ökande risk<br>
 Förlust av dialoghistorik med kandidater<br> 
-Dubbel hantering av dubbla ansökningar</p>
+Tid att ta fram avtal,   
+Högre rekryteringskostnader<br>
+Långsammare tid-till-anställning, Längre tid till resultat<br>
+Tid tillbringad med att granska kandidater mer än en gång</p>
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjMxODc2OTIsLTEwNjgyMjU4NDYsLT
-E1MzE1Mzc5NDJdfQ==
+eyJoaXN0b3J5IjpbLTcyOTc2MjQ4NiwtMTA2ODIyNTg0NiwtMT
+UzMTUzNzk0Ml19
 -->
