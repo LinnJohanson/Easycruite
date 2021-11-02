@@ -48,8 +48,20 @@ Tid tillbringad med att granska kandidater mer än en gång</p>
 7. Kontroll om det finns dubbletter av kandidater
 > Automatiskt meddelande om eventuella dubbletter
 
+
+#### Se även:
+
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Gemensam rangordning/Panelgranskning](https://www.google.com/url?q=http://collaborative_rating_panel_review.htm&source=gmail-html&ust=1635934225622000&usg=AFQjCNEVFYEWi4X-kEFfHCakZmbkmaDpjw)
+
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Fliken gemensam rangordning](https://www.google.com/url?q=http://collaborative_rating_tab.htm&source=gmail-html&ust=1635934225622000&usg=AFQjCNFZu3BnYif8ji7sLHssFCpX1-lZ6A)
+
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Visa flera ansökningar från samma kandidat](https://www.google.com/url?q=http://viewing_a_candidates_multiple_applications.htm&source=gmail-html&ust=1635934225622000&usg=AFQjCNGdfJnCIhp8-EFksdGg8QQl4qsrQA)
+
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Anställningskontrakt](https://www.google.com/url?q=http://employment_contacts.htm&source=gmail-html&ust=1635934225623000&usg=AFQjCNFENrF4BVW0Z2DgTnb62N7L3lAVEw)
+
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Ansökan har sparats](https://www.google.com/url?q=http://application_saved.htm&source=gmail-html&ust=1635934225623000&usg=AFQjCNElhMZcNnESu-zxG2x7my-d3ymbUg)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mzc1MzM3LC0xMDY4MjI1ODQ2LC0xNT
-MxNTM3OTQyXX0=
+eyJoaXN0b3J5IjpbMTU4MTgzODIwNSwtMTA2ODIyNTg0NiwtMT
+UzMTUzNzk0Ml19
 -->
