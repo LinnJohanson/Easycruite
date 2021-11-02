@@ -47,8 +47,12 @@ Det finns flera olika kategorier av övriga frågor, vissa innehåller uppgifter
 
 ## Se även:
 
+[Frågetyper](https://www.google.com/url?q=http://question_types.htm&source=gmail-html&ust=1635933586126000&usg=AFQjCNHXzdM-eN2G0AYHqVBLchupdUMkoQ)
+[Ansökningsmallar](https://www.google.com/url?q=http://application_templates.htm&source=gmail-html&ust=1635933586126000&usg=AFQjCNEj4pz8fzBDVfX6b4okuYXgnx9j7A)
+[Sökmallar](https://www.google.com/url?q=http://search_templates.htm&source=gmail-html&ust=1635933586126000&usg=AFQjCNHFTOHg__qQaosWsgcatGagW3HGyg)
+[Användare: Skapa, Redigera, Radera](https://www.google.com/url?q=http://users_create_edit_delete.htm&source=gmail-html&ust=1635933586126000&usg=AFQjCNEkCCPpTm_2qwOsnEFRhp_e7q-IpQ)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Njg1Nzg5OF19
+eyJoaXN0b3J5IjpbODc1MjI2OTkzXX0=
 -->
