@@ -32,8 +32,33 @@ Följande ämnen beskriver tillgängliga behörigheter.
 -   Skall kunna radera kandidater  –Ger användaren behörighet att använda listan  Vidare åtgärd  för att  [radera](https://www.google.com/url?q=http://deleting_an_applicant.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNHOJkvpOFRMiCvRy-sBvDvI6FeCtg)  kandidatens ansökan och lägga till den i  Raderade ansökningar.
 -   Skall ha tillgång till att kunna skapa ”Klassificering - Projektprofilsfrågor”  – Ger användaren behörighet att registrera  [klassificeringar](https://www.google.com/url?q=http://classification_tab.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNE87VG80ScIcGBMJL9aNeJ3-70gyw)  av interna kandidater och använda dessa attribut för rapportering.
 
+## Publicera
+
+-   Skall kunna publicera/redigera annonser  – Ger användaren behörighet att publicera och redigera annonser. När det här alternativet är inaktiverat är alla inställningar på fliken  [Redigera projektet](https://www.google.com/url?q=http://edit_a_vacancy.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNE8ocpl_yr3kAtWiZF67uAVLOfMQQ)  inaktiverade.
+-   Skall kunna avsluta och radera projekt  – Ger användaren behörighet att  [avsluta](https://www.google.com/url?q=http://closing_a_vacancy.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNGoFYuGhQpG-VDkJ5D6PEqvyEd67w)  ett rekryteringsprojekt och  [radera](https://www.google.com/url?q=http://deleting_a_vacancy.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNHFwG1Mt4qz3VoAAc_PxCdK0lCU_w)  det.
+-   Skall kunna redigera svarsbrev  – Ger användaren behörighet att ändra svarsbrev för ett specifik rekryteringsprojekt.
+-   Skall kunna använda WYSIWYG  – Aktiverar verktygsfältet för  [WYSIWYG-editorn](https://www.google.com/url?q=http://wysiwyg_text_editor.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNGunaxgATanl4WizL9hrdaQT9AR1g)  när ett rekryteringsprojekt skapas. Detta möjliggör utformning och formatering av jobbannonsen.
+
+## Kommunikation
+
+-   Skall kunna skicka e-post  – Aktiverar värdet  Skicka e-post  i listan  [Vidare åtgärd](https://www.google.com/url?q=http://applicant_progress_options.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNFE172eksEZNz1vgvKa107MnBfhug)  så att användaren kan skicka ett icke schemalagt e-postmeddelande till kandidaten, utan att behöva ändra kandidatens status eller arbeta inom arbetsflödet rekrytering.
+-   Skall kunna skicka SMS  – Ger en intern användare behörighet att skicka ett SMS-meddelande till en kandidat som har ett giltigt mobiltelefonnummer. För att fungera korrekt kräver den här funktionen ett inledande konfigurationsarbete av en EasyCruit-representant.
+-   Skall ha tillgång till tvåvägskommunikationsmodul  – Aktiverar fliken  [Tvåvägskommunikation via e-post](https://www.google.com/url?q=http://two_way_email_tab.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNHiyp6GH2QY3pAeByw8G9h7lP6oaQ), som finns på kandidatens sida  Ansökan och CV.
+
+## Övrigt
+
+-   Skall ha tillgång till rapporter  – Aktiverar  Rapportfunktionerna  på  Startsidan.
+-   Tillgång till CBS-rapporter  – Ger tillgång till rapporten the Central Bureau of Statistics (CBS) report, skapad för att uppfylla regler för överensstämmelse i Nederländerna.
+-   Skall kunna redigera förhållningsregler  – Aktiverar funktionen  [Förhållningsregler](https://www.google.com/url?q=http://internal_guidelines.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNHO-rM5lXJBmX0y6dpuJiEYpnikhA)  på sidan  Inställningar, där du kan lägga in förhållningsregler för olika delar av systemet.
+-   Tillåt användare att redigera kontaktpersoner för detta rekryteringsprojekt  – Ger användaren behörighet att ändra kontaktpersonerna som visas i jobbannonsen. Dessa behöver inte vara samma personer som får meddelanden om en ny ansökan.
+-   Skall ha tillgång till medarbetareklassificering  – Aktiverar fliken  [Klassificering](https://www.google.com/url?q=http://classification_tab.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNE87VG80ScIcGBMJL9aNeJ3-70gyw), som finns på sidan  Ansökan och CV.
+-   Skall ha tillgång till att se kandidater och dess status i övriga projekt inom samtliga avdelningar  – Ger användaren behörighet att se alla ansökningar en kandidat har skickat in i hela företaget.
+-   Skall ha tillgång till att se kandidater och dess status i övriga projekt inom användarens avdelning  – Begränsar vad användaren kan se till enbart de ansökningar som gjorts inom de avdelningar som användaren har tillgång till.
+-   Skall ej ha tillgång till att se kandidater och dess status i övriga projekt  – Detta är standardalternativet i systemet som förhindrar användaren från att se eventuella andra ansökningar som kandidaten gjort.
+-   Skall ha tillgång till medarbetare  – Aktiverar funktionen  [Medarbetare](https://www.google.com/url?q=http://guide_for_users_employees.htm&source=gmail-html&ust=1635931922423000&usg=AFQjCNGrsD9JJUpJDsODWjlEzDyzU_UGog)  på Startsidan.
+-   Skall ej ha tillgång till att i processlistan se om en kandidat har blivit vidarebefordrad  – Förhindrar att användare se eventuella vidarebefordrade kandidaters historik.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0NzIwNTIsMTI2NjYxMjgxMCwtOT
-E1NDc1ODkyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTM4MDg5MTAzOCwxMjY2NjEyODEwLC05MT
+U0NzU4OTIsNzMwOTk4MTE2XX0=
 -->
