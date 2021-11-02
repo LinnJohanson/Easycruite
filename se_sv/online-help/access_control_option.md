@@ -7,7 +7,7 @@ Fastän det finns ett antal standardanvändartyper som kan skapas med förvalda 
 
 Följande ämnen beskriver tillgängliga behörigheter.
 
-Administratörsinställningar
+## Administratörsinställningar
 
 -   Är administratör  – Aktiverar administratörsfunktionerna som nås via sidan Inställningar. När det här alternativet är inaktiverat kan användare endast se  Din användarinformation,  Avdelningar  och  Förhållningsregler. En administratörsanvändare kan även ändra sina egna inställningar för tillgångskontroll.
 -   Är avdelningsadministratör  – Ger samma funktionalitet som en administratör har, men endast för specifika avdelningar.
@@ -15,5 +15,6 @@ Administratörsinställningar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTQ3NTg5Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTI2NjYxMjgxMCwtOTE1NDc1ODkyLDczMD
+k5ODExNl19
 -->
