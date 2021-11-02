@@ -41,9 +41,15 @@ Tid tillbringad med att granska kandidater mer än en gång</p>
 
 5. Avtalsmall
 > Koppla dokument för att skapa varumärkta avtal för nyanställda
-> 
+
+6. Medarbetarklassificering
+> Enkelt att söka efter interna talanger baserat på dina kriterier. 
+
+7. Kontroll om det finns dubbletter av kandidater
+> Automatiskt meddelande om eventuella dubbletter
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTA5MTkzMzMsLTEwNjgyMjU4NDYsLT
-E1MzE1Mzc5NDJdfQ==
+eyJoaXN0b3J5IjpbLTg0Mzc1MzM3LC0xMDY4MjI1ODQ2LC0xNT
+MxNTM3OTQyXX0=
 -->
