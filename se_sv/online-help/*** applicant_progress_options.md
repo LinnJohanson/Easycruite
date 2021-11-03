@@ -4,9 +4,9 @@ Det finns ett antal olika alternativ för att hantera kandidater som du hittar u
 
 #### I tabellen nedan beskrivs varje stadie:
 
-<html>Vidare åtgärd</html> <html></html>
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NjA0ODkxLC0yMDg5MzYyMzcwXX0=
+eyJoaXN0b3J5IjpbMTg2NDU3MTM2MCwtMjA4OTM2MjM3MF19
 -->
