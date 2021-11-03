@@ -13,9 +13,17 @@ Vidare åtgärd
 </tr>
 </table>
 
+</td>
+<td>
+
+Beskrivning
+
+</td>
+</tr>
+</table>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY2NDU3OSwxODY0NTcxMzYwLC0yMD
-g5MzYyMzcwXX0=
+eyJoaXN0b3J5IjpbLTEwMzE0NDk0NzUsMTg2NDU3MTM2MCwtMj
+A4OTM2MjM3MF19
 -->
