@@ -4,9 +4,18 @@ Det finns ett antal olika alternativ för att hantera kandidater som du hittar u
 
 #### I tabellen nedan beskrivs varje stadie:
 
-
+```
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDU3MTM2MCwtMjA4OTM2MjM3MF19
+eyJoaXN0b3J5IjpbLTk4NjE5NDEyOSwxODY0NTcxMzYwLC0yMD
+g5MzYyMzcwXX0=
 -->
