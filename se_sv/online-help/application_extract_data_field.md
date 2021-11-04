@@ -76,38 +76,27 @@ Följande tabell beskriver de fält som används för Kandidatexport.
 *Kandidatens svar på den här frågan om tillfrågad*
 
 **Ort**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Nationalitet**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Ort
+**Fått jobberbjudande**
+*Det datum då ansökningsstatus blev ”Jobberbjudande”*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Aktuellt jobb**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Nationalitet
+**Arbetsgivare**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Datum för informationsmöte/telefonintervju**
+*Senaste datum för när denna intervju var schemalagd att äga rum*
 
-Fått jobberbjudande
+**Datum för intervju 1**
+*Senaste datum för när denna intervju var schemalagd att äga rum*
 
-Det datum då ansökningsstatus blev ”Jobberbjudande”
-
-Aktuellt jobb
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Arbetsgivare
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Datum för informationsmöte/telefonintervju
-
-Senaste datum för när denna intervju var schemalagd att äga rum
-
-Datum för intervju 1
-
-Senaste datum för när denna intervju var schemalagd att äga rum
-
-Datum för intervju 2
+**Datum för intervju 2
 
 Senaste datum för när denna intervju var schemalagd att äga rum
 
@@ -144,5 +133,6 @@ Datum
 Senaste datum för när ansökningsstatus ändrades till anpassad status 1 (Obs! Rubriken kommer att ändras baserat på namnet på kundens anpassade status)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mzc3OTA1NSwtMTQ2NDYyNDYxOV19
+eyJoaXN0b3J5IjpbLTE5ODU1NDE2MTksLTE0NjQ2MjQ2MTldfQ
+==
 -->
