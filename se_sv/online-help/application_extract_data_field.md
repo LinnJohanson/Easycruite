@@ -33,27 +33,22 @@ Följande tabell beskriver de fält som används för Kandidatexport.
 **Genomsnittlig rangordning**
 *Genomsnittlig rangordning efter panelgranskning om angiven*
 
-Referenskontroll
+**Referenskontroll**
+*Baserat på alternativen i listmenyn i EasyCruit t.ex. Positiv, Negativ*
 
-Baserat på alternativen i listmenyn i EasyCruit t.ex. Positiv, Negativ
+**Ansökningsdatum**
+*Det datum ansökan gjordes*
 
-Ansökningsdatum
+**Anställningsdatum**
+*Det datum då kandidaten fick statusen ”Anställd”*
 
-Det datum ansökan gjordes
+**Startdatum**
+*Datum som anges när en kandidat är anställd*
 
-Anställningsdatum
+**Orsak till avslag**
+*Angiven orsak för avslag baserat på tillgänglig listmeny*
 
-Det datum då kandidaten fick statusen ”Anställd”
-
-Startdatum
-
-Datum som anges när en kandidat är anställd
-
-Orsak till avslag
-
-Angiven orsak för avslag baserat på tillgänglig listmeny
-
-Ansökningskälla
+**Ansökningskälla**
 
 Kanalen som ansökan mottogs från
 
@@ -158,5 +153,5 @@ Datum
 Senaste datum för när ansökningsstatus ändrades till anpassad status 1 (Obs! Rubriken kommer att ändras baserat på namnet på kundens anpassade status)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ2MjQ2MTldfQ==
+eyJoaXN0b3J5IjpbMTAzMDU3MTEwNSwtMTQ2NDYyNDYxOV19
 -->
