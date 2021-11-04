@@ -62,20 +62,18 @@
 **Nationalitet**
 *Kandidatens svar på den här frågan om tillfrågad*
 
-E-postadress
+**E-postadress**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Kandidatprofilfråga**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatprofilfråga
+##### Obs! varje  Självklassificeringsfråga  –  i kandidatens ansökan  kommer att visas som en separat kolumn.
 
-Kandidatens svar på den här frågan om tillfrågad
-
-Obs! varje  Självklassificeringsfråga  –  i kandidatens ansökan  kommer att visas som en separat kolumn.
-
-Obs! Rubriken ändras baserat på frågans titel
+##### Obs! Rubriken ändras baserat på frågans titel
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MzI3MzU4XX0=
+eyJoaXN0b3J5IjpbLTUzNzgxMTA4MF19
 -->
