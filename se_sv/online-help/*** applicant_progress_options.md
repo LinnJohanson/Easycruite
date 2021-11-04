@@ -37,8 +37,28 @@ Detta ändrar kandidatens status för projektet till Sparad. Detta alternativ sp
 Detta utvidgar föregående alternativ genom att även skicka ett e-postmeddelande med användarnamn och lösenord och informera om att deras uppgifter har sparats i systemet.
 
 Detta kan användas för att skicka ett icke schemalagd e-postmeddelande till någon annan angående kandidaten. När du skickar det här e-postmeddelandet kan du välja att Anonymisera personuppgifter eller alternativet Skicka inte med bilagor/CV för att begränsa de kandidatuppgifter som delas med mottagaren av e-postmeddelandet.
+
+Med användning av det här alternativet kan du överföra kandidaten till ett annat rekryteringsprojekt. Det är endast kandidaten som överförs, inte någon projektspecifik information som till exempel personligt brev eller urvalsfrågor.
+
+När en kandidat har nått detta stadium uppdateras dennes Status för projektet till Har mottagit anställningsförfrågan.
+
+Det här alternativet flyttar kandidaten till medarbetaravsnittet i systemet. Nu knyts personen till en position och en avdelning och betraktas inte längre som en kandidat. För mer information se [Medarbetare](https://www.google.com/url?q=http://guide_for_users_employees.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNHQZ7gKpOf-irhJmQrT3Vgos14XAQ).
+
+Detta alternativ skickar ett PDF-dokument till kandidaten med de specifika kontraktuppgifterna.
+
+Detta gör det möjligt för rekryteraren att skicka ett brev till kandidaten. För närvarande är detta begränsat till brevmallar för mottagna och avvisade ansökningar. Övriga brev måste fortfarande skrivas ut och skickas manuellt med vanlig post till kandidaten.
+
+Detta gör det möjligt för rekryteraren att skicka ett e-postmeddelande till interna/externa personer med en länk så att de kan granska kandidaterna och sätta ett betyg mellan 1 och 7 samt lämna kommentarer. (se [Gemensam rangordning/Panelgranskning](https://www.google.com/url?q=http://collaborative_rating_panel_review.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNH2dcCTVxhHvgkBO9EpUtYKIk8ECg))
+
+
+##### Se även:
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Behandla ansökningar](https://www.google.com/url?q=http://processing_applications.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNGoEnF5PC0pgW-hd5Gr6NUpwJaOVw)
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Sökandehantering – Sidöversikt](https://www.google.com/url?q=http://application_handling_page_overview.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNHKDQKBbOZt0Ifkjt9jRjVE2cmIsQ)
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Ansökan har sparats](https://www.google.com/url?q=http://application_saved.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNF0vy0rJTyCJAzY_1ZfohTjeEOJIw)
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Anpassningsbara e-postmallar](https://www.google.com/url?q=http://customizable_email_templates.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNELDp4HIrAaGMa_qRKf4lArH28Fmg)
+![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Testintegrationer](https://www.google.com/url?q=http://test_integrations.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNFxDgCxA-nTI-BVoHgQJX9e8GGeBw)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA0NDMwMzUsMTg2NDU3MTM2MCwtMjA4OT
-M2MjM3MF19
+eyJoaXN0b3J5IjpbLTIwNzc4MzI1NTEsMTg2NDU3MTM2MCwtMj
+A4OTM2MjM3MF19
 -->
