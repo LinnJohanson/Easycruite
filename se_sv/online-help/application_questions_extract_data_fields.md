@@ -33,44 +33,34 @@
 *Kandidatens svar på den här frågan om tillfrågad*
 
 **Födelsedatum**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Intern kategorisering**
+*Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.*
 
-Intern kategorisering
+**Förnamn**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.
+**Efternamn**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Förnamn
+**Postnummer**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Ort**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Efternamn
+**Land**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Län**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Postnummer
+**Ort**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
-
-Ort
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Land
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Län
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Ort
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Nationalitet
-
-Kandidatens svar på den här frågan om tillfrågad
+**Nationalitet**
+*Kandidatens svar på den här frågan om tillfrågad*
 
 E-postadress
 
@@ -87,5 +77,5 @@ Obs! Rubriken ändras baserat på frågans titel
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcyNzk0MTJdfQ==
+eyJoaXN0b3J5IjpbODk4MzI3MzU4XX0=
 -->
