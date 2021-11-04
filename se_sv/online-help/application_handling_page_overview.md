@@ -18,7 +18,7 @@ Sidan  Sökandehantering  ger en översikt över ett rekryteringsprojekt. Från 
 -   Rangordning  – För rekryteringsprojekt som lockar ett stort antal sökanden, kan möjligheten att rangordna kandidater bidra till att säkerställa att de bästa ansökningarna observeras.
 -   Genomförda ansökningar– Används för ansökningar som inte längre är aktiva. Även om majoriteten av kandidater kommer att ha blivit avvisade eller dragit sig ur, återfinns här även kandidater som anställts.
 
-###### Se även:
+##### Se även:
 
 ![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Behandla ansökningar](https://www.google.com/url?q=http://processing_applications.htm&source=gmail-html&ust=1636097826821000&usg=AFQjCNEkaXJnK7Y3hX7kDp7Q_PlF3iWDzw)
 ![](https://ci6.googleusercontent.com/proxy/-22dcnzbmvcvXC1qchy37X8HqOnNdtVQdmbUT6hxKRWKcyRxuLMETprSllOz-gcmI3U7kiFm9tHNq8oqYLIlqurrO4c=s0-d-e1-ft#http://../Resources/Images/icon-document-link.png)  [Åtgärdsalternativ för kandidater](https://www.google.com/url?q=http://applicant_progress_options.htm&source=gmail-html&ust=1636097826821000&usg=AFQjCNFDnA-_ziJut-m0h8AeoUyrhTaXCg)
@@ -29,5 +29,5 @@ Sidan  Sökandehantering  ger en översikt över ett rekryteringsprojekt. Från 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg2ODk5NTkxXX0=
+eyJoaXN0b3J5IjpbLTkwNzAyNjE3OF19
 -->
