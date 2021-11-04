@@ -29,8 +29,16 @@ Detta tar bort kandidaten från rekryteringsprojekt. Kandidaten kan därefter å
 Med användning av det här alternativet kan du skicka ett icke schemalagt e-postmeddelande till en kandidat. Fälten Mottagare, Från, Ämne och Innehåll måste alla innehålla giltiga uppgifter för att e-postmeddelandet ska kunna skickas.
 
 Detta är startskottet för intervjuprocessen med kandidaten (se [Intervjua kandidater](https://www.google.com/url?q=http://interviewing_applicants.htm&source=gmail-html&ust=1636009249255000&usg=AFQjCNE_I7MKrFAbUDHrNqxzfvQ7n91DZg)).
+
+En kandidat kan avvisas när som helst under ansökningsprocessen. Du kan välja typ av avslag och anledning.
+
+Detta ändrar kandidatens status för projektet till Sparad. Detta alternativ sparar kandidaten i databasen och används vanligtvis för att flagga en kandidat som har en utmärkt profil och kanske är lämplig för andra lediga tjänster.
+
+Detta utvidgar föregående alternativ genom att även skicka ett e-postmeddelande med användarnamn och lösenord och informera om att deras uppgifter har sparats i systemet.
+
+Detta kan användas för att skicka ett icke schemalagd e-postmeddelande till någon annan angående kandidaten. När du skickar det här e-postmeddelandet kan du välja att Anonymisera personuppgifter eller alternativet Skicka inte med bilagor/CV för att begränsa de kandidatuppgifter som delas med mottagaren av e-postmeddelandet.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkzMjU1MiwxODY0NTcxMzYwLC0yMD
-g5MzYyMzcwXX0=
+eyJoaXN0b3J5IjpbNzA0NDMwMzUsMTg2NDU3MTM2MCwtMjA4OT
+M2MjM3MF19
 -->
