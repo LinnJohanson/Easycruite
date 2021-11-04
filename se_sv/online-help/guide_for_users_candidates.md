@@ -6,20 +6,17 @@ En kandidat kan ha flera ansökningar. En kandidat som har ansökt om en viss tj
 
 Bläddra igenom följande artiklar för mer information:
 
-Se även:
+
+##### Se även:
 
 [Kandidattyper](candidate_types.htm)
-
 [Lägga till kandidater](adding_candidates.htm)
-
 [Söka efter kandidater](searching_for_candidates.htm)
-
 [Överför kandidater till rekryteringsprojekt](transferring_candidates_to_vacancies.htm)
-
 [Rapportera om kandidater](reporting_on_candidates.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDQ1NjQ2NV19
+eyJoaXN0b3J5IjpbLTExNjAzNzYxNjRdfQ==
 -->
