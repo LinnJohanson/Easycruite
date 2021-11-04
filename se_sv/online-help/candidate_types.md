@@ -21,7 +21,15 @@ Följande typer av kandidater finns i EasyCruit.
 
 Det finns en valfri inställning som sparar alla kandidater som ansöker via ett ansökningsformulär så att de är synliga för alla i systemet. Detta kan aktiveras av en medlem i teamet EasyCruit Success.
 
+##### Se även:
+
+[Söka efter kandidater](searching_for_candidates.htm)
+[Användare: Tillgångskontroll](users_access_controls.htm)
+Candidate Types
+[Söka efter kandidater](searching_for_candidates.htm)
+[Företagsinformation](company_information.htm)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyOTYwNjVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjM3NjMwODRdfQ==
 -->
