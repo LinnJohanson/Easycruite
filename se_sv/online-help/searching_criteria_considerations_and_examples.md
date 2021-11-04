@@ -7,7 +7,7 @@ När du anger sökorden för sökmallar finns det ett antal faktorer som påverk
 
 Det finns ett antal operatorer som kan ingå i sökkriterierna. Dessa hjälper till att begränsa sökningar och består av följande:
 
-"+" Ett plustecken anger att följande ord måste finnas
++Ett plustecken anger att följande ord måste finnas
 
 -Ett minustecken anger att följande ord inte får finnas
 
@@ -22,5 +22,5 @@ För att illustrera ovanstående informationen visar följande exempel hur olika
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjYzNDI0Nl19
+eyJoaXN0b3J5IjpbMTI5OTAwODg2NF19
 -->
