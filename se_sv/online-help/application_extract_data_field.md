@@ -96,43 +96,35 @@ Följande tabell beskriver de fält som används för Kandidatexport.
 **Datum för intervju 1**
 *Senaste datum för när denna intervju var schemalagd att äga rum*
 
-**Datum för intervju 2
+**Datum för intervju 2**
+*Senaste datum för när denna intervju var schemalagd att äga rum*
 
-Senaste datum för när denna intervju var schemalagd att äga rum
+**Datum för intervju 3**
+*Senaste datum för när denna intervju var schemalagd att äga rum*
 
-Datum för intervju 3
+**Datum för kallelse till telefonintervju**
+*Senaste datum för när ansökningsstatus ändrades till: ”Intervju”*
 
-Senaste datum för när denna intervju var schemalagd att äga rum
+**Datum för kallelse till Intervju 1**
+*Senaste datum för när ansökningsstatus ändrades till: ”Intervju”*
 
-Datum för kallelse till telefonintervju
+**Datum för kallelse till Intervju 2**
+*Senaste datum för när ansökningsstatus ändrades till: ”Intervju”*
 
-Senaste datum för när ansökningsstatus ändrades till: ”Intervju”
+**Datum för kallelse till Intervju 3**
+*Senaste datum för när ansökningsstatus ändrades till: ”Intervju”*
 
-Datum för kallelse till Intervju 1
+**Datum för panelgranskning**
+*Senaste datum för när ansökningsstatus ändrades till: ”Panelgranskning”*
 
-Senaste datum för när ansökningsstatus ändrades till: ”Intervju”
+**Datum för jobberbjudande**
+*Senaste datum för när ansökningsstatus ändrades till: ”Jobberbjudande”*
 
-Datum för kallelse till Intervju 2
+**Datum**
+*Senaste datum för när ansökningsstatus ändrades till anpassad status 1 (Obs! Rubriken kommer att ändras baserat på namnet på kundens anpassade status)*
 
-Senaste datum för när ansökningsstatus ändrades till: ”Intervju”
-
-Datum för kallelse till Intervju 3
-
-Senaste datum för när ansökningsstatus ändrades till: ”Intervju”
-
-Datum för panelgranskning
-
-Senaste datum för när ansökningsstatus ändrades till: ”Panelgranskning”
-
-Datum för jobberbjudande
-
-Senaste datum för när ansökningsstatus ändrades till: ”Jobberbjudande”
-
-Datum
-
-Senaste datum för när ansökningsstatus ändrades till anpassad status 1 (Obs! Rubriken kommer att ändras baserat på namnet på kundens anpassade status)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODU1NDE2MTksLTE0NjQ2MjQ2MTldfQ
+eyJoaXN0b3J5IjpbLTExNzU2ODIzMTksLTE0NjQ2MjQ2MTldfQ
 ==
 -->
