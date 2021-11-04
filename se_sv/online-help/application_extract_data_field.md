@@ -49,42 +49,33 @@ Följande tabell beskriver de fält som används för Kandidatexport.
 *Angiven orsak för avslag baserat på tillgänglig listmeny*
 
 **Ansökningskälla**
+*Kanalen som ansökan mottogs från*
 
-Kanalen som ansökan mottogs från
+**Kön**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kön
+**Födelsedatum**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Intern kategorisering**
+*Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.*
 
-Födelsedatum
+**Förnamn**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
+**Efternamn**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Intern kategorisering
+**Postnummer**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.
+**Land**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Förnamn
+**Län**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Kandidatens svar på den här frågan om tillfrågad
-
-Efternamn
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Postnummer
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Land
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Län
-
-Kandidatens svar på den här frågan om tillfrågad
-
-Ort
+**Ort**
 
 Kandidatens svar på den här frågan om tillfrågad
 
@@ -153,5 +144,5 @@ Datum
 Senaste datum för när ansökningsstatus ändrades till anpassad status 1 (Obs! Rubriken kommer att ändras baserat på namnet på kundens anpassade status)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDU3MTEwNSwtMTQ2NDYyNDYxOV19
+eyJoaXN0b3J5IjpbMTA0Mzc3OTA1NSwtMTQ2NDYyNDYxOV19
 -->
