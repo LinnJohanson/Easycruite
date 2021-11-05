@@ -15,40 +15,37 @@ Klassificeringsexport innehåller kandidaters svar på Självklassificering – 
 **Kön**
 *Kandidatens svar på den här frågan om tillfrågad*
 
-Födelsedatum
-Kandidatens svar på den här frågan om tillfrågad
+**Födelsedatum**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Intern kategorisering
-Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.
+**Intern kategorisering**
+*Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.*
 
-Förnamn
-Kandidatens svar på den här frågan om tillfrågad
+**Förnamn**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Efternamn
-Kandidatens svar på den här frågan om tillfrågad
+**Efternamn**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Postnummer
-Kandidatens svar på den här frågan om tillfrågad
+**Postnummer**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Ort
-Kandidatens svar på den här frågan om tillfrågad
+**Land**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Land
-Kandidatens svar på den här frågan om tillfrågad
+**Län**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Län
-Kandidatens svar på den här frågan om tillfrågad
+**Ort**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Ort
-Kandidatens svar på den här frågan om tillfrågad
+**Nationalitet**
+*Kandidatens svar på den här frågan om tillfrågad*
 
-Nationalitet
-Kandidatens svar på den här frågan om tillfrågad
-
-E-postadress
-Kandidatens svar på den här frågan om tillfrågad
+**E-postadress**
+*Kandidatens svar på den här frågan om tillfrågad*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzUzNTk3MF19
+eyJoaXN0b3J5IjpbMTg0NjMyOTZdfQ==
 -->
