@@ -15,44 +15,34 @@ Följande tabell beskriver de fält som används för projektexport.
 *Intern annonstitel (rekryteringstitel), som kan ändras när som helst. Inte titeln som jobbannonsen fått*
 
 **Skapat den**
+*Datumet då rekryteringsprojektet skapades i EasyCruit*
 
-Datumet då rekryteringsprojektet skapades i EasyCruit
+**Publiceringsdatum**
+*Rekryteringsprojektets första fråndatum när det publicerades*
 
-Publiceringsdatum
+**Datum för avslutning**
+*Det här är det datum då rekryteringsprojektet avslutades/slutfördes i EasyCruit, inte senaste publiceringsdatum*
 
-Rekryteringsprojektets första fråndatum när det publicerades
+**Status för projektet**
+*Nya och aktiva/ Upphört att gälla/ Avslutade*
 
-Datum för avslutning
+**Projektansvarig**
+*Systemunikt ID på personen som tilldelades när rekryteringsprojekt skapades*
 
-Det här är det datum då rekryteringsprojektet avslutades/slutfördes i EasyCruit, inte senaste publiceringsdatum
+**Namn**
+*Namn på personen som tilldelades när rekryteringsprojekt skapades*
 
-Status för projektet
+**Nuvarande status**
+*j = godkänd, n = icke godkänd, väntar = begärt godkännande men ännu inte godkänt, tom = godkännande ej begärt*
 
-Nya och aktiva/ Upphört att gälla/ Avslutade
+**Godkänt av**
+*Namn på personen som godkände rekryteringsprojektet om funktionen för godkännande används*
 
-Projektansvarig
+**Godkännandedatum**
+*Datumet då rekryteringsprojekt godkändes, om funktionen för godkännande används*
 
-Systemunikt ID på personen som tilldelades när rekryteringsprojekt skapades
-
-Namn
-
-Namn på personen som tilldelades när rekryteringsprojekt skapades
-
-Nuvarande status
-
-j = godkänd, n = icke godkänd, väntar = begärt godkännande men ännu inte godkänt, tom = godkännande ej begärt
-
-Godkänt av
-
-Namn på personen som godkände rekryteringsprojektet om funktionen för godkännande används
-
-Godkännandedatum
-
-Datumet då rekryteringsprojekt godkändes, om funktionen för godkännande används
-
-Avdelningsnamn
-
-Namnet på den avdelning som rekryteringsprojektet har skapats för. Om det har kopplats till mer än en avdelning kommer alla avdelningar att listas med ett avgränsande tecken
+**Avdelningsnamn**
+*Namnet på den avdelning som rekryteringsprojektet har skapats för. Om det har kopplats till mer än en avdelning kommer alla avdelningar att listas med ett avgränsande tecken*
 
 Avdelnings-ID
 
@@ -72,5 +62,5 @@ Län som valts för rekryteringsprojektet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2OTMxNDAzXX0=
+eyJoaXN0b3J5IjpbMTc4NDgxNjE1NV19
 -->
