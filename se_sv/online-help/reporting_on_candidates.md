@@ -18,17 +18,13 @@ För mer information om flexibla listmallar se  [Flexibla listmallar](export_tem
 ##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Flexibel söklista](candidate_report.htm)
-
-![](../Resources/Images/icon-document-link.png)  [Flexibla listmallar](export_templates.htm)
-
+m![](../Resources/Images/icon-document-link.png)  [Flexibla listmallar](export_templates.htm)
 ![](../Resources/Images/icon-document-link.png)  [Vägledning för administratörer - Rapporter](guide_for_administrators_reports.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Rapporten Lista över sökanden](applicant_list_report.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Vägledning för administratörer - Rapporter](guide_for_administrators_reports.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUwMjk0MzBdfQ==
+eyJoaXN0b3J5IjpbLTU0NTcwODQ0N119
 -->
