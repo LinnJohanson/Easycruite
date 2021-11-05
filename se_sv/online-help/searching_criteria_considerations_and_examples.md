@@ -19,8 +19,25 @@ Det finns ett antal operatorer som kan ingå i sökkriterierna. Dessa hjälper t
 
 För att illustrera ovanstående informationen visar följande exempel hur olika söktermer ger olika resultat:
 
+försäljning avd
+
+Visar sökresultat där minst ett av de två orden hittades
+
++försäljning +avdVisar sökresultat där båda orden hittades+försäljning avdVisar sökresultat där ”försäljning” hittades, men rankar resultat högre om de också innehåller ”avd”+försäljning -avd
+
+Visar sökresultat där ”försäljning” hittades men inte ”avd”
+
++försäljning ~avd
+
+Visar sökresultat där ”försäljning” hittades, men rankar resultat lägre om de också innehåller ”avd”
+
++försäljning +(>avd <chef)Visar sökresultat som innehåller ”försäljning” och ”avd” eller ”försäljning” och ”chef”, i vilken som helst ordning, men "försäljningsavdelning" skulle rankas högre än "försäljningschef"försäljning*
+
+Visar sökresultat som innehåller ord som ”försäljning”, ”försäljningschef” eller ”försäljningspersonal”
+
+”försäljning avd”Visar sökresultat som innehåller den exakta frasen ”försäljning avd”
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTAwODg2NF19
+eyJoaXN0b3J5IjpbODE5MDgwNTQ2LDEyOTkwMDg4NjRdfQ==
 -->
