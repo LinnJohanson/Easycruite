@@ -32,7 +32,26 @@ Följande tabell beskriver de fält som används för dataexport.
 **Sista publiceringsdatum**
 *Det senaste ”till”-datumet för rekryteringsprojektet som publicerades på kanalen*
 
+**Anställningsform**
+*Kriterium som valdes när rekryteringsprojekt publicerades*
+
+**Arbetstider**
+*Kriterium som valdes när rekryteringsprojekt publicerades*
+
+**Anställningsgrad**
+*Kriterium som valdes när rekryteringsprojekt publicerades*
+
+**Jobbkategori**
+*Kriterium som valdes när rekryteringsprojekt publicerades*
+
+**Nivå**
+*Kriterium som valdes när rekryteringsprojekt publicerades*
+
+**Bransch**
+*Kriterium som valdes när rekryteringsprojekt publicerades*
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTcwMDY4MTddfQ==
+eyJoaXN0b3J5IjpbMTUyMTIyNDgwOF19
 -->
