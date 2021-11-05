@@ -10,7 +10,7 @@ Efter att kandidater har raderats från ett rekryteringsprojekt, kan de hanteras
 
 Om en raderad sökande är associerad med ett raderat rekryteringsprojekt kan den sökanden inte återställas.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Återställa en raderad kandidat
+#### Återställa en raderad kandidat
 
 1.  På  Startsidan  väljer du  Raderade ansökningar.
 2.  Använd  alternativen Välj rekryteringsprojekt  och  Visa tidsperiod  för att begränsa listan på raderade kandidater.
@@ -18,7 +18,7 @@ Om en raderad sökande är associerad med ett raderat rekryteringsprojekt kan de
 4.  Klicka på  Återställ  och klicka sedan på  OK  när du uppmanas att bekräfta din åtgärd.
 5.  Gå till det rekryteringsprojekt som kandidaten var kopplad till. Kandidatens  Status  är nu  Återställd.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Radera en ansökan permanent (rensa) från systemet
+#### Radera en ansökan permanent (rensa) från systemet
 
 1.  På  Startsidan  väljer du  Raderade ansökningar.
 2.  Filtrera listan efter behov och markera kryssrutorna bredvid de relevanta ansökandena.
@@ -38,5 +38,5 @@ Om en raderad sökande är associerad med ett raderat rekryteringsprojekt kan de
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ0Mjc4NjddfQ==
+eyJoaXN0b3J5IjpbMTQxMTY5Nzg2NSwtMTY1NDQyNzg2N119
 -->
