@@ -4,7 +4,7 @@ EasyCruit har en extern integrationspartner för annonsdistribution som gör det
 
 ## Publicera lediga jobb
 
-Publicera ett ledigt jobb
+#### Publicera ett ledigt jobb
 
 1.  När du skapar ett rekryteringsprojekt och efter att du har aktiverat svarsbrev visas sidan  Välj publiceringskanaler. Välj de kanaler du vill skicka till, tillsammans med språken. Om du vill publicera för mer än en avdelning, måste du välja kanalerna för varje avdelning från listan över kanaler som är tillgängliga för den avdelningen och klicka sedan på  Nästa.
 2.  Välj datumintervallet för jobbpubliceringen för varje avdelning och klicka sedan på  Nästa.
@@ -33,7 +33,7 @@ Publicera ett ledigt jobb
     Sidan  Redigera projektet  visas. Du kan gå tillbaka till den här sidan och ändra publiceringskanalerna vid ett senare tillfälle om det behövs.  
     Tänk på att du inte kan ändra publiceringsperioden efter att annonsen publicerats på  Multipostingkanaler.
 
-Visa annonsinformation och status
+#### Visa annonsinformation och status
 
 En publiceringsgrupp skapas för varje avdelning. Publiceringsdatum och slutdatum samt publiceringsstatus visas för varje kanal i gruppen.
 
@@ -48,7 +48,7 @@ Du kan se information om publiceringsstatus för varje kanal i kolumnen  Komment
 
 Du kan skicka dina annonser till olika kanaler med olika startdatum.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Redigera annonser som publicerats till en publiceringsgrupp
+Redigera annonser som publicerats till en publiceringsgrupp
 
 Du kan redigera informationen som skickats till en kanalgrupp samtidigt genom att klicka på penn-ikonen överst i grupplistan.
 
@@ -89,19 +89,20 @@ Se även:
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJhUnF3SXdLYjdwSnpRbFVJIjp7In
-N0YXJ0IjozNzAsImVuZCI6Mzk1LCJ0ZXh0IjoiUHVibGljZXJh
-IGV0dCBsZWRpZ3Qgam9iYiJ9LCJRbU9XdlRSdzh1a0xMUE9DIj
-p7InN0YXJ0IjozNjM3LCJlbmQiOjM2NzAsInRleHQiOiJWaXNh
+N0YXJ0IjozNzUsImVuZCI6NDAwLCJ0ZXh0IjoiUHVibGljZXJh
+IGV0dCBsZWRpZ3Qgam9iYiJ9LCJIbVNhc1A0VjBDb0NDUlRGIj
+p7InN0YXJ0IjozNjQ3LCJlbmQiOjM2ODAsInRleHQiOiJWaXNh
 IGFubm9uc2luZm9ybWF0aW9uIG9jaCBzdGF0dXMifX0sImNvbW
 1lbnRzIjp7Inc5UWZwbDREcFBYamtES0UiOnsiZGlzY3Vzc2lv
 bklkIjoiYVJxd0l3S2I3cEp6UWxVSSIsInN1YiI6ImdoOjkzNT
 E2ODQxIiwidGV4dCI6IkzDpG5rOiAhW0Nsb3NlZF0oLi4vU2tp
 bnMvRGVmYXVsdC9TdHlsZXNoZWV0cy9JbWFnZXMvdHJhbnNwYX
-JlbnQuZ2lmKSIsImNyZWF0ZWQiOjE2MzYxMDEzOTI3NTR9LCJu
-Y2NlRUZObzk0WTljMnN2Ijp7ImRpc2N1c3Npb25JZCI6IlFtT1
-d2VFJ3OHVrTExQT0MiLCJzdWIiOiJnaDo5MzUxNjg0MSIsInRl
+JlbnQuZ2lmKSIsImNyZWF0ZWQiOjE2MzYxMDEzOTI3NTR9LCI3
+Q3VwWE80ZWNDOENoc2N2Ijp7ImRpc2N1c3Npb25JZCI6IkhtU2
+FzUDRWMENvQ0NSVEYiLCJzdWIiOiJnaDo5MzUxNjg0MSIsInRl
 eHQiOiIhW0Nsb3NlZF0oLi4vU2tpbnMvRGVmYXVsdC9TdHlsZX
-NoZWV0cy9JbWFnZXMvdHJhbnNwYXJlbnQuZ2lmKSIsImNyZWF0
-ZWQiOjE2MzYxMDE0MTE2MjZ9fSwiaGlzdG9yeSI6WzEyMzMwOD
-g4MDFdfQ==
+NoZWV0cy9JbWFnZXMvdHJhbnNwYXJlbnQuZ2lmKVZpc2EgYW5u
+b25zaW5mb3JtYXRpb24gb2NoIHN0YXR1cyIsImNyZWF0ZWQiOj
+E2MzYxMDE0NzQxNTB9fSwiaGlzdG9yeSI6WzEyNjc5MzMzNV19
+
 -->
