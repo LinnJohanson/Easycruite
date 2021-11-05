@@ -8,15 +8,12 @@ Bläddra igenom följande artiklar för mer information:
 
 ![](../Resources/Images/icon-document-link.png)  [Svarsbrev](response_emails.htm)
 ![](../Resources/Images/icon-document-link.png)  [Vägledning för administratörer – inställningar](guide_for_administrators_settings.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Navigera i EasyCruit](navigation_in_easycruit.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Ansökningsmallar](application_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Annonsmallar](vacancy_templates.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMTI4ODE2XX0=
+eyJoaXN0b3J5IjpbMTA5Mzg0MDk5OF19
 -->
