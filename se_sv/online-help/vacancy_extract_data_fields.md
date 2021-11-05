@@ -44,23 +44,36 @@ Följande tabell beskriver de fält som används för projektexport.
 **Avdelningsnamn**
 *Namnet på den avdelning som rekryteringsprojektet har skapats för. Om det har kopplats till mer än en avdelning kommer alla avdelningar att listas med ett avgränsande tecken*
 
-Avdelnings-ID
+**Avdelnings-ID**
+*Systemgenererat avdelnings-ID för avdelningen som rekryteringsprojektet har skapats för. Om det har kopplats till mer än en avdelning kommer alla avdelningar att listas med ett avgränsande tecken*
 
-Systemgenererat avdelnings-ID för avdelningen som rekryteringsprojektet har skapats för. Om det har kopplats till mer än en avdelning kommer alla avdelningar att listas med ett avgränsande tecken
+**Kontaktpersoner**
+*Namn på kontaktpersonerna som lagts till i rekryteringsprojekt*
 
-Kontaktpersoner
+**Land**
+*Landet som valts för rekryteringsprojektet*
 
-Namn på kontaktpersonerna som lagts till i rekryteringsprojekt
+**Län**
+*Län som valts för rekryteringsprojektet*
 
-Land
+**Projektprofilfråga:**
+- Information som lämnats för rekryteringsprojektet i avsnittet projektprofil, om en fråga är tillgänglig för rekryteringsprojektet.
+- Obs! varje HR Klassificering – Projektprofilsfråga kommer att visas som en separat kolumn.
+- Obs! Rubriken ändras baserat på frågans titel.
 
-Landet som valts för rekryteringsprojektet
+##### Se även:
 
-Län
+![](../Resources/Images/icon-document-link.png)  [Flexibla listmallar](export_templates.htm)
 
-Län som valts för rekryteringsprojektet
+![](../Resources/Images/icon-document-link.png)  [Konfigurera och visa en rapport](configuring_and_running_a_report.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Vägledning för användare – Rapporter](guide_for_users_reports.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Flexibel söklista](candidate_report.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Rapporten Lista över sökanden](applicant_list_report.htm)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDgxNjE1NV19
+eyJoaXN0b3J5IjpbLTM4MzAxNDc2OV19
 -->
