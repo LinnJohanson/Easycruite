@@ -48,7 +48,7 @@ Du kan se information om publiceringsstatus för varje kanal i kolumnen  Komment
 
 Du kan skicka dina annonser till olika kanaler med olika startdatum.
 
-Redigera annonser som publicerats till en publiceringsgrupp
+#### Redigera annonser som publicerats till en publiceringsgrupp
 
 Du kan redigera informationen som skickats till en kanalgrupp samtidigt genom att klicka på penn-ikonen överst i grupplistan.
 
@@ -60,7 +60,7 @@ Du kan redigera informationen som skickats till en kanalgrupp samtidigt genom at
 5.  Granska innehållet som du har färdigställt och klicka sedan på  Godkänn  för att uppdatera rekryteringsprojektet till alla valda resurskanaler. Du kan klicka på Tillbaka för att uppdatera informationen om det behövs.  
     Sidan  Redigera projektet  visas. Du kan gå tillbaka till den här sidan och redigera publiceringsgrupperna vid ett senare tillfälle om det behövs.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Ta bort en annons
+#### Ta bort en annons
 
 Du kan ta bort en annons från en specifik kanal eller från hela publiceringsgruppen genom att klicka stopp-ikonen överst i grupplistan.
 
@@ -73,16 +73,12 @@ Under implementeringen väljer du vilka kanaler som ska ställas till förfogand
 1.  För att tilldela kanaler till dina avdelningar går du in på  Hemsidan  och väljer  Inställningar  >  Avdelningar. Klicka på redigera-ikonen för en avdelning och klicka sedan på fliken  Övriga inställningar.
 2.  Välj det konto som krävs i listrutan  Annonskrediter för Multiposting  och klicka sedan på  Spara. All underavdelningar kommer att ärva detta konto.
 
-Se även:
+##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Skapa ett nytt rekryteringsprojekt](creating_a_new_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Aktivera ett rekryteringsprojekt](activating_a_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Redigera ett projekt](editing_a_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Radera ett rekryteringsprojekt](deleting_a_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Avsluta ett rekryteringsprojekt](closing_a_vacancy.htm)
 
 
@@ -92,17 +88,33 @@ eyJkaXNjdXNzaW9ucyI6eyJhUnF3SXdLYjdwSnpRbFVJIjp7In
 N0YXJ0IjozNzUsImVuZCI6NDAwLCJ0ZXh0IjoiUHVibGljZXJh
 IGV0dCBsZWRpZ3Qgam9iYiJ9LCJIbVNhc1A0VjBDb0NDUlRGIj
 p7InN0YXJ0IjozNjQ3LCJlbmQiOjM2ODAsInRleHQiOiJWaXNh
-IGFubm9uc2luZm9ybWF0aW9uIG9jaCBzdGF0dXMifX0sImNvbW
-1lbnRzIjp7Inc5UWZwbDREcFBYamtES0UiOnsiZGlzY3Vzc2lv
-bklkIjoiYVJxd0l3S2I3cEp6UWxVSSIsInN1YiI6ImdoOjkzNT
-E2ODQxIiwidGV4dCI6IkzDpG5rOiAhW0Nsb3NlZF0oLi4vU2tp
-bnMvRGVmYXVsdC9TdHlsZXNoZWV0cy9JbWFnZXMvdHJhbnNwYX
-JlbnQuZ2lmKSIsImNyZWF0ZWQiOjE2MzYxMDEzOTI3NTR9LCI3
-Q3VwWE80ZWNDOENoc2N2Ijp7ImRpc2N1c3Npb25JZCI6IkhtU2
-FzUDRWMENvQ0NSVEYiLCJzdWIiOiJnaDo5MzUxNjg0MSIsInRl
-eHQiOiIhW0Nsb3NlZF0oLi4vU2tpbnMvRGVmYXVsdC9TdHlsZX
-NoZWV0cy9JbWFnZXMvdHJhbnNwYXJlbnQuZ2lmKVZpc2EgYW5u
-b25zaW5mb3JtYXRpb24gb2NoIHN0YXR1cyIsImNyZWF0ZWQiOj
-E2MzYxMDE0NzQxNTB9fSwiaGlzdG9yeSI6WzEyNjc5MzMzNV19
-
+IGFubm9uc2luZm9ybWF0aW9uIG9jaCBzdGF0dXMifSwiRFBIT2
+VDSUZaRDRyM1dUZiI6eyJzdGFydCI6NTM4NSwiZW5kIjo1NDQ0
+LCJ0ZXh0IjoiUmVkaWdlcmEgYW5ub25zZXIgc29tIHB1YmxpY2
+VyYXRzIHRpbGwgZW4gcHVibGljZXJpbmdzZ3J1cHAifSwiZVMw
+aWFhM2pFb1ZtZzJlaSI6eyJzdGFydCI6NjUzMiwiZW5kIjo2NT
+Q5LCJ0ZXh0IjoiVGEgYm9ydCBlbiBhbm5vbnMifX0sImNvbW1l
+bnRzIjp7Inc5UWZwbDREcFBYamtES0UiOnsiZGlzY3Vzc2lvbk
+lkIjoiYVJxd0l3S2I3cEp6UWxVSSIsInN1YiI6ImdoOjkzNTE2
+ODQxIiwidGV4dCI6IkzDpG5rOiAhW0Nsb3NlZF0oLi4vU2tpbn
+MvRGVmYXVsdC9TdHlsZXNoZWV0cy9JbWFnZXMvdHJhbnNwYXJl
+bnQuZ2lmKSIsImNyZWF0ZWQiOjE2MzYxMDEzOTI3NTR9LCI3Q3
+VwWE80ZWNDOENoc2N2Ijp7ImRpc2N1c3Npb25JZCI6IkhtU2Fz
+UDRWMENvQ0NSVEYiLCJzdWIiOiJnaDo5MzUxNjg0MSIsInRleH
+QiOiIhW0Nsb3NlZF0oLi4vU2tpbnMvRGVmYXVsdC9TdHlsZXNo
+ZWV0cy9JbWFnZXMvdHJhbnNwYXJlbnQuZ2lmKVZpc2EgYW5ub2
+5zaW5mb3JtYXRpb24gb2NoIHN0YXR1cyIsImNyZWF0ZWQiOjE2
+MzYxMDE0NzQxNTB9LCJNckVhMGk1bmVuSlJKWWtqIjp7ImRpc2
+N1c3Npb25JZCI6IkRQSE9lQ0lGWkQ0cjNXVGYiLCJzdWIiOiJn
+aDo5MzUxNjg0MSIsInRleHQiOiIhW0Nsb3NlZF0oLi4vU2tpbn
+MvRGVmYXVsdC9TdHlsZXNoZWV0cy9JbWFnZXMvdHJhbnNwYXJl
+bnQuZ2lmKVJlZGlnZXJhIGFubm9uc2VyIHNvbSBwdWJsaWNlcm
+F0cyB0aWxsIGVuIHB1YmxpY2VyaW5nc2dydXBwIiwiY3JlYXRl
+ZCI6MTYzNjEwMTUzNTE0OX0sIkI5Nmxxd2dPZGZtMERuZW0iOn
+siZGlzY3Vzc2lvbklkIjoiZVMwaWFhM2pFb1ZtZzJlaSIsInN1
+YiI6ImdoOjkzNTE2ODQxIiwidGV4dCI6IiFbQ2xvc2VkXSguLi
+9Ta2lucy9EZWZhdWx0L1N0eWxlc2hlZXRzL0ltYWdlcy90cmFu
+c3BhcmVudC5naWYpVGEgYm9ydCBlbiBhbm5vbnMiLCJjcmVhdG
+VkIjoxNjM2MTAxNTU1NDk4fX0sImhpc3RvcnkiOlstMTI2Mjg2
+MTA2OF19
 -->
