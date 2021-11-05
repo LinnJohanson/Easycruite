@@ -50,8 +50,15 @@ Följande tabell beskriver de fält som används för dataexport.
 **Bransch**
 *Kriterium som valdes när rekryteringsprojekt publicerades*
 
+##### Se även:
+
+![](../Resources/Images/icon-document-link.png) [Flexibla listmallar](export_templates.htm)
+![](../Resources/Images/icon-document-link.png) [Konfigurera och visa en rapport](configuring_and_running_a_report.htm)
+![](../Resources/Images/icon-document-link.png) [Vägledning för användare – Rapporter](guide_for_users_reports.htm)
+![](../Resources/Images/icon-document-link.png) [Flexibel söklista](candidate_report.htm)
+![](../Resources/Images/icon-document-link.png) [Rapporten Lista över sökanden](applicant_list_report.htm)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTIyNDgwOF19
+eyJoaXN0b3J5IjpbNDIwMDU1MzI1XX0=
 -->
