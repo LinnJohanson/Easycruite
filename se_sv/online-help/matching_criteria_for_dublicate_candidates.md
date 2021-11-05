@@ -28,5 +28,11 @@ Som standard används alltid  Förnamn  och  Efternamn  som matchningskriterier 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDMwMjEyNzldfQ==
+eyJkaXNjdXNzaW9ucyI6eyJFYXdFRkFYbzhkUGhLa1VvIjp7In
+N0YXJ0Ijo3MzYsImVuZCI6NzYwLCJ0ZXh0IjoiU2thcGEgZW4g
+am9iYmthdGVnb3JpdHlwIn19LCJjb21tZW50cyI6eyI5cWY0NE
+NzSGFUdGNpTTNzIjp7ImRpc2N1c3Npb25JZCI6IkVhd0VGQVhv
+OGRQaEtrVW8iLCJzdWIiOiJnaDo5MzUxNjg0MSIsInRleHQiOi
+JTa2FwYSBsw7ZuayIsImNyZWF0ZWQiOjE2MzYxMTk1ODEzODF9
+fSwiaGlzdG9yeSI6WzE0NzMzNzM0NDNdfQ==
 -->
