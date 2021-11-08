@@ -42,16 +42,28 @@
 *Kandidatens ID-nummer*
 ***Påminnelse angående vidare åtgärd för ej behandlade kandidater***
 
+**{applicant-name}**
+*Kandidaten namn*
+***Påminnelse angående vidare åtgärd för ej behandlade kandidater***
+
+**{approval-link}**
+*Infogar länken till godkännande*
+***Begäran om godkännande av annons***
+
 ****
 **
 ******
 
 ****
 **
+******
+
 ****
+**
+******
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1MjgyNDcsLTE2OTM3NDIzNTgsMT
-MxMzA0OTkxOV19
+eyJoaXN0b3J5IjpbLTgyNTM5MzAyNCwtMTY5Mzc0MjM1OCwxMz
+EzMDQ5OTE5XX0=
 -->
