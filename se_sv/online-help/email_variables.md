@@ -14,8 +14,16 @@
 *Start datum för annons*
 ***E-postadress till publiceringskanal***
 
+**{advertisement-body}**
+*Annonstext*
+***Ansökan har sparats***
+
+**{advertisement-heading}**
+*Annonsrubrik*
+******
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM3NDIzNTgsMTMxMzA0OTkxOV19
+eyJoaXN0b3J5IjpbNjM0NDM5NTI3LC0xNjkzNzQyMzU4LDEzMT
+MwNDk5MTldfQ==
 -->
