@@ -20,10 +20,30 @@
 
 **{advertisement-heading}**
 *Annonsrubrik*
+***  E-postadress till publiceringskanal***
+
+**{advertisement-title}**
+*Annonstitel*
+***  E-postadress till publiceringskanal***
+
+**{advertisement-work-place}**
+*Arbetsplats/placeringsort i annonsen*
+******
+
+****
+**
+******
+
+****
+**
+******
+
+****
+**
 ******
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0NDM5NTI3LC0xNjkzNzQyMzU4LDEzMT
-MwNDk5MTldfQ==
+eyJoaXN0b3J5IjpbMTUyOTUxMjYyNSwtMTY5Mzc0MjM1OCwxMz
+EzMDQ5OTE5XX0=
 -->
