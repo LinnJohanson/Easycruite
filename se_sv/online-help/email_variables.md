@@ -349,26 +349,20 @@
 - Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
 - Bekräftelse på användarnamn
 - Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Ny användares e-postadress
+- Inkallelse till MINT Matrigma och Service-F test
+- Anställningskontrakt
+- Brev per post om att ansökan har mottagits/fått avslag
+- Portabelt CV
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
 
-Uppmaning till medarbetare att Skicka/Uppdatera CV
 
-Vidarebefordra ansökan
-
-Ny användares e-postadress
-
-Inkallelse till MINT Matrigma och Service-F test
-
-Anställningskontrakt
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Portabelt CV
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIwNDM0NjksNTg4MzU1MzA4LC04ND
-ExMDI4NTUsLTE2OTM3NDIzNTgsMTMxMzA0OTkxOV19
+eyJoaXN0b3J5IjpbLTYxMjA1OTY0MCwtMTE1MjA0MzQ2OSw1OD
+gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
+OTE5XX0=
 -->
