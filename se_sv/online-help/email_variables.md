@@ -28,7 +28,19 @@
 
 **{advertisement-work-place}**
 *Arbetsplats/placeringsort i annonsen*
-******
+***E-postadress till publiceringskanal***
+
+**{appetizer-text}**
+*Intresseväckande text i annonsen*
+***E-postadress till publiceringskanal***
+
+**{applicant-department}**
+*Avdelning som kandidaten är kopplad till*
+***Påminnelse angående vidare åtgärd för ej behandlade kandidater***
+
+**{applicant-id}**
+*Kandidatens ID-nummer*
+***Påminnelse angående vidare åtgärd för ej behandlade kandidater***
 
 ****
 **
@@ -36,14 +48,10 @@
 
 ****
 **
-******
-
 ****
-**
-******
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTUxMjYyNSwtMTY5Mzc0MjM1OCwxMz
-EzMDQ5OTE5XX0=
+eyJoaXN0b3J5IjpbLTEzMDA1MjgyNDcsLTE2OTM3NDIzNTgsMT
+MxMzA0OTkxOV19
 -->
