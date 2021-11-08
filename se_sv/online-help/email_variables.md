@@ -374,46 +374,45 @@
 - Kopia av ansökan
 - Avslag efter granskning av ansökan
 - Automatiskt avslag
--Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Ny användares e-postadress
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Begäran om godkännande av annons
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+- E-postsignaturer
 
-Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+**{cv}**
+*Bifogar CV*
+- Delad rangordning av kandidater
+- Kopia av ansökan
 
-Bekräftelse på användarnamn
+**{date}**
 
-Detaljer överförda till CV-databas
+Annonsens sista publiceringsdag
 
-Ny användares e-postadress
+Varning om sista publiceringsdag
 
-Uppmaning till medarbetare att Skicka/Uppdatera CV
+{days}
 
-Vidarebefordra ansökan
+Antal dagar i förväg du vill bli underrättad
 
-Inkallelse till MINT Matrigma och Service-F tester
-
-cut-e-rapport
-
-Påminnelse om Jobbagent
-
-Begäran om godkännande av annons
-
-Anställningskontrakt
-
-Tipsa en vän om annons
-
-Portabelt CV
-
-Granskning av kandidat
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
-
-E-postsignaturer
+Varning om sista publiceringsdag
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjYwNDA3MSwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbNzQ3MjA2OTAxLC0xMTUyMDQzNDY5LDU4OD
+M1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5
+MTldfQ==
 -->
