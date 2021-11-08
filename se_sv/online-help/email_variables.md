@@ -85,17 +85,35 @@
 
 **{candidate-given-name}**
 *Förnamn*
-Ansökan har mottagits
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Ny användares e-postadress
+- Anställningskontrakt
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
 
-Registrering har mottagits
-
-Kopia av ansökan
-
-Avslag efter granskning av ansökan
-
-Automatiskt avslag
-
-Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+**{candidate-middle-name}**
+*Mellannamn*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+-Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
 Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
 
@@ -108,17 +126,22 @@ Uppmaning till medarbetare att Skicka/Uppdatera CV
 Vidarebefordra ansökan
 
 Inkallelse till MINT Matrigma och Service-F tester
--cut-e-rapport
-- Påminnelse om Jobbagent
-- Ny användares e-postadress
-- Anställningskontrakt
-- Portabelt CV
-- Brev per post om att ansökan har mottagits/fått avslag
-- Inkallelse till SHL och cut-e personlighetstest
-- Anpassad E-post
 
+cut-e-rapport
+
+Påminnelse om Jobbagent
+
+Anställningskontrakt
+
+Portabelt CV
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Inkallelse till SHL och cut-e personlighetstest
+
+Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg4OTIxMDAsLTE2OTM3NDIzNTgsMT
-MxMzA0OTkxOV19
+eyJoaXN0b3J5IjpbLTU4MzYyNDMyNCwtMTY5Mzc0MjM1OCwxMz
+EzMDQ5OTE5XX0=
 -->
