@@ -141,8 +141,40 @@
 - Vidarebefordra ansökan
 - Inkallelse till MINT Matrigma och Service-F tester
 - cut-e-rapport
+
+**{candidate-salutation}**
+*Kandidat hälsningsfras*
+- Ansökan har mottagits
+- Kopia av ansökan
+- Registrering har mottagits
+- Avslag efter granskning av ansökan
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+
+Automatiskt avslag
+
+Uppmaning till medarbetare att Skicka/Uppdatera CV
+
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
+cut-e-rapport
+
+Påminnelse om Jobbagent
+
+Anställningskontrakt
+
+Portabelt CV
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Inkallelse till SHL:s personlighetstest
+
+Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTE1NDI1NiwtMTY5Mzc0MjM1OCwxMz
-EzMDQ5OTE5XX0=
+eyJoaXN0b3J5IjpbNzM1NDcwNzgsLTE2OTM3NDIzNTgsMTMxMz
+A0OTkxOV19
 -->
