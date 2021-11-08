@@ -534,8 +534,44 @@
 - Ansökan har mottagits
 - Kopia av ansökan
 - Registrering har mottagits
+- Avslag efter granskning av ansökan
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Automatiskt avslag
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Ny användares e-postadress
+- Påminnelse om Jobbagent
+- Anställningskontrakt
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL:s personlighetstest
+- Anpassad E-post
 
-Avslag efter granskning av ansökan
+**{first-name}**
+*Kandidatens förnamn som angetts i den sparade ansökan*
+- Ansökan har sparats
+
+**{gender-specific male="Herr" female="Frk/Fru" unknown=""}**
+
+Hälsning
+
+Ansökan har mottagits
+
+Registrering har mottagits
+
+Kopia av ansökan
+
+Avslag efter att ansökan behandlats
+
+Granska automatiskt avslag
+
+Tidsbestämt avslag
 
 Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
@@ -543,19 +579,13 @@ Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
 
 Bekräftelse på användarnamn
 
-Automatiskt avslag
-
-Detaljer överförda till CV-databas
-
-Uppmaning till medarbetare att Skicka/Uppdatera CV
-
 Vidarebefordra ansökan
+
+E-postsignaturer
 
 Inkallelse till MINT Matrigma och Service-F tester
 
 cut-e-rapport
-
-Ny användares e-postadress
 
 Påminnelse om Jobbagent
 
@@ -563,16 +593,12 @@ Anställningskontrakt
 
 Portabelt CV
 
-Granskning av kandidat
-
-Brev per post om att ansökan har mottagits/fått avslag
-
 Inkallelse till SHL:s personlighetstest
 
 Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzE0OTIwNCwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTExNzEyNTcwMzAsLTExNTIwNDM0NjksNT
+g4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3NDIzNTgsMTMxMzA0
+OTkxOV19
 -->
