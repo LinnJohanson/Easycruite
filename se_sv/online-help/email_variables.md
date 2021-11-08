@@ -529,10 +529,50 @@
 *Kandidatens efternamn som angetts i den sparade ansökan*
 - Ansökan har sparats
 
+**{first-name}**
+*Förnamn*
+- Ansökan har mottagits
+- Kopia av ansökan
+- Registrering har mottagits
 
+Avslag efter granskning av ansökan
+
+Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Bekräftelse på användarnamn
+
+Automatiskt avslag
+
+Detaljer överförda till CV-databas
+
+Uppmaning till medarbetare att Skicka/Uppdatera CV
+
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
+cut-e-rapport
+
+Ny användares e-postadress
+
+Påminnelse om Jobbagent
+
+Anställningskontrakt
+
+Portabelt CV
+
+Granskning av kandidat
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Inkallelse till SHL:s personlighetstest
+
+Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODM0ODYwLC0xMTUyMDQzNDY5LDU4OD
-M1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5
-MTldfQ==
+eyJoaXN0b3J5IjpbLTg1NzE0OTIwNCwtMTE1MjA0MzQ2OSw1OD
+gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
+OTE5XX0=
 -->
