@@ -50,20 +50,20 @@
 *Infogar länken till godkännande*
 ***Begäran om godkännande av annons***
 
-****
-**
-******
+**{assessment-test-name-link-group}**
+*cut-e testnamn + hemsida*
+***Inkallelse till cut-e personlighetstest***
 
-****
-**
-******
+**{ballot-link}**
+*Länk för externa granskare för att rangordna kandidater*
+***Delad rangordning av kandidater***
 
-****
-**
+**{candidate-family-name}**
+*Efternamn*
 ******
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTM5MzAyNCwtMTY5Mzc0MjM1OCwxMz
+eyJoaXN0b3J5IjpbLTMwMzc5NjI3MiwtMTY5Mzc0MjM1OCwxMz
 EzMDQ5OTE5XX0=
 -->
