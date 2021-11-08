@@ -263,9 +263,10 @@
 - E-postsignaturer
 - Ansökan har sparats
 
-
+**{company-name}**
+*Företagsnamn*
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDcyMzYyMywtMTY5Mzc0MjM1OCwxMz
-EzMDQ5OTE5XX0=
+eyJoaXN0b3J5IjpbLTE2Njg5MDAyMDgsLTE2OTM3NDIzNTgsMT
+MxMzA0OTkxOV19
 -->
