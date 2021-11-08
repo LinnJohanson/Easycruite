@@ -276,36 +276,24 @@
 - Detaljer överförda till CV-databas
 - Uppmaning till medarbetare att Skicka/Uppdatera CV
 - Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Ny användares e-postadress
+- Begäran om godkännande av annons
+- Begäran om användarlösenord
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+- E-postsignaturer
 
-Inkallelse till MINT Matrigma och Service-F tester
 
-cut-e-rapport
-
-Påminnelse om Jobbagent
-
-Ny användares e-postadress
-
-Begäran om godkännande av annons
-
-Begäran om användarlösenord
-
-Anställningskontrakt
-
-Tipsa en vän om annons
-
-Portabelt CV
-
-Granskning av kandidat
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
-
-E-postsignaturer
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTY4ODg4NTgsLTE2OTM3NDIzNTgsMT
+eyJoaXN0b3J5IjpbLTE1OTIxMzQ0MDAsLTE2OTM3NDIzNTgsMT
 MxMzA0OTkxOV19
 -->
