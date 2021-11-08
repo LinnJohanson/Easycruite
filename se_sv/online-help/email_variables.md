@@ -499,11 +499,40 @@
 
 **{employer-name}**
 *Arbetsgivarens namn*
+- E-postadress till publiceringskanal
 
-E-postadress till publiceringskanal
+**{family-name}**
+*Efternamn*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Ny användares e-postadress
+- Anställningskontrakt
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+
+**{family-name}**
+*Kandidatens efternamn som angetts i den sparade ansökan*
+- Ansökan har sparats
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNTU4MDcxLC0xMTUyMDQzNDY5LDU4OD
+eyJoaXN0b3J5IjpbMTEyODM0ODYwLC0xMTUyMDQzNDY5LDU4OD
 M1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5
 MTldfQ==
 -->
