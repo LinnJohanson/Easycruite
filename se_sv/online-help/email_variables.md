@@ -334,9 +334,13 @@
 
 **{contact-person-cellular-telephone}**
 *Kontaktens mobiltelefonnummer*
-E-postadress till publiceringskanal
+- E-postadress till publiceringskanal
+
+**{contact-person-email}**
+*Kontaktpersonens e-postadress*
+- E-postadress till publiceringskanal
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1ODI2NDMwNCwtMTY5Mzc0MjM1OCwxMz
+eyJoaXN0b3J5IjpbLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMz
 EzMDQ5OTE5XX0=
 -->
