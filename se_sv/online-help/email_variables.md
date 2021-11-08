@@ -752,11 +752,59 @@
 *Antal kandidater som skickats till granskaren för granskning*
 - Granskning av kandidat
 
+**{password}**
+*Kandidats lösenord*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Automatiskt avslag
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Begäran om användarlösenord
+- Inloggning
 
+**{position}**
+*Titel på positionen som ansökan gäller*
+- Ansökan har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+-Bekräftelse på användarnamn
 
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
+Påminnelse om Jobbagent
+
+cut-e-rapport
+
+Anställningskontrakt
+
+Tipsa en vän om annons
+
+Portabelt CV
+
+Granskning av kandidat
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Varning om sista publiceringsdag
+
+Inkallelse till SHL och cut-e personlighetstest
+
+Anpassad E-post
+
+Ansökan har sparats
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NjUxNTM4LC0xMTUyMDQzNDY5LDU4OD
-M1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5
-MTldfQ==
+eyJoaXN0b3J5IjpbMTMzMTYwMjY3MywtMTE1MjA0MzQ2OSw1OD
+gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
+OTE5XX0=
 -->
