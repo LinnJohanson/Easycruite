@@ -291,9 +291,32 @@
 - Anpassad E-post
 - E-postsignaturer
 
+**{confirmlink}**
+*Länk för att bekräfta datumet*
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
+**{contact-name}**
+*Ansökan har mottagits*
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Ny användares e-postadress
+- Inkallelse till MINT Matrigma och Service-F tester
+- Anställningskontrakt
+. Brev per post om att ansökan har mottagits/fått avslag
+
+Portabelt CV
+
+Inkallelse till SHL och cut-e personlighetstest
+
+Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIxMzQ0MDAsLTE2OTM3NDIzNTgsMT
+eyJoaXN0b3J5IjpbLTEwNTQ3OTc2MDEsLTE2OTM3NDIzNTgsMT
 MxMzA0OTkxOV19
 -->
