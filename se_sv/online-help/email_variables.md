@@ -790,10 +790,34 @@
 - Anpassad E-post
 - Ansökan har sparats
 
+**{prefix}**
+*Prefix (Herr, Frk, Fru osv.)*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
 
+Bekräftelse på användarnamn
+
+Uppmaning till medarbetare att Skicka/Uppdatera CV
+
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
+cut-e-rapport
+
+Anställningskontrakt
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTE2Mzg5ODI0NTcsLTQ0MjEwNDc5NCwtMT
+E1MjA0MzQ2OSw1ODgzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0
+MjM1OCwxMzEzMDQ5OTE5XX0=
 -->
