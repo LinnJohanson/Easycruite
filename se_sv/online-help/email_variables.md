@@ -639,33 +639,48 @@
 - Inkallelse till SHL och cut-e personlighetstest
 - Anpassad E-post
 
-{job-position}
+**{job-position}**
+*Befattning*
+- Ansökan har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Varning om sista publiceringsdag
+- Anpassad E-post
 
-Befattning
+**{last-name}**
+*Efternamn*
+- Ansökan har mottagits
+- Kopia av ansökan
+- Registrering har mottagits
+- Avslag efter granskning av ansökan
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Automatiskt avslag
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F test
+- cut-e-rapport
 
-Ansökan har mottagits
+Ny användares e-postadress
 
-Kopia av ansökan
-
-Avslag efter granskning av ansökan
-
-Automatiskt avslag
-
-Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
-
-Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
-
-Bekräftelse på användarnamn
-
-Vidarebefordra ansökan
-
-Inkallelse till MINT Matrigma och Service-F tester
-
-cut-e-rapport
+Påminnelse om Jobbagent
 
 Anställningskontrakt
-
-Tipsa en vän om annons
 
 Portabelt CV
 
@@ -673,14 +688,12 @@ Granskning av kandidat
 
 Brev per post om att ansökan har mottagits/fått avslag
 
-Inkallelse till SHL och cut-e personlighetstest
-
-Varning om sista publiceringsdag
+Inkallelse till SHL:s personlighetstest
 
 Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTM3MzM2MiwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbOTQ2MDAzODkzLC0xMTUyMDQzNDY5LDU4OD
+M1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5
+MTldfQ==
 -->
