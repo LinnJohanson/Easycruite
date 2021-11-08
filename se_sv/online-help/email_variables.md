@@ -308,15 +308,35 @@
 - Ny användares e-postadress
 - Inkallelse till MINT Matrigma och Service-F tester
 - Anställningskontrakt
-. Brev per post om att ansökan har mottagits/fått avslag
+- Brev per post om att ansökan har mottagits/fått avslag
+- Portabelt CV
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
 
-Portabelt CV
+**{contact-person}**
+*Kontaktperson (för detta projekt)*
+- Ansökan har mottagits
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- Ny användares e-postadress
+- Påminnelse om Jobbagent
+- Anställningskontrakt
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
 
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
+**{contact-person-cellular-telephone}**
+*Kontaktens mobiltelefonnummer*
+E-postadress till publiceringskanal
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQ3OTc2MDEsLTE2OTM3NDIzNTgsMT
-MxMzA0OTkxOV19
+eyJoaXN0b3J5IjpbMjA1ODI2NDMwNCwtMTY5Mzc0MjM1OCwxMz
+EzMDQ5OTE5XX0=
 -->
