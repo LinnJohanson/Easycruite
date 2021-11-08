@@ -476,18 +476,34 @@
 - Begäran om godkännande av annons
 - Anställningskontrakt
 - Tipsa en vän om annons
-Portabelt CV
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+- E-postsignaturer
 
-Brev per post om att ansökan har mottagits/fått avslag
+**{departments}**
+*Avdelning(ar)*
+- E-postadress till publiceringskanal
+- {duration}
+- Intervjuns längd
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
-Inkallelse till SHL och cut-e personlighetstest
+**{email}**
+*Anger användarens e-postadress i e-postmeddelandet*
+- Ny användares e-postadress
 
-Anpassad E-post
+**{employer-about}**
+*Om arbetsgivaren*
+- E-postadress till publiceringskanal
 
-E-postsignaturer
+**{employer-name}**
+*Arbetsgivarens namn*
+
+E-postadress till publiceringskanal
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Nzc5NTQ4MSwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbODEzNTU4MDcxLC0xMTUyMDQzNDY5LDU4OD
+M1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5
+MTldfQ==
 -->
