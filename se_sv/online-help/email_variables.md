@@ -430,56 +430,34 @@
 - E-postsignaturer
 - Ansökan har sparats
 
-{department}
-
-Avdelningsnamn
-
-Ansökan har mottagits
-
-Kopia av ansökan
-
-Avslag efter granskning av ansökan
-
-Automatiskt avslag
-
-Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
-
-Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
-
-Bekräftelse på användarnamn
-
-Detaljer överförda till CV-databas
-
-Vidarebefordra ansökan
-
-Inkallelse till MINT Matrigma och Service-F tester
-
-cut-e-rapport
-
-Påminnelse om Jobbagent
-
-Begäran om godkännande av annons
-
-Ny användares e-postadress
-
-Anställningskontrakt
-
-Tipsa en vän om annons
-
-Portabelt CV
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
-
-E-postsignaturer
-
+**{department}**
+*Avdelningsnamn*
+ - Ansökan har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansöka
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Begäran om godkännande av annons
+- Ny användares e-postadress
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+-E-postsignaturer
 Ansökan har sparats
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODg3MTgzMywtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTEzMzk4NDMxMjQsLTExNTIwNDM0NjksNT
+g4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3NDIzNTgsMTMxMzA0
+OTkxOV19
 -->
