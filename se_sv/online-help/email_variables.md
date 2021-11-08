@@ -250,31 +250,22 @@
 - Vidarebefordra ansökan
 - Inkallelse till MINT Matrigma och Service-F tester
 - cut-e-rapport
-Påminnelse om Jobbagent
+- Påminnelse om Jobbagent
+- Begäran om godkännande av annons
+- Ny användares e-postadress
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+- E-postsignaturer
+- Ansökan har sparats
 
-Begäran om godkännande av annons
 
-Ny användares e-postadress
-
-Anställningskontrakt
-
-Tipsa en vän om annons
-
-Portabelt CV
-
-Granskning av kandidat
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
-
-E-postsignaturer
-
-Ansökan har sparats
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDEyMzc2OSwtMTY5Mzc0MjM1OCwxMz
+eyJoaXN0b3J5IjpbLTI3NDcyMzYyMywtMTY5Mzc0MjM1OCwxMz
 EzMDQ5OTE5XX0=
 -->
