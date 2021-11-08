@@ -590,39 +590,35 @@
 - Avslag efter granskning av ansökan
 - Automatiskt avslag
 - Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Ny användares e-postadress
+- Anställningskontrakt
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
 
-Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+**{interviewdate}**
+*Datum för intervjun*
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
-Bekräftelse på användarnamn
-
-Detaljer överförda till CV-databas
-
-Uppmaning till medarbetare att Skicka/Uppdatera CV
-
-Vidarebefordra ansökan
-
-Inkallelse till MINT Matrigma och Service-F tester
-
-cut-e-rapport
-
-Påminnelse om Jobbagent
-
-Ny användares e-postadress
-
-Anställningskontrakt
-
-Portabelt CV
-
-Granskning av kandidat
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
+ **{interviewer} {interviewers}**
+- Intervjuare som kommer att närvara
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- {interviewtime}
+- Tid för intervjun
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODQzMTg3NCwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTEwMDU1MDUxNTgsLTExNTIwNDM0NjksNT
+g4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3NDIzNTgsMTMxMzA0
+OTkxOV19
 -->
