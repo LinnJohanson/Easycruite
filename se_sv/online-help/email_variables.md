@@ -695,10 +695,36 @@
 *Infogar alla jobb som matchar kandidatens profil*
 - Jobbagent
 
+**{middle-name}**
+*Mellannamn*
+- Ansökan har mottagits
+- Kopia av ansökan
+- Registrering har mottagits
+- Avslag efter granskning av ansökan
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Automatiskt avslag
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Anställningskontrakt
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL:s personlighetstest
+- Anpassad E-post
+
+**{middle-name}**
+*Kandidatens mellannamn som angetts i den sparade ansökan*
+- Ansökan har sparats
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjU0OTA4OCwtMTE1MjA0MzQ2OSw1OD
+eyJoaXN0b3J5IjpbMTE2MDk3MjEyOSwtMTE1MjA0MzQ2OSw1OD
 gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
 OTE5XX0=
 -->
