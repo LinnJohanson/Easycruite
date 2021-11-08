@@ -359,10 +359,61 @@
 - Inkallelse till SHL och cut-e personlighetstest
 - Anpassad E-post
 
+***{contact-person-office-telephone}***
+*Kontaktens mobiltelefonnummer till arbetet*
+- E-postadress till publiceringskanal
 
+***{contact-persons}***
+*Kontaktperson(er)*
+- E-postadress till publiceringskanal
+
+**{customer-name}**
+*Kundnamn*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+-Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Bekräftelse på användarnamn
+
+Detaljer överförda till CV-databas
+
+Ny användares e-postadress
+
+Uppmaning till medarbetare att Skicka/Uppdatera CV
+
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
+cut-e-rapport
+
+Påminnelse om Jobbagent
+
+Begäran om godkännande av annons
+
+Anställningskontrakt
+
+Tipsa en vän om annons
+
+Portabelt CV
+
+Granskning av kandidat
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Inkallelse till SHL och cut-e personlighetstest
+
+Anpassad E-post
+
+E-postsignaturer
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjA1OTY0MCwtMTE1MjA0MzQ2OSw1OD
+eyJoaXN0b3J5IjpbMTE0MjYwNDA3MSwtMTE1MjA0MzQ2OSw1OD
 gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
 OTE5XX0=
 -->
