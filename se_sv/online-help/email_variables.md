@@ -808,10 +808,14 @@
 - Brev per post om att ansökan har mottagits/fått avslag
 - Anpassad E-post
 
+**{processed-applicants]**
+*Tagg som används för att börja rapportera om behandlade kandidater, tagg som används för att sluta rapportera om behandlade kandidater*
+- Påminnelse angående vidare åtgärd för ej behandlade kandidater
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTYyMzA5NCwtNDQyMTA0Nzk0LC0xMT
-UyMDQzNDY5LDU4ODM1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQy
-MzU4LDEzMTMwNDk5MTldfQ==
+eyJoaXN0b3J5IjpbMTE5OTk3MTg5OSwxOTg1NjIzMDk0LC00ND
+IxMDQ3OTQsLTExNTIwNDM0NjksNTg4MzU1MzA4LC04NDExMDI4
+NTUsLTE2OTM3NDIzNTgsMTMxMzA0OTkxOV19
 -->
