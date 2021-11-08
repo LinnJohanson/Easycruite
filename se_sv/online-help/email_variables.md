@@ -775,36 +775,25 @@
 - Automatiskt avslag
 - Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 - Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
--Bekräftelse på användarnamn
+- Bekräftelse på användarnamn
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- Påminnelse om Jobbagent
+- cut-e-rapport
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Varning om sista publiceringsdag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
+- Ansökan har sparats
 
-Vidarebefordra ansökan
 
-Inkallelse till MINT Matrigma och Service-F tester
-
-Påminnelse om Jobbagent
-
-cut-e-rapport
-
-Anställningskontrakt
-
-Tipsa en vän om annons
-
-Portabelt CV
-
-Granskning av kandidat
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Varning om sista publiceringsdag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post
-
-Ansökan har sparats
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTYwMjY3MywtMTE1MjA0MzQ2OSw1OD
+eyJoaXN0b3J5IjpbLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
 gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
 OTE5XX0=
 -->
