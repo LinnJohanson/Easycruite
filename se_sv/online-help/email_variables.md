@@ -61,47 +61,28 @@
 **{candidate-family-name}**
 *Efternamn*
 - ***Ansökan har mottagits***
-
 - ***Registrering har mottagits***
-
 - ***Kopia av ansökan***
-
 - ***Avslag efter granskning av ansökan***
-
 - ***Automatiskt avslag***
-
 - ***Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte***
-
 - ***Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte***
-
 - ***Bekräftelse på användarnamn***
-
-- ***Detaljer överförda till CV-databas
-
-Uppmaning till medarbetare att Skicka/Uppdatera CV
-
-Vidarebefordra ansökan
-
-Inkallelse till MINT Matrigma och Service-F tester
-
-cut-e-rapport
-
-Ny användares e-postadress
-
-Påminnelse om Jobbagent
-
-Anställningskontrakt
-
-Portabelt CV
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL och cut-e personlighetstest
-
-Anpassad E-post***
+- ***Detaljer överförda till CV-databas*** 
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- ***Vidarebefordra ansökan
+ - Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Ny användares e-postadress
+- Påminnelse om Jobbagent
+- Anställningskontrakt
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post***
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTQ4ODUxNCwtMTY5Mzc0MjM1OCwxMz
+eyJoaXN0b3J5IjpbMTc0MDU2NDczOSwtMTY5Mzc0MjM1OCwxMz
 EzMDQ5OTE5XX0=
 -->
