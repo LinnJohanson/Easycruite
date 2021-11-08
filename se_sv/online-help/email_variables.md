@@ -151,30 +151,35 @@
 - Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 - Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
 - Bekräftelse på användarnamn
+- Automatiskt avslag
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Påminnelse om Jobbagent
+- Anställningskontrakt
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL:s personlighetstest
+- Anpassad E-post
 
-Automatiskt avslag
+**{candidate-username}**
+*Kandidats användarnamn*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Automatiskt avslag
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Ny användares e-postadress
 
-Uppmaning till medarbetare att Skicka/Uppdatera CV
-
-Vidarebefordra ansökan
-
-Inkallelse till MINT Matrigma och Service-F tester
-
-cut-e-rapport
-
-Påminnelse om Jobbagent
-
-Anställningskontrakt
-
-Portabelt CV
-
-Brev per post om att ansökan har mottagits/fått avslag
-
-Inkallelse till SHL:s personlighetstest
-
-Anpassad E-post
+**{client}**
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1NDcwNzgsLTE2OTM3NDIzNTgsMTMxMz
-A0OTkxOV19
+eyJoaXN0b3J5IjpbLTU4ODA0OTM2NywtMTY5Mzc0MjM1OCwxMz
+EzMDQ5OTE5XX0=
 -->
