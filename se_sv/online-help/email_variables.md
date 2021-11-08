@@ -2,37 +2,39 @@
 
 [Standardsvarsbrev](standard_response_email_types.htm)  kan innehålla följande variabler (kopplingsfält):
 
+(Mall)
 **Variabel**
 *Beskrivning*
-***Används i***
+- Används i
+-----
 
 **{address}**
 *Plats för intervju*
-***Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte***
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
 **{advertisement-active-from-date}**
 *Start datum för annons*
-***E-postadress till publiceringskanal***
+- E-postadress till publiceringskanal
 
 **{advertisement-body}**
 *Annonstext*
-***Ansökan har sparats***
+- Ansökan har sparats
 
 **{advertisement-heading}**
 *Annonsrubrik*
-***  E-postadress till publiceringskanal***
+- E-postadress till publiceringskanal
 
 **{advertisement-title}**
 *Annonstitel*
-***  E-postadress till publiceringskanal***
+-  E-postadress till publiceringskanal
 
 **{advertisement-work-place}**
 *Arbetsplats/placeringsort i annonsen*
-***E-postadress till publiceringskanal***
+- E-postadress till publiceringskanal
 
 **{appetizer-text}**
 *Intresseväckande text i annonsen*
-***E-postadress till publiceringskanal***
+- E-postadress till publiceringskanal
 
 **{applicant-department}**
 *Avdelning som kandidaten är kopplad till*
@@ -83,6 +85,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzMxMjEwNiwtMTY5Mzc0MjM1OCwxMz
-EzMDQ5OTE5XX0=
+eyJoaXN0b3J5IjpbLTE2NTIyMjc5MDIsLTE2OTM3NDIzNTgsMT
+MxMzA0OTkxOV19
 -->
