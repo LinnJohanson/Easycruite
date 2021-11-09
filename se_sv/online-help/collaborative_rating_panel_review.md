@@ -81,7 +81,9 @@ Om du väljer en kandidats  Namn  och därefter sidan  Gemensam rangordning, vis
 ![](../Resources/Images/icon-document-link.png)  [Ansökan och CV – Sidöversikt](application_and_cv_page_overview.htm)
 ![](../Resources/Images/icon-document-link.png)  [Fliken Tvåvägskommunikation via e-post](two_way_email_tab.htm)
 ![](../Resources/Images/icon-document-link.png)  [Visa flera ansökningar från samma kandidat](viewing_a_candidates_multiple_applications.htm)
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM0MzQ3MTUsLTc2NzM3Nzc0OF19
+eyJoaXN0b3J5IjpbLTEzNzE3MTMyNzksLTc2NzM3Nzc0OF19
 -->
