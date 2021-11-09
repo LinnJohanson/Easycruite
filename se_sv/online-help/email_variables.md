@@ -812,20 +812,21 @@
 *Tagg som används för att börja rapportera om behandlade kandidater, tagg som används för att sluta rapportera om behandlade kandidater*
 - Påminnelse angående vidare åtgärd för ej behandlade kandidater
 
-{project}
+**{project}**
+*Projekt*
+- Begäran om godkännande av annons
+- Granskning av kandidat
+- Varning om sista publiceringsdag
 
-Projekt
+**{project-period-end}**
+*Slutdatum för projekt*
+- Påminnelse angående vidare åtgärd för ej behandlade kandidater
 
-Begäran om godkännande av annons
-
-Granskning av kandidat
-
-Varning om sista publiceringsdag
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4Nzk4ODM4LDExOTk5NzE4OTksMTk4NT
-YyMzA5NCwtNDQyMTA0Nzk0LC0xMTUyMDQzNDY5LDU4ODM1NTMw
-OCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMwNDk5MTldfQ
-==
+eyJoaXN0b3J5IjpbMjA0NDM4MjY0MSw5ODg3OTg4MzgsMTE5OT
+k3MTg5OSwxOTg1NjIzMDk0LC00NDIxMDQ3OTQsLTExNTIwNDM0
+NjksNTg4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3NDIzNTgsMT
+MxMzA0OTkxOV19
 -->
