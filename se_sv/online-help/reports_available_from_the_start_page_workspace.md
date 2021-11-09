@@ -28,8 +28,7 @@ Ger detaljer om skälen till att en ansökan om en ledig tjänst avslogs.
 **CBS-rapport:**
 Rapporten till The Central Bureau of Statistics (CBS) är en kvartalsrapport som måste fyllas i av alla företag i Nederländerna. I rapporten ingår antal lediga tjänster, tillsatta lediga tjänster, skapade lediga tjänster och stängda (men inte tillsatta) lediga tjänster för kvartalet.
 
-[Dataexport](data_extract.htm)
-
+[Dataexport:](data_extract.htm)
 Denna tilläggsfunktion exporterar EasyCruit-data till ett Excel-kalkylblad. Dessa uppgifter kan kopieras och klistras in i ett antal förkonfigurerade Excel-grafer för att ge dig inblick i dina rekryteringsaktiviteter. Exempelgrafer inkluderar kandidater per källa, och rekryteringsprojekt och kandidater per avdelning.
 
 ##### Se även:
@@ -41,5 +40,5 @@ Denna tilläggsfunktion exporterar EasyCruit-data till ett Excel-kalkylblad. Des
 ![](../Resources/Images/icon-document-link.png)  [Konfigurera och visa en rapport](configuring_and_running_a_report.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc0MjI1MDddfQ==
+eyJoaXN0b3J5IjpbODE1ODcwMTU3XX0=
 -->
