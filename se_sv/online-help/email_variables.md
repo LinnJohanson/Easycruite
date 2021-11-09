@@ -904,9 +904,60 @@
 - Bekräftelse på användarnamn
 - Uppmaning till medarbetare att Skicka/Uppdatera CV
 - Vidarebefordra ansökan
+
+**{title-grade}**
+*Jobbtitelns rang*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Anställningskontrakt
+- Portabelt CV
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+
+**{unsubscribe-click-here}**
+*Tillhandahåller texten för Avbeställ här*
+- Påminnelse om Jobbagent
+- {unsubscribe-link}
+- Tillhandahåller länken för texten Avbeställ här
+- Påminnelse om Jobbagent
+
+**{url}**
+*Hemsida för återställning av lösenord*
+-Bekräftelse på användarnamn
+
+Detaljer överförda till CV-databas
+
+Uppmaning till medarbetare att Skicka/Uppdatera CV
+
+{user-cellular-telephone}
+
+Användarens mobiltelefonnummer
+
+E-postadress till publiceringskanal
+
+{user-family-name}
+
+Användarens efternamn
+
+E-postadress till publiceringskanal
+
+{user-given-name}
+
+Användarens förnamn
+
+E-postadress till publiceringskanal
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczOTI2MDY5LC00NzQ3MjQ0NTcsMTM1OT
+eyJoaXN0b3J5IjpbNDgwNTA3Njk5LC00NzQ3MjQ0NTcsMTM1OT
 I3MjcwNywyMDQ0MzgyNjQxLDk4ODc5ODgzOCwxMTk5OTcxODk5
 LDE5ODU2MjMwOTQsLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
 gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
