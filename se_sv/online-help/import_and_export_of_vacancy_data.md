@@ -455,65 +455,65 @@ XML-schema för svar på om VacancyExport:  [https://www.easycruit.com/wsdl/ws/V
 
 < !--Du kan ange följande 8 objekt i vilken som helst ordning-->
 
-<urn:Title>?</urn:Title>
+< urn:Title>?</ urn:Title>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:TitleHeading>?</urn:TitleHeading>
+< urn:TitleHeading>?< /urn:TitleHeading>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Body>?</urn:Body>
+< urn:Body>?< /urn:Body>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Deadline>?</urn:Deadline>
+< urn:Deadline>?< /urn:Deadline>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Engagement>?</urn:Engagement>
+< urn:Engagement>?< /urn:Engagement>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Location>?</urn:Location>
+< urn:Location>?< /urn:Location>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:DailyHours>?</urn:DailyHours>
+< urn:DailyHours>?< /urn:DailyHours>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Questions>?</urn:Questions>
+< urn:Questions>?< /urn:Questions>
 
-</urn:Version>
+< /urn:Version>
 
-</urn:Vacancy>
+< /urn:Vacancy>
 
-</urn:VacancyImport>
+</ urn:VacancyImport>
 
-</soapenv:Body>
+</ soapenv:Body>
 
-</soapenv:Envelope>
+</ soapenv:Envelope>
 
 #### VacancyImport SOAP response exempel
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImportResponse>
+< urn:VacancyImportResponse>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Status>?</Status>
+< Status>?< /Status>
 
-</urn:VacancyImportResponse>
+< /urn:VacancyImportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+</ soapenv:Envelope>
 
 #### .NET C# exempel
 
@@ -555,7 +555,7 @@ Console.WriteLine(result.Status);
 
 }
 
-Se även:
+##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Kandidat-API-metoder](candidate_api_methods.htm)
 ![](../Resources/Images/icon-document-link.png)  [Annons XML-flöde](vacancy_xml_feed.htm)
@@ -566,5 +566,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTI1NTI0MV19
+eyJoaXN0b3J5IjpbLTMzOTY5NDUxNl19
 -->
