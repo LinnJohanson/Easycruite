@@ -6,26 +6,23 @@ För information relaterad specifikt till kandidatrapporter, se  [Rapportera om 
 
 Följande rapporttyper är tillgängliga:
 
-- Typ av rapport
-- Beskrivning
-- Tabell A – Källrapport
+(Mall)
+**Typ av rapport:**
+Beskrivning
 
+**Tabell A – Källrapport:**
 Ger en översikt över publiceringskanalerna (karriärsidor, publiceringskanaler och de som lagts till manuellt i systemet) där lediga tjänster har listats. Den innehåller information såsom antal träffar, antal sökande och antal anställda.
 
-Tabell B – Källa/Mångfaldsrapport
-
+**Tabell B – Källa/Mångfaldsrapport:**
 Ger information om kön och ålder för personer som ansöker om lediga tjänster som listas på publiceringskanalerna.
 
-Tabell C – Rapport om rekryteringsprojekt
-
+**Tabell C – Rapport om rekryteringsprojekt:**
 Ger information om de olika steg som kandidater har uppnått för specifika rekryteringsprojekt, såsom kallad till intervju, avslag, tid innan erbjudande, anställningsförfrågningar och anställd.
 
-Tabell D – Rekryteringsprojekt/Mångfaldsrapport
-
+**Tabell D – Rekryteringsprojekt/Mångfaldsrapport:**
 Ger information om kandidatens kön och ålder för varje rekryteringsprojekt.
 
 Tabell E – Rapport om orsak till avslag
-
 Ger detaljer om skälen till att en ansökan om en ledig tjänst avslogs.
 
 CBS-rapport
@@ -47,5 +44,5 @@ Denna tilläggsfunktion exporterar EasyCruit-data till ett Excel-kalkylblad. Des
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTI0ODQ4M119
+eyJoaXN0b3J5IjpbMTI3NDI3NjQyMV19
 -->
