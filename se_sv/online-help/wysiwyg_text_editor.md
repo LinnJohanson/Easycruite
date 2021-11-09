@@ -10,125 +10,68 @@ Verktygsfältet ger dig åtkomst till de flesta av editorns redigeringsfunktione
 
 Alternativen för verktygsfältet är följande:
 
-Fetstil (CTRL + B)
-
-![](../Resources/Images/italic.jpg)
-
-Kursiv stil (CTRL + I)
-
-![](../Resources/Images/underlined.jpg)
-
-Understruken text (CTRL + U)
-
-![](../Resources/Images/strike.jpg)
-
-Genomstruken text
-
-![](../Resources/Images/align_left.jpg)
+- Fetstil (CTRL + B)
+- Kursiv stil (CTRL + I)
+- Understruken text (CTRL + U)
+- Genomstruken text
 
 Vänsterjustera
 
-![](../Resources/Images/align_centre2.jpg)
 
 Centrera
 
-![](../Resources/Images/align_right.jpg)
 
 Högerjustera
 
-![](../Resources/Images/align_centre.jpg)
+
 
 Marginaljustera
 
-![](../Resources/Images/format.jpg)
+
 
 Formatlista. Innehåller en lista över förformaterade teckensnitt
 
-![](../Resources/Images/font_family.jpg)
-
 Teckensnittsfamilj. Innehåller ett antal olika teckensnitt, inklusive de som möjliggör för språk med dubbel-byte tecken, såsom förenklade kinesiska, att visas korrekt
-
-![](../Resources/Images/font_size.jpg)
 
 Lista på textstorlekar
 
-![](../Resources/Images/font_color.jpg)
-
 Teckensnittsfärg. Genom att klicka på pilen får du en färgväljare att välja från och du kan även skapa egna färger
-
-![](../Resources/Images/background_color.jpg)
 
 Bakgrundsfärg. Genom att klicka på pilen får du en färgväljare att välja från och du kan även skapa egna färger
 
-![](../Resources/Images/bullet_list.jpg)
-
 Ordnad lista/numrerad lista
-
-![](../Resources/Images/numbered_list.jpg)
 
 Underordnad lista/punktlista
 
-![](../Resources/Images/decrease.jpg)
-
 Minska indrag
-
-![](../Resources/Images/increase.jpg)
 
 Öka indrag
 
-![](../Resources/Images/undo.jpg)
-
 Ångra senaste åtgärd (CTRL+Z)
-
-![](../Resources/Images/redo.jpg)
 
 Gör om senaste åtgärd (CTRL+Y)
 
-![](../Resources/Images/insert_link.jpg)
-
 Infoga en ny länk. Om du klickar på detta öppnas en ny dialogruta där URL-adressen för länken kan anges, samt om du vill öppna länken i ett nytt fönster eller i det aktuella fönstret
-
-![](../Resources/Images/remove_link.jpg)
 
 Ta bort markerade länk. Markera en länk med markören och klicka på den här knappen för att ta bort den
 
-![](../Resources/Images/anchor.jpg)
-
 Infoga ett nytt ankare. Om du klickar på den här knappen öppnas en ny dialogruta, där ett ankarnamn kan anges för punkten på den sida där markören är aktiv. Detta gör det möjligt att inkludera en ny länk som länkar till den delen av sidan.
-
-![](../Resources/Images/clean_up.jpg)
 
 Rensa kod. Tar bort oönskad formatering. Den här funktionen är användbar när du kopierar förformaterad text från Word.
 
-![](../Resources/Images/help.jpg)
-
 Hjälp för WYSIWYG-editor
-
-![](../Resources/Images/html.jpg)
 
 HTML-kodning. Den här knappen öppnar ett nytt fönster där innehåll kan anges i redigeraren i HTML-kod. När du sparar och stänger uppdateras innehållet i WYSIWYG-editorn utan att koden visas
 
-![](../Resources/Images/cut.jpg)
-
 Klippa ut markerad text (CTRL + X)
-
-![](../Resources/Images/copy.jpg)
 
 Kopiera markerad text (CTRL + C)
 
-![](../Resources/Images/paste1.jpg)
-
 Klistra in innehållet i redigeraren tillsammans med dess formatering (CTRL + V)
-
-![](../Resources/Images/paste2.jpg)
 
 Klistra in innehållet i redigeraren som vanlig text, vilket tar bort eventuell formatering
 
-![](../Resources/Images/replace.jpg)
-
 Hitta- och ersättfunktion som kan ersätta en enskild förekomst eller varje förekomst av ett ord eller en fras inom editorn
-
-![](../Resources/Images/remove.jpg)
 
 Ta bort formatering såsom fetstil och textfärg
 
@@ -206,5 +149,5 @@ Du kan ändra i texten i WYSIWYG-editorn genom att använda funktionen Sök och 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTY5MzE1NV19
+eyJoaXN0b3J5IjpbMTA0ODMwMjIyMF19
 -->
