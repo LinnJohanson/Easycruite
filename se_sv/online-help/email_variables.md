@@ -948,7 +948,7 @@
 *Användarens förnamn*
 - E-postadress till publiceringskanal
 
-{username}
+**{username}
 
 Kandidatens användarnamn
 
@@ -979,9 +979,9 @@ Inloggning
 Ansökan har sparats
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMyOTQzNDQsLTQ3NDcyNDQ1NywxMz
-U5MjcyNzA3LDIwNDQzODI2NDEsOTg4Nzk4ODM4LDExOTk5NzE4
-OTksMTk4NTYyMzA5NCwtNDQyMTA0Nzk0LC0xMTUyMDQzNDY5LD
-U4ODM1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMw
-NDk5MTldfQ==
+eyJoaXN0b3J5IjpbMTI2MDMyODUwNCwtMTQ3MzI5NDM0NCwtND
+c0NzI0NDU3LDEzNTkyNzI3MDcsMjA0NDM4MjY0MSw5ODg3OTg4
+MzgsMTE5OTk3MTg5OSwxOTg1NjIzMDk0LC00NDIxMDQ3OTQsLT
+ExNTIwNDM0NjksNTg4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3
+NDIzNTgsMTMxMzA0OTkxOV19
 -->
