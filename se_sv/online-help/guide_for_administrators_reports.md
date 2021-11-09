@@ -22,11 +22,10 @@ Ger information om de olika steg som kandidater har uppnått för specifika rekr
 **Tabell D – Rekryteringsprojekt/Mångfaldsrapport:**
 Ger information om kandidatens kön och ålder för varje rekryteringsprojekt.
 
-Tabell E – Rapport om orsak till avslag
+**Tabell E – Rapport om orsak till avslag:**
 Ger detaljer om skälen till att en ansökan om en ledig tjänst avslogs.
 
-CBS-rapport
-
+**CBS-rapport:**
 Rapporten till The Central Bureau of Statistics (CBS) är en kvartalsrapport som måste fyllas i av alla företag i Nederländerna. I rapporten ingår antal lediga tjänster, tillsatta lediga tjänster, skapade lediga tjänster och stängda (men inte tillsatta) lediga tjänster för kvartalet.
 
 [Dataexport](data_extract.htm)
@@ -44,5 +43,5 @@ Denna tilläggsfunktion exporterar EasyCruit-data till ett Excel-kalkylblad. Des
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDI3NjQyMV19
+eyJoaXN0b3J5IjpbOTkxNzE1OTVdfQ==
 -->
