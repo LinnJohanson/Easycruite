@@ -130,7 +130,6 @@ XML-schema för svar på VacancyList:  [https://www.easycruit.com/wsdl/ws/Vacanc
 .NET C# exempel
 
 using System;
-
 class ECVacancyList
 
 {
@@ -208,79 +207,79 @@ XML-schema för svar på om VacancyExport:  [https://www.easycruit.com/wsdl/ws/V
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+ < soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?</ Customer>
 
-<Username>?</Username>
+< Username>?</ Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?</ passwordString>
 
-</Password>
+</ Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExport>
+< urn:VacancyExport>
 
-<urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
+< urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
 
-</urn:VacancyExport>
+< /urn:VacancyExport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 ## VacancyExport SOAP response exempel
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExportResponse>
+< urn:VacancyExportResponse>
 
-<VacancyList>
+< VacancyList>
 
 <!--Noll eller flera repetitioner:-->
 
-<Vacancy id="?" language="?">
+< Vacancy id="?" language="?">
 
-<!--Du kan ange följande 13 objekt i vilken som helst ordning-->
+< !--Du kan ange följande 13 objekt i vilken som helst ordning-->
 
-<ProjectTitle>?</ProjectTitle>
+< ProjectTitle>?</ ProjectTitle>
 
-<refId>?</refId>
+< refId>?</ refId>
 
-<TitleHeading>?</TitleHeading>
+< TitleHeading>?</ TitleHeading>
 
-<Title>?</Title>
+< Title>?</ Title>
 
-<CompanyName>?</CompanyName>
+< CompanyName>?</ CompanyName>
 
-<Body>?</Body>
+< Body>?</ Body>
 
-<Deadline>?</Deadline>
+< Deadline>?</ Deadline>
 
-<Engagement>?</Engagement>
+< Engagement>?</ Engagement>
 
-<Location>?</Location>
+< Location>?</ Location>
 
-<DailyHours>?</DailyHours>
+< DailyHours>?</ DailyHours>
 
-<Contacts>
+< Contacts>
 
 <!--Noll eller flera repetitioner:-->
 
@@ -567,5 +566,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjg3MjQ1NV19
+eyJoaXN0b3J5IjpbMTM1NDgxNzEyN119
 -->
