@@ -1,13 +1,13 @@
 # Redigera, radera och skicka e-post till en medarbetare
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Redigera en medarbetare
+#### Redigera en medarbetare
 
 1.  På  Startsidan  väljer du  Medarbetare.
 2.  Leta reda på din medarbetare och klicka sedan på penn-ikonen i kolumnen  Redigera  för den medarbetare som ska ändras.
 3.  Medarbetarnas  personliga uppgifter  kan redigeras, t.ex. deras avdelning, bransch, startdatum och namn, medan översiktsuppgifterna, såsom uppladdade filer och övriga frågor är skrivskyddade.
 4.  Klicka på  Spara  när du är klar med ändringarna.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Radera en medarbetare
+#### Radera en medarbetare
 
 1.  På  Startsidan  väljer du  Medarbetare.
 2.  Leta reda på din medarbetare och klicka sedan på ikonen med en papperskorg i kolumnen  Radera  för den medarbetare som ska tas bort och klicka sedan på  OK  när du får frågan ”Är du säker...”.
@@ -35,5 +35,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA4NzE2NjZdfQ==
+eyJoaXN0b3J5IjpbNTg5MDgxOTE2XX0=
 -->
