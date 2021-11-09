@@ -22,8 +22,19 @@ För att skicka utvalda kandidater för granskning till specifika interna eller 
 5.  Ändra ämnet och innehållet efter behov. Som standard infogas ämne och innehåll från mallen som din administratör skapat (som konfigurerats i  Inställningar  >  Svarsbrev  >  Övriga). Kopplingsfälten i e-postmeddelandet inkluderar projektnamnet, hur många kandidater som skickats till granskaren för granskning och webbadressen som granskarna ska gå till för att genomföra sin granskning (granskare behöver inte logga in i EasyCruit för att genomföra sin granskning).
 6.  Markera relevanta kryssrutor efter behov. Alternativen för kryssrutorna längst ned i redigeraren är:
 
+- **Tillåt ej rangordning**
+Om du markerar den här rutan kan granskare inte ge poäng mellan 1-7 för en kandidat.
 
+- **Tillåt ej kommentarer**
+Om du markerar den här rutan innebär det att granskare endast kan betygsätta med siffror och inte skriva kommentar om en kandidat.
+
+- **Meddela mig via e-post när en granskning har genomförts**
+Om du markerar den här rutan innebär det att du som den inloggade användaren får ett e-postmeddelande när en granskare slutfört granskningen av sina kandidater. Om du till exempel skickar kandidater till fem personer för att de ska granska, får du fem e-postmeddelanden i retur.
+
+Observera att detta kan leda till många e-postmeddelanden om du regelbundet begär att många kandidater ska granskas av många personer!
+
+7.  Klicka på  Skicka.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzM3Nzc0OF19
+eyJoaXN0b3J5IjpbLTkwMzIwNzQ1LC03NjczNzc3NDhdfQ==
 -->
