@@ -948,17 +948,62 @@
 *Användarens förnamn*
 - E-postadress till publiceringskanal
 
-**{username}
+**{username}**
+- Kandidatens användarnamn
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Automatiskt avslag
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Ny användares e-postadress
+- Inloggning
+- Ansökan har sparats
 
-Kandidatens användarnamn
+**{user-office-telephone}**
+*Användarens telefonnummer till arbetet*
+- E-postadress till publiceringskanal
 
-Ansökan har mottagits
+**{vacancy}**
+*Ansökan har mottagits*
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Vidarebefordra ansökan
+- Inkallelse till MINT Matrigma och Service-F tester
+- cut-e-rapport
+- Anställningskontrakt
+- Tipsa en vän om annons
+- Portabelt CV
+- Granskning av kandidat
+- Brev per post om att ansökan har mottagits/fått avslag
+- Inkallelse till SHL och cut-e personlighetstest
+- Anpassad E-post
 
-Registrering har mottagits
+Varning om sista publiceringsdag
 
-Kopia av ansökan
+{vacancy-link}
 
-Automatiskt avslag
+Länk till annons
+
+Används ej (finns inte i källkoden)
+
+{vacancy-ref-number}
+
+Referensnummer för annonsen
+
+Avslag efter granskning av ansökan
+
+Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
 
 Bekräftelse på användarnamn
 
@@ -970,16 +1015,62 @@ Vidarebefordra ansökan
 
 Inkallelse till MINT Matrigma och Service-F tester
 
+Begäran om godkännande av annons
+
+Anställningskontrakt
+
+Portabelt CV
+
+Granskning av kandidat
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Inkallelse till SHL och cut-e personlighetstest
+
+Anpassad E-post
+
+{vacancy-title}
+
+Rekryteringstitel
+
+Ansökan har mottagits
+
+Kopia av ansökan
+
+Avslag efter granskning av ansökan
+
+Automatiskt avslag
+
+Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+
+Bekräftelse på användarnamn
+
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
 cut-e-rapport
 
-Ny användares e-postadress
+Anställningskontrakt
 
-Inloggning
+Tipsa en vän om annons
 
-Ansökan har sparats
+Portabelt CV
+
+Granskning av kandidat
+
+Brev per post om att ansökan har mottagits/fått avslag
+
+Varning om sista publiceringsdag
+
+Inkallelse till SHL och cut-e personlighetstest
+
+Anpassad E-post
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDMyODUwNCwtMTQ3MzI5NDM0NCwtND
+eyJoaXN0b3J5IjpbMTY1MDkzOTExNywtMTQ3MzI5NDM0NCwtND
 c0NzI0NDU3LDEzNTkyNzI3MDcsMjA0NDM4MjY0MSw5ODg3OTg4
 MzgsMTE5OTk3MTg5OSwxOTg1NjIzMDk0LC00NDIxMDQ3OTQsLT
 ExNTIwNDM0NjksNTg4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3
