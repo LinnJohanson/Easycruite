@@ -2,7 +2,7 @@
 
 EasyCruit innehåller objekt, såsom ansökningsmallar, jobbkategorier och annonsmallar, för att göra det så enkelt som möjligt att lägga upp rekryteringsprojekt. Det användarvänliga gränssnittet och arbetsflödet möjliggör även att lediga tjänster konfigureras konsekvent i hela företaget. Följande ämnen beskriver i detalj de steg som krävs för att skapa en ledig tjänst och göra det möjligt att visa den på en karriärsida så att kandidater kan söka efter och ansöka om lediga tjänster. Bläddra igenom följande artiklar för mer information:
 
-Se även:
+##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Skapa ett nytt rekryteringsprojekt](creating_a_new_vacancy.htm)
 ![](../Resources/Images/icon-document-link.png)  [Aktivera ett rekryteringsprojekt](activating_a_vacancy.htm)
@@ -20,5 +20,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDIxMjE0NTFdfQ==
+eyJoaXN0b3J5IjpbLTEyOTQ4MDgzOThdfQ==
 -->
