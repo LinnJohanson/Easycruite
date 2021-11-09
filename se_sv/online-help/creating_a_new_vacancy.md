@@ -2,7 +2,7 @@
 
 EasyCruit förser rekryterar med en rutin för att skapa rekryteringsprojekt som är skräddarsydd för ett företags specifika behov. Med tanke på det, är det möjligt att följande rutinbeskrivning kan variera något från ditt företags rutin för att skapa rekryteringsprojekt. Det är viktigt att EasyCruit-administratören har konfigurerat systemet på rätt sätt innan du börjar skapa rekryteringsprojekt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Instruktioner
+#### Instruktioner
 
 1.  Välj snabblänken till  Ny rekrytering  i övre delen av sidan för att visa sidan  Ny rekrytering. En förloppsindikator kommer att visas för de olika stegen så att du kan se hur långt du har kommit i processen med att skapa rekryteringsprojektet.  
     Du kan flytta dig mellan stegen genom att klicka på stegen på förloppsindikatorn. Ett steg kommer endast att vara aktivt om det går att arbeta på det steget. Till exempel är stegen  Avdelningar  och  Kontaktpersoner  endast aktiva efter att stegen  Rekryteringstitel  och  regioner  har slutförts.
@@ -75,5 +75,5 @@ EasyCruit förser rekryterar med en rutin för att skapa rekryteringsprojekt som
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzEwOTI4N119
+eyJoaXN0b3J5IjpbOTk3MjY2NjQwLDE1NDMxMDkyODddfQ==
 -->
