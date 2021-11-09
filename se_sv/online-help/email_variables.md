@@ -1032,14 +1032,13 @@
 - Anpassad E-post
 
 ##### Se även:
-Olika typer av svarsbrev](standard_response_email_types.htm)
-
+[Olika typer av svarsbrev](standard_response_email_types.htm)
 ![](../Resources/Images/icon-document-link.png)  [Avbeställ prenumeration på Jobbagenten](unsubscribe_from_job_agent.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIwODczMiwtMTQ3MzI5NDM0NCwtND
+eyJoaXN0b3J5IjpbMTYwMDU3NDE2NywtMTQ3MzI5NDM0NCwtND
 c0NzI0NDU3LDEzNTkyNzI3MDcsMjA0NDM4MjY0MSw5ODg3OTg4
 MzgsMTE5OTk3MTg5OSwxOTg1NjIzMDk0LC00NDIxMDQ3OTQsLT
 ExNTIwNDM0NjksNTg4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3
