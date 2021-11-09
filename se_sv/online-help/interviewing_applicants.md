@@ -2,7 +2,7 @@
 
 Efter att ha granskat kandidaternas ansökningar, kan de som har de nödvändiga kompetenserna kallas in till en intervju. Detta kan gälla en telefonintervju, personligt möte eller gruppintervju och kan vara det första steget mot att en kandidat väljs ut för den lediga tjänsten.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Inkalla kandidater till en intervju
+#### Inkalla kandidater till en intervju
 
 1.  Välj snabblänken  till Rekryteringsöversikten  för att visa sidan  Rekryteringsöversikt.
 2.  Välj  Titeln  på det rekryteringsprojekt för vilket du vill schemalägga intervjuer för att visa sidan  Sökandehantering.
@@ -13,7 +13,7 @@ Efter att ha granskat kandidaternas ansökningar, kan de som har de nödvändiga
     Kontrollera att alternativet  Handling  är inställt på  Skicka e-post  för att kandidaten ska få ett e-postmeddelande om sin intervju. Ta även ställning till om du ska markera alternativet Infoga en länk där kandidaten kan acceptera eller tacka nej till mötet.
 7.  Du kommer sedan tillbaka till sidan  Ansökningar  och kandidatens status är nu uppdaterad och visar att en kallelse till en intervju har skickats.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Överväganden angående bekräftelselänk
+#### Överväganden angående bekräftelselänk
 
 Om du inkluderar taggen  {confirmlink}  i ett e-postmeddelande säkerställer du att kandidaten kan svara korrekt på en kallelse till intervju.
 
@@ -29,7 +29,7 @@ E-postmeddelandet skickas till flera kandidater som talar olika språk
 -   Om sektionen  Innehåll  i e-postmeddelandet för varje språkvariant innehåller  {confirmlink}, är alternativet inte markerat.
 -   Om sektionen  Innehåll  i e-postmeddelandet för varje språkvariant inte innehåller  {confirmlink}, är alternativet markerat som standard.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Skicka påminnelser angående en intervju
+#### Skicka påminnelser angående en intervju
 
 Påminnelser angående en intervju skapas på samma sida där du skickar en intervju till en kandidat.
 
@@ -57,17 +57,17 @@ Påminnelser angående en intervju skapas på samma sida där du skickar en inte
 10.  Klicka på  Skicka.  
     En varning kommer att visas om du försöker skicka en SMS-påminnelse till en kandidat som inte har angett något mobiltelefonnummer.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Kandidater och intervjuprocessen
+#### Kandidater och intervjuprocessen
 
 När en kandidat har blivit kallad till en intervju måste denne svara på e-postkallelsen för att systemet ska kunna uppdateras i enlighet med detta. E-postmeddelandet som kandidaten får innehåller de nödvändiga uppgifterna som infogas automatiskt i e-postmeddelandes innehåll för att ersätta de variabler som ingår i e-postmallen.
 
 När kandidater klickar på bekräftelselänken, vidarebefordras de till en annan hemsida där de kan svara, vilket uppdaterar deras status i EasyCruit. Följande tabell anger vad varje bekräftelsealternativ resulterar i. Statusen för  Acc. tid  anges i  Rekryteringskalendern  och statusen för  Ändra kallelsen till möte  visas på kandidatens sida  Ansökan och CV.
 
-*Bekräftelsealternativ* - Acc. Tid/Status för Ändra kallelsen till möte
-*Ja* - Accepterat
-*Nej* - Ej accepterat
+**Bekräftelsealternativ** - Acc. Tid/Status för Ändra kallelsen till möte
+**Ja** - Accepterat
+***Nej*** - Ej accepterat
 *Kontakta mig för ny tidpunkt* - Kontakta för ny tidpunkt
-Jag vill återkalla min ansökan - Inte tillämpligt. Kandidatens  status för rekryteringsprojektet  uppdateras till  Dragit sig ur.
+*Jag vill återkalla min ansökan* - Inte tillämpligt. Kandidatens  status för rekryteringsprojektet  uppdateras till  Dragit sig ur.
 
 Beroende på kandidatens svar kan intervjun äga rum och statusen kan uppdateras därefter, efter intervjun.
 
@@ -84,5 +84,5 @@ För att läsa mer om intervjuer och status för kallelser, se  [Rekryteringskal
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQxMjMzMjVdfQ==
+eyJoaXN0b3J5IjpbMTUwODQ3OTAyNV19
 -->
