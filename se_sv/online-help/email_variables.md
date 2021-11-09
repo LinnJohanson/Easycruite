@@ -822,11 +822,21 @@
 *Slutdatum för projekt*
 - Påminnelse angående vidare åtgärd för ej behandlade kandidater
 
+**{project-period-start}**
+*Startdatum för projekt*
+- Påminnelse angående vidare åtgärd för ej behandlade kandidater
 
+{project-title}
+
+Projekttitel
+
+Begäran om godkännande av annons
+
+Varning om sista publiceringsdag
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDM4MjY0MSw5ODg3OTg4MzgsMTE5OT
-k3MTg5OSwxOTg1NjIzMDk0LC00NDIxMDQ3OTQsLTExNTIwNDM0
-NjksNTg4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3NDIzNTgsMT
-MxMzA0OTkxOV19
+eyJoaXN0b3J5IjpbNTI0ODYxMzgxLDIwNDQzODI2NDEsOTg4Nz
+k4ODM4LDExOTk5NzE4OTksMTk4NTYyMzA5NCwtNDQyMTA0Nzk0
+LC0xMTUyMDQzNDY5LDU4ODM1NTMwOCwtODQxMTAyODU1LC0xNj
+kzNzQyMzU4LDEzMTMwNDk5MTldfQ==
 -->
