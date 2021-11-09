@@ -838,18 +838,34 @@
 **{recruiter-name}**
 *Rekryterarens namn*
 - Påminnelse angående vidare åtgärd för ej behandlade kandidater
+- Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 
-{reference-number}
+**{reference-number}**
+*Referensnummer*
+- Påminnelse angående vidare åtgärd för ej behandlade kandidater
 
-Referensnummer
+**{route}**
+*Vägbeskrivning*
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
 
-Påminnelse angående vidare åtgärd för ej behandlade kandidater
-Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
+{sender-name}
+
+Kandidatens namn
+
+Ansökan har mottagits
+
+Registrering har mottagits
+
+Kopia av ansökan
+
+Tipsa en vän om annons
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIwMTU0ODUsLTQ3NDcyNDQ1NywxMz
-U5MjcyNzA3LDIwNDQzODI2NDEsOTg4Nzk4ODM4LDExOTk5NzE4
-OTksMTk4NTYyMzA5NCwtNDQyMTA0Nzk0LC0xMTUyMDQzNDY5LD
-U4ODM1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMw
-NDk5MTldfQ==
+eyJoaXN0b3J5IjpbMTMzODE3NDMzNywtNDc0NzI0NDU3LDEzNT
+kyNzI3MDcsMjA0NDM4MjY0MSw5ODg3OTg4MzgsMTE5OTk3MTg5
+OSwxOTg1NjIzMDk0LC00NDIxMDQ3OTQsLTExNTIwNDM0NjksNT
+g4MzU1MzA4LC04NDExMDI4NTUsLTE2OTM3NDIzNTgsMTMxMzA0
+OTkxOV19
 -->
