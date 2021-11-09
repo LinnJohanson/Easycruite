@@ -941,21 +941,47 @@
 - E-postadress till publiceringskanal
 
 **{user-family-name}**
+*Användarens efternamn*
+- E-postadress till publiceringskanal
 
-Användarens efternamn
+**{user-given-name}**
+*Användarens förnamn*
+- E-postadress till publiceringskanal
 
-E-postadress till publiceringskanal
+{username}
 
-{user-given-name}
+Kandidatens användarnamn
 
-Användarens förnamn
+Ansökan har mottagits
 
-E-postadress till publiceringskanal
+Registrering har mottagits
+
+Kopia av ansökan
+
+Automatiskt avslag
+
+Bekräftelse på användarnamn
+
+Detaljer överförda till CV-databas
+
+Uppmaning till medarbetare att Skicka/Uppdatera CV
+
+Vidarebefordra ansökan
+
+Inkallelse till MINT Matrigma och Service-F tester
+
+cut-e-rapport
+
+Ny användares e-postadress
+
+Inloggning
+
+Ansökan har sparats
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NTM1NzEyLC00NzQ3MjQ0NTcsMTM1OT
-I3MjcwNywyMDQ0MzgyNjQxLDk4ODc5ODgzOCwxMTk5OTcxODk5
-LDE5ODU2MjMwOTQsLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTE0NzMyOTQzNDQsLTQ3NDcyNDQ1NywxMz
+U5MjcyNzA3LDIwNDQzODI2NDEsOTg4Nzk4ODM4LDExOTk5NzE4
+OTksMTk4NTYyMzA5NCwtNDQyMTA0Nzk0LC0xMTUyMDQzNDY5LD
+U4ODM1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMw
+NDk5MTldfQ==
 -->
