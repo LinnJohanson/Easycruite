@@ -10,12 +10,6 @@ Verktygsfältet ger dig åtkomst till de flesta av editorns redigeringsfunktione
 
 Alternativen för verktygsfältet är följande:
 
-Knapp
-
-Beskrivning
-
-![](../Resources/Images/bold.jpg)
-
 Fetstil (CTRL + B)
 
 ![](../Resources/Images/italic.jpg)
@@ -138,8 +132,6 @@ Hitta- och ersättfunktion som kan ersätta en enskild förekomst eller varje f�
 
 Ta bort formatering såsom fetstil och textfärg
 
-![](../Resources/Images/insert_table.jpg)
-
 Infoga tabell. Om du väljer det här alternativet öppnas ett nytt fönster där tabellparametrarna kan konfigureras. Se hjälpen i WYSIWYG-editorn för mer information
 
 ## Redigeringsfunktioner
@@ -148,11 +140,11 @@ WYSIWYG-editorn innehåller de standardredigeringsfunktioner som du väntar dig 
 
 När du använder WYSIWYG-editorn för e-post i HTML, stöds bilder för närvarande för e-post men inte för annonser.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Välja text och grafik
+#### Välja text och grafik
 
 När du vill flytta, ta bort eller ersätta innehåll i editorn måste du först markera det du vill arbeta med. Du kan antingen använda musen eller tangentbordet.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Markera innehåll med användning av musen
+#### Markera innehåll med användning av musen
 
 Dra pekaren över det du vill markera eller använd någon av följande genvägar:
 
@@ -161,7 +153,7 @@ Dra pekaren över det du vill markera eller använd någon av följande genväga
 -   Börja en markering – Klicka vid början av det du vill markera
 -   Avsluta en markering – Håll ned SHIFT-tangenten och klicka vid slutet av det du vill markera
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Markera innehåll med användning av tangentbordet
+#### Markera innehåll med användning av tangentbordet
 
 Använd något av följande kortkommandon:
 
@@ -173,11 +165,10 @@ Använd något av följande kortkommandon:
 -   Till början av raden – SHIFT + HOME
 -   Allt - CTRL + A
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Använda Urklipp
-
+#### Använda Urklipp
 Du kan kopiera, klippa ut och klistra in med hjälp av systemets urklippsfunktion. Det här är ett snabbt sätt att överföra innehåll från andra program till WYSIWYG-editorn och inom editorn.
 
-För att utföra den här åtgärden ...
+För att utföra den här åtgärden: 
 
 Gör så här: 
 
@@ -187,10 +178,8 @@ Gör så här:
 - Markera innehållet och klicka på ikonen för Klipp ut eller CTRL + X.
 - Klistra in innehåll från Urklipp till WYSIWYG-editorn.
 - Använd markören för att ange var innehållet ska placeras och klicka på ikonen för Klistra in eller CTRL + V.
-
 - Klistra in innehåll från Urklipp till WYSIWYG-editorn, som vanlig text utan formatering.
-
-Använd markören för att ange var innehållet ska placeras och klicka på ikonen för Klistra in oformaterad text.
+- Använd markören för att ange var innehållet ska placeras och klicka på ikonen för Klistra in oformaterad text.
 
 #### Gör om eller ångra
 
@@ -217,5 +206,5 @@ Du kan ändra i texten i WYSIWYG-editorn genom att använda funktionen Sök och 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODA5MDM1NV19
+eyJoaXN0b3J5IjpbLTU4NTY5MzE1NV19
 -->
