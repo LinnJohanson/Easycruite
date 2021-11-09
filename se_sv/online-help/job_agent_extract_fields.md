@@ -6,45 +6,35 @@ Följande tabell beskriver de fält som används för Jobbagentexport.
 **Fältnamn**
 *Beskrivning*
 ***
-Kandidatens ID
+**Kandidatens ID**
+*Unikt systemgenererat kandidat-ID*
 
-Unikt systemgenererat kandidat-ID
+**Förnamn**
+*Kandidatens svar på frågan om tillfrågad*
 
-Förnamn
+**Efternamn**
+*Kandidatens svar på frågan om tillfrågad*
 
-Kandidatens svar på frågan om tillfrågad
+**E-postadress**
+*Kandidatens svar på frågan om tillfrågad*
 
-Efternamn
+**Språk**
+*Kandidatens svar på frågan om tillfrågad*
 
-Kandidatens svar på frågan om tillfrågad
+**Önskemål angående e-postutskick**
+*Inställning för hur ofta meddelanden om jobb önskas*
 
-E-postadress
+**Kategori**
+*Det här är kategorin som kriterierna finns i. Om kandidaten till exempel väljer kriteriet ”Nord”, kan kategorin som Nord tillhör vara Region*
 
-Kandidatens svar på frågan om tillfrågad
+**Kriterium**
+*Kandidatens svar på den här frågan om tillfrågad. Det specifika kriterium som kandidaten har valt för att bli underrättad om jobb matchar*
 
-Språk
+**Kriterium-ID**
+*ID för kriteriet*
 
-Kandidatens svar på frågan om tillfrågad
-
-Önskemål angående e-postutskick
-
-Inställning för hur ofta meddelanden om jobb önskas
-
-Kategori
-
-Det här är kategorin som kriterierna finns i. Om kandidaten till exempel väljer kriteriet ”Nord”, kan kategorin som Nord tillhör vara Region
-
-Kriterium
-
-Kandidatens svar på den här frågan om tillfrågad. Det specifika kriterium som kandidaten har valt för att bli underrättad om jobb matchar
-
-Kriterium-ID
-
-ID för kriteriet
-
-Registreringsdatum
-
-Det datum kandidaten skapade sin inloggning till kandidatkarriärcentret
+**Registreringsdatum**
+*Det datum kandidaten skapade sin inloggning till kandidatkarriärcentret*
 
 Senast ändrad
 
@@ -69,5 +59,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzgwNTU5MDRdfQ==
+eyJoaXN0b3J5IjpbMTg2MDUyODQzOF19
 -->
