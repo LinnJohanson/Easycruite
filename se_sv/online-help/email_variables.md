@@ -837,14 +837,19 @@
 
 **{recruiter-name}**
 *Rekryterarens namn*
-?Påminnelse angående vidare åtgärd för ej behandlade kandidater
+- Påminnelse angående vidare åtgärd för ej behandlade kandidater
 
+{reference-number}
+
+Referensnummer
+
+Påminnelse angående vidare åtgärd för ej behandlade kandidater
 Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0MjMwNTQ2LC00NzQ3MjQ0NTcsMTM1OT
-I3MjcwNywyMDQ0MzgyNjQxLDk4ODc5ODgzOCwxMTk5OTcxODk5
-LDE5ODU2MjMwOTQsLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
-gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
-OTE5XX0=
+eyJoaXN0b3J5IjpbLTE3MjIwMTU0ODUsLTQ3NDcyNDQ1NywxMz
+U5MjcyNzA3LDIwNDQzODI2NDEsOTg4Nzk4ODM4LDExOTk5NzE4
+OTksMTk4NTYyMzA5NCwtNDQyMTA0Nzk0LC0xMTUyMDQzNDY5LD
+U4ODM1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMw
+NDk5MTldfQ==
 -->
