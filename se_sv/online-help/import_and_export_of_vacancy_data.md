@@ -57,75 +57,75 @@ XML-schema för svar på VacancyList:  [https://www.easycruit.com/wsdl/ws/Vacanc
 
 < passwordString>?</ passwordString>
 
-</Password>
+</ Password>
 
 < !--Optional:-->
 
-< Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+</ urn:AuthHeader>
 
-</soapenv:Header>
+</ soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyList>
+< urn:VacancyList>
 
-<urn:Vacancy language="?" department="?"/>
+< urn:Vacancy language="?" department="?"/>
 
-</urn:VacancyList>
+</ urn:VacancyList>
 
-</soapenv:Body>
+</ soapenv:Body>
 
-</soapenv:Envelope>
+</ soapenv:Envelope>
 
 #### VacancyList SOAP response exempel
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyListResponse>
+< urn:VacancyListResponse>
 
-<VacancyList ContentLanguage="?">
+< VacancyList ContentLanguage="?">
 
-<!--Noll eller flera repetitioner:-->
+< !--Noll eller flera repetitioner:-->
 
-<Vacancy id="?">
+< Vacancy id="?">
 
-<!--Du kan ange följande 4 objekt i vilken som helst ordning-->
+< !--Du kan ange följande 4 objekt i vilken som helst ordning-->
 
-<Title>?</Title>
+< Title>?</ Title>
 
-<RefId>?</RefId>
+< RefId>?</ RefId>
 
-<Departments>
+< Departments>
 
-<!--1 eller flera repetitioner:-->
+< !--1 eller flera repetitioner:-->
 
-<Department id="?">?</Department>
+< Department id="?">?</ Department>
 
-</Departments>
+< /Departments>
 
-<Languages>
+< Languages>
 
-<!--1 eller flera repetitioner:-->
+< !--1 eller flera repetitioner:-->
 
-<Language iso="?">?</Language>
+< Language iso="?">?</ Language>
 
-</Languages>
+< /Languages>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyListResponse>
+< /urn:VacancyListResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# exempel
 
@@ -567,5 +567,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDYwNDIzOV19
+eyJoaXN0b3J5IjpbMTk0Mjg3MjQ1NV19
 -->
