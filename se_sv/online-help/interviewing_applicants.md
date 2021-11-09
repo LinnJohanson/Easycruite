@@ -65,9 +65,9 @@ När kandidater klickar på bekräftelselänken, vidarebefordras de till en anna
 
 **Bekräftelsealternativ** - Acc. Tid/Status för Ändra kallelsen till möte
 **Ja** - Accepterat
-***Nej*** - Ej accepterat
-*Kontakta mig för ny tidpunkt* - Kontakta för ny tidpunkt
-*Jag vill återkalla min ansökan* - Inte tillämpligt. Kandidatens  status för rekryteringsprojektet  uppdateras till  Dragit sig ur.
+**Nej** - Ej accepterat
+**Kontakta mig för ny tidpunkt** - Kontakta för ny tidpunkt
+**Jag vill återkalla min ansökan**- Inte tillämpligt. Kandidatens  status för rekryteringsprojektet  uppdateras till  Dragit sig ur.
 
 Beroende på kandidatens svar kan intervjun äga rum och statusen kan uppdateras därefter, efter intervjun.
 
@@ -84,5 +84,5 @@ För att läsa mer om intervjuer och status för kallelser, se  [Rekryteringskal
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODQ3OTAyNV19
+eyJoaXN0b3J5IjpbLTU5NzQxNzE4N119
 -->
