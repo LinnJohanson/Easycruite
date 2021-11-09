@@ -14,68 +14,34 @@ Alternativen för verktygsfältet är följande:
 - Kursiv stil (CTRL + I)
 - Understruken text (CTRL + U)
 - Genomstruken text
-
-Vänsterjustera
-
-
-Centrera
-
-
-Högerjustera
-
-
-
-Marginaljustera
-
-
-
-Formatlista. Innehåller en lista över förformaterade teckensnitt
-
-Teckensnittsfamilj. Innehåller ett antal olika teckensnitt, inklusive de som möjliggör för språk med dubbel-byte tecken, såsom förenklade kinesiska, att visas korrekt
-
-Lista på textstorlekar
-
-Teckensnittsfärg. Genom att klicka på pilen får du en färgväljare att välja från och du kan även skapa egna färger
-
-Bakgrundsfärg. Genom att klicka på pilen får du en färgväljare att välja från och du kan även skapa egna färger
-
-Ordnad lista/numrerad lista
-
-Underordnad lista/punktlista
-
-Minska indrag
-
-Öka indrag
-
-Ångra senaste åtgärd (CTRL+Z)
-
-Gör om senaste åtgärd (CTRL+Y)
-
-Infoga en ny länk. Om du klickar på detta öppnas en ny dialogruta där URL-adressen för länken kan anges, samt om du vill öppna länken i ett nytt fönster eller i det aktuella fönstret
-
-Ta bort markerade länk. Markera en länk med markören och klicka på den här knappen för att ta bort den
-
-Infoga ett nytt ankare. Om du klickar på den här knappen öppnas en ny dialogruta, där ett ankarnamn kan anges för punkten på den sida där markören är aktiv. Detta gör det möjligt att inkludera en ny länk som länkar till den delen av sidan.
-
-Rensa kod. Tar bort oönskad formatering. Den här funktionen är användbar när du kopierar förformaterad text från Word.
-
-Hjälp för WYSIWYG-editor
-
-HTML-kodning. Den här knappen öppnar ett nytt fönster där innehåll kan anges i redigeraren i HTML-kod. När du sparar och stänger uppdateras innehållet i WYSIWYG-editorn utan att koden visas
-
-Klippa ut markerad text (CTRL + X)
-
-Kopiera markerad text (CTRL + C)
-
-Klistra in innehållet i redigeraren tillsammans med dess formatering (CTRL + V)
-
-Klistra in innehållet i redigeraren som vanlig text, vilket tar bort eventuell formatering
-
-Hitta- och ersättfunktion som kan ersätta en enskild förekomst eller varje förekomst av ett ord eller en fras inom editorn
-
-Ta bort formatering såsom fetstil och textfärg
-
-Infoga tabell. Om du väljer det här alternativet öppnas ett nytt fönster där tabellparametrarna kan konfigureras. Se hjälpen i WYSIWYG-editorn för mer information
+- Vänsterjustera
+- Centrera
+- Högerjustera
+- Marginaljustera
+- Formatlista. Innehåller en lista över förformaterade teckensnitt
+- Teckensnittsfamilj. Innehåller ett antal olika teckensnitt, inklusive de som möjliggör för språk med dubbel-byte tecken, såsom förenklade kinesiska, att visas korrekt
+- Lista på textstorlekar
+- Teckensnittsfärg. Genom att klicka på pilen får du en färgväljare att välja från och du kan även skapa egna färger
+- Bakgrundsfärg. Genom att klicka på pilen får du en färgväljare att välja från och du kan även skapa egna färger
+- Ordnad lista/numrerad lista
+- Underordnad lista/punktlista
+- Minska indrag
+- Öka indrag
+- Ångra senaste åtgärd (CTRL+Z)
+- Gör om senaste åtgärd (CTRL+Y)
+- Infoga en ny länk. Om du klickar på detta öppnas en ny dialogruta där URL-adressen för länken kan anges, samt om du vill öppna länken i ett nytt fönster eller i det aktuella fönstret
+- Ta bort markerade länk. Markera en länk med markören och klicka på den här knappen för att ta bort den
+- Infoga ett nytt ankare. Om du klickar på den här knappen öppnas en ny dialogruta, där ett ankarnamn kan anges för punkten på den sida där markören är aktiv. Detta gör det möjligt att inkludera en ny länk som länkar till den delen av sidan.
+- Rensa kod. Tar bort oönskad formatering. Den här funktionen är användbar när du kopierar förformaterad text från Word.
+- Hjälp för WYSIWYG-editor
+- HTML-kodning. Den här knappen öppnar ett nytt fönster där innehåll kan anges i redigeraren i HTML-kod. När du sparar och stänger uppdateras innehållet i WYSIWYG-editorn utan att koden visas
+- Klippa ut markerad text (CTRL + X)
+- Kopiera markerad text (CTRL + C)
+- Klistra in innehållet i redigeraren tillsammans med dess formatering (CTRL + V)
+- Klistra in innehållet i redigeraren som vanlig text, vilket tar bort eventuell formatering
+- Hitta- och ersättfunktion som kan ersätta en enskild förekomst eller varje förekomst av ett ord eller en fras inom editorn
+- Ta bort formatering såsom fetstil och textfärg
+- Infoga tabell. Om du väljer det här alternativet öppnas ett nytt fönster där tabellparametrarna kan konfigureras. Se hjälpen i WYSIWYG-editorn för mer information
 
 ## Redigeringsfunktioner
 
@@ -149,5 +115,5 @@ Du kan ändra i texten i WYSIWYG-editorn genom att använda funktionen Sök och 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0ODMwMjIyMF19
+eyJoaXN0b3J5IjpbMTExMTAyNzk1Ml19
 -->
