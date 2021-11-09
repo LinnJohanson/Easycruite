@@ -45,23 +45,23 @@ XML-schema för svar på VacancyList:  [https://www.easycruit.com/wsdl/ws/Vacanc
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+<soapenv:Header> 
 
 <urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer > ? < / Customer >
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?</ passwordString>
 
 </Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?</Version>
 
 </urn:AuthHeader>
 
@@ -567,5 +567,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzQ1OTI4MV19
+eyJoaXN0b3J5IjpbLTM4NDYwNDIzOV19
 -->
