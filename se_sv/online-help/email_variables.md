@@ -835,7 +835,7 @@
 *Publiceringskanal*
 - Granskning av kandidat
 
-{recruiter-name}
+**{recruiter-name}
 
 Rekryterarens namn
 
@@ -844,8 +844,8 @@ Påminnelse angående vidare åtgärd för ej behandlade kandidater
 Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTI3MjcwNywyMDQ0MzgyNjQxLDk4OD
-c5ODgzOCwxMTk5OTcxODk5LDE5ODU2MjMwOTQsLTQ0MjEwNDc5
-NCwtMTE1MjA0MzQ2OSw1ODgzNTUzMDgsLTg0MTEwMjg1NSwtMT
-Y5Mzc0MjM1OCwxMzEzMDQ5OTE5XX0=
+eyJoaXN0b3J5IjpbLTExNTg3Nzg2MjEsMTM1OTI3MjcwNywyMD
+Q0MzgyNjQxLDk4ODc5ODgzOCwxMTk5OTcxODk5LDE5ODU2MjMw
+OTQsLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1ODgzNTUzMDgsLT
+g0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5OTE5XX0=
 -->
