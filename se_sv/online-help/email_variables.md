@@ -876,12 +876,39 @@
 - Inkallelse till SHL och cut-e personlighetstest
 - Anpassad E-post
 
+**{test-code}**
+*Referenskod för test*
+- Inkallelse till MINT Matrigma och Service-F tester
 
+**{test-link}**
+*Länk till online-test*
+- Inkallelse till MINT Matrigma och Service-F tester
+
+**{test-password}**
+*Lösenord för åtkomst till 16PF-test*
+- 16PF E-postmeddelanden
+
+**{test-username}**
+*Användarnamn för åtkomst till 16PF-test*
+- 16PF E-postmeddelanden
+
+**{title}**
+*Jobbtitel*
+- Ansökan har mottagits
+- Registrering har mottagits
+- Kopia av ansökan
+- Avslag efter granskning av ansökan
+- Automatiskt avslag
+- Inbjudan till ett informationsmöte, 1:a, 2:a och 3:e möte
+- Avslag efter ett informationsmöte, 1:a, 2:a och 3:e möte
+- Bekräftelse på användarnamn
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
+- Vidarebefordra ansökan
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0ODk5MDEsLTQ3NDcyNDQ1NywxMz
-U5MjcyNzA3LDIwNDQzODI2NDEsOTg4Nzk4ODM4LDExOTk5NzE4
-OTksMTk4NTYyMzA5NCwtNDQyMTA0Nzk0LC0xMTUyMDQzNDY5LD
-U4ODM1NTMwOCwtODQxMTAyODU1LC0xNjkzNzQyMzU4LDEzMTMw
-NDk5MTldfQ==
+eyJoaXN0b3J5IjpbODczOTI2MDY5LC00NzQ3MjQ0NTcsMTM1OT
+I3MjcwNywyMDQ0MzgyNjQxLDk4ODc5ODgzOCwxMTk5OTcxODk5
+LDE5ODU2MjMwOTQsLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
+gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
+OTE5XX0=
 -->
