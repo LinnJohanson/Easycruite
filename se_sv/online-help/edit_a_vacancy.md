@@ -38,8 +38,7 @@ Ett automatiskt svarsbrev som är kopplat till det specifika projektet kan redig
 Det här alternativet gör att du kan ändra karriärsidor och andra publiceringskanaler för annonsen.
 Om annonsen inte är godkänd ännu kan du inte redigera något här.
 
-[Tillgångskontroll](../faq/who_has_access_to_a_vacancy.htm)
-
+[Tillgångskontroll:](../faq/who_has_access_to_a_vacancy.htm)
 Används för att välja vilka av systemets användare som ska ha tillgång till projektet. Listan på tillgängliga användare är uppdelad efter avdelningar. Du kan nu definiera en användares rättigheter för varje enskilt projekt. Tre olika behörighetsnivåer är aktiverade och inkluderar följande tillstånd (observera att listan inte är uttömmande):
 
 -   Endast lästillgång – Tillstånd att visa alla aspekter av projektet och kandidaterna i projektet
@@ -48,7 +47,16 @@ Används för att välja vilka av systemets användare som ska ha tillgång till
 
 Administratörer och avdelningsadministratörer behöver inte ges tillgångsrättigheter och visas därför inte i listan.
 
+För mer information om dessa alternativ, se  [Skapa ett rekryteringsprojekt](creating_a_new_vacancy.htm).
+
+##### Se även:
+
+![](../Resources/Images/icon-document-link.png)  [Skapa ett nytt rekryteringsprojekt](creating_a_new_vacancy.htm)
+![](../Resources/Images/icon-document-link.png)  [Aktivera ett rekryteringsprojekt](activating_a_vacancy.htm)
+![](../Resources/Images/icon-document-link.png)  [Godkännande av annons](vacancy_approvals.htm)
+![](../Resources/Images/icon-document-link.png)  [Radera ett rekryteringsprojekt](deleting_a_vacancy.htm)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4ODQzNDExXX0=
+eyJoaXN0b3J5IjpbLTI3MDkyMjgyNV19
 -->
