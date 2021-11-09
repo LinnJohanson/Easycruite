@@ -932,19 +932,15 @@
 
 **{url}**
 *Hemsida för återställning av lösenord*
--Bekräftelse på användarnamn
+- Bekräftelse på användarnamn
+- Detaljer överförda till CV-databas
+- Uppmaning till medarbetare att Skicka/Uppdatera CV
 
-Detaljer överförda till CV-databas
+**{user-cellular-telephone}**
+*Användarens mobiltelefonnummer*
+- E-postadress till publiceringskanal
 
-Uppmaning till medarbetare att Skicka/Uppdatera CV
-
-{user-cellular-telephone}
-
-Användarens mobiltelefonnummer
-
-E-postadress till publiceringskanal
-
-{user-family-name}
+**{user-family-name}**
 
 Användarens efternamn
 
@@ -957,7 +953,7 @@ Användarens förnamn
 E-postadress till publiceringskanal
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNTA3Njk5LC00NzQ3MjQ0NTcsMTM1OT
+eyJoaXN0b3J5IjpbNzM0NTM1NzEyLC00NzQ3MjQ0NTcsMTM1OT
 I3MjcwNywyMDQ0MzgyNjQxLDk4ODc5ODgzOCwxMTk5OTcxODk5
 LDE5ODU2MjMwOTQsLTQ0MjEwNDc5NCwtMTE1MjA0MzQ2OSw1OD
 gzNTUzMDgsLTg0MTEwMjg1NSwtMTY5Mzc0MjM1OCwxMzEzMDQ5
