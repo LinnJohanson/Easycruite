@@ -34,7 +34,54 @@ Om du markerar den här rutan innebär det att du som den inloggade användaren 
 Observera att detta kan leda till många e-postmeddelanden om du regelbundet begär att många kandidater ska granskas av många personer!
 
 7.  Klicka på  Skicka.
+
+När du står på en kandidatpost klickar du på  Processlista  för att visa datum- och tidsstämpeln för e-postmeddelandet som skickades och en kopia av e-postmeddelandet. Den sista kolumnen visar om mottagaren har slutfört granskningen (Ja eller Väntar).
+
+Granskare får det e-postmeddelande du skickade och kan klicka på länken i e-postmeddelandet för att gå till en unik sida där de kan granska kandidaterna.
+
+Granskare kan klicka på kandidatens namn för att se en översikt av dennes profil och CV. De kan sedan ange sina lämpliga poäng och kommentarer och klicka på  Skicka.
+
+Detta markerar att granskningen är genomförd i  Processlistan  för den kandidaten och om den som skickade begäran valde den tjänsten, får denne ett e-postmeddelande som informerar om att granskningen är klar.
+
+#### Visa rangordning
+
+1.  I rekryteringsöversikten kan du se att kandidaterna nu finns i sektionen som heter  Gemensam rangordning.
+2.  Om du klickar på det här objektet visas en lista över kandidater som har skickats in för granskning och du kan se den genomsnittliga poängen för varje kandidat.
+
+#### Konfigurera Gemensam rangordning
+
+1.  När du skapar/redigerar ett rekryteringsprojekt markerar du alternativet  Använd gemensam rangordning för detta projekt  på första sidan. Detta gör det möjligt för alla användare som har tillgång till rekryteringsprojektet och kandidaterna att ge en kandidat 1-7 poäng.
+2.  För att skicka ett e-postmeddelande, med en begäran om att de ska granska kandidaten, till specifika användare när en ny kandidat ansöker, väljer du  Gemensam rangordning  på sidan Redigera projektet och därefter väljer du de rekryterare som krävs.
+3.  Markera alternativet  Inkludera kandidatens personuppgifter och bifogade filer  för att skicka kandidatens information till de användare som tar del i rankningen.
+4.  Klicka på  Spara  när du är klar.
+
+#### Använda Gemensam rangordning
+
+Se till att föregående procedur i rekryteringsprojektet har slutförts.
+
+När en kandidat har ansökt om den lediga tjänsten skickas ett e-postmeddelande till de interna användare som ska utföra rangordningen.
+
+Användaren sätter sina poäng och skickar dem. För att göra detta:
+
+1.  Gå till rekryteringsprojektet och välj den kandidat som du vill rangordna. Öppna fliken  Gemensam rangordning.
+2.  Klicka på den lämpliga stjärnan vid  Din rangordning.  Genomsnittlig rangordning  uppdateras så for du gör detta.  
+    All annan rangordning visas under  Dina kollegors rangordning.  
+    
+3.  Om du vill kan du lägga till kommentarer i rutan  Infoga din kommentar i fältet nedan  eller  Svara  på befintliga kommentarer om det behövs.
+4.  Gå till sidan  Rekryteringsöversikt > Sökandehantering  i EasyCruit och klicka på länken  Gemensam rangordning.
+
+Kandidater har ett medelvärde i kolumnen  Rangordning.
+
+Om du väljer en kandidats  Namn  och därefter sidan  Gemensam rangordning, visas all rangordning och alla kommentarer som gjorts av någon som lämnat ett omdöme.
+
+##### Se även:
+
+![](../Resources/Images/icon-document-link.png)  [Fliken gemensam rangordning](collaborative_rating_tab.htm)
+![](../Resources/Images/icon-document-link.png)  [Paketet Advanced Selection and Contracting](advanced_selection_and_contraction_pack.htm)
+![](../Resources/Images/icon-document-link.png)  [Ansökan och CV – Sidöversikt](application_and_cv_page_overview.htm)
+![](../Resources/Images/icon-document-link.png)  [Fliken Tvåvägskommunikation via e-post](two_way_email_tab.htm)
+![](../Resources/Images/icon-document-link.png)  [Visa flera ansökningar från samma kandidat](viewing_a_candidates_multiple_applications.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzIwNzQ1LC03NjczNzc3NDhdfQ==
+eyJoaXN0b3J5IjpbLTE4OTM0MzQ3MTUsLTc2NzM3Nzc0OF19
 -->
