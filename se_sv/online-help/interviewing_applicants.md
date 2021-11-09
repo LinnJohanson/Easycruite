@@ -63,44 +63,26 @@ När en kandidat har blivit kallad till en intervju måste denne svara på e-pos
 
 När kandidater klickar på bekräftelselänken, vidarebefordras de till en annan hemsida där de kan svara, vilket uppdaterar deras status i EasyCruit. Följande tabell anger vad varje bekräftelsealternativ resulterar i. Statusen för  Acc. tid  anges i  Rekryteringskalendern  och statusen för  Ändra kallelsen till möte  visas på kandidatens sida  Ansökan och CV.
 
-Bekräftelsealternativ
-
-Acc. Tid/Status för Ändra kallelsen till möte
-
-Ja
-
-Accepterat
-
-Nej
-
-Ej accepterat
-
-Kontakta mig för ny tidpunkt
-
-Kontakta för ny tidpunkt
-
-Jag vill återkalla min ansökan
-
-Inte tillämpligt. Kandidatens  status för rekryteringsprojektet  uppdateras till  Dragit sig ur.
+*Bekräftelsealternativ* - Acc. Tid/Status för Ändra kallelsen till möte
+*Ja* - Accepterat
+*Nej* - Ej accepterat
+*Kontakta mig för ny tidpunkt* - Kontakta för ny tidpunkt
+Jag vill återkalla min ansökan - Inte tillämpligt. Kandidatens  status för rekryteringsprojektet  uppdateras till  Dragit sig ur.
 
 Beroende på kandidatens svar kan intervjun äga rum och statusen kan uppdateras därefter, efter intervjun.
 
 För att läsa mer om intervjuer och status för kallelser, se  [Rekryteringskalender.](recruitment_calendar.htm)
 
-Se även:
+#### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Rekryteringskalender](recruitment_calendar.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Testintegrationer](test_integrations.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Göra ett erbjudande till en sökande](making_an_offer_to_an_applicant.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Gemensam rangordning/Panelgranskning](collaborative_rating_panel_review.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Sökandehantering – Sidöversikt](application_handling_page_overview.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDE3MTUxNF19
+eyJoaXN0b3J5IjpbLTE5MzQxMjMzMjVdfQ==
 -->
