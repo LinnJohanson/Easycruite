@@ -60,10 +60,9 @@ E-postmeddelande som skickas manuellt till kandidater med besked om att de inte 
 
 **Avslag efter intervju 3 (1):**
 E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
-
+***
 (Mall)
 Övrigt
-
 Beskrivning
 
 Spara och skicka inloggningsuppgifter
@@ -171,6 +170,6 @@ Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 Meddelande till rekryteraren för varje genomförd panelgranskning.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTYzMjMwNDQsLTE0MTk2OTc5MjIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTkyNTY3MzA2LC0xNDE5Njk3OTIyLDczMD
+k5ODExNl19
 -->
