@@ -29,11 +29,12 @@ E-postmeddelande som skickas till kandidater som inte uppnår tillräckligt bra 
 (Mall)
 **Tidsbestämt avslag:**
 Beskrivning
-
-Tidsbestämt avslag (1, 2)
-
+***
+**Tidsbestämt avslag (1, 2):**
 E-postmeddelande som skickas till kandidater med information om att deras ansökan inte går vidare. Det skickas baserat på brist på vidare åtgärd under en bestämd tidsperiod (veckor).
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NDU2MjQyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0MTk2OTc5MjIsNzMwOTk4MTE2XX0=
 -->
