@@ -3,6 +3,7 @@
 Följande tabell beskriver de fält som används för Kandidatexport.
 
 **Fältnamn** *Beskrivning*
+
 **Kandidatens ID**
 *Unikt systemgenererat kandidat-ID*
 
@@ -125,5 +126,5 @@ Följande tabell beskriver de fält som används för Kandidatexport.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU2ODIzMTldfQ==
+eyJoaXN0b3J5IjpbMjExNzg3MTkwMywtMTE3NTY4MjMxOV19
 -->
