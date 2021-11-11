@@ -148,39 +148,31 @@ Meddelande till rekryteraren för varje genomförd panelgranskning.
 Beskrivning
 ***
 **Ansökan har mottagits**
-
 Brev per post som används för att bekräfta att en ansökan till ett rekryteringsprojekt har mottagits.
 
-Avslag på ansökan
-
+**Avslag på ansökan**
 Brev per post som används för att bekräfta att en ansökan inte ledde till en anställning.
-
-E-post till standard publiceringskanal
-
+***
+**E-post till standard publiceringskanal**
 Beskrivning
+***
+**E-postmeddelande för att starta publicering**
+E-postmeddelande som skickas till en publiceringskanal för att be dem att publicera en nya annons. Detta e-postmeddelande kan använda taggen < department-about-inherited /> för att säkerställa att Om-informationen relaterad till ett rekryteringsprojekt som visas på en karriärssida och som inkluderats i e-postmeddelandet matchar. Om taggen används, visas Om-informationen för den avdelning som är kopplad till rekryteringsprojektet, om den är tillgänglig. Om inte, söker taggen uppåt i avdelningsnivåer tills den hittar Om-information att inkludera i e-postmeddelandet.
 
-E-postmeddelande för att starta publicering
-
-E-postmeddelande som skickas till en publiceringskanal för att be dem att publicera en nya annons. Detta e-postmeddelande kan använda taggen <department-about-inherited /> för att säkerställa att Om-informationen relaterad till ett rekryteringsprojekt som visas på en karriärssida och som inkluderats i e-postmeddelandet matchar. Om taggen används, visas Om-informationen för den avdelning som är kopplad till rekryteringsprojektet, om den är tillgänglig. Om inte, söker taggen uppåt i avdelningsnivåer tills den hittar Om-information att inkludera i e-postmeddelandet.
-
-E-postmeddelande för att stoppa publicering
-
+**E-postmeddelande för att stoppa publicering**
 E-postmeddelande för att stoppa publiceringen av ett rekryteringsprojekt.
-
-E-postmeddelande om personlighetstest
-
+***
+(Mall)
+**E-postmeddelande om personlighetstest**
 Beskrivning
-
-Inkallelse till SHL:s personlighetstest
-
+***
+**Inkallelse till SHL:s personlighetstest**
 E-postmeddelande som skickas till kandidater med en inbjudan till ett SHL personlighetstest.
 
-Inkallelse till Master Management personlighetstest
-
+**Inkallelse till Master Management personlighetstest**
 E-postmeddelande som skickas till kandidater med en inbjudan till ett Master Management personlighetstest.
 
-Inkallelse till cut-e personlighetstest
-
+**Inkallelse till cut-e personlighetstest**
 E-postmeddelande som skickas till kandidater med en inbjudan till ett cut-e personlighetstest.
 
 Anpassningsbar e-postmall
@@ -205,7 +197,7 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTU5MDc5NCwtMTkzODEwMTk4LDg1OT
+eyJoaXN0b3J5IjpbMTIyOTA1MTgzOSwtMTkzODEwMTk4LDg1OT
 c1NDQxNywxMDU0OTU0MjksMTA1NDk1NDI5LDE5MjU2NzMwNiwt
 MTQxOTY5NzkyMiw3MzA5OTgxMTZdfQ==
 -->
