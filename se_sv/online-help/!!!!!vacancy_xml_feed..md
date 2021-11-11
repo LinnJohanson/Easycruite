@@ -30,11 +30,11 @@ EasyCruit stöder flera publiceringsperioder som kan väljas av användaren. Som
 
 <Location>Fritextfält med placeringsort</Location>
 
-<Engagement>Fritextfält med anställningstid</Engagement>
+< Engagement>Fritextfält med anställningstid</ Engagement>
 
-<Region>
+< Region>
 
-<Country id="xx" name="Sweden"> (Land där jobbet finns)
+< Country id="xx" name="Sweden"> (Land där jobbet finns)
 
 <County id="xxx">Region i det valda landet</County>
 
@@ -42,11 +42,11 @@ EasyCruit stöder flera publiceringsperioder som kan väljas av användaren. Som
 
 </Region>
 
-<Categories>
+< Categories>
 
-<Item type="area-of-interest" id="xxx">Intresseområde</Item>
+< Item type="area-of-interest" id="xxx">Intresseområde</Item>
 
-<Item type="position-type" id="xxx">Jobbkategori</Item>
+< Item type="position-type" id="xxx">Jobbkategori</Item>
 
 <Item type="job-level" id="xxx">Nivå</Item>
 
@@ -167,5 +167,5 @@ Annons:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEzNzc1NDNdfQ==
+eyJoaXN0b3J5IjpbMTk0NDk4MzY2OV19
 -->
