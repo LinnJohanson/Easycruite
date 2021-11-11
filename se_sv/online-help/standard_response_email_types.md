@@ -101,56 +101,43 @@ E-postmeddelande som skickas till kandidater när en ny tjänst passar deras pro
 **Påminnelse till ej uppdaterade kandidater**
 E-postmeddelande som skickas till kandidater som inte har uppdaterat sitt CV inom en bestämd tidsperiod, med en uppmaning att logga in på kandidatsidan och uppdatera sina uppgifter.
 
-Meddelande till kandidater som ska tas bort och som har inloggning
-
+**Meddelande till kandidater som ska tas bort och som har inloggning**
 E-post postmeddelande sänt till kandidater som har en inloggning men som inte har varit aktiva inom en angiven tidsperiod.
 
-Meddelande till kandidater som ska tas bort och som inte har inloggning
-
+**Meddelande till kandidater som ska tas bort och som inte har inloggning**
 E-post postmeddelande sänt till kandidater som har en inloggning men som inte har varit aktiva inom en angiven tidsperiod.
 
-Påminnelse angående vidare åtgärd för ej behandlade kandidater (1)
-
+**Påminnelse angående vidare åtgärd för ej behandlade kandidater (1)**
 E-postmeddelande som skickas till relevanta kontakter, med uppgifter om kandidater som inte har varit aktiva inom en angiven tidsperiod för ett specifikt rekryteringsprojekt.
 
-Delad rangordning av kandidater
-
+**Delad rangordning av kandidater**
 E-postmeddelande som skickas till relevanta kontakter med en uppmaning att lämna sin feedback om en kandidats kvalitet. Meddelandet innehåller en länk till sidan där de kan poängsätta kandidaten.
 
-Meddelande till nya användare
-
+**Meddelande till nya användare**
 E-postmeddelande som skickas till nya användare med ett användarnamn och lösenord för inloggning i EasyCruit.
 
-Godkännande av annons
-
+**Godkännande av annons**
 E-postmeddelande för att godkänna/ej godkänna en annons. Det här e-postmeddelande skickas till användare som utsetts som godkännare för ett rekryteringsprojekt
 
-Påminnelse angående sista ansökningsdag för publicerad annons (1 , 2)
-
+**Påminnelse angående sista ansökningsdag för publicerad annons (1 , 2)**
 E-postmeddelande som skickas till rekryterare ett fastställt antal dagar före rekryteringsprojektets sista ansökningsdag. Detta ger rekryterare tid att förlänga sista ansökningsdag om det behövs.
 
-E-postmeddelande om återställning av lösenord
-
+**E-postmeddelande om återställning av lösenord**
 E-postmeddelande som skickas till användare som begärt ett nytt lösenord.
 
-E-postmeddelande med anställningskontrakt
-
+**E-postmeddelande med anställningskontrakt**
 E-postmeddelande som skickas till användare som har fått erbjudande om anställning.
 
-Tipsa en vän
-
+**Tipsa en vän**
 E-postmeddelande som används för att ge kandidater möjlighet att skicka rekryteringsprojekt till sina vänner.
 
-Portabelt CV
-
+**Portabelt CV**
 E-postmeddelande som används för att skicka ett Portabelt CV.
 
-Uppdatera automatiskt till sparad
-
+**Uppdatera automatiskt till sparad**
 Uppdatera automatiskt kandidatens kategorisering från kandidat till sparad.
 
-Skickar e-post för att få kandidater granskade
-
+**Skickar e-post för att få kandidater granskade**
 E-postmeddelande till mottagare i granskningspanel där man ber dem att rangordna och/eller ge kommentarer.
 
 Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
@@ -161,7 +148,7 @@ Meddelande till rekryteraren för varje genomförd panelgranskning.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDk2MjY5Miw4NTk3NTQ0MTcsMTA1ND
+eyJoaXN0b3J5IjpbLTE5MzgxMDE5OCw4NTk3NTQ0MTcsMTA1ND
 k1NDI5LDEwNTQ5NTQyOSwxOTI1NjczMDYsLTE0MTk2OTc5MjIs
 NzMwOTk4MTE2XX0=
 -->
