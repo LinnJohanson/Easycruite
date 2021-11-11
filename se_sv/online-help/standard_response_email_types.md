@@ -33,8 +33,43 @@ Beskrivning
 **Tidsbestämt avslag (1, 2):**
 E-postmeddelande som skickas till kandidater med information om att deras ansökan inte går vidare. Det skickas baserat på brist på vidare åtgärd under en bestämd tidsperiod (veckor).
 
+(Mall)
+**Kalla till möte / avslag:**
+Beskrivning
 
+Informationsmöte/telefonintervju (1)
+
+E-postmeddelande som skickas till kandidater för att kalla till informationsmöte/telefonintervju.
+
+Intervju 1 (1)
+
+E-postmeddelande som skickas till kandidater för att kalla till intervju 1.
+
+Intervju 2 (1)
+
+E-postmeddelande som skickas till kandidater för att kalla till intervju 2.
+
+Intervju 3 (1)
+
+E-postmeddelande som skickas till kandidater för att kalla till intervju 3.
+
+Avslag efter informationsmöte/telefonintervju (1)
+
+E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
+
+Avslag efter intervju 1 (1)
+
+E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
+
+Avslag efter intervju 2 (1)
+
+E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
+
+Avslag efter intervju 3 (1)
+
+E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk2OTc5MjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwNDQ2NTQ5NzMsLTE0MTk2OTc5MjIsNz
+MwOTk4MTE2XX0=
 -->
