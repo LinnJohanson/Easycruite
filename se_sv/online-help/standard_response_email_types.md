@@ -83,26 +83,22 @@ E-postmeddelande som skickas till kandidater med information om att deras uppgif
 **Inkallelse till Service-F test**
 E-postmeddelande som skickas till kandidater som man vill bjuda in till en Service-F test.
 
-Inbjudan till Matrigma-test
+**Inbjudan till Matrigma-test**
 E-postmeddelande som skickas till kandidater som man vill bjuda in till en Matrigma-test.
 
-Inkallelse till 16PF test
+**Inkallelse till 16PF test**
 E-postmeddelande som skickas till kandidater som man vill bjuda in till en 16PF-test.
 
-Inbjudan till MINT-test
-
+**Inbjudan till MINT-test**
 E-postmeddelande som skickas till kandidater som man vill bjuda in till en MINT-test.
 
-cut-e sammanställning av resultat
-
+**cut-e sammanställning av resultat**
 Inbjudan som skickas till kandidater som har genomfört ett cut-e personlighetstest.
 
-Jobbagent
-
+**Jobbagent**
 E-postmeddelande som skickas till kandidater när en ny tjänst passar deras profil.
 
-Påminnelse till ej uppdaterade kandidater
-
+**Påminnelse till ej uppdaterade kandidater**
 E-postmeddelande som skickas till kandidater som inte har uppdaterat sitt CV inom en bestämd tidsperiod, med en uppmaning att logga in på kandidatsidan och uppdatera sina uppgifter.
 
 Meddelande till kandidater som ska tas bort och som har inloggning
@@ -162,14 +158,10 @@ Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 Meddelande till rekryteraren för varje genomförd panelgranskning.
 
 
-![](../Resources/Images/icon-document-link.png)  [E-postvariabler](email_variables.htm)
 
-![](../Resources/Images/icon-document-link.png)  [Avbeställ prenumeration på Jobbagenten](unsubscribe_from_job_agent.htm)
-
-![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTcxNDM1Myw4NTk3NTQ0MTcsMTA1ND
+eyJoaXN0b3J5IjpbMTEyNDk2MjY5Miw4NTk3NTQ0MTcsMTA1ND
 k1NDI5LDEwNTQ5NTQyOSwxOTI1NjczMDYsLTE0MTk2OTc5MjIs
 NzMwOTk4MTE2XX0=
 -->
