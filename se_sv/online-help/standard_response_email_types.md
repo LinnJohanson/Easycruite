@@ -74,13 +74,13 @@ E-postmeddelande som skickas till kandidater som inte fick jobbet. Innehåller d
 **Be medarbetare lägga in sitt CV** 
 E-postmeddelande som skickas till interna medarbetare och som inbjuder dem att logga in på företagets kandidatsida och kontrollera att deras uppgifter är aktuella.
 
-Vidarebefordra CV via e-post (1)
+**Vidarebefordra CV via e-post (1)**
 E-postmeddelande som vidarebefordrats till relevanta kontakter och som innehåller kandidatens CV och ansökan.
 
-Spara och skicka inloggningsuppgifter
+**Spara och skicka inloggningsuppgifter**
 E-postmeddelande som skickas till kandidater med information om att deras uppgifter är lagrade i CV-databasen och att de kan logga in med sitt användarnamn och lösenord och ändra sina uppgifter.
 
-Inkallelse till Service-F test
+**Inkallelse till Service-F test**
 E-postmeddelande som skickas till kandidater som man vill bjuda in till en Service-F test.
 
 Inbjudan till Matrigma-test
@@ -169,7 +169,7 @@ Meddelande till rekryteraren för varje genomförd panelgranskning.
 ![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NzU0NDE3LDEwNTQ5NTQyOSwxMDU0OT
-U0MjksMTkyNTY3MzA2LC0xNDE5Njk3OTIyLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMTgxNTcxNDM1Myw4NTk3NTQ0MTcsMTA1ND
+k1NDI5LDEwNTQ5NTQyOSwxOTI1NjczMDYsLTE0MTk2OTc5MjIs
+NzMwOTk4MTE2XX0=
 -->
