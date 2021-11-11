@@ -174,19 +174,18 @@ E-postmeddelande som skickas till kandidater med en inbjudan till ett Master Man
 
 **Inkallelse till cut-e personlighetstest**
 E-postmeddelande som skickas till kandidater med en inbjudan till ett cut-e personlighetstest.
-
-Anpassningsbar e-postmall
-
+***
+(Mall)
+**Anpassningsbar e-postmall**
 Beskrivning
-
-Innehåller e-postmeddelanden som skapats för användaren.
-
+***
+**Innehåller e-postmeddelanden som skapats för användaren.**
 Den här sektionen måste aktiveras av din EasyCruit-konsult. När den är aktiverad visas den även om det inte finns några mallar.
 
 1.  En tidsfördröjning kan tillämpas på detta e-postmeddelande. Detta alternativ är användbart för att undvika omedelbara automatiska svar till kandidater.
 2.  Det finns möjlighet att aktivera denna e-posttyp automatiskt för nya rekryteringsprojekt.
 
-Se även:
+##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [E-postvariabler](email_variables.htm)
 
@@ -197,7 +196,7 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTA1MTgzOSwtMTkzODEwMTk4LDg1OT
-c1NDQxNywxMDU0OTU0MjksMTA1NDk1NDI5LDE5MjU2NzMwNiwt
-MTQxOTY5NzkyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTE4NjkyMDkxLC0xOTM4MTAxOTgsODU5Nz
+U0NDE3LDEwNTQ5NTQyOSwxMDU0OTU0MjksMTkyNTY3MzA2LC0x
+NDE5Njk3OTIyLDczMDk5ODExNl19
 -->
