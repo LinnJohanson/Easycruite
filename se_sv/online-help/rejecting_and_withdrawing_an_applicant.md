@@ -29,7 +29,7 @@ För information om överföring av en kandidat till ett annat rekryteringsproje
 
 ##### Se även:
 
-![](../Resources/Images/icon-document-link.png)  [Överföra kandidater](transferring_applicants.htm)
+![](../Resources/Images/icon-document-link.png)  [Överföra kandidater](transferring_applicants.htm) 
 ![](../Resources/Images/icon-document-link.png)  [Radera en kandidat](deleting_an_applicant.htm)
 ![](../Resources/Images/icon-document-link.png)  [Sökandehantering – Sidöversikt](application_handling_page_overview.htm)
 ![](../Resources/Images/icon-document-link.png)  [Behandla ansökningar](processing_applications.htm)
@@ -38,5 +38,5 @@ För information om överföring av en kandidat till ett annat rekryteringsproje
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTU2ODM0MF19
+eyJoaXN0b3J5IjpbLTEzMDg1OTM3NDYsLTU4NTU2ODM0MF19
 -->
