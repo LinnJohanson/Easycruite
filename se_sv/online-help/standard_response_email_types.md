@@ -166,8 +166,15 @@ E-postmeddelande till mottagare i granskningspanel där man ber dem att rangordn
 Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 
 Meddelande till rekryteraren för varje genomförd panelgranskning.
+
+
+![](../Resources/Images/icon-document-link.png)  [E-postvariabler](email_variables.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Avbeställ prenumeration på Jobbagenten](unsubscribe_from_job_agent.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjMyMTY1NCwxOTI1NjczMDYsLTE0MT
-k2OTc5MjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTA1NDk1NDI5LDE5MjU2NzMwNiwtMTQxOT
+Y5NzkyMiw3MzA5OTgxMTZdfQ==
 -->
