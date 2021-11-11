@@ -168,13 +168,13 @@ Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 Meddelande till rekryteraren för varje genomförd panelgranskning.
 
 
-![](../Resources/Images/icon-document-link.png)  [E-postvariabler](email_variables.htm)
+[E-postvariabler](email_variables.htm)
 
 ![](../Resources/Images/icon-document-link.png)  [Avbeställ prenumeration på Jobbagenten](unsubscribe_from_job_agent.htm)
 
 ![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDk1NDI5LDE5MjU2NzMwNiwtMTQxOT
-Y5NzkyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTQ1NjEwNTg3NiwxMDU0OTU0MjksMTkyNT
+Y3MzA2LC0xNDE5Njk3OTIyLDczMDk5ODExNl19
 -->
