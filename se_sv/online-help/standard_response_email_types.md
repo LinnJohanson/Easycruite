@@ -37,39 +37,31 @@ E-postmeddelande som skickas till kandidater med information om att deras ansök
 **Kalla till möte / avslag:**
 Beskrivning
 
-Informationsmöte/telefonintervju (1)
-
+**Informationsmöte/telefonintervju (1):**
 E-postmeddelande som skickas till kandidater för att kalla till informationsmöte/telefonintervju.
 
-Intervju 1 (1)
-
+Intervju 1 (1):
 E-postmeddelande som skickas till kandidater för att kalla till intervju 1.
 
-Intervju 2 (1)
-
+Intervju 2 (1):
 E-postmeddelande som skickas till kandidater för att kalla till intervju 2.
 
-Intervju 3 (1)
-
+Intervju 3 (1):
 E-postmeddelande som skickas till kandidater för att kalla till intervju 3.
 
-Avslag efter informationsmöte/telefonintervju (1)
-
+Avslag efter informationsmöte/telefonintervju (1):
 E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
 
-Avslag efter intervju 1 (1)
-
+Avslag efter intervju 1 (1):
 E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
 
-Avslag efter intervju 2 (1)
-
+Avslag efter intervju 2 (1):
 E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
 
-Avslag efter intervju 3 (1)
-
+Avslag efter intervju 3 (1):
 E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQ2NTQ5NzMsLTE0MTk2OTc5MjIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE1NDU5NjgxNywtMTQxOTY5NzkyMiw3Mz
+A5OTgxMTZdfQ==
 -->
