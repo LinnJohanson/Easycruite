@@ -65,18 +65,15 @@ E-postmeddelande som skickas manuellt till kandidater med besked om att de inte 
 **Övrigt**
 Beskrivning
 ***
-
-Spara och skicka inloggningsuppgifterE-postmeddelande som skickas till 
+Spara och skicka inloggningsuppgifter -
+E-postmeddelande som skickas till kandidater med information om att deras uppgifter är lagrade i CV-databasen och att de kan logga in med sitt användarnamn och lösenord och ändra sina uppgifter.
 ***
-kandidater med information om att deras uppgifter är lagrade i CV-databasen och att de kan logga in med sitt användarnamn och lösenord och ändra sina uppgifter.
-
 **Överför ej anställda kandidater till CV-databasen**
 E-postmeddelande som skickas till kandidater som inte fick jobbet. Innehåller deras användarnamn och lösenord och inbjuder dem att ansöka om andra lediga tjänster.
-
-Be medarbetare lägga in sitt CV
-
+***
+Be medarbetare lägga in sitt CV - 
 E-postmeddelande som skickas till interna medarbetare och som inbjuder dem att logga in på företagets kandidatsida och kontrollera att deras uppgifter är aktuella.
-
+***
 Vidarebefordra CV via e-post (1)
 
 E-postmeddelande som vidarebefordrats till relevanta kontakter och som innehåller kandidatens CV och ansökan.
@@ -177,7 +174,7 @@ Meddelande till rekryteraren för varje genomförd panelgranskning.
 ![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjMyNjUzLDEwNTQ5NTQyOSwxMDU0OT
-U0MjksMTkyNTY3MzA2LC0xNDE5Njk3OTIyLDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMjEzNDUwMDUyNywxMDU0OTU0MjksMTA1ND
+k1NDI5LDE5MjU2NzMwNiwtMTQxOTY5NzkyMiw3MzA5OTgxMTZd
+fQ==
 -->
