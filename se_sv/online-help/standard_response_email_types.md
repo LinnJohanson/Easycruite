@@ -68,8 +68,7 @@ Beskrivning
 **Spara och skicka inloggningsuppgifter**
 E-postmeddelande som skickas till kandidater med information om att deras uppgifter är lagrade i CV-databasen och att de kan logga in med sitt användarnamn och lösenord och ändra sina uppgifter.
 
-Överför ej anställda kandidater till CV-databasen
-
+**Överför ej anställda kandidater till CV-databasen**
 E-postmeddelande som skickas till kandidater som inte fick jobbet. Innehåller deras användarnamn och lösenord och inbjuder dem att ansöka om andra lediga tjänster.
 
 Be medarbetare lägga in sitt CV
@@ -169,6 +168,6 @@ Skickar e-post tillbaka till rekryteraren för att bekräfta granskningen
 Meddelande till rekryteraren för varje genomförd panelgranskning.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3MTc2Nzk2LDE5MjU2NzMwNiwtMTQxOT
-Y5NzkyMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTM0NjMyMTY1NCwxOTI1NjczMDYsLTE0MT
+k2OTc5MjIsNzMwOTk4MTE2XX0=
 -->
