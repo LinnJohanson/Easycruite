@@ -36,7 +36,7 @@ E-postmeddelande som skickas till kandidater med information om att deras ansök
 (Mall)
 **Kalla till möte / avslag:**
 Beskrivning
-
+***
 **Informationsmöte/telefonintervju (1):**
 E-postmeddelande som skickas till kandidater för att kalla till informationsmöte/telefonintervju.
 
@@ -62,11 +62,13 @@ E-postmeddelande som skickas manuellt till kandidater med besked om att de inte 
 E-postmeddelande som skickas manuellt till kandidater med besked om att de inte kommer att gå vidare i ansökningsprocessen.
 ***
 (Mall)
-Övrigt
+**Övrigt**
 Beskrivning
+***
 
-**Spara och skicka inloggningsuppgifter**
-E-postmeddelande som skickas till kandidater med information om att deras uppgifter är lagrade i CV-databasen och att de kan logga in med sitt användarnamn och lösenord och ändra sina uppgifter.
+Spara och skicka inloggningsuppgifterE-postmeddelande som skickas till 
+***
+kandidater med information om att deras uppgifter är lagrade i CV-databasen och att de kan logga in med sitt användarnamn och lösenord och ändra sina uppgifter.
 
 **Överför ej anställda kandidater till CV-databasen**
 E-postmeddelande som skickas till kandidater som inte fick jobbet. Innehåller deras användarnamn och lösenord och inbjuder dem att ansöka om andra lediga tjänster.
@@ -175,6 +177,7 @@ Meddelande till rekryteraren för varje genomförd panelgranskning.
 ![](../Resources/Images/icon-document-link.png)  [Fliken Processlista](recruitment_activities_list_tab.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDk1NDI5LDEwNTQ5NTQyOSwxOTI1Nj
-czMDYsLTE0MTk2OTc5MjIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM0MjMyNjUzLDEwNTQ5NTQyOSwxMDU0OT
+U0MjksMTkyNTY3MzA2LC0xNDE5Njk3OTIyLDczMDk5ODExNl19
+
 -->
