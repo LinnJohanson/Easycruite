@@ -98,19 +98,19 @@ Förutom ovanstående variabler är finns dessa variabler för platsannonsen.
 
 <AreaCode>Postnummer</AreaCode>
 
-</Address>
+</ Address>
 
-<Address type="office">(Avdelningens besöksadress)
+< Address type="office">(Avdelningens besöksadress)
 
-<Street>Gatuadress/nummer</Street>
+< Street>Gatuadress/nummer</Street>
 
-<Area>Ort</Area>
+< Area>Ort</Area>
 
-<AreaCode>Postnummer</AreaCode>
+< AreaCode>Postnummer</AreaCode>
 
-</Address>
+< /Address>
 
-<Telephone type="office">Telefon</Telephone>
+< Telephone type="office">Telefon</ Telephone>
 
 <Telephone type="telefax">Fax</Telephone>
 
@@ -167,5 +167,5 @@ Annons:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDk4MzY2OV19
+eyJoaXN0b3J5IjpbMTU3NTM2OTE5NSwxOTQ0OTgzNjY5XX0=
 -->
