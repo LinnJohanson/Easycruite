@@ -6,20 +6,16 @@ Export – Projektspecifika frågor omfattar kandidaters svar på projektspecifi
 **Fältnamn**
 Beskrivning
 ***
-Kandidatens ID
-
+**Kandidatens ID**
 Unikt systemgenererat kandidat-ID
 
-Projekt/annons-ID
-
+**Projekt/annons-ID**
 Unikt systemgenererat projekt/annons-ID
 
 Rekryteringsprojekts referensnummer
-
 Referensnummer för rekryteringsprojekt om använt
 
 Rekryteringstitel
-
 Intern annonstitel (rekryteringstitel), som kan ändras när som helst. Inte titeln som jobbannonsen fått
 
 Avdelningsnamn
@@ -105,5 +101,5 @@ Obs! Rubriken ändras baserat på frågans titel
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwMTAwMzA3XX0=
+eyJoaXN0b3J5IjpbMjAwMzQzNDA3XX0=
 -->
