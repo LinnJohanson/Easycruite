@@ -9,17 +9,17 @@ Från  Rekryteringskalendern  kan du nå en kandidats ansökningsuppgifter, skic
 -   Aktivitet  – Detta visar vilket aktivitetssteg den sökande befinner sig på och som rekryteraren behöver agera på.
 -   Acc. tid  – Detta visar om den sökande har svarat på en kallelse till intervju eller inte, och vid svar, vad svaret var.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Visa Rekryteringskalendern
+#### Visa Rekryteringskalendern
 
 1.  På  Startsidan  väljer du  Rekryteringskalender
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Filtrera aktivitetslistan
+#### Filtrera aktivitetslistan
 
 1.  På  Startsidan  väljer du  Rekryteringskalender
 2.  Från  välj Aktivitetslista,  och välj sedan vilken intervjutyp som du vill visa.
 3.  Ange önskat  Startdatum  och  Slutdatum  och klicka på  Sök  för att filtrera listan.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Visa en sökandes uppgifter
+#### Visa en sökandes uppgifter
 
 1.  I  Rekryteringskalendern  klickar du på  den sökandes  namn.
 
@@ -40,5 +40,5 @@ Från  Rekryteringskalendern  kan du nå en kandidats ansökningsuppgifter, skic
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDQ5MjU2MV19
+eyJoaXN0b3J5IjpbMTQxMDcwNDg2XX0=
 -->
