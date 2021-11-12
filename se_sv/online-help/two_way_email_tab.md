@@ -2,13 +2,13 @@
 
 Tvåvägskommunikation via e-post skapar en e-posttrådshistorik mellan rekryteraren och kandidaten när den initieras från den här delen av systemet.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Skicka tvåvägskommunikation via e-post
+#### Skicka tvåvägskommunikation via e-post
 
 1.  Välj det lämpliga rekryteringsprojektet och välj sedan  Alla ansökningar  för att visa  listan  Kandidater.
 2.  Välj  Kandidatnamnet  och gå sedan till  fliken  Tvåvägskommunikation via e-post.
 3.  Klicka på  Skriv e-postmeddelande till kandidaten  för att automatiskt öppna Microsoft® Outlook med den systemgenererade e-postadressen till kandidaten i fältet  Till.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Titta på detaljerna i ett tvåvägs-e-postmeddelande
+#### Titta på detaljerna i ett tvåvägs-e-postmeddelande
 
 1.  Gå till fliken  Tvåvägskommunikation via e-post,  för musen över fälten  Från  och  Till  för att se användarens e-postadress.
 2.  Klicka på något av värdena för att visa e-postmeddelandet och eventuella bilagor.
@@ -25,5 +25,5 @@ Tvåvägskommunikation via e-post skapar en e-posttrådshistorik mellan rekryter
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzgwNTUyN119
+eyJoaXN0b3J5IjpbMjk0MzE3Nzg3XX0=
 -->
