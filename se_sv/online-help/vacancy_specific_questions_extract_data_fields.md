@@ -12,7 +12,7 @@ Unikt systemgenererat kandidat-ID
 **Projekt/annons-ID**
 Unikt systemgenererat projekt/annons-ID
 
-Rekryteringsprojekts referensnummer
+**Rekryteringsprojekts referensnummer**
 Referensnummer för rekryteringsprojekt om använt
 
 Rekryteringstitel
@@ -101,5 +101,5 @@ Obs! Rubriken ändras baserat på frågans titel
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzQzNDA3XX0=
+eyJoaXN0b3J5IjpbMTA5OTYwMDgxNSwyMDAzNDM0MDddfQ==
 -->
