@@ -81,20 +81,16 @@ Detta gör det möjligt för rekryteraren att skicka ett brev till kandidaten. F
 
 Detta gör det möjligt för rekryteraren att skicka ett e-postmeddelande till interna/externa personer med en länk så att de kan granska kandidaterna och sätta ett betyg mellan 1 och 7 samt lämna kommentarer. (se  [Gemensam rangordning/Panelgranskning](collaborative_rating_panel_review.htm)).
 
-Se även:
+##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Få tillgång till EasyCruit](accessing_easycruit.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Navigera i EasyCruit](navigation_in_easycruit.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Wysiwyg/Texteditor](wysiwyg_text_editor.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Skapa ett nytt rekryteringsprojekt](creating_a_new_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Ta emot ansökningar](receiving_applications.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NTc1ODM2XX0=
+eyJoaXN0b3J5IjpbOTU3MTM2NjYxXX0=
 -->
