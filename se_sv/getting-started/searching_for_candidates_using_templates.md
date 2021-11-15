@@ -4,7 +4,7 @@ Med hjälp av sökmallar kan kriterierna för en sökning konfigureras en gång 
 
 För mer information om sökmallar se  [Sökmallar](../online-help/search_templates.htm).
 
-##Göra en avancerad sökning med hjälp av en sökmall
+#### Göra en avancerad sökning med hjälp av en sökmall
 
 1.  På  Startsidan  väljer du  Sök  och sedan klickar du på  Gå till avancerad sökning.
 2.  Välj önskad mall från listan  Välj sökmall.
@@ -20,5 +20,5 @@ För mer information om sökmallar se  [Sökmallar](../online-help/search_templa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDc1ODg4MV19
+eyJoaXN0b3J5IjpbLTEwNzc0NzQ4MDNdfQ==
 -->
