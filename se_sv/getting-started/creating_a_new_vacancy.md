@@ -4,7 +4,7 @@
 
 EasyCruit förser rekryterar med en rutin för att skapa rekryteringsprojekt som är skräddarsydd för ett företags specifika behov. Med tanke på det, är det möjligt att följande rutinbeskrivning kan variera något från ditt företags rutin för att skapa rekryteringsprojekt. Det är viktigt att EasyCruit-administratören har konfigurerat systemet på rätt sätt innan du börjar skapa rekryteringsprojekt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Instruktioner
+#### Instruktioner
 
 1.  Välj snabblänken till  Ny rekrytering  i övre delen av sidan för att visa sidan Ny rekrytering. En förloppsindikator kommer att visas för de olika stegen så att du kan se hur långt du har kommit i processen med att skapa rekryteringsprojektet.  
     Du kan flytta dig mellan stegen genom att klicka på stegen på förloppsindikatorn. Ett steg kommer endast att vara aktivt om det går att arbeta på det steget. Till exempel är stegen  Avdelningar och Kontaktpersoner  endast aktiva efter att stegen  Rekryteringstitel och regioner  har slutförts.
@@ -55,10 +55,9 @@ EasyCruit förser rekryterar med en rutin för att skapa rekryteringsprojekt som
     Det är valfritt att använda en godkännare. Det är möjligt att det här steget inte ingår i ditt företags rutiner för att skapa annonser.
 24.  Klicka på  Nästa  och sedan på  Slutför och publicera  för att skicka annonsen och visa sidan  Redigera projektet. Nu har rekryteringsprojektet sparats i EasyCruit och kan aktiveras och göras tillgängligt på företagets hemsida, eller så kan ytterligare ändringar kan göras, till exempel ge andra användare  [tillgång till rekryteringsprojektet](../faq/who_has_access_to_a_vacancy.htm)  eller ställa in Projektprofilfrågor.
 
-Se även:
+##### Se även:
 
 ![](../Resources/Images/icon-document-link.png)  [Lägga till kandidater](../online-help/adding_candidates.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Lägga till medarbetare](../online-help/adding_employees.htm)
 ![](../Resources/Images/icon-document-link.png)  [Söka efter kandidater](../online-help/searching_for_candidates.htm)
 ![](../Resources/Images/icon-document-link.png)  [Användare: Skapa, Redigera, Radera](../online-help/users_create_edit_delete.htm)
@@ -66,5 +65,5 @@ Se även:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTYxOTcxM119
+eyJoaXN0b3J5IjpbMTg2NzU4ODM5OV19
 -->
