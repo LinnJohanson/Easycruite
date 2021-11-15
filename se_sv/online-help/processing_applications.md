@@ -15,7 +15,7 @@ Ansökningar kan behandlas individuellt eller i grupper. Det finns flera alterna
 
 [Visa flera ansökningar från samma kandidat](viewing_a_candidates_multiple_applications.htm)
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Steg för Vidare åtgärd
+#### Steg för Vidare åtgärd
 
 Det finns ett antal olika alternativ för att hantera kandidater som du hittar under  Vidare åtgärder  på sidan  Ansökan och CV. Alternativen gäller för kandidatens framsteg i det specifika rekryteringsprojektet och påverkar inte dennes status i andra rekryteringsprojekt.
 
@@ -92,5 +92,5 @@ Detta gör det möjligt för rekryteraren att skicka ett e-postmeddelande till i
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MTM2NjYxXX0=
+eyJoaXN0b3J5IjpbLTEzMTEwMTc4MTQsOTU3MTM2NjYxXX0=
 -->
