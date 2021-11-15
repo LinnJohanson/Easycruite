@@ -4,7 +4,7 @@ Att skapa annonsmallar är ett bekvämt sätt att skapa återanvändbart innehå
 
 Tillsammans med standardinformation såsom annonstitel och en intresseväckande rubrik före annonstiteln, aktiverar en lättanvänd Microsoft® Word-liknande editor innehåll som sedan enkelt kan användas för ett rekryteringsprojekt. Editorn, kallad WYSIWYG (What You See Is What You Get) är en vanlig funktion som används för ett antal EasyCruit-komponenter. För mer information om hur du använder editorn, se  [WYSIWYG-editor](wysiwyg_text_editor.htm).
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Skapa en annonsmall
+#### Skapa en annonsmall
 
 1.  I Verktygsfältet klickar du på  Inställningar  och sedan  Annonsmallar  för att visa sidan  Annonsmallar.
 2.  Markera den lämpliga avdelningen och klicka sedan på  Ny annonsmall  för att visa sidan Ny annonsmall. Nu visas en flik för varje språk som är konfigurerat i systemet.
@@ -14,12 +14,12 @@ Tillsammans med standardinformation såsom annonstitel och en intresseväckande 
 5.  I WYSIWYG-editorn kan du skriva in och formatera annonstexten efter behov. För information om hur du använder editorn, se  [WYSIWYG-editor](wysiwyg_text_editor.htm).
 6.  Upprepa steg 4 till 5 för varje språk och klicka sedan på  Spara  när du är klar.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Redigera eller visa en befintlig annonsmall
+#### Redigera eller visa en befintlig annonsmall
 
 1.  I Verktygsfältet klickar du på  Inställningar  och sedan  Annonsmallar  för att visa sidan  Annonsmallar.
 2.  Klicka på penn-ikonen bredvid den mall du vill redigera och gör sedan de ändringar som behövs och klicka på  Spara  när du är klar.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Radera en annonsmall
+#### Radera en annonsmall
 
 1.  I Verktygsfältet klickar du på  Inställningar  och sedan  Annonsmallar  för att visa sidan  Annonsmallar.
 2.  Klicka på ikonen med papperskorgen bredvid mallen som ska raderas och klicka sedan på  OK  när du uppmanas att bekräfta raderingen.
@@ -35,5 +35,5 @@ Tillsammans med standardinformation såsom annonstitel och en intresseväckande 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDc0MTgzN119
+eyJoaXN0b3J5IjpbNTkzMzc0MDA2XX0=
 -->
