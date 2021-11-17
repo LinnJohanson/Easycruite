@@ -7,22 +7,15 @@ Iestatot meklēšanas veidņu kritērijus, jāņem vērā vairāki faktori, kas 
 
 Meklēšanas kritērijos var iekļaut vairākus operatorus. Tādējādi var veikt mērķtiecīgāku meklēšanu, kas ietver:
 
-**.+**
-Pluss zīme norāda, ka sekojošam vārdam jābūt ietvertam
+**.+** - Pluss zīme norāda, ka sekojošam vārdam jābūt ietvertam
 
-**.-**
-Mīnuss zīme norāda, ka sekojošais vārds nedrīkst būt ietverts
+**.-**- Mīnuss zīme norāda, ka sekojošais vārds nedrīkst būt ietverts
 
-**( )** - 
-Ar iekavu palīdzību vārdus var sagrupēt pakārtotos izteicienos
+**( )** -  Ar iekavu palīdzību vārdus var sagrupēt pakārtotos izteicienos
 
-.*
+**.*** - Zvaigznīte ir aizstājējzīme, ko var pievienot meklējamā vārda beigās.
 
-Zvaigznīte ir aizstājējzīme, ko var pievienot meklējamā vārda beigās.
-
-"
-
-Dubultpēdiņās iekļauta frāze ir jāatrod precīzi.
+**"** - Dubultpēdiņās iekļauta frāze ir jāatrod precīzi.
 
 Lai ilustrētu iepriekšminēto, turpmāk ir parādīti piemēri, kā dažādi meklēšanas kritēriji ģenerē atšķirīgus rezultātus:
 
@@ -53,5 +46,5 @@ Meklēšanas rezultātā ir precīza frāze "pārdošanas nodaļa"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTk4OTgxOF19
+eyJoaXN0b3J5IjpbMTc3NDkwNDUyMl19
 -->
