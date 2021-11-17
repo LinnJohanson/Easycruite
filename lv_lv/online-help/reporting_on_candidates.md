@@ -15,7 +15,7 @@ Sīkāku informāciju par eksporta veidnēm skatīt sadaļā  [Eksporta veidnes]
 5.  Noklikšķiniet uz  Tālāk, lai parādītu pārskata rezultātus.
 6.  Pēc vajadzības noklikšķiniet uz ikonas  Drukāt,  PDF,  XLS  vai  PDF un nosūtīt pa e-pastu.
 
-#####Skatīt arī:
+##### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png)  [Kandidātu pārskats](candidate_report.htm)
 ![](../Resources/Images/icon-document-link.png)  [Eksporta veidnes](export_templates.htm)
@@ -26,5 +26,5 @@ Sīkāku informāciju par eksporta veidnēm skatīt sadaļā  [Eksporta veidnes]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzg2NTQ1Nl19
+eyJoaXN0b3J5IjpbMTkxMzczNTk5MF19
 -->
