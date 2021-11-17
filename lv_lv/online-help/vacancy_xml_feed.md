@@ -14,85 +14,85 @@ EasyCruit atbalsta vairākus sludinājuma periodus, ko izvēlas lietotājs. Stan
 
 #### Saraksta XML
 
-<Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
+< Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
 
-<Versions>
+< Versions>
 
-<Version language="en"> (Vacancy language, ex. da, sv, gb, etc.)
+< Version language="en"> (Vacancy language, ex. da, sv, gb, etc.)
 
-<Title>Obligāts virsraksts</Title>
+< Title>Obligāts virsraksts</ Title>
 
-<TitleHeading>Neobligāts apakšvirsraksts</TitleHeading>
+< TitleHeading>Neobligāts apakšvirsraksts</ TitleHeading>
 
-<AlternativeCompanyName>Uzņēmuma nosaukums</AlternativeCompanyName>
+< AlternativeCompanyName>Uzņēmuma nosaukums</ AlternativeCompanyName>
 
-<ApplicationDeadline>Brīva stila teksts ar pieteikšanās datumu</ApplicationDeadline>
+< ApplicationDeadline>Brīva stila teksts ar pieteikšanās datumu</ ApplicationDeadline>
 
-<Location>Brīva stila teksts ar darba atrašanās vietu</Location>
+< Location>Brīva stila teksts ar darba atrašanās vietu</ Location>
 
-<Engagement>Brīva stila teksts ar iesaisti </Engagement>
+< Engagement>Brīva stila teksts ar iesaisti </ Engagement>
 
-<Region>
+< Region>
 
-<Country id="xx" name="Sweden"> (Vakances valsts)
+< Country id="xx" name="Sweden"> (Vakances valsts)
 
-<County id="xxx">Reģions izvēlētajā valstī</County>
+< County id="xxx">Reģions izvēlētajā valstī</ County>
 
-</Country>
+</ Country>
 
-</Region>
+</ Region>
 
-<Categories>
+< Categories>
 
-<Item type="area-of-interest" id="xxx">Interešu joma</Item>
+< Item type="area-of-interest" id="xxx">Interešu joma</ Item>
 
-<Item type="position-type" id="xxx">Darba veids</Item>
+< Item type="position-type" id="xxx">Darba veids</ Item>
 
-<Item type="job-level" id="xxx">Darba līmenis</Item>
+< Item type="job-level" id="xxx">Darba līmenis</ Item>
 
-<Item type="duration" id="xxx">Ilgums</Item>
+< Item type="duration" id="xxx">Ilgums</ Item>
 
-<Item type="extent" id="xxx">Apjoms</Item>
+< Item type="extent" id="xxx">Apjoms</ Item>
 
-<Item type="operating-time" id="xxx">Darbības laiks</Item>
+< Item type="operating-time" id="xxx">Darbības laiks</ Item>
 
-</Categories>
+</ Categories>
 
-</Version>
+</ Version>
 
-</Versions>
+</ Versions>
 
 <Nodaļas>
 
-<Department id="xxx">
+< Department id="xxx">
 
-<Name>Nodaļas nosaukums</Name>
+< Name>Nodaļas nosaukums</ Name>
 
-<LogoURL>Augšupielādētā logotipa pilns URL</LogoURL>
+< LogoURL>Augšupielādētā logotipa pilns URL</ LogoURL>
 
-<VacancyURL>vakances URL </VacancyURL>
+< VacancyURL>vakances URL </ VacancyURL>
 
-<ApplicationURL>Pieteikuma veidlapas URL</ApplicationURL>
+< ApplicationURL>Pieteikuma veidlapas URL</ ApplicationURL>
 
-</Department>
+</ Department>
 
-</Departments>
+</ Departments>
 
-</Vacancy>
+</ Vacancy>
 
 #### Vakances XML
 
 Papildus iepriekš norādītajiem mainīgajiem, tie ir vakances sludinājuma mainīgie.
 
-<Description>Vakances teksts ar iekļautu html formātu</Description>
+< Description>Vakances teksts ar iekļautu html formātu</ Description>
 
-<About>Nodaļas iekļuve ar html formātu</About>
+< About>Nodaļas iekļuve ar html formātu</ About>
 
-<PrivacyPolicy>Nodaļas privātuma politika ar html formātu</PrivacyPolicy>
+< PrivacyPolicy>Nodaļas privātuma politika ar html formātu</ PrivacyPolicy>
 
-<Address type="postal">(Nodaļas pasts)
+< Address type="postal">(Nodaļas pasts)
 
-< Street>Ielas nosaukums/ numurs</Street>
+< Street>Ielas nosaukums/ numurs</ Street>
 
 < Area>Pilsēta</ Area>
 
@@ -167,5 +167,5 @@ Vakance:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODk5Mjk1M119
+eyJoaXN0b3J5IjpbNjc5MTg0ODUxXX0=
 -->
