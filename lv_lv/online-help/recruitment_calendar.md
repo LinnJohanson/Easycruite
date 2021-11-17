@@ -9,7 +9,7 @@ Lai gan vairumam lapā esošo opciju un lauku ir standarta vērtības, lapā  Pe
 -   Darbība  – tas ir kandidāta intervijas posms attiecībā uz kuru personālā atlases speciālistam ir jāveic darbība.
 -   Laiks – parāda, vai kandidāts ir atbildējis uz uzaicinājumu piedalīties intervijā un kāda ir bijusi kandidāta atbilde.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Personāla atlases kalendāra aplūkošana
+#### Personāla atlases kalendāra aplūkošana
 
 1.  Sākumlapā  atlasiet  Personāla atlases kalendārs.
 
@@ -41,5 +41,6 @@ Lai gan vairumam lapā esošo opciju un lauku ir standarta vērtības, lapā  Pe
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTUxMTQ4NiwtMTQ1ODAwOTE5Nl19
+eyJoaXN0b3J5IjpbLTE1ODcyODE3NzMsLTQyOTUxMTQ4NiwtMT
+Q1ODAwOTE5Nl19
 -->
