@@ -28,39 +28,23 @@ Ikona - Apraksts
 
 ![](../Resources/Images/vacancy_list.jpg) - Vakanču saraksts
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/recruitment_calendar.jpg) - Personāla atlases kalendārs
 
-Personāla atlases kalendārs
+![](../Resources/Images/employees.jpg) - Darbinieki
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/search.jpg) - Meklēt
 
-Darbinieki
+![](../Resources/Images/add_candidate.jpg) - Pievienot kandidātu
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/deleted_applications.jpg) - Izdzēstie pieteikumi
 
-Meklēt
+![](../Resources/Images/reports.jpg) - Pārskati
 
-![](../Resources/Images/add_candidate.jpg)
-
-Pievienot kandidātu
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Izdzēstie pieteikumi
-
-![](../Resources/Images/reports.jpg)
-
-Pārskati
-
-![](../Resources/Images/guidelines.jpg)
-
-Vadlīnijas
+![](../Resources/Images/guidelines.jpg) - Vadlīnijas
 
 ![](../Resources/Images/candidates_to_be_deleted.jpg)
 
-Dzēšamie kandidāti
-
-![](../Resources/Images/stored_applications.jpg)
+Dzēšamie kandidāti - ![](../Resources/Images/stored_applications.jpg)
 
 Saglabātie pieteikumi
 
@@ -144,6 +128,6 @@ Lai uzzinātu vairāk par piekļuves līmeņiem, skatiet sadaļu  [Piekļuves ko
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODkwMTMzNCwtMTA3MzI1MTI4MSwtMT
+eyJoaXN0b3J5IjpbMjExNzgyMTUyNCwtMTA3MzI1MTI4MSwtMT
 AxMjgxNzI4MiwyMDcyMDE0ODQ4XX0=
 -->
