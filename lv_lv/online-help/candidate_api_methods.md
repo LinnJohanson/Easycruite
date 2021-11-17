@@ -292,31 +292,31 @@ NEAPSTRĀDĀTA SOAP PIEPRASĪJUMA PIEMĒRS
 
 xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" >
 
-<soap:Header>
+< soap:Header>
 
-<AuthHeader>
+< AuthHeader>
 
-<Customer>klients</Customer>
+< Customer>klients< /Customer>
 
-<Username>lietotājvārds</Username>
+< Username>lietotājvārds</ Username>
 
-<Password>parole</Password>
+< Password>parole</ Password>
 
-</AuthHeader>
+< /AuthHeader>
 
-</soap:Header>
+</ soap:Header>
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExport>
+< CandidateExport>
 
-<Language>no</Language><CandidateId>123456789</CandidateId>
+< Language>no</ Language>< CandidateId>123456789</ CandidateId>
 
-</CandidateExport>
+</ CandidateExport>
 
-</soap:Body>
+</ soap:Body>
 
-</soap:Envelope>
+</ soap:Envelope>
 
 NEAPSTRĀDĀTAS SOAP ATBILDES PIEMĒRS
 
@@ -324,15 +324,15 @@ NEAPSTRĀDĀTAS SOAP ATBILDES PIEMĒRS
 
 <soap:Envelope xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)">
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExportResponse >
+< CandidateExportResponse >
 
-<Candidate>DATI</Candidate>
+< Candidate>DATI</ Candidate>
 
-</CandidateExportResponse>
+</ CandidateExportResponse>
 
-</soap:Body>
+</ soap:Body>
 
 </ soap:Envelope>
 
@@ -348,5 +348,5 @@ NEAPSTRĀDĀTAS SOAP ATBILDES PIEMĒRS
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ0NjQ2MDhdfQ==
+eyJoaXN0b3J5IjpbLTE0MDY4ODExMjBdfQ==
 -->
