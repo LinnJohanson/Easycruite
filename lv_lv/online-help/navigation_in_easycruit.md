@@ -100,23 +100,15 @@ Piemēros ir parādīta atšķirība starp lietotāju ar pilnu piekļuvi un liet
 
 #### Lietotājs ar pilnu piekļuvi
 
-Ikona
-
-Apraksts
+Ikona - Apraksts
 
 ![](../Resources/Images/new_vacancy.jpg)
 
-Jauna vakance
+Jauna vakance - ![](../Resources/Images/vacancy_list.jpg)
 
-![](../Resources/Images/vacancy_list.jpg)
+Vakanču saraksts - ![](../Resources/Images/recruitment_calendar.jpg)
 
-Vakanču saraksts
-
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Personāla atlases kalendārs
-
-![](../Resources/Images/employees.jpg)
+Personāla atlases kalendārs - ![](../Resources/Images/employees.jpg)
 
 Darbinieki
 
@@ -144,39 +136,23 @@ Vadlīnijas
 
 Dzēšamie kandidāti
 
-![](../Resources/Images/stored_applications.jpg)
-
-Saglabātie pieteikumi
+![](../Resources/Images/stored_applications.jpg)- Saglabātie pieteikumi
 
 #### Lietotājs ar ierobežotu piekļuvi
 
-Ikona
+Ikona - Apraksts
 
-Apraksts
+![](../Resources/Images/new_vacancy.jpg) - Jauna vakance
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vakanču saraksts
 
-Jauna vakance
+![](../Resources/Images/recruitment_calendar.jpg) - Personāla atlases kalendārs
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/add_candidate.jpg) - Pievienot kandidātu
 
-Vakanču saraksts
+![](../Resources/Images/deleted_applications.jpg) - Izdzēstie pieteikumi
 
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Personāla atlases kalendārs
-
-![](../Resources/Images/add_candidate.jpg)
-
-Pievienot kandidātu
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Izdzēstie pieteikumi
-
-![](../Resources/Images/guidelines.jpg)
-
-Vadlīnijas
+![](../Resources/Images/guidelines.jpg)  - Vadlīnijas
 
 #### Lietotāja līmeņi
 
@@ -200,5 +176,5 @@ Lai uzzinātu vairāk par piekļuves līmeņiem, skatiet sadaļu  [Piekļuves ko
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjAxNDg0OF19
+eyJoaXN0b3J5IjpbLTEwMTI4MTcyODIsMjA3MjAxNDg0OF19
 -->
