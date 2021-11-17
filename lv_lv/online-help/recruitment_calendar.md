@@ -13,6 +13,7 @@ Lai gan vairumam lapā esošo opciju un lauku ir standarta vērtības, lapā  Pe
 
 1.  Sākumlapā  atlasiet  Personāla atlases kalendārs.
 
+
 #### Darbību saraksta filtrēšana
 
 1.  Sākumlapā  atlasiet  Personāla atlases kalendārs.
@@ -40,5 +41,5 @@ Lai gan vairumam lapā esošo opciju un lauku ir standarta vērtības, lapā  Pe
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwMDkxOTZdfQ==
+eyJoaXN0b3J5IjpbLTQyOTUxMTQ4NiwtMTQ1ODAwOTE5Nl19
 -->
