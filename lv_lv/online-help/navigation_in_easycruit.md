@@ -8,43 +8,25 @@ Neatkarīgi no lietotāja piekļuves līmeņa EasyCruit darbvieta ir izkārtota 
 
 Rīkjosla ietver tiešās saites uz galvenajiem ikdienā nepieciešamajiem komponentiem. Rīkjoslā pieejamās opcijas mainās atkarībā no sistēmas lietotāja veida.
 
-Sākumlapa
+Sākumlapa - Sākumlapā ir norādītas personāla atlases darbības.
 
-Sākumlapā ir norādītas personāla atlases darbības.
+Jauna vakance - Šeit var izveidot  Jaunu vakanci.
 
-Jauna vakance
+Vakanču saraksts - Šeit var atvērt  Vakanču sarakstu.
 
-Šeit var izveidot  Jaunu vakanci.
+Iestatījumi - Iestatījumu lapā var izmainīt sistēmas iestatījumus.
 
-Vakanču saraksts
+Iziet no sistēmas - Iziešana no sistēmas.
 
-Šeit var atvērt  Vakanču sarakstu.
-
-Iestatījumi
-
-Iestatījumu lapā var izmainīt sistēmas iestatījumus.
-
-Iziet no sistēmas
-
-Iziešana no sistēmas.
-
-Palīdzība/atbalsts
-
-Jautājuma zīme norāda palīdzības lapas.
+Palīdzība/atbalsts - Jautājuma zīme norāda palīdzības lapas.
 
 ![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Satura rūts
 
-Ikona
+Ikona - Apraksts
 
-Apraksts
+![](../Resources/Images/new_vacancy.jpg) - Jauna vakance
 
-![](../Resources/Images/new_vacancy.jpg)
-
-Jauna vakance
-
-![](../Resources/Images/vacancy_list.jpg)
-
-Vakanču saraksts
+![](../Resources/Images/vacancy_list.jpg) - Vakanču saraksts
 
 ![](../Resources/Images/recruitment_calendar.jpg)
 
@@ -162,6 +144,6 @@ Lai uzzinātu vairāk par piekļuves līmeņiem, skatiet sadaļu  [Piekļuves ko
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzMyNTEyODEsLTEwMTI4MTcyODIsMj
-A3MjAxNDg0OF19
+eyJoaXN0b3J5IjpbLTk1ODkwMTMzNCwtMTA3MzI1MTI4MSwtMT
+AxMjgxNzI4MiwyMDcyMDE0ODQ4XX0=
 -->
