@@ -67,11 +67,9 @@ Kandidāta atbilde uz šo jautājumu, ja uzdots
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
 **Pieteikuma profila jautājums**
-Kandidāta atbilde uz šo jautājumu, ja uzdots
-
-NB. Katrs  Pašklasifikācija  –  Kandidāta pieteikuma  jautājums ir norādīts atsevišķā ailē.
-
-NB. Virsraksts mainās atkarībā no jautājuma virsraksta
+- Kandidāta atbilde uz šo jautājumu, ja uzdots
+- NB. Katrs  Pašklasifikācija  –  Kandidāta pieteikuma  jautājums ir norādīts atsevišķā ailē.
+- NB. Virsraksts mainās atkarībā no jautājuma virsraksta
 
 ##### Skatīt arī:
 
@@ -85,5 +83,5 @@ NB. Virsraksts mainās atkarībā no jautājuma virsraksta
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE3MTI0OTNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODMxNDAxNjBdfQ==
 -->
