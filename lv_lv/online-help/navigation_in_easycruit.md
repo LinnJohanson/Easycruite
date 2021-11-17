@@ -110,33 +110,19 @@ Vakanču saraksts - ![](../Resources/Images/recruitment_calendar.jpg)
 
 Personāla atlases kalendārs - ![](../Resources/Images/employees.jpg)
 
-Darbinieki
+Darbinieki - ![](../Resources/Images/search.jpg)
 
-![](../Resources/Images/search.jpg)
+Meklēt - ![](../Resources/Images/add_candidate.jpg)
 
-Meklēt
+Pievienot kandidātu - ![](../Resources/Images/deleted_applications.jpg)
 
-![](../Resources/Images/add_candidate.jpg)
+Izdzēstie pieteikumi - ![](../Resources/Images/reports.jpg)
 
-Pievienot kandidātu
+Pārskati - ![](../Resources/Images/guidelines.jpg)
 
-![](../Resources/Images/deleted_applications.jpg)
+Vadlīnijas - ![](../Resources/Images/candidates_to_be_deleted.jpg)
 
-Izdzēstie pieteikumi
-
-![](../Resources/Images/reports.jpg)
-
-Pārskati
-
-![](../Resources/Images/guidelines.jpg)
-
-Vadlīnijas
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Dzēšamie kandidāti
-
-![](../Resources/Images/stored_applications.jpg)- Saglabātie pieteikumi
+Dzēšamie kandidāti - ![](../Resources/Images/stored_applications.jpg)- Saglabātie pieteikumi
 
 #### Lietotājs ar ierobežotu piekļuvi
 
@@ -176,5 +162,6 @@ Lai uzzinātu vairāk par piekļuves līmeņiem, skatiet sadaļu  [Piekļuves ko
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI4MTcyODIsMjA3MjAxNDg0OF19
+eyJoaXN0b3J5IjpbLTEwNzMyNTEyODEsLTEwMTI4MTcyODIsMj
+A3MjAxNDg0OF19
 -->
