@@ -10,42 +10,33 @@ Pēc publicēšanas vakanci var būt nepieciešams rediģēt. Vakancē izdarīt�
 3.  Noklikšķiniet uz zīmuļa ikonas, lai piekļūtu rediģējamai opcijai un veiciet vajadzīgās izmaiņas, kā norādīts, un beigās noklikšķiniet uz  Saglabāt.
 
 ()
-Vakances opcija
+**Vakances opcija**
 Apraksts
 
-Nosaukums un reģions
-
+**Nosaukums un reģions**
 Izmanto, lai rediģētu vakances nosaukumu, atsauces numuru, pieejamās valodas, ģeogrāfisko vietu un atbildīgo par projektu.
 
-Nodaļas un kontaktpersonas
-
+**Nodaļas un kontaktpersonas**
 Ļauj mainīt vakancei piesaistītās nodaļas un sniedz iespēju mainīt lietotāju, kura kontaktinformācija norādīta darba sludinājumā, un e-pastu noklusējuma nosūtītāju.
 
-Projekta profils
-
+**Projekta profils**
 Klasifikācijai izmantotās un ar projektu saistītās atbildes var pievienot, noņemt un rediģēt.
 
-Vakance
-
+**Vakance**
 Izmanto, lai rediģētu vakances tekstu, ievadu un nosaukumu karjeras vietnē, kurā vakance ir publicēta. Vakances sludinājumā norādītos datumus un vietu arī var mainīt.
 
-Pieteikuma veidlapa
-
+**Pieteikuma veidlapa**
 Ļauj izmantot jaunas pieteikuma veidlapas vai rediģēt jau esošās pieteikuma veidlapas.
 
-Atsijāšanas jautājumi
-
+**Atsijāšanas jautājumi**
 Var pievienot, noņemt un rediģēt unikālus, ar vakanci saistītus priekšatlases jautājumus.
 
-Atbildes e-pasts
-
+**Atbildes e-pasts**
 Automatizētos e-pastus, kas saistīti ar noteiktu vakanci, var rediģēt, aktivizēt un iestatīt kā nereģistrētus.
 
-Publish2board/Publish2Print...
-
-Ar šo opciju var mainīt karjeras vietnes un citus publicēšanas kanālus, kuros vakance tiek parādīta.
-
-Ja vakance nav apstiprināta, šo opciju nevar rediģēt.
+**Publish2board/Publish2Print...**
+- Ar šo opciju var mainīt karjeras vietnes un citus publicēšanas kanālus, kuros vakance tiek parādīta.
+- Ja vakance nav apstiprināta, šo opciju nevar rediģēt.
 
 [Piekļuves kontrole](../faq/who_has_access_to_a_vacancy.htm)
 
@@ -62,5 +53,5 @@ Sīkāku informāciju par šīm opcijām skatiet sadaļā  [Vakances izveidošan
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDU0Njc1Nl19
+eyJoaXN0b3J5IjpbLTIzMzA2Njc1Nl19
 -->
