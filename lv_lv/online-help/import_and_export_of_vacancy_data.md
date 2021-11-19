@@ -232,105 +232,105 @@ XML shēma attiecībā uz VacancyExport atbildi:  [https://www.easycruit.com/wsd
 
 <soapenv:Body>
 
-<urn:VacancyExport>
+< urn:VacancyExport>
 
-<urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
+< urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
 
-</urn:VacancyExport>
+</ urn:VacancyExport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 ## VacancyExport SOAP atbildes piemērs
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExportResponse>
+< urn:VacancyExportResponse>
 
-<VacancyList>
+< VacancyList>
 
-<!--Nulle vai vairāk atkārtojumu:-->
+< !--Nulle vai vairāk atkārtojumu:-->
 
-<Vacancy id="?" language="?">
+< Vacancy id="?" language="?">
 
-<!--Var ievadīt 13 vienumus jebkurā kārtībā-->
+< !--Var ievadīt 13 vienumus jebkurā kārtībā-->
 
-<ProjectTitle>?</ProjectTitle>
+< ProjectTitle>?< /ProjectTitle>
 
-<refId>?</refId>
+< refId>?< /refId>
 
-<TitleHeading>?</TitleHeading>
+< TitleHeading>?< /TitleHeading>
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<CompanyName>?</CompanyName>
+< CompanyName>?< /CompanyName>
 
-<Body>?</Body>
+< Body>?< /Body>
 
-<Deadline>?</Deadline>
+< Deadline>?< /Deadline>
 
-<Engagement>?</Engagement>
+< Engagement>?< /Engagement>
 
-<Location>?</Location>
+< Location>?< /Location>
 
-<DailyHours>?</DailyHours>
+< DailyHours>?< /DailyHours>
 
-<Contacts>
+< Contacts>
 
-<!--Nulle vai vairāk atkārtojumu:-->
+< !--Nulle vai vairāk atkārtojumu:-->
 
-<Contact>
+< Contact>
 
-<!--You may enter the following 5 items in any order-->
+< !--You may enter the following 5 items in any order-->
 
-<Name>?</Name>
+< Name>?<  /Name>
 
-<EmailAddress>?</EmailAddress>
+< EmailAddress>?< /EmailAddress>
 
-<TelephoneOffice>?</TelephoneOffice>
+< TelephoneOffice>?< /TelephoneOffice>
 
-<TelephoneMobile>?</TelephoneMobile>
+< TelephoneMobile>?< /TelephoneMobile>
 
-<Department id="?">?</Department>
+< Department id="?">?</ Department>
 
-</Contact>
+< /Contact>
 
-</Contacts>
+< /Contacts>
 
-<Questions>?</Questions>
+< Questions>?</ Questions>
 
-<CompanyInformation>
+< CompanyInformation>
 
-<!--Nulle vai vairāk atkārtojumu:-->
+< !--Nulle vai vairāk atkārtojumu:-->
 
 <Izņēmums>
 
-<!--Jūs varat ievadīt 3 vienumus jebkurā kārtība-->
+< !--Jūs varat ievadīt 3 vienumus jebkurā kārtība-->
 
-<Department>?</Department>
+< Department>?< /Department>
 
-<About>?</About>
+< About>?< /About>
 
-<Homepage>?</Homepage>
+< Homepage>?< /Homepage>
 
-</Company>
+< /Company>
 
-</CompanyInformation>
+< /CompanyInformation>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyExportResponse>
+< /urn:VacancyExportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# example:
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzgxNjAxNl19
+eyJoaXN0b3J5IjpbLTk4NTQ2ODUxMiwxMTUzODE2MDE2XX0=
 -->
