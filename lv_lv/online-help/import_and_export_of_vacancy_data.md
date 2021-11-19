@@ -434,57 +434,57 @@ XML shēma attiecībā uz VacancyExport atbildi:  [https://www.easycruit.com/wsd
 
 </Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+ < /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImport>
+< urn:VacancyImport>
 
-<!--1 vai vairāki atkārtojumi:-->
+< !--1 vai vairāki atkārtojumi:-->
 
-<urn:Vacancy RefId="?">
+< urn:Vacancy RefId="?">
 
-<!--1 vai vairāki atkārtojumi:-->
+< !--1 vai vairāki atkārtojumi:-->
 
-<urn:Version Language="?">
+< urn:Version Language="?">
 
-<!--Jūs varat ievadīt 8 vienumus jebkurā kārtībā-->
+< !--Jūs varat ievadīt 8 vienumus jebkurā kārtībā-->
 
-<urn:Title>?</urn:Title>
+< urn:Title>?</urn:Title>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:TitleHeading>?</urn:TitleHeading>
+< urn:TitleHeading>?</urn:TitleHeading>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Body>?</urn:Body>
+< urn:Body>?</urn:Body>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Deadline>?</urn:Deadline>
+< urn:Deadline>?</urn:Deadline>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Engagement>?</urn:Engagement>
+< urn:Engagement>?</urn:Engagement>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Location>?</urn:Location>
+< urn:Location>?</urn:Location>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:DailyHours>?</urn:DailyHours>
+< urn:DailyHours>?</urn:DailyHours>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Questions>?</urn:Questions>
+< urn:Questions>?</urn:Questions>
 
 </urn:Version>
 
@@ -500,15 +500,15 @@ XML shēma attiecībā uz VacancyExport atbildi:  [https://www.easycruit.com/wsd
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImportResponse>
+< urn:VacancyImportResponse>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Status>?</Status>
+< Status>?< /Status>
 
 </urn:VacancyImportResponse>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzc0NTg2Ml19
+eyJoaXN0b3J5IjpbLTEyMjcyNTk2MTRdfQ==
 -->
