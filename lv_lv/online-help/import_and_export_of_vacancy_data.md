@@ -45,87 +45,87 @@ XML shēmas definīcija attiecībā uz VacancyList atbildi:  [https://www.easycr
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+ < urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?</passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?</Version>
 
 </urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyList>
+< urn:VacancyList>
 
-<urn:Vacancy language="?" department="?"/>
+< urn:Vacancy language="?" department="?"/>
 
-</urn:VacancyList>
+< /urn:VacancyList>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### VacancyList SOAP atbildes piemērs
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+ < soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyListResponse>
+< urn:VacancyListResponse>
 
-<VacancyList ContentLanguage="?">
+< VacancyList ContentLanguage="?">
 
-<!--Nulle vai vairāk atkārtojumu:-->
+< !--Nulle vai vairāk atkārtojumu:-->
 
-<Vacancy id="?">
+< Vacancy id="?">
 
-<!--Jūs varat ievadīt 4 vienumus jebkurā kārtībā-->
+< !--Jūs varat ievadīt 4 vienumus jebkurā kārtībā-->
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<RefId>?</RefId>
+< RefId>?< /RefId>
 
-<Nodaļas>
+< Nodaļas>
 
-<!--1 vai vairāki atkārtojumi:-->
+< !--1 vai vairāki atkārtojumi:-->
 
-<Department id="?">?</Department>
+< Department id="?">?< /Department>
 
-</Departments>
+< /Departments>
 
-<Valodas>
+< Valodas>
 
-<!--1 vai vairāki atkārtojumi:-->
+< !--1 vai vairāki atkārtojumi:-->
 
-<Language iso="?">?</Language>
+< Language iso="?">?< /Language>
 
-</Languages>
+< /Languages>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyListResponse>
+< /urn:VacancyListResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# example
 
@@ -208,29 +208,29 @@ XML shēma attiecībā uz VacancyExport atbildi:  [https://www.easycruit.com/wsd
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+ < passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
 < urn:VacancyExport>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTQ2ODUxMiwxMTUzODE2MDE2XX0=
+eyJoaXN0b3J5IjpbNDAxMjU5NTcyLDExNTM4MTYwMTZdfQ==
 -->
