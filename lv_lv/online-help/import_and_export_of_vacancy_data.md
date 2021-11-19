@@ -420,19 +420,19 @@ XML shēma attiecībā uz VacancyExport atbildi:  [https://www.easycruit.com/wsd
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
 < !--Optional:-->
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcyNTk2MTRdfQ==
+eyJoaXN0b3J5IjpbMTE1MzgxNjAxNl19
 -->
