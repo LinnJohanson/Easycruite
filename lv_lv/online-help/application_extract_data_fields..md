@@ -86,46 +86,46 @@ Kandidāta atbilde uz šo jautājumu, ja uzdots
 Pavalstniecība
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Saņemts darba piedāvājums
+**Saņemts darba piedāvājums**
 Datums, kad pieteikuma statuss mainīts uz "Darba piedāvājums"
 
-Pašreizējais amats
+**Pašreizējais amats**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Darba devējs
+**Darba devējs**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Datums – telefonintervija
+**Datums – telefonintervija**
 Pēdējais datums, kad bija paredzēta intervija
 
-Datums – pirmā telefonintervija
+**Datums – pirmā telefonintervija**
 Pēdējais datums, kad bija paredzēta intervija
 
-Datums – otrā telefonintervija
+**Datums – otrā telefonintervija**
 Pēdējais datums, kad bija paredzēta intervija
 
-Datums – trešā telefonintervija
+**Datums – trešā telefonintervija**
 Pēdējais datums, kad bija paredzēta intervija
 
-Datums – uzaicinājums uz telefoninterviju
+**Datums – uzaicinājums uz telefoninterviju**
 Pēdējais datums, kad pieteikuma statuss mainīts uz "Intervija"
 
-Datums – uzaicinājums uz pirmo interviju
+**Datums – uzaicinājums uz pirmo interviju**
 Pēdējais datums, kad pieteikuma statuss mainīts uz "Intervija"
 
-Datums – uzaicinājums uz otro interviju
+**Datums – uzaicinājums uz otro interviju**
 Pēdējais datums, kad pieteikuma statuss mainīts uz "Intervija"
 
-Datums – uzaicinājums uz trešo interviju
+**Datums – uzaicinājums uz trešo interviju**
 Pēdējais datums, kad pieteikuma statuss mainīts uz "Intervija"
 
-Datums – grupas vērtējums
+**Datums – grupas vērtējums**
 Pēdējais datums, kad pieteikuma statuss mainīts uz "Grupas vērtējums"
 
-Darba piedāvājuma datums
+**Darba piedāvājuma datums**
 Pēdējais datums, kad pieteikuma statuss mainīts uz "Darba piedāvājums"
 
-Datums
+**Datums**
 Pēdējais datums, kad pieteikuma statuss mainīts uz 1. pielāgoto statusu (NB. Virsraksts mainās atkarībā no klienta pielāgotā statusa nosaukuma)
 
 ##### Skatīt arī:
@@ -139,5 +139,5 @@ Pēdējais datums, kad pieteikuma statuss mainīts uz 1. pielāgoto statusu (NB.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAzNjM3NDNdfQ==
+eyJoaXN0b3J5IjpbLTIxMDE1NjU5ODNdfQ==
 -->
