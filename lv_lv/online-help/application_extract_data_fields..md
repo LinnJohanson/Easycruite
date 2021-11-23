@@ -20,67 +20,67 @@ Iekšējais vakances nosaukums, ko jebkurā laikā var mainīt. Tas nav darba sl
 **Nodaļas ID**
 Sistēmas izveidots nodaļas ID, kurā kandidāts ir pieteicies. To var izmantot uzmeklēšanas laukā citos izvilkumos
 
-Nodaļas nosaukums
+**Nodaļas nosaukums**
 Nodaļas nosaukums, uz kuru dota atsauce nodaļas ID
 
-Pieteikuma statuss
+**Pieteikuma statuss**
 Rāda kandidāta pieteikuma statusu, piemēram, 1. intervija, Saglabāts, Pārcelts, Noraidīts.
 
-Pieteikums atjaunināts
+**Pieteikums atjaunināts**
 Pēdējais datums, kurā kandidāta informācija atjaunināta – to veicis vai nu kandidāts, vai EasyCruit lietotājs, piemēram, apstrādājot pieteikumu (mainot statusu)
 
-Pretendentu kārtošana pa vietām
+**Pretendentu kārtošana pa vietām**
 1., 2. vai 3. vieta, ja ir
 
-Vidējais vērtējums pēc vietas
+**Vidējais vērtējums pēc vietas**
 Vidējais grupas vērtējums, ja ir
 
-Atsauksmju pārbaude
+**Atsauksmju pārbaude**
 Balstās uz nolaižamām opcijām EasyCruit, piemēram, Pozitīvs, Negatīvs
 
-Pieteikšanās datums
+**Pieteikšanās datums**
 Datums, kurā veikts pieteikums
 
-Darbā pieņemšanas datums
+**Darbā pieņemšanas datums**
 Datums, kurā pieteikums pārvietots uz statusu "Pieņemts"
 
-Sākuma datums
+**Sākuma datums**
 Datums, kad kandidāts ir pieņemts darbā
 
-Noraidījuma iemesls
+**Noraidījuma iemesls**
 Noraidījuma iemesls, balstoties uz nolaižamajām izvēlēm
 
-Pieteikuma avots
+**Pieteikuma avots**
 Kanāls, no kura pieteikums saņemts
 
-Dzimums
+**Dzimums**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Dzimšanas datums
+**Dzimšanas datums**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Iekšējā kategorizēšana
+**Iekšējā kategorizēšana**
 Kandidāta tips, piemēram, CV kandidāts, darbinieks u.c.
 
-Vārds
+**Vārds**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Uzvārds
+**Uzvārds**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pasta indekss
+**Pasta indekss**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Valsts
+**Valsts**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Reģions
+**Reģions**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pilsēta
+**Pilsēta**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pilsēta
+**Pilsēta**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
 **Pavalstniecība**
@@ -139,5 +139,6 @@ Pēdējais datums, kad pieteikuma statuss mainīts uz 1. pielāgoto statusu (NB.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1ODk2MDEsLTIxMDE1NjU5ODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjU1MjkzMTEsLTIxMDE1NjU5ODNdfQ
+==
 -->
