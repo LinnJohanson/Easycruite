@@ -7,7 +7,7 @@
 
 [Noklikšķiniet šeit, lai uzzinātu vairāk par kolaboratīvo vērtējumu un grupas vērtējumu.](collaborative_rating_panel_review.htm)
 
-Skatīt arī:
+##### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png)  [Kolaboratīvais vērtējums/Vērtēšanas grupa](collaborative_rating_panel_review.htm)
 ![](../Resources/Images/icon-document-link.png)  [Uzlabotā atlases un līguma pakotne](advanced_selection_and_contraction_pack.htm)
@@ -17,5 +17,5 @@ Skatīt arī:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcxOTQwMTldfQ==
+eyJoaXN0b3J5IjpbLTgyMjYyMDkzNF19
 -->
