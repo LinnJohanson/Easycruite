@@ -12,20 +12,16 @@ Parasti ir trīs meklēšanas veidi:
 
 Sīkāku informāciju par meklēšanas parametriem un kā atrast meklēto skatiet sadaļā  [Apsvērumi par meklēšanas kritērijiem](searching_criteria_considerations_and_examples.htm).
 
-Skatīt arī:
+##### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png)  [Piekļuve EasyCruit](accessing_easycruit.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Navigācija EasyCruit](navigation_in_easycruit.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Wysiwyg/teksta redaktors](wysiwyg_text_editor.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Jaunas vakances izveidošana](creating_a_new_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Pieteikumu saņemšana](receiving_applications.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ1OTU5NThdfQ==
+eyJoaXN0b3J5IjpbMTIzMjU3NzY2OSwtMTg0NDU5NTk1OF19
 -->
