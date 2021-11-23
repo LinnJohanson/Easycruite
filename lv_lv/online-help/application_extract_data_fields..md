@@ -83,7 +83,7 @@ Kandidāta atbilde uz šo jautājumu, ja uzdots
 Pilsēta
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pavalstniecība
+**Pavalstniecība**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
 **Saņemts darba piedāvājums**
@@ -139,5 +139,5 @@ Pēdējais datums, kad pieteikuma statuss mainīts uz 1. pielāgoto statusu (NB.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE1NjU5ODNdfQ==
+eyJoaXN0b3J5IjpbMjk1ODk2MDEsLTIxMDE1NjU5ODNdfQ==
 -->
