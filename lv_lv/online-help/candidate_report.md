@@ -5,7 +5,7 @@ Kandidātu pārskatā tiek parādīta pielāgojama informācija par kandidātiem
 
 Opcijas, ko var atlasīt kandidāta pārskata izveidei, ir atkarīgas no sistēmas konfigurācijas. Taču pārskatu izveides process ir vienāds neatkarīgi no pārskatā iekļautajiem datiem.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Kandidātu pārskats
+#### Kandidātu pārskats
 
 1.  Atlasiet vakanci un tad – cilni  Kandidātu pārskats.
 2.  Atlasiet pārskatā iekļaujamo personas informāciju vai citus kritērijus un noklikšķiniet uz  Tālāk.
@@ -29,11 +29,11 @@ Opcijas, ko var atlasīt kandidāta pārskata izveidei, ir atkarīgas no sistēm
 5.  Iestatatiet opciju  Pārskata veids  uz  Sapludināt dokumentus pēc katra CV  vai  Pievienot visus dokumentus pēc CV.
 6.  Noklikšķiniet uz  Pieprasīt pārskatu  un gaidiet, līdz pārskats ir gatavs.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Pārskatu pieprasīšana
+#### Pārskatu pieprasīšana
 
 Lai PDF pārskats ar vakances kandidātu datiem tiktu izveidots un formatēts pareizi, lietotāji var pieprasīt pārskatu. Pārskati tiek veidoti atbilstoši vakances kandidāta pārskata iestatīšanas veidam. Kad pārskati ir izveidoti un pieprasīti, to pārvaldīšanai izmanto lapu  Mani pieprasītie dokumenti. Šajā lapā pārskatus var apskatīt un dzēst, kā arī izveidot atjauninātus pieprasījumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Saraksta Mani pieprasītie dokumenti izmantošana
+#### Saraksta Mani pieprasītie dokumenti izmantošana
 
 1.  Vispirms pieprasiet pārskatu, izmantojot cilni  Kandidāta pārskats.
 2.  Atlasiet saiti  Pārvaldīt pieprasītos dokumentus  sadaļā  Pieprasītie dokumenti, kas atrodas ekrāna labajā pusē.  
@@ -43,7 +43,7 @@ Lai PDF pārskats ar vakances kandidātu datiem tiktu izveidots un formatēts pa
     -   Atlasīt  Dzēst, lai noņemtu dokumentu.
     -   Noklikšķināt uz  Atjaunināt, ja dokumenta statuss ir  Gaida.
 
-Skatīt arī:
+##### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png)  [Pārskati par kandidātiem](reporting_on_candidates.htm)
 ![](../Resources/Images/icon-document-link.png)  [Eksporta veidnes](export_templates.htm)
@@ -53,5 +53,5 @@ Skatīt arī:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcwMjA0NDZdfQ==
+eyJoaXN0b3J5IjpbMzAwNzUxNzgwXX0=
 -->
