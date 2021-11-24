@@ -15,54 +15,32 @@ E-pasts – kanāla sludinājums
 - E-pasts – kanāla sludinājums
 - Pieteikums saglabāts
 
-{advertisement-body}Sludinājuma teksts
-
+{advertisement-body} - Sludinājuma teksts:
 E-pasts – kanāla sludinājums
 
-{advertisement-heading}
-
-Sludinājuma virsraksts
-
+{advertisement-heading} - Sludinājuma virsraksts:
 E-pasts – kanāla sludinājums
 
-{advertisement-title}
-
-Sludinājuma nosaukums
-
+{advertisement-title} - Sludinājuma nosaukums:
 E-pasts – kanāla sludinājums
 
-{advertisement-work-place}
-
-Sludinājuma darba vieta
-
+{advertisement-work-place} - Sludinājuma darba vieta:
 E-pasts – kanāla sludinājums
 
-{appetizer-text}
-
-Sludinājuma ievadteksts
-
+{appetizer-text} - Sludinājuma ievadteksts:
 E-pasts – kanāla sludinājums
 
-{applicant-department}
-
-Nodaļa, ar kuru kandidāts ir saistīts
-
+{applicant-department} - Nodaļa, ar kuru kandidāts ir saistīts:
 Pārskats par gaidāmo rīcību
 
-{applicant-id}
-
-Kandidāta ID numurs
-
+{applicant-id} - Kandidāta ID numurs
 Pārskats par gaidāmo rīcību
 
 {applicant-name}
-
 Kandidāta vārds
-
 Pārskats par gaidāmo rīcību
 
 {approval-link}
-
 Ievieto apstiprinājuma saiti
 
 Vakances apstiprinājuma pieprasījums
@@ -1862,5 +1840,5 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3Mzk5NzUsLTE1MDk3NjkzM119
+eyJoaXN0b3J5IjpbLTE1NjMxNTM2OTQsLTE1MDk3NjkzM119
 -->
