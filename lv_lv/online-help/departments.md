@@ -8,7 +8,7 @@ Nodaļas var izmantot arī lietotāju piekļuves kontrolēšanai. Izveidojot jau
 
 Lai aplūkotu nodaļas administratoru, ar kursoru norādiet uz ikonu  Nodaļas administratora ailē.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Jaunas nodaļas izveidošana
+#### Jaunas nodaļas izveidošana
 
 1.  Rīkjoslā  atlasiet  Iestatījumi  un tad –  Nodaļas, lai parādītu lapu  Nodaļu saraksts.
 2.  Noklikšķiniet uz  Jauna nodaļa, lai parādītu cilni  Uzņēmuma informācija.
@@ -17,12 +17,12 @@ Lai aplūkotu nodaļas administratoru, ar kursoru norādiet uz ikonu  Nodaļas a
 4.  Sīkāku informāciju par pārējās informācijas ievadīšanu skatiet sadaļā  [Uzņēmuma informācijas ievadīšana](company_information.htm).
 5.  Beigās noklikšķiniet uz  Saglabāt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Esošas nodaļas rediģēšana
+#### Esošas nodaļas rediģēšana
 
 1.  Rīkjoslā  atlasiet  Iestatījumi  un tad –  Nodaļas, lai parādītu lapu  Nodaļu saraksts.
 2.  Noklikšķiniet uz zīmuļa ikonas, kas atrodas blakus nodaļai. Tālākus norādījumus skatiet sadaļā  [Uzņēmuma informācijas ievadīšana](company_information.htm).
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Nodaļas dzēšana
+#### Nodaļas dzēšana
 
 1.  Rīkjoslā  atlasiet  Iestatījumi  un tad –  Nodaļas, lai parādītu lapu  Nodaļu saraksts.
 2.  Noklikšķiniet uz miskastes ikonas, kas atrodas blakus dzēšamajai nodaļai. Uznirst tālāk redzamajam līdzīgs lodziņš, piedāvājot iespēju automātiski pārnest dzēšamās nodaļas vakances, kandidātus un lietotājus uz citu nodaļu.
@@ -37,5 +37,5 @@ Lai aplūkotu nodaļas administratoru, ar kursoru norādiet uz ikonu  Nodaļas a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTM2MjMyMF19
+eyJoaXN0b3J5IjpbLTE1NzE3MzQ4MzFdfQ==
 -->
