@@ -4,40 +4,19 @@ Sistēmā ir pieejami dažādi jautājumu veidi, kas piemēroti dažādām perso
 
 Tabulā ir sniegts kopsavilkums par katru jautājumu veidu.
 
-Jautājumu veids
+Jautājumu veids - Atbilde
+Atlases - Skrīnings
+***
+Radio pogas - Pielāgotas vērtības
+Viena - Jā
 
-Atbilde
+Izvēles rūtiņas - Pielāgotas vērtības
+Vairākas - Nē
 
-Atlases
+Izvelkamā izvēlne ar vienu iespēju - Pielāgotas vērtības
+Viena - Jā
 
-Skrīnings
-
-Radio pogas
-
-Pielāgotas vērtības
-
-Viena
-
-Jā
-
-Izvēles rūtiņas
-
-Pielāgotas vērtības
-
-Vairākas
-
-Nē
-
-Izvelkamā izvēlne ar vienu iespēju
-
-Pielāgotas vērtības
-
-Viena
-
-Jā
-
-Izvelkamā izvēlne ar vairākām iespējām -
-Pielāgotas vērtības
+Izvelkamā izvēlne ar vairākām iespējām - Pielāgotas vērtības
 Vairākas - Nē
 
 Nodaļas jautājums - Sistēmas vērtības
@@ -199,5 +178,5 @@ Faila augšupielādes jautājums paredzēts, lai kandidāti varētu augšupielā
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMyODQxNjMsNzg2MTE2OTIxXX0=
+eyJoaXN0b3J5IjpbLTExOTM2OTA3NDMsNzg2MTE2OTIxXX0=
 -->
