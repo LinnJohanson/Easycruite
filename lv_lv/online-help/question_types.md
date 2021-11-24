@@ -100,27 +100,15 @@ Viena
 
 Nē
 
-Virsraksts
+Virsraksts - Nav
+Neattiecas  - Nē
 
-Nav
-
-Neattiecas
-
-Nē
-
-Faila augšupielāde
-
-Augšupielādēt
-
-Viena
-
-Nē
-
-Video jautājumi
-
-Ierakstiet tiešraidē vai augšupielādējiet
+Faila augšupielāde - Augšupielādēt
 Viena - Nē
 
+Video jautājumi - Ierakstiet tiešraidē vai augšupielādējiet
+Viena - Nē
+***
 Jautājumu veidi  – tie ir dažādi pieejamo jautājumu veidi. Izņemot  HTML formāta tekstu,  Virsrakstu,  Faila augšupielādi  un  Video jautājumi, pārējie jautājumu veidi iekļauj tādus standarta formātus kā radio pogas, nolaižamos sarakstus un brīvā teksta laukus.
 
 Pieejamās atbildes  –  Pielāgotās vērtības  ir tās, ko sistēmā ievada EasyCruit lietotājs, atbildot uz jautājumiem; tās nodrošina, ka kandidāts var sniegt tikai noteiktas atbildes.  Sistēmas vērtības  nevar pielāgot katram jautājumam, bet tās tiek ņemtas no sistēmas un ietver tādas vērtības kā valstis un datumus. Brīvā teksta formāts ļauj kandidātam ievadīt jebkuru informāciju, atbildot uz jautājumu. Augšupielāde nodrošina iespēju augšupielādēt sistēmā dokumentus. Ierakstīt tiešraidē vai augšupielāde piedāvā iespēju ierakstīt tiešraidi vai augšupielādēt iepriekš ierakstītu video. Neviens attiecas uz diviem jautājumiem, jo tos izmanto, lai pievienotu papildu formātu tikai jautājumu lapai un faktiski neiekļauj jautājumu.
@@ -250,5 +238,5 @@ Faila augšupielādes jautājums paredzēts, lai kandidāti varētu augšupielā
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1Njk0MDE2XX0=
+eyJoaXN0b3J5IjpbNzg2MTE2OTIxXX0=
 -->
