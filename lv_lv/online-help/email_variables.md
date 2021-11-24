@@ -33,72 +33,41 @@ E-pasts – kanāla sludinājums
 {applicant-department} - Nodaļa, ar kuru kandidāts ir saistīts:
 Pārskats par gaidāmo rīcību
 
-{applicant-id} - Kandidāta ID numurs
+{applicant-id} - Kandidāta ID numurs:
 Pārskats par gaidāmo rīcību
 
-{applicant-name}
-Kandidāta vārds
+{applicant-name} - Kandidāta vārds:
 Pārskats par gaidāmo rīcību
 
-{approval-link}
-Ievieto apstiprinājuma saiti
-
+{approval-link} - Ievieto apstiprinājuma saiti:
 Vakances apstiprinājuma pieprasījums
 
-{assessment-test-name-link-group}
-
-cut-e testa nosaukums + URL
-
+{assessment-test-name-link-group} - cut-e testa nosaukums + URL:
 Uzaicinājums veikt cut-e novērtējumu
 
-{ballot-link}
-
-Saite kandidātu vērtēšanai
-
+{ballot-link} - Saite kandidātu vērtēšanai:
 Kandidātu novērtējums
 
-{candidate-family-name}
-
-Uzvārds
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
+{candidate-family-name} - Uzvārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
 Automātiskais noraidījums
-
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
 Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
 Lietotājvārda apstiprinājums
-
 Uz CV datu bāzi pārnestie dati
-
 Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
 Pārsūtīt pieteikumu
-
 Uzaicinājums uz MINT Matrigma un Service-F testiem
-
 cut-e pārskats
-
 Jauna lietotāja e-pasts
-
 Darba aģenta paziņojums
-
 Darba līgums
-
 Portable CV
-
 Pieteikuma vēstule saņemta/noraidīta
-
 Uzaicinājums veikt SHL un cut-e vērtējumu
-
 Pielāgotais e-pasts
 
 {candidate-given-name}
@@ -1840,5 +1809,5 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMxNTM2OTQsLTE1MDk3NjkzM119
+eyJoaXN0b3J5IjpbMTY1MTYxMjM2MywtMTUwOTc2OTMzXX0=
 -->
