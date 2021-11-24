@@ -10,7 +10,7 @@ Darbu kategorijas pēc noklusējuma ir tukšas; lai tās iespējotu atbilstoši 
 
 Vakances izveides laikā personāla atlases speciālists var atlasīt šīs trīs vērtības opcijā  Publish2Board/Publish2Print/Multi Posting.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Darba kategorijas veida izveidošana
+#### Darba kategorijas veida izveidošana
 
 1.  Rīkjoslā  noklikšķiniet uz  Iestatījumi  un tad – uz  Darba kategorijas.
 2.  Atlasiet vienu no opcijām:
@@ -20,17 +20,17 @@ Vakances izveides laikā personāla atlases speciālists var atlasīt šīs trī
 5.  Noklikšķiniet uz  Saglabāt, lai apstiprinātu jauno darba kategoriju.  
     Ja sistēmā izmantotajā valodā darba kategorijas nav, tiek parādīts ziņojums par trūkstošu tulkojumu.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Esoša darba kategorijas veida rediģēšana
+#### Esoša darba kategorijas veida rediģēšana
 
 1.  Rīkjoslā  noklikšķiniet uz  Iestatījumi  un tad – uz  Darba kategorijas.
 2.  Noklikšķiniet uz zīmuļa ikonas, lai piekļūtu rediģējamās kategorijas veidam.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Esoša darba kategorijas veida dzēšana
+#### Esoša darba kategorijas veida dzēšana
 
 1.  Rīkjoslā  noklikšķiniet uz  Iestatījumi  un tad – uz  Darba kategorijas.
 2.  Noklikšķiniet uz miskastes ikonas blakus dzēšamās kategorijas veidam un pēc tam – uz  Labi, kad parādās dzēšanas uzvedne.
 
-Skatīt arī:
+##### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png)  [Meklēšanas veidnes](search_templates.htm)
 ![](../Resources/Images/icon-document-link.png)  [Kandidātu meklēšana](searching_for_candidates.htm)
@@ -41,5 +41,5 @@ Skatīt arī:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MzIzMzE2N119
+eyJoaXN0b3J5IjpbNjg3ODQzMjM3XX0=
 -->
