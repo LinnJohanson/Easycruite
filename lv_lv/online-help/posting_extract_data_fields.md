@@ -1,66 +1,53 @@
 # Vakances izvilkuma datu lauku publicēšana
 
 Tabulā ir aprakstīti lauki, kurus izmanto sludinājuma izvilkumā.
-
+***
 Lauka nosaukums
-
 Apraksts
-
-Kanāls
-
+***
+**Kanāls**
 Vakances publicēšanas kanāla nosaukums
 
-Vakances ID
-
+**Vakances ID**
 Unikāls projekta/vakances ID, ko izveido sistēma
 
-Vakances atsauces numurs
-
+**Vakances atsauces numurs**
 Vakances atsauces numurs, ja izmanto
 
-Vakances nosaukums
-
+**Vakances nosaukums**
 Iekšējais vakances nosaukums, ko jebkurā laikā var mainīt. Tas nav darba sludinājumā dotais nosaukums
 
-Kandidātu skaits
-
+**Kandidātu skaits**
 Kopējais kandidātu skaits no kanāla attiecībā uz vakanci
 
-Darbā pieņemtie kandidāti
-
+**Darbā pieņemtie kandidāti**
 Kopējais darbā pieņemto kandidātu skaits no kanāla attiecībā uz vakanci
 
-Publicēšanas izmaksas
-
+**Publicēšanas izmaksas**
 Publicēšanas izmaksas attiecībā pret kanālu
 
-Pirmās publikācijas datums
-
+**Pirmās publikācijas datums**
 Pēdējais "no" datums, kad vakance bija publicēta kanālā
 
-Pēdējās publikācijas datums
-
+**Pēdējās publikācijas datums**
 Pēdējais "līdz" datums, kad vakance bija publicēta kanālā
 
-Nodarbinātības veids
-
+**Nodarbinātības veids**
 Vakances publicēšanai atlasītie kritēriji
 
-Darba dienas
-
+**Darba dienas**
 Vakances publicēšanai atlasītie kritēriji
 
-Darba laiks
-
+**Darba laiks**
 Vakances publicēšanai atlasītie kritēriji
 
-Darba veids
+**Darba veids**
 Vakances publicēšanai atlasītie kritēriji
 
-Darba līmenis
+**Darba līmenis**
 Vakances publicēšanai atlasītie kritēriji
 
-Rūpniecības nozare
+**Rūpniecības nozare**
 Vakances publicēšanai atlasītie kritēriji
 
 ##### Skatīt arī:
@@ -74,5 +61,5 @@ Vakances publicēšanai atlasītie kritēriji
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDEzNDM5XX0=
+eyJoaXN0b3J5IjpbLTE1Njk1NzA1MjVdfQ==
 -->
