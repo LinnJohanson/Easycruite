@@ -92,43 +92,28 @@ Kandidātu novērtējums
 - Uzaicinājums veikt SHL un cut-e vērtējumu
 - Pielāgotais e-pasts
 
-{candidate-middle-name}
+{candidate-middle-name} - Otrs vārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Darba līgums
+- Portable CV
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Otrs vārds
-Pieteikums saņemts
-Reģistrācija saņemta
-Pieteikuma kopija
-Noraidījums pēc pieteikuma izskatīšanas
-Automātiskais noraidījums
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Portable CV
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{candidate-password}
-
-Kandidāta parole
+{candidate-password} - Kandidāta parole
 
 Pieteikums saņemts
 
@@ -1779,5 +1764,5 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzYwNTI5MTQsLTE1MDk3NjkzM119
+eyJoaXN0b3J5IjpbMTIwNDA5OTUzMSwtMTUwOTc2OTMzXX0=
 -->
