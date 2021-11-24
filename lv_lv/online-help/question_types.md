@@ -119,10 +119,7 @@ Nē
 Video jautājumi
 
 Ierakstiet tiešraidē vai augšupielādējiet
-
-Viena
-
-Nē
+Viena - Nē
 
 Jautājumu veidi  – tie ir dažādi pieejamo jautājumu veidi. Izņemot  HTML formāta tekstu,  Virsrakstu,  Faila augšupielādi  un  Video jautājumi, pārējie jautājumu veidi iekļauj tādus standarta formātus kā radio pogas, nolaižamos sarakstus un brīvā teksta laukus.
 
@@ -132,7 +129,7 @@ Atlases  – atkarībā no jautājumu veida atbildes var veidot no vienas vai va
 
 Skrīnings  – šos jautājumu veidus var izmantot, lai atlasītu kandidātus pieteikšanās procesa laikā. Ja tie ir iespējoti, atbildēm var noteikt punktu vērtības un, ja kandidāta atbildes nesavāc pietiekamu punktu skaitu, kandidātu var izslēgt no pieteikšanās procesa.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Radio pogu jautājumu pievienošana
+#### Radio pogu jautājumu pievienošana
 
 Šādi jautājumi ļauj lietotājam izvēlēties no izvēļu saraksta tikai vienu atbildi.
 
@@ -144,7 +141,7 @@ Skrīnings  – šos jautājumu veidus var izmantot, lai atlasītu kandidātus p
     Ja 2. solī tika atlasīti  Punkti, tad laukā  Punkti  ievadiet skaitlisko vērtību. Ja tika atlasīts  Obligāts, tad atlasiet  Patiess  vai  Nepatiess, lai iestatītu jautājuma skrīninga kritēriju (Patiess  = kandidāts atbilst;  Nepatiess  = kandidāts tiks izslēgts).
 6.  Atkārtojiet 4. un 5. soli katram jautājumam un beigās noklikšķiniet uz  Saglabāt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Izvēles rūtiņu jautājumu pievienošana
+#### Izvēles rūtiņu jautājumu pievienošana
 
 Šie jautājumi ļauj lietotājam izvēlēties no izvēļu saraksta vairākas iespējas.
 
@@ -154,7 +151,7 @@ Skrīnings  – šos jautājumu veidus var izmantot, lai atlasītu kandidātus p
 4.  Katrai valodai ievadiet vajadzīgo vērtību un tad noklikšķiniet uz  Pievienot.
 5.  Atkārtojiet 3. un 4. soli katram jautājumam un beigās noklikšķiniet uz  Pievienot.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Nolaižamo jautājumu ar vienu atbildi pievienošana
+#### Nolaižamo jautājumu ar vienu atbildi pievienošana
 
 Šie nolaižamie jautājumi ļauj lietotājam atlasīt vienu vērtību no pieejamā jautājumu saraksta. Atbildēm var noteikt punktu vērtību, ko izmanto kandidātu skrīningam.
 
@@ -167,7 +164,7 @@ Skrīnings  – šos jautājumu veidus var izmantot, lai atlasītu kandidātus p
     Ja 2. solī tika atlasīti  Punkti, tad laukā  Punkti  ievadiet skaitlisko vērtību. Ja tika atlasīts  Obligāts, tad atlasiet  Patiess  vai  Nepatiess, lai iestatītu jautājuma skrīninga kritēriju (Patiess  = kandidāts atbilst;  Nepatiess  = kandidāts tiks izslēgts).
 6.  Atkārtojiet 4. un 5. soli katram jautājumam un beigās lapā  Pievienot jautājumu  noklikšķiniet uz  Pievienot.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Nolaižamo jautājumu ar vairākām atbildēm pievienošana
+#### Nolaižamo jautājumu ar vairākām atbildēm pievienošana
 
 Nolaižamo jautājumi ar vairākām atbildēm ļauj atlasīt vairākas vērtības no saraksta.
 
@@ -177,7 +174,7 @@ Nolaižamo jautājumi ar vairākām atbildēm ļauj atlasīt vairākas vērtība
 4.  Katrai valodai ievadiet vajadzīgo vērtību un tad noklikšķiniet uz  Pievienot.
 5.  Atkārtojiet 3. un 4. soli katram jautājumam un beigās lapā  Pievienot jautājumu  noklikšķiniet uz  Pievienot.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Nodaļu jautājumu pievienošana
+#### Nodaļu jautājumu pievienošana
 
 Šis jautājums satur visas organizācijas nodaļas.
 
@@ -185,7 +182,7 @@ Nolaižamo jautājumi ar vairākām atbildēm ļauj atlasīt vairākas vērtība
 2.  Ievadiet tekstu, kas atbilst jautājumam katrā valodā.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)HTML formāta teksta jautājumu pievienošana
+#### HTML formāta teksta jautājumu pievienošana
 
 Izmantojot šo jautājumu veidu, darba sludinājumā var ievietot HTML formāta saturu, un to var izmantot papildus citiem jautājumu veidiem, lai izveidotu oficiālāku jautājumu ar uzņēmuma zīmolu.
 
@@ -193,7 +190,7 @@ Izmantojot šo jautājumu veidu, darba sludinājumā var ievietot HTML formāta 
 2.  Redaktorā  [WYSIWYG](wysiwyg_text_editor.htm)  ievadiet nepieciešamo saturu katrai valodai.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Teksta jautājumu pievienošana
+#### Teksta jautājumu pievienošana
 
 Šie jautājumi paredzēti neformatēta teksta ievadīšanai vienkārša teksta laukā vai lodziņā, un tos var izmantot, kad nav nepieciešams WYSIWYG redaktors.
 
@@ -201,7 +198,7 @@ Izmantojot šo jautājumu veidu, darba sludinājumā var ievietot HTML formāta 
 2.  Ievadiet vajadzīgo tekstu katrai valodai.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Valsts un valsts nolaižamo jautājumu pievienošana
+#### Valsts un valsts nolaižamo jautājumu pievienošana
 
 Valsts jautājumi ļauj kandidātam sarakstā atlasīt vienu vai vairākas valstis atkarībā no tā, kuru no diviem jautājumu veidiem izmanto.
 
@@ -209,7 +206,7 @@ Valsts jautājumi ļauj kandidātam sarakstā atlasīt vienu vai vairākas valst
 2.  Ievadiet vajadzīgo tekstu katrai valodai.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Datuma jautājumu pievienošana
+#### Datuma jautājumu pievienošana
 
 Šis jautājumu ļauj atbildes veidā ievadīt datumu no datumu saraksta. Tas noder, lai pajautātu kandidātiem par iespējamo darba sākuma datumu.
 
@@ -217,7 +214,7 @@ Valsts jautājumi ļauj kandidātam sarakstā atlasīt vienu vai vairākas valst
 2.  Ievadiet vajadzīgo tekstu katrai valodai.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Virsraksta jautājumu pievienošana
+#### Virsraksta jautājumu pievienošana
 
 Šis jautājumu veids ir līdzīgs brīvā teksta jautājumiem, izņemot to, ka teksts ir formatēts virsraksta stilā, kad tas tiek parādīts kandidātam darba sludinājumā.
 
@@ -225,7 +222,7 @@ Valsts jautājumi ļauj kandidātam sarakstā atlasīt vienu vai vairākas valst
 2.  Ievadiet vajadzīgo tekstu katrai valodai.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Faila augšupielādes jautājuma pievienošana
+#### Faila augšupielādes jautājuma pievienošana
 
 Faila augšupielādes jautājums paredzēts, lai kandidāti varētu augšupielādēt rekomendācijas, CV, darba piemērus vai citus dokumentus.
 
@@ -234,7 +231,7 @@ Faila augšupielādes jautājums paredzēts, lai kandidāti varētu augšupielā
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.  
     Ņemiet vērā, ka kandidāti varēs augšupielādēt tikai administratora konfigurētos  [failu veidus](setting_allowable_uploadable_document_and_image_file_types.htm).
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Video jautājuma pievienošana
+#### Video jautājuma pievienošana
 
 Šis jautājums ļauj kandidātam atbildēt uz jūsu jautājumu, ierakstot tiešraidē video vai augšupielādējot iepriekš ierakstītu video.
 
@@ -242,20 +239,16 @@ Faila augšupielādes jautājums paredzēts, lai kandidāti varētu augšupielā
 2.  Ievadiet tekstu, kas atbilst jautājumam katrā valodā.
 3.  Noklikšķiniet uz  Pievienot  un tad saglabājiet jautājumus.
 
-Skatīt arī:
+#### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png) [Papildu jautājumi](additional_questions.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Atbildes e-pasti](response_emails.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Pieteikumu veidnes](application_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Vakanču veidnes](vacancy_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Darba līgumi](employment_contacts.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTQ1NzYyMV19
+eyJoaXN0b3J5IjpbNDY1Njk0MDE2XX0=
 -->
