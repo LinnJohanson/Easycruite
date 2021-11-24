@@ -28,89 +28,89 @@
 
 <Phone type="private">+46 123456</Phone>
 
-<Phone type="work">+46 123456</Phone>
+< Phone type="work">+46 123456</Phone>
 
-<Phone type="cellular">+46 123456</Phone>
+< Phone type="cellular">+46 123456</Phone>
 
-<Email>test@test.abc</Email>
+< Email>test@test.abc< /Email>
 
-<Homepage>www.test123.com</Homepage>
+< Homepage>www.test123.com< /Homepage>
 
-<PostalAddress>
+< PostalAddress>
 
-<Country iso="SE" id="204">Zviedrija</Country>
+< Country iso="SE" id="204">Zviedrija< /Country>
 
-<PostalCode>12345</PostalCode>
+< PostalCode>12345< /PostalCode>
 
-<PostalArea>Pilsēta</PostalArea>
+< PostalArea>Pilsēta< /PostalArea>
 
-<Municipality id="543">Malmö stad</Municipality>
+< Municipality id="543">Malmö stad< /Municipality>
 
-<County id="46">Skåne</County>
+< County id="46">Skåne< /County>
 
-<Address>Ielas nosaukums</Address>
+< Address>Ielas nosaukums< /Address>
 
-</PostalAddress>
+< /PostalAddress>
 
-<PhotoFileName>Untitled-1.gif</PhotoFileName>
+< PhotoFileName>Untitled-1.gif< /PhotoFileName>
 
-<CVFileName>cv.docx</CVFileName>
+< CVFileName>cv.docx< /CVFileName>
 
-</PersonalDetails>
+< /PersonalDetails>
 
-<EmploymentHistory>
+< EmploymentHistory>
 
-<Employment current="1" id="29980191">
+< Employment current="1" id="29980191">
 
-<EmployerName>Test AB</EmployerName>
+< EmployerName>Test AB< /EmployerName>
 
-<PositionTitle>Tests</PositionTitle>
+< PositionTitle>Tests< /PositionTitle>
 
-<PositionDescription>Apraksts</PositionDescription>
+< PositionDescription>Apraksts< /PositionDescription>
 
-<Sector id="35"/>
+< Sector id="35"/>
 
-<JobCategory id="35">Izsaukumu centrs</JobCategory>
+< JobCategory id="35">Izsaukumu centrs< /JobCategory>
 
-<SubCategory id="357">Komandas vadītājs</SubCategory>
+< SubCategory id="357">Komandas vadītājs< /SubCategory>
 
-<WorkRole id="6">Kundansvarig</WorkRole>
+< WorkRole id="6">Kundansvarig<  /WorkRole>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2013-03-01</EndDate>
+< EndDate>2013-03-01< /EndDate>
 
-</Employment>
+< /Employment>
 
-</EmploymentHistory>
+< /EmploymentHistory>
 
-<EducationHistory>
+< EducationHistory>
 
-<Education current="1" id="20060247">
+< Education current="1" id="20060247">
 
-<InstituteType id="3">Koledža</InstituteType>
+< InstituteType id="3">Koledža< /InstituteType>
 
-<InstituteName>School</InstituteName>
+< InstituteName>School< /InstituteName>
 
-<AreaOfEducation id="98">Aviācijas inženieris</AreaOfEducation>
+< AreaOfEducation id="98">Aviācijas inženieris< /AreaOfEducation>
 
-<Degree id="91">Arhitekts</Degree>
+< Degree id="91">Arhitekts< /Degree>
 
-<StartDate>01.03.2010</StartDate>
+< StartDate>01.03.2010< /StartDate>
 
-<EndDate>01.04.2014</EndDate>
+< EndDate>01.04.2014< /EndDate>
 
-<AverageGrade>Atzīme</AverageGrade>
+< AverageGrade>Atzīme< /AverageGrade>
 
-<ResultPoints>544</ResultPoints>
+< ResultPoints>544< /ResultPoints>
 
-<Country iso="SE" id="14">Zviedrija</Country>
+< Country iso="SE" id="14">Zviedrija< /Country>
 
-<Comments>Specializācija</Comments>
+< Comments>Specializācija< /Comments>
 
-</Education>
+< /Education>
 
-</EducationHistory>
+< /EducationHistory>
 
 < Certifications>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODAxNTk4Nl19
+eyJoaXN0b3J5IjpbLTExNzQyMzY5MTBdfQ==
 -->
