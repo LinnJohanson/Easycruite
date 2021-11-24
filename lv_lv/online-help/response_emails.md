@@ -8,7 +8,7 @@ Atbildes e-pastu veidnes var konfigurēt uzņēmuma, nodaļas vai apakšnodaļas
 
 Pēc noklusējuma lielākā daļa atbildes epastu veidņu satur vispārīgu saturu.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Pieejamo atbildes e-pastu aplūkošana
+#### Pieejamo atbildes e-pastu aplūkošana
 
 1.  Rīkjoslā  noklikšķiniet uz  Iestatījumi, lai parādītu lapu  Iestatījumi.
 2.  Noklikšķiniet uz  Atbildes e-pasti, lai parādītu lapu  Standarta atbildes e-pasti.
@@ -18,7 +18,7 @@ Pēc noklusējuma lielākā daļa atbildes epastu veidņu satur vispārīgu satu
 
 Ja pastāv nodaļas atbildes e-pasts, blakus nodaļas nosaukumam ir attēlota zvaigznīte.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Atbildes e-pasta rediģēšana
+#### Atbildes e-pasta rediģēšana
 
 1.  Rīkjoslā  noklikšķiniet uz  Iestatījumi, lai parādītu lapu  Iestatījumi.
 2.  Noklikšķiniet uz  Atbildes e-pasti, lai parādītu lapu  Standarta atbildes e-pasti.
@@ -78,5 +78,5 @@ HTML atbildes e-pastos ir pieejama papildu funkcija, kas nav pieejama standarta 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIzODEyNzBdfQ==
+eyJoaXN0b3J5IjpbLTk5Mzk4OTk3MF19
 -->
