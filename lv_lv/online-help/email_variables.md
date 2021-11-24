@@ -2,35 +2,20 @@
 
 [Standarta atbildes e-pastos](standard_response_email_types.htm)  var būt šādi mainīgie (sapludināšanas lauki):
 
-Mainīgais
-
-Apraksts
-
+Mainīgais - Apraksts:
 Izmanto
 
-{address}
-
-Intervijas vieta
-
+{address} - Intervijas vieta:
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{advertisement-active-from-date}
-
-Sludinājuma sākuma datums
-
+{advertisement-active-from-date} - Sludinājuma sākuma datums:
 E-pasts – kanāla sludinājums
 
-{advertisement-active-to-date}
+{advertisement-active-to-date} - Sludinājuma publicēšanas beigu datums:
+- E-pasts – kanāla sludinājums
+- Pieteikums saglabāts
 
-Sludinājuma publicēšanas beigu datums
-
-E-pasts – kanāla sludinājums
-
-Pieteikums saglabāts
-
-{advertisement-body}
-
-Sludinājuma teksts
+{advertisement-body}Sludinājuma teksts
 
 E-pasts – kanāla sludinājums
 
@@ -1877,5 +1862,5 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3NjkzM119
+eyJoaXN0b3J5IjpbMzg3Mzk5NzUsLTE1MDk3NjkzM119
 -->
