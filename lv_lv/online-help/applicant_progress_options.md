@@ -6,7 +6,7 @@ Tabulā ir aprakstīts katrs posms:
 
 **Tālākā virzība**
 Apraksts
-|||
+***
 **[Atsaukts](rejecting_and_withdrawing_an_applicant.htm)**
 Kandidāts ir nolēmis izstāties no pieteikšanās procesa. Šo paziņojumu var sniegt, kad kandidāts atbild uz uzaicinājumu piedalīties intervijā vai citos procesa posmos. Kandidāta  Vakances statuss  tiek nomainīts uz  Atsaukts.
 
@@ -60,5 +60,5 @@ Ar šo opciju personāla atlases speciālists nosūta personām uzņēmumā vai 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDQxMjkzMywxMTQ3NjQ0NzY5XX0=
+eyJoaXN0b3J5IjpbMTU4NDQ0Mjk2NywxMTQ3NjQ0NzY5XX0=
 -->
