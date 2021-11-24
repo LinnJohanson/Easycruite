@@ -4,7 +4,7 @@ Darba līgumu objektus izmanto, lai izveidotu veidnes, kas saistītas ar noteikt
 
 Lai darba līgumā būtu iekļauta pareiza informācija, tiek izmantoti XML mainīgie. Mainīgie ietver laukus un opcijas, kuras kandidātam jāievada, sākotnēji piesakoties vakancei. Kad personāla atlases speciālists nosūta darba līgumu, EasyCruit sistēma automātiski aizvieto XML mainīgos ar kandidātam piesaistītajām vērtībām.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Darba līguma izveide
+#### Darba līguma izveide
 
 1.  Rīkjoslā noklikšķiniet uz  Iestatījumi  un pēc tam uz  Darba līgumi, lai parādītu lapu  Darba līgumi.
 2.  Ja nepieciešams, sarakstā  Atlasīt nodaļu  atlasiet apakšnodaļas, kurām ir piekļuve līgumam.
@@ -43,5 +43,5 @@ Lai darba līgumā būtu iekļauta pareiza informācija, tiek izmantoti XML main
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDczNTI0MjddfQ==
+eyJoaXN0b3J5IjpbLTE4NTM1MjIwOF19
 -->
