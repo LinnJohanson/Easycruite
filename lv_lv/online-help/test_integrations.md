@@ -4,7 +4,7 @@ EasyCruit ir integrēti vairāki ar Assessio, cut-e un SHL palīdzību veikti no
 
 Testu integrēšana ir pieejama tikai tiem klientiem, kas abonē šo funkcionalitāti.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Testu izmantošana
+#### Testu izmantošana
 
 1.  Lai izmantotu testu kādai vakancei, tiešajā saitē Jauna vakance atlasiet nepieciešamo testu sadaļā  Dažādi iestatījumi.  
     Tad testi tiek aktivizēti projekta vajadzībām.
@@ -14,11 +14,11 @@ Testu integrēšana ir pieejama tikai tiem klientiem, kas abonē šo funkcionali
 
 Testus var izmantot vairākos veidos. Piemēram, jūs varat izveidot atlases jautājumus, uz kuriem jāsniedz pareiza atbilde, pirms testi tiek izsūtīti automātiski, vai arī jūs varat nosūtīt testu manuāli noteiktiem kandidātiem.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Assessio
+#### Assessio
 
 Assessio ir viens no pakalpojumu sniedzējiem, kuru novērtējuma testus var integrēt EasyCruit.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Vakanču Service-F novērtējuma testa rezultātu aplūkošana
+#### Vakanču Service-F novērtējuma testa rezultātu aplūkošana
 
 1.  Piesakieties EasyCruit un atlasiet vakanci.
 2.  Atlasiet cilni  Pieteikumu apstrāde.  
@@ -26,7 +26,7 @@ Assessio ir viens no pakalpojumu sniedzējiem, kuru novērtējuma testus var int
 3.  Atlasiet  Service-F.  
     Tiek parādīta lapa  Personālā atlases informācija  ar Service-F vērtējumu pabeigušo kandidātu sarakstu un viņu sasniegtajiem rezultātiem.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Vakanču MINT personības testa rezultātu aplūkošana
+#### Vakanču MINT personības testa rezultātu aplūkošana
 
 1.  Piesakieties EasyCruit un atlasiet vakanci.
 2.  Atlasiet cilni  Pieteikumu apstrāde.  
@@ -94,5 +94,5 @@ Jūs varat nosūtīt vairākus testus vai arī jūsu organizācija var konfigur�
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4OTM1OTY3XX0=
+eyJoaXN0b3J5IjpbLTE5MDUyMTk4OTVdfQ==
 -->
