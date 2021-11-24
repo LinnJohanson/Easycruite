@@ -112,91 +112,91 @@
 
 </EducationHistory>
 
-<Certifications>
+< Certifications>
 
-<Certification id="5101959">
+< Certification id="5101959">
 
-<Name>Kurss</Name>
+< Name>Kurss< /Name>
 
-<Description>Desc.</Description>
+< Description>Desc.< /Description>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>01.04.2014</EndDate>
+< EndDate>01.04.2014< /EndDate>
 
-<Duration type="hours">100</Duration>
+< Duration type="hours">100< /Duration>
 
-</Certification>
+< /Certification>
 
-</Certifications>
+< /Certifications>
 
 <Rekomendācijas>
 
-<Reference id="3686853">
+< Reference id="3686853">
 
-<CompanyName>Uzņēmums</CompanyName>
+< CompanyName>Uzņēmums< /CompanyName>
 
-<PersonName>Vārds</PersonName>
+< PersonName>Vārds< /PersonName>
 
-<ContactInfo>123456</ContactInfo>
+< ContactInfo>123456< /ContactInfo>
 
-</Reference>
+< /Reference>
 
-</References>
+< /References>
 
-<Competencies name="IT Knowledge">
+< Competencies name="IT Knowledge">
 
-<Competency id="12018913">
+< Competency id="12018913">
 
-<Name>Birojs</Name>
+< Name>Birojs< /Name>
 
-<Level id="3">2. Advanced student</Level>
+< Level id="3">2. Advanced student< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Language">
+< Competencies name="Language">
 
-<Competency id="21575765">
+< Competency id="21575765">
 
-<Name iso="SE" id="204">Zviedru</Name>
+< Name iso="SE" id="204">Zviedru< /Name>
 
-<Level type="speaking" id="3">Dzimtā valoda</Level>
+< Level type="speaking" id="3">Dzimtā valoda< /Level>
 
-<Level type="reading" id="3">Dzimtā valoda</Level>
+< Level type="reading" id="3">Dzimtā valoda< /Level>
 
-<Level type="writing" id="3">Dzimtā valoda</Level>
+< Level type="writing" id="3">Dzimtā valoda< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Driverlicense">
+< Competencies name="Driverlicense">
 
-<Competency id="6315595"><Name id="1">Car/Van</Name>
+< Competency id="6315595">< Name id="1">Car/Van</ Name>
 
-<Level type="date">1995</Level>
+< Level type="date">1995< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Personality>
+< Personality>
 
-<Trait id="22"/><Trait id="31"/><Trait id="1"/><Trait id="4"/>
+< Trait id="22"/>< Trait id="31"/>< Trait id="1"/>< Trait id="4"/>
 
-</Personality>
+< /Personality>
 
-<InternalDocuments/>
+< InternalDocuments/>
 
-<Applications>
+< Applications>
 
-<Application id="1029513">
+< Application id="1029513">
 
-<ProjectTitle>Lumesse tests 2</ProjectTitle>
+< ProjectTitle>Lumesse tests 2< /ProjectTitle>
 
-< VacancyTitle>Lumesse tests 2</VacancyTitle>
+< VacancyTitle>Lumesse tests 2< /VacancyTitle>
 
 < DepartmentID>2109< /DepartmentID>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTc2ODkwMF19
+eyJoaXN0b3J5IjpbMjEyODAxNTk4Nl19
 -->
