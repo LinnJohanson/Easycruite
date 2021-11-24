@@ -1,74 +1,56 @@
 # Kandidāta profila jautājumu izvilkuma datu lauks
 
 Kandidāta profila jautājumu izvilkums ietver kandidāta atbildes uz Pašklasifikācijas – Kandidāta profila jautājumiem un CR klasifikācijas – Kandidāta profila jautājumiem. Tabulā ir aprakstīti lauki, kurus izmanto Kandidāta profila jautājumu izvilkumā.
-
-Lauka nosaukums
-
+***
+**Lauka nosaukums**
 Apraksts
-
-Kandidāta ID
-
+***
+**Kandidāta ID**
 Unikāls kandidāta ID, ko izveido sistēma
 
-Pēdējās izmaiņas
-
+**Pēdējās izmaiņas**
 Pēdējais datums, kad kandidāts veica izmaiņas jebkurā informācijā, kas atrodas kandidātu karjeras centrā
 
-Dzimums
-
+**Dzimums**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Dzimšanas datums
-
+**Dzimšanas datums**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Iekšējā kategorizēšana
-
+**Iekšējā kategorizēšana**
 Kandidāta tips, piemēram, CV kandidāts, darbinieks u.c.
 
-Vārds
-
+**Vārds**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Uzvārds
-
+**Uzvārds**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pasta indekss
-
+**Pasta indekss**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pilsēta
-
+**Pilsēta**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Valsts
-
+**Valsts**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Reģions
-
+**Reģions**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pilsēta
-
+**Pilsēta**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Pavalstniecība
-
+**Pavalstniecība**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-E-pasts
-
+**E-pasts**
 Kandidāta atbilde uz šo jautājumu, ja uzdots
 
-Kandidāta profila jautājums
-
-Kandidāta atbilde uz šo jautājumu, ja uzdots
-
-NB. Katrs  Pašklasifikācijas  –  Kandidāta profila  jautājums ir norādīts atsevišķā ailē.
-
-NB. Virsraksts mainās atkarībā no jautājuma virsraksta
+**Kandidāta profila jautājums**
+- Kandidāta atbilde uz šo jautājumu, ja uzdots
+- NB. Katrs  Pašklasifikācijas  –  Kandidāta profila  jautājums ir norādīts atsevišķā ailē.
+- NB. Virsraksts mainās atkarībā no jautājuma virsraksta
 
 CR klasifikācija – kandidāta profila jautājums
 - Kandidāta atbilde uz šo jautājumu, ja uzdots
@@ -86,5 +68,5 @@ CR klasifikācija – kandidāta profila jautājums
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTExOTIwNV19
+eyJoaXN0b3J5IjpbNTYwMzA0MDk4XX0=
 -->
