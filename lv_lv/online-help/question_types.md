@@ -36,69 +36,30 @@ Viena
 
 Jā
 
-Izvelkamā izvēlne ar vairākām iespējām
-
+Izvelkamā izvēlne ar vairākām iespējām -
 Pielāgotas vērtības
+Vairākas - Nē
 
-Vairākas
+Nodaļas jautājums - Sistēmas vērtības
+Viena - Nē
 
-Nē
+HTML formāta teksts - Nav
+Neattiecas - Nē
 
-Nodaļas jautājums
+Teksta lauks - Brīvs teksts
+Viena - Nē
 
-Sistēmas vērtības
+Tekstlodziņš - Brīvs teksts
+Viena - Nē
 
-Viena
+Valsts - Pielāgotas vērtības
+Viena - Nē
 
-Nē
+Valstu nolaižamā izvēlne - Pielāgotas vērtības
+Vairākas - Nē
 
-HTML formāta teksts
-
-Nav
-
-Neattiecas
-
-Nē
-
-Teksta lauks
-
-Brīvs teksts
-
-Viena
-
-Nē
-
-Tekstlodziņš
-
-Brīvs teksts
-
-Viena
-
-Nē
-
-Valsts
-
-Pielāgotas vērtības
-
-Viena
-
-Nē
-
-Valstu nolaižamā izvēlne
-
-Pielāgotas vērtības
-
-Vairākas
-
-Nē
-
-Datums
-
-Pielāgotas vērtības
-
-Viena
-
-Nē
+Datums - Pielāgotas vērtības
+Viena - Nē
 
 Virsraksts - Nav
 Neattiecas  - Nē
@@ -238,5 +199,5 @@ Faila augšupielādes jautājums paredzēts, lai kandidāti varētu augšupielā
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2MTE2OTIxXX0=
+eyJoaXN0b3J5IjpbLTEwNTMyODQxNjMsNzg2MTE2OTIxXX0=
 -->
