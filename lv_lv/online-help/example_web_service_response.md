@@ -1,36 +1,36 @@
 # Tīmekļa pakalpojuma atbildes piemērs
 
-<Candidate id="26980851" language="gb">
+< Candidate id="26980851" language="gb">
 
-<PersonalDetails>
+< PersonalDetails>
 
-<CurrentEmploymentStatus id="17">Nodarbināts</CurrentEmploymentStatus>
+< CurrentEmploymentStatus id="17">Nodarbināts< /CurrentEmploymentStatus>
 
-<Title id="1">Mr</Title>
+< Title id="1">Mr< /Title>
 
-<TitleGrade>Mr</TitleGrade>
+< TitleGrade>Mr< /TitleGrade>
 
-<FirstName>Vārds</FirstName>
+< FirstName>Vārds< /FirstName>
 
-<MiddleName>Otrais vārds</MiddleName>
+< MiddleName>Otrais vārds< /MiddleName>
 
-<LastName>Uzvārds</LastName>
+< LastName>Uzvārds< /LastName>
 
-<Nationality iso="SE" id="204">Zviedrija</Nationality>
+< Nationality iso="SE" id="204">Zviedrija< /Nationality>
 
-<MaritalStatus id="2">Precējies</MaritalStatus>
+< MaritalStatus id="2">Precējies< /MaritalStatus>
 
-<DateOfBirth>1980-01-01</DateOfBirth>
+< DateOfBirth>1980-01-01< /DateOfBirth>
 
-<Gender>v</Gender>
+< Gender>v< /Gender>
 
-<SSN>123456</SSN>
+< SSN>123456< /SSN>
 
-<Phone type="private">+46 123456</Phone>
+< Phone type="private">+46 123456< /Phone>
 
-< Phone type="work">+46 123456</Phone>
+< Phone type="work">+46 123456< /Phone>
 
-< Phone type="cellular">+46 123456</Phone>
+< Phone type="cellular">+46 123456< /Phone>
 
 < Email>test@test.abc< /Email>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQyMzY5MTBdfQ==
+eyJoaXN0b3J5IjpbMTI4NzI4MzA4OF19
 -->
