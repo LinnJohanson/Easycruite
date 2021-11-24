@@ -52,7 +52,7 @@ Kandidāta atbilde uz šo jautājumu, ja uzdots
 - NB. Katrs  Pašklasifikācijas  –  Kandidāta profila  jautājums ir norādīts atsevišķā ailē.
 - NB. Virsraksts mainās atkarībā no jautājuma virsraksta
 
-CR klasifikācija – kandidāta profila jautājums
+**CR klasifikācija – kandidāta profila jautājums**
 - Kandidāta atbilde uz šo jautājumu, ja uzdots
 - NB. Katrs  Pašklasifikācijas  –  Kandidāta profila  jautājums ir norādīts atsevišķā ailē.
 - NB. Virsraksts mainās atkarībā no jautājuma virsraksta
@@ -68,5 +68,5 @@ CR klasifikācija – kandidāta profila jautājums
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwMzA0MDk4XX0=
+eyJoaXN0b3J5IjpbLTE1NzA1Mzg2NTRdfQ==
 -->
