@@ -2,7 +2,7 @@
 
 Pārskati (Publiskais kandidātu saraksts  un  Paplašinātais kandidātu saraksts), kas pieejami cilnē  Kandidātu saraksts  attiecas tikai uz Norvēģiju.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Publiskais kandidātu saraksts
+#### Publiskais kandidātu saraksts
 
 Pēc noklusējuma publiskajā pārskatā tiek iekļauta šāda informācija:
 
@@ -10,7 +10,7 @@ Pēc noklusējuma publiskajā pārskatā tiek iekļauta šāda informācija:
 
 Kandidātiem, kas vēlas saglabāt konfidencialitāti un negrib atrasties publiskajā sarakstā, var atlasīt  Izslēgt piesardzīgo pretendentu, lai pārskatos parādītos tikai kandidāta dzimums.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Paplašinātais kandidātu saraksts
+#### Paplašinātais kandidātu saraksts
 
 Parādīt ziņojumu "nav publiski pieejams"  ir papildu opcija, kas pieejama tikai paplašināto pārskatu gadījumā. Kad to atlasa, vakances kandidāta pieprasītajos pārskatos parādās šis teksts, un tā ir vienīgā reize, kad pārskatu vajadzētu izpaust personām ārpus uzņēmuma. Šo tekstu parāda tikai tad, ja kandidātam iestatītā valsts ir Norvēģija.
 
@@ -37,5 +37,5 @@ Pēc noklusējuma paplašinātajā pārskatā tiek iekļauta šāda informācija
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5NTY4NDk5XX0=
+eyJoaXN0b3J5IjpbLTE4MDk4NzQ5M119
 -->
