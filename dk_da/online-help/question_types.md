@@ -4,124 +4,79 @@ Der er flere forskellige spørgsmåltyper tilgængelige i systemet til at imøde
 
 Tabellen nedenfor indeholder en oversigt over hver af spørgsmålstyperne.
 
-Spørgsmålstype
-
+**Spørgsmålstype**
 Tilgængeligt svar
-
 Valg
-
 Udvælgelse
 
 Radioknapper
-
 Brugerdefinerede værdier
-
 Single
-
 Ja
 
 Afkrydsningsfelter
-
 Brugerdefinerede værdier
-
 Flere
-
 Nej
 
 Dropdown enkelt
-
 Brugerdefinerede værdier
-
 Single
-
 Ja
 
 Dropdown flere
-
 Brugerdefinerede værdier
-
 Flere
-
 Nej
 
 Afdelingsspørgsmål
-
 Systemværdier
-
 Single
-
 Nej
 
 HTML-formatteret tekst
-
 Ingen
-
 Ikke relevant
-
 Nej
 
 Tekstområde
-
 Fritekst
-
 Single
-
 Nej
 
 Tekstfelt
-
 Fritekst
-
 Single
-
 Nej
 
 Land
-
 Brugerdefinerede værdier
-
 Single
-
 Nej
 
 Land dropdown flere
-
 Brugerdefinerede værdier
-
 Flere
-
 Nej
 
 Dato
-
 Brugerdefinerede værdier
-
 Single
-
 Nej
 
 Overskrift
-
 Ingen
-
 Ikke relevant
-
 Nej
 
 Filoverførsel
-
 Hent
-
 Single
-
 Nej
 
 Videospørgsmål
-
 Optag live eller upload
-
 Single
-
 Nej
 
 Spørgsmålstype  - Følgende er de forskellige spørgsmålstyper, der er tilgængelige. Med undtagelse af  HTML-formatteret tekst,  Overskrift,  Filoverførsel  og  Videospørgsmål inkluderer de andre spørgsmålstyper standardformater som eksempelvis radioknapper, dropdown-lister og fritekstfelter.
@@ -132,7 +87,7 @@ Valg  - Afhængigt af spørgsmålstypen kan svar består af enkelte eller flere 
 
 Screening  - Disse spørgsmålstyper kan anvendes til at hjælpe med at screene ansøgere i løbet af ansøgningsprocessen. Når pointværdier aktiveres, kan de anvendes som svar på spørgsmål, og hvis ansøgeren ikke får tilstrækkeligt med point fra svarerne, kan de screenes ud af ansøgningsprocessen.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af radioknapspørgsmål
+#### Tilføjelse af radioknapspørgsmål
 
 Denne type spørgsmål gør brugeren i stand til kun at vælge et svar i en liste af muligheder.
 
@@ -144,7 +99,7 @@ Denne type spørgsmål gør brugeren i stand til kun at vælge et svar i en list
     Hvis  Point  blev valgt i trin 2, indtastes en numerisk værdi i feltet  Point. Hvis  Obligatorisk  blev valgt, vælges  Sandt  eller  Falsk  til at indstille screeningskriteriet for spørgsmålet (Sandt  = ansøgeren kommer videre;  Falsk  = ansøgeren bliver sorteret fra).
 6.  Gentag trin 4 til 5 for hvert svar og klik derefter på  Tilføj, når du er færdig.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af spørgsmål i afkrydsningsfelt
+#### Tilføjelse af spørgsmål i afkrydsningsfelt
 
 Denne type spørgsmål gør brugeren i stand til at vælge flere muligheder i en liste af svar.
 
@@ -154,7 +109,7 @@ Denne type spørgsmål gør brugeren i stand til at vælge flere muligheder i en
 4.  Indtast den nødvendige værdi for hvert sprog og klik derefter på  Tilføj.
 5.  Gentag trin 3 til 4 for hvert svar og klik derefter på  Tilføj, når du er færdig.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af enkelte dropdown-spørgsmål
+#### Tilføjelse af enkelte dropdown-spørgsmål
 
 Enkelte dropdown-spørgsmål gør brugeren i stand til at vælge en værdi fra listen over tilgængelige svar. Svarerne kan også få pointværdier, der anvendes til screening af ansøgere.
 
@@ -167,7 +122,7 @@ Enkelte dropdown-spørgsmål gør brugeren i stand til at vælge en værdi fra l
     Hvis  Point  blev valgt i trin 2, indtastes en numerisk værdi i feltet  Point. Hvis  Obligatorisk  blev valgt, vælges  Sandt  eller  Falsk  til at indstille screeningskriteriet for spørgsmålet (Sandt  = ansøgeren kommer videre;  Falsk  = ansøgeren bliver sorteret fra).
 6.  Gentag trin 4 til 5 for hvert svar og klik derefter på  Tilføj  på siden  Tilføj spørgsmål, når du er færdig.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af flere dropdown-spørgsmål
+#### Tilføjelse af flere dropdown-spørgsmål
 
 Flere dropdown-spørgsmål gør det muligt at vælge flere værdier i en liste.
 
@@ -177,7 +132,7 @@ Flere dropdown-spørgsmål gør det muligt at vælge flere værdier i en liste.
 4.  Indtast den nødvendige værdi for hvert sprog og klik derefter på  Tilføj.
 5.  Gentag trin 3 til 4 for hvert svar og klik derefter på  Tilføj  på siden  Tilføj spørgsmål, når du er færdig.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af afdelingsspørgsmål
+#### Tilføjelse af afdelingsspørgsmål
 
 Dette spørgsmål indeholder en liste over alle afdelingerne i en organisation.
 
@@ -185,7 +140,7 @@ Dette spørgsmål indeholder en liste over alle afdelingerne i en organisation.
 2.  Indtast den tekst, der fungerer som spørgsmål for hvert sprog.
 3.  Klik på  Tilføj  og så kan spørgsmålet gemmes.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af spørgsmål med HTML-formatteret tekst
+#### Tilføjelse af spørgsmål med HTML-formatteret tekst
 
 Denne type spørgsmål gør det muligt at placere HTML-formatteret indhold i en jobannonce og kan anvendes sammen med andre spørgsmålstyper til at skabe mere formelle, virksomhedsspecifikke spørgsmål.
 
@@ -193,7 +148,7 @@ Denne type spørgsmål gør det muligt at placere HTML-formatteret indhold i en 
 2.  Indtast det nødvendige indhold i  [WYSIWYG-redigeringen](wysiwyg_text_editor.htm)  for hvert sprog.
 3.  Klik på  Tilføj  og så kan spørgsmålet gemmes.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af tekstspørgsmål
+#### Tilføjelse af tekstspørgsmål
 
 Disse spørgsmålstyper indeholder et enkelt tekstfelt til indtastning af ikke-formatteret tekst og kan anvendes, når WYSIWYG-redigeringen ikke er påkrævet.
 
@@ -201,7 +156,7 @@ Disse spørgsmålstyper indeholder et enkelt tekstfelt til indtastning af ikke-f
 2.  Indtast den nødvendige tekst for hvert sprog.
 3.  Klik på  Tilføj  og så kan spørgsmålet gemmes.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af land og spørgsmål med flere landesvar i dropdown-liste
+#### Tilføjelse af land og spørgsmål med flere landesvar i dropdown-liste
 
 Denne type spørgsmål gør ansøgeren i stand til at vælge et eller flere lande i en liste afhængigt af, hvilke to typer, der anvendes.
 
@@ -209,7 +164,7 @@ Denne type spørgsmål gør ansøgeren i stand til at vælge et eller flere land
 2.  Indtast den nødvendige tekst for hvert sprog.
 3.  Klik på  Tilføj  og så kan spørgsmålet gemmes.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af datospørgsmål
+#### Tilføjelse af datospørgsmål
 
 Denne spørgsmålstype gør det muligt at indtaste en dato som svar via en datoplukning. Dette er nyttigt ved spørgsmål vedrørende ansøgerens mulige startdato.
 
@@ -217,7 +172,7 @@ Denne spørgsmålstype gør det muligt at indtaste en dato som svar via en datop
 2.  Indtast den nødvendige tekst for hvert sprog.
 3.  Klik på  Tilføj  og så kan spørgsmålet gemmes.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af overskriftsspørgsmål
+#### Tilføjelse af overskriftsspørgsmål
 
 Denne spørgsmålstype er tilsvarende teksttyper, ned teksten er formatteret i en overskrift, når den præsenteres for ansøgeren i jobannoncen.
 
@@ -225,7 +180,7 @@ Denne spørgsmålstype er tilsvarende teksttyper, ned teksten er formatteret i e
 2.  Indtast den nødvendige tekst for hvert sprog.
 3.  Klik på  Tilføj  og så kan spørgsmålet gemmes.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af filoverførselsspørgsmål
+#### Tilføjelse af filoverførselsspørgsmål
 
 Filoverførselsspørgsmålstypen er nyttig, når ansøgerne skal kunne uploade referencer, CV’er, arbejdseksempler og andet relevant materiale.
 
@@ -253,5 +208,5 @@ Denne type spørgsmål gør det muligt for en kandidat at besvare dit spørgsmå
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAwMTg3N119
+eyJoaXN0b3J5IjpbLTE2MTc2OTg4MDJdfQ==
 -->
