@@ -512,95 +512,50 @@ Pieteikums saglabāts
 {gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Sveiciens
 - Pieteikums saņemts
 - Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikšanā
+- Pārskatīt automātisko noraidījumu
+- Atlikts noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Pārsūtīt pieteikumu
+- E-pasta paraksti
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Darba līgums
+- Portable CV
+- SHL novērtējuma uzaicinājums
+- Pielāgotais e-pasts
 
-Pieteikuma kopija
+{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Sveiciens saglabātajā pieteikumā
+ - Pieteikums saglabāts
 
-Noraidījums pēc pieteikšanā
+{given-name} - Vārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Jauna lietotāja e-pasts
+- Darba līgums
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Pārskatīt automātisko noraidījumu
-
-Atlikts noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Pārsūtīt pieteikumu
-
-E-pasta paraksti
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Portable CV
-
-SHL novērtējuma uzaicinājums
-
-Pielāgotais e-pasts
-
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""}
-
-Sveiciens saglabātajā pieteikumā
-
-Pieteikums saglabāts
-
-{given-name}
-
-Vārds
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Jauna lietotāja e-pasts
-
-Darba līgums
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{interviewdate}
-
-Intervijas datums
-
+{interviewdate} - Intervijas datums
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
 {interviewer} {interviewers}
@@ -1366,6 +1321,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODMwOTY1MiwxMjA0MDk5NTMxLC0xNT
-A5NzY5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE1NzU1MDE3NTUsMTIwNDA5OTUzMSwtMT
+UwOTc2OTMzXX0=
 -->
