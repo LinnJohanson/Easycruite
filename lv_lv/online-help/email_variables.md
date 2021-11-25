@@ -530,7 +530,7 @@ Pieteikums saglabāts
 - Pielāgotais e-pasts
 
 {gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Sveiciens saglabātajā pieteikumā
- - Pieteikums saglabāts
+ Pieteikums saglabāts
 
 {given-name} - Vārds
 - Pieteikums saņemts
@@ -558,61 +558,33 @@ Pieteikums saglabāts
 {interviewdate} - Intervijas datums
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{interviewer} {interviewers}
-
-Intervētāji, kas piedalīsies
-
+{interviewer} {interviewers} - Intervētāji, kas piedalīsies
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{interviewtime}
-
-Intervijas laiks
-
+{interviewtime} - Intervijas laiks
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{job}
+{job} - Darbs
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Brīdinājums par vakances termiņa beigām
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Darbs
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Brīdinājums par vakances termiņa beigām
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{job-position}
-
-Amats
+{job-position} - Amats
 
 Pieteikums saņemts
 
@@ -1321,6 +1293,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzU1MDE3NTUsMTIwNDA5OTUzMSwtMT
-UwOTc2OTMzXX0=
+eyJoaXN0b3J5IjpbLTk3MzU2NzkxMCwxMjA0MDk5NTMxLC0xNT
+A5NzY5MzNdfQ==
 -->
