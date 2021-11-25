@@ -30,10 +30,10 @@ Dette gør det muligt at anvende nye ansøgningsformularer eller at redigere i e
 **Screeningsspørgsmål**
 Helt unikt, kan skærmspørgsmål, der er specifikke for rekrutteringsprojektet, tilføjes, fjernes og redigeres.
 
-Svarmail
+**Svarmail**
 De automatiske e-mail, der er forbundet med det specifikke rekrutteringsprojekt kan redigeres, samt aktiveres og indstilles som ikke registreret.
 
-Publish2board/Publish2Print...
+**Publish2board/Publish2Print...**
 - Denne mulighed gør det muligt at ændre karrierehjemmesider og andre publiceringskanaler, hvor rekrutteringsprojektet vises,
 - Hvis rekrutteringsprojektet i øjeblikket ikke er godkendt, kan denne mulighed ikke redigeres.
 
@@ -50,5 +50,5 @@ For yderligere oplysninger om disse muligheder henvises til  [Oprettelse af et r
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODc0MzUxM119
+eyJoaXN0b3J5IjpbLTU0MzYyMjExOV19
 -->
