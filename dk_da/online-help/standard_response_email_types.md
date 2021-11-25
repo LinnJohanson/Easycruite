@@ -21,87 +21,67 @@ Ansøgning gemt (1, 2)
 Skræddersyet e-mail, der sendes til en kandidat og bekræfter, at vedkommendes ansøgning er blevet gemt.
 
 Afslag på ansøgning
-
+***
 Beskrivelse
-
 Afslag efter behandlet ansøgning (1)
 
 E-mail sendt til kandidater, der fortæller dem, at de ikke er velegnet til stillingen.
 
 Automatisk afslag (1, 2)
-
 E-mail sendt til kandidater, der ikke opnår et godt nok resultat i screeningsspørgsmålene til et rekrutteringsprojekt.
-
+***
 Tidsbestemt afslag
-
 Beskrivelse
-
+***
 Tidsbestemt afslag (1, 2)
-
 E-mail sendt til kandidaterne, der giver dem besked om, at deres ansøgning ikke kommer videre. Den sendes med udgangspunkt i manglen på videre behandling over en udpeget tidsperiode (uger).
-
+***
 Mødeindkaldelse / -afslag
-
 Beskrivelse
-
+***
 Første møde/telefonsamtale (1)
-
 E-mail sendt til kandidater om et første møde eller en telefonsamtale.
 
 1. samtale (1)
-
 E-mail sendt til kandidater med en invitation til en første samtale.
 
 2. samtale (1)
-
 E-mail sendt til kandidater med en invitation til en anden samtale.
 
 3. samtale (1)
-
 E-mail sendt til kandidater med en invitation til en tredje samtale.
 
 Afslag efter første møde/telefonsamtale (1)
-
 E-mail der sendes manuelt til kandidater, og fortæller dem, at de ikke går videre i ansøgningsprocessen.
 
 Afslag efter 1. samtale
-
 E-mail der sendes manuelt til kandidater, og fortæller dem, at de ikke går videre i ansøgningsprocessen.
 
 Afslag efter 2. samtale
-
 E-mail der sendes manuelt til kandidater, og fortæller dem, at de ikke går videre i ansøgningsprocessen.
 
 Afslag efter 3. samtale
-
 E-mail der sendes manuelt til kandidater, og fortæller dem, at de ikke går videre i ansøgningsprocessen.
-
+***
 Andet
-
 Beskrivelse
-
+***
 Gem og send brugernavn
-
 E-mail sendt til kandidater, der oplyser dem om, at deres oplysninger gemmes i ansøgningsdatabasen og at de kan logge ind med deres brugernavn og adgangskode og ændre oplysningerne.
 
 Overførsel af ikke-ansatte kandidater til CV-base
-
 E-mail sendt til kandidater, der ikke havde succes med deres ansøgning. Indeholder deres brugernavn og adgangskode og inviterer dem til at søge på andre stillinger.
 
 Inviter medarbejder til at lægge sit CV ind
-
 E-mail sendt til interne medarbejdere, der inviterer dem til at logge på virksomhedens kandidathjemmeside og sikre, at oplysningerne er opdaterede.
 
 Send ansøgning (1)
-
 E-mail sendt til relevante kontaktpersoner, der indeholder en ansægers CV og ansøgning.
 
 Gem og send brugernavn
-
 E-mail sendt til kandidater, der oplyser dem om, at deres oplysninger gemmes i ansøgningsdatabasen og at de kan logge ind med deres brugernavn og adgangskode og ændre oplysningerne.
 
 Invitation til Service-F
-
 E-mail-invitationer sendt til ansøgere om Service-F-testen.
 
 Invitation til Matrigma-testen
@@ -213,5 +193,5 @@ Dette afsnit skal aktiveres af din EasyCruit-konsulent. Når det er aktiveret, v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDA1NDgxOF19
+eyJoaXN0b3J5IjpbLTI4Mjc0NDAzMl19
 -->
