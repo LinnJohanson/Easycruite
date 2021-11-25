@@ -830,121 +830,64 @@ Uzaicinājums uz MINT Matrigma un Service-F testiem
 - Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
 - Lietotājvārda apstiprinājums
-Uz CV datu bāzi pārnestie dati
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Darba līgums
+- Portable CV
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
 
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Darba līgums
-
-Portable CV
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-{unsubscribe-click-here}
-
-Sniedz Atteikties šeit tekstu
-
+{unsubscribe-click-here} - Sniedz Atteikties šeit tekstu
 Darba aģenta paziņojums
 
-{unsubscribe-link}
-
-Sniedz Atteikties šeit tekstu
-
+{unsubscribe-link} - Sniedz Atteikties šeit tekstu
 Darba aģenta paziņojums
 
-{url}
+{url} - URL paroles atgūšanai
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
 
-URL paroles atgūšanai
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-{user-cellular-telephone}
-
-Lietotāja mobilā tālruņa numurs
-
+{user-cellular-telephone} - Lietotāja mobilā tālruņa numurs
 E-pasts – kanāla sludinājums
 
-{user-family-name}
-
-Lietotāja uzvārds
-
+{user-family-name} - Lietotāja uzvārds
 E-pasts – kanāla sludinājums
 
-{user-given-name}
-
-Lietotāja vārds
-
+{user-given-name} - Lietotāja vārds
 E-pasts – kanāla sludinājums
 
-{username}
+{username} - Kandidāta lietotājvārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Automātiskais noraidījums
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Jauna lietotāja e-pasts
+- Pieteikšanās
+- Pieteikums saglabāts
 
-Kandidāta lietotājvārds
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Automātiskais noraidījums
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Jauna lietotāja e-pasts
-
-Pieteikšanās
-
-Pieteikums saglabāts
-
-{user-office-telephone}
-
-Lietotāja darba tālruņa numurs
-
+{user-office-telephone} - Lietotāja darba tālruņa numurs
 E-pasts – kanāla sludinājums
 
-{vacancy}
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba līgums
-
-Nosūtīt draugam vakanci
+{vacancy} - Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba līgums
+- Nosūtīt draugam vakanci
 
 Portable CV
 
@@ -1047,6 +990,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MTEyOTk5LDE4MDA4OTI0OTcsLTk3Mz
+eyJoaXN0b3J5IjpbLTM3NTIwNTE2LDE4MDA4OTI0OTcsLTk3Mz
 U2NzkxMCwxMjA0MDk5NTMxLC0xNTA5NzY5MzNdfQ==
 -->
