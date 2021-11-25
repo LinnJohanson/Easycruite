@@ -27,10 +27,9 @@ Kandidater, der har logget på via karrierecenteret sparer tid, når de ansøger
 
 Kandidater kan opdatere deres profil og sikre at du altid har de mest opdaterede oplysninger om kandidaten.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Gem ansøgninger i kandidatkarrierecenter](save_applications_in_candidate_career_centre.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [CV-analyse](cv_parsing.htm)
 ![](../Resources/Images/icon-document-link.png)  [Ansøgningsformular](application_form.htm)
 ![](../Resources/Images/icon-document-link.png)  [Modtagelse af ansøgninger](receiving_applications.htm)
@@ -38,5 +37,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjgwMzg5Nl19
+eyJoaXN0b3J5IjpbLTExNzgwNDMxM119
 -->
