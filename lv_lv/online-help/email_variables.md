@@ -666,75 +666,41 @@ Pieteikums saglabāts
 - Automātiskais noraidījums
 - Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-Lietotājvārda apstiprinājums
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Jauna lietotāja e-pasts
+- Darba līgums
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- E-pasta paraksti
+- Pieteikums saglabāts
 
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Jauna lietotāja e-pasts
-
-Darba līgums
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-E-pasta paraksti
-
-Pieteikums saglabāts
-
-{new-applicants}
-
-Tags pārskata sākšanai par jauniem kandidātiem, tags pārskata pabeigšanai par jauniem kandidātiem
-
+{new-applicants} - Tags pārskata sākšanai par jauniem kandidātiem, tags pārskata pabeigšanai par jauniem kandidātiem
 Pārskats par gaidāmo rīcību
 
-{number-of-applicants}
-
-Vērtētājam iesniegtais vērtējamo kandidātu skaits
-
+{number-of-applicants} - Vērtētājam iesniegtais vērtējamo kandidātu skaits
 Kandidāta vērtēšana
 
-{parole}
-
-Kandidāta parole
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Automātiskais noraidījums
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Lietotāja paroles pieprasījums
-
-Pieteikšanās
+{parole} - Kandidāta parole
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Automātiskais noraidījums
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Lietotāja paroles pieprasījums
+- Pieteikšanās
 
 {position}
 
@@ -1211,6 +1177,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU0NjQ4NywtOTczNTY3OTEwLDEyMD
+eyJoaXN0b3J5IjpbMjEzNDQyODYzMSwtOTczNTY3OTEwLDEyMD
 QwOTk1MzEsLTE1MDk3NjkzM119
 -->
