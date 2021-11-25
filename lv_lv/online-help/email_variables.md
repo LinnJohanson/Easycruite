@@ -585,42 +585,24 @@ Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Pielāgotais e-pasts
 
 {job-position} - Amats
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Brīdinājums par vakances termiņa beigām
-
-Pielāgotais e-pasts
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Brīdinājums par vakances termiņa beigām
+- Pielāgotais e-pasts
 
 {last-name}
 
@@ -1293,6 +1275,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzU2NzkxMCwxMjA0MDk5NTMxLC0xNT
-A5NzY5MzNdfQ==
+eyJoaXN0b3J5IjpbLTIxOTA1Mjc0MiwtOTczNTY3OTEwLDEyMD
+QwOTk1MzEsLTE1MDk3NjkzM119
 -->
