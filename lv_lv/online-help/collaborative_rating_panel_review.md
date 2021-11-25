@@ -22,18 +22,17 @@ Lai nosūtītu atlasītos kandidātus iekšējiem vai ārējiem vērtētājiem
 5.  Ja nepieciešams, izmainiet e-pasta tematu un saturu. E-pasta noklusējuma temats un saturs ir veidnes temats un saturs, ko izveidojis administrators (konfigurēts sadaļā  Iestatījumi  >  Atbildes e-pasti  >  Citi). Pastu sapludināšanas tagi ietver projekta nosaukumu, cik kandidāti nosūtīti vērtēšanai un URL, no kura vērtētāji var veikt vērtēšanu (vērtētājiem nevajag pieteikties EasyCruit sistēmā, lai veiktu vērtēšanu).
 6.  Atlasiet vajadzīgās izvēles rūtiņas. Redaktora apakšējā daļā ir šādas izvēles rūtiņas:
 
-Izvēles rūtiņa - Apraksts
-Neatļaut vērtēšanu - Atzīmējot šo rūtiņu, vērtētāji nevarēs novērtēt kandidātu 1-7 punktu sistēmā.
+**Izvēles rūtiņa** - Apraksts
 
-Neatļaut piezīmes - Atzīmējot šo rūtiņu, vērtētāji varēs izmantot tikai skaitlisku vērtējumu, bet nevarēs sniegt komentārus par kandidātu.
+**Neatļaut vērtēšanu** - Atzīmējot šo rūtiņu, vērtētāji nevarēs novērtēt kandidātu 1-7 punktu sistēmā.
 
-Nosūtiet man e-pastu pēc katra vērtētāja vērtējuma
+**Neatļaut piezīmes** - Atzīmējot šo rūtiņu, vērtētāji varēs izmantot tikai skaitlisku vērtējumu, bet nevarēs sniegt komentārus par kandidātu.
 
-Atzīmējot šo rūtiņu, jūs kā lietotājs, kas pietiecies sistēmā, saņemsiet e-pastu, kad vērtētājs būs pabeidzis kandidātu vērtēšanu. Piemēram, ja jūs nosūtāt kandidātu pieciem vērtētājiem, jūs saņemsiet piecus atbildes e-pastus.
+**Nosūtiet man e-pastu pēc katra vērtētāja vērtējuma** - 
+- Atzīmējot šo rūtiņu, jūs kā lietotājs, kas pietiecies sistēmā, saņemsiet e-pastu, kad vērtētājs būs pabeidzis kandidātu vērtēšanu. Piemēram, ja jūs nosūtāt kandidātu pieciem vērtētājiem, jūs saņemsiet piecus atbildes e-pastus.
+- Ņemiet vērā, ka var rasties daudz e-pastu, ja jūs regulāri lūgsiet daudziem vērtētājiem novērtēt daudzus kandidātus!
 
-Ņemiet vērā, ka var rasties daudz e-pastu, ja jūs regulāri lūgsiet daudziem vērtētājiem novērtēt daudzus kandidātus!
-
-8.  Noklikšķiniet uz  Nosūtīt.
+7.  Noklikšķiniet uz  Nosūtīt.
 
 Kandidāta ieraksta ietvaros noklikšķiniet uz  Personāla atlases darbību saraksts, lai parādītu nosūtītā e-pasta datumu un laiku un e-pasta kopiju. Pēdējā ailē ir parādīts, vai adresāts ir pabeidzis vērtēšanu (Jā vai Gaida).
 
@@ -85,5 +84,5 @@ Ja izvēlas kandidāta  Vārdu  un tad lapu  Kolaboratīvais vērtējums, tiek p
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NzYyMDU0XX0=
+eyJoaXN0b3J5IjpbLTE2NDEwNzQxMjhdfQ==
 -->
