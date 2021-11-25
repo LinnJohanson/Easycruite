@@ -469,91 +469,49 @@ E-pasts – kanāla sludinājums
 - Uz CV datu bāzi pārnestie dati
 - Uzaicinājums nosūtīt/atjaunināt CV darbinieku
 - Pārsūtīt pieteikumu
--Uzaicinājums uz MINT Matrigma un Service-F testiem
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Jauna lietotāja e-pasts
+- Darba līgums
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-cut-e pārskats
+{family-name} - Kandidāta uzvārds saglabātajā pieteikumā
+- Pieteikums saglabāts
 
-Darba aģenta paziņojums
+{first-name} - Vārds
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Reģistrācija saņemta
+- Noraidījums pēc pieteikuma izskatīšanas
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Automātiskais noraidījums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Jauna lietotāja e-pasts
+- Darba aģenta paziņojums
+- Darba līgums
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- SHL novērtējuma uzaicinājums
+- Pielāgotais e-pasts
 
-Jauna lietotāja e-pasts
-
-Darba līgums
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{family-name}
-
-Kandidāta uzvārds saglabātajā pieteikumā
-
+{first-name} - Kandidāta vārds saglabātajā pieteikumā
 Pieteikums saglabāts
 
-{first-name}
-
-Vārds
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Reģistrācija saņemta
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Automātiskais noraidījums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Jauna lietotāja e-pasts
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-SHL novērtējuma uzaicinājums
-
-Pielāgotais e-pasts
-
-{first-name}
-
-Kandidāta vārds saglabātajā pieteikumā
-
-Pieteikums saglabāts
-
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""}
-
-Sveiciens
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
+{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Sveiciens
+- Pieteikums saņemts
+- Reģistrācija saņemta
 
 Pieteikuma kopija
 
@@ -1408,6 +1366,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTc5NzE0OSwxMjA0MDk5NTMxLC0xNT
+eyJoaXN0b3J5IjpbLTIxODMwOTY1MiwxMjA0MDk5NTMxLC0xNT
 A5NzY5MzNdfQ==
 -->
