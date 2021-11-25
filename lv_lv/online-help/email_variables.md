@@ -728,63 +728,35 @@ Kandidāta vērtēšana
 - Pieteikums saņemts
 - Reģistrācija saņemta
 - Pieteikuma kopija
-Noraidījums pēc pieteikuma izskatīšanas
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba līgums
+- Pieteikuma vēstule saņemta/noraidīta
+- Pielāgotais e-pasts
 
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba līgums
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Pielāgotais e-pasts
-
-{processed-applicants]
-
-Tags pārskata sākšanai par apstrādātiem kandidātiem, tags pārskata pabeigšanai par apstrādātiem kandidātiem
-
+{processed-applicants] - Tags pārskata sākšanai par apstrādātiem kandidātiem, tags pārskata pabeigšanai par apstrādātiem kandidātiem
 Pārskats par gaidāmo rīcību
 
-{project}
+{project} - Projekts
+- Vakances apstiprinājuma pieprasījums
+- Kandidāta vērtēšana
+- Brīdinājums par vakances termiņa beigām
 
-Projekts
-
-Vakances apstiprinājuma pieprasījums
-
-Kandidāta vērtēšana
-
-Brīdinājums par vakances termiņa beigām
-
-{project-period-end}
-
-Projekta beigu datums
-
+{project-period-end} - Projekta beigu datums
 Pārskats par gaidāmo rīcību
 
-{project-period-start}
-
-Projekta sākuma datums
-
+{project-period-start} - Projekta sākuma datums
 Pārskats par gaidāmo rīcību
 
-{project-title}
-
-Projekta nosaukums
-
-Vakances apstiprinājuma pieprasījums
+{project-title} - Projekta nosaukums
+- Vakances apstiprinājuma pieprasījums
 
 Brīdinājums par vakances termiņa beigām
 
@@ -1149,6 +1121,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4OTE1Nzc4LC05NzM1Njc5MTAsMTIwND
-A5OTUzMSwtMTUwOTc2OTMzXX0=
+eyJoaXN0b3J5IjpbMTgwMDg5MjQ5NywtOTczNTY3OTEwLDEyMD
+QwOTk1MzEsLTE1MDk3NjkzM119
 -->
