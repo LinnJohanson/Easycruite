@@ -888,98 +888,53 @@ E-pasts – kanāla sludinājums
 - cut-e pārskats
 - Darba līgums
 - Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- Brīdinājums par vakances termiņa beigām
 
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-Brīdinājums par vakances termiņa beigām
-
-{vacancy-link}
-
-Saite uz vakanci
-
+{vacancy-link} - Saite uz vakanci
 Neizmanto (nav pirmkodā)
 
 {vacancy-ref-number}
+- Vakances atsauces numurs
+- Noraidījums pēc pieteikuma izskatīšanas
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- Vakances apstiprinājuma pieprasījums
+- Darba līgums
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Vakances atsauces numurs
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-Vakances apstiprinājuma pieprasījums
-
-Darba līgums
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{vacancy-title}
-
-Vakances nosaukums
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3., tikšanās
-
-Lietotājvārda apstiprinājums
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Brīdinājums par vakances termiņa beigām
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
+{vacancy-title} - Vakances nosaukums
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3., tikšanās
+- Lietotājvārda apstiprinājums
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Brīdinājums par vakances termiņa beigām
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
 ##### Skatīt arī:
 
@@ -990,6 +945,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTIwNTE2LDE4MDA4OTI0OTcsLTk3Mz
-U2NzkxMCwxMjA0MDk5NTMxLC0xNTA5NzY5MzNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjU3Mzk3NzAsMTgwMDg5MjQ5NywtOT
+czNTY3OTEwLDEyMDQwOTk1MzEsLTE1MDk3NjkzM119
 -->
