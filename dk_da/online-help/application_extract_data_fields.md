@@ -62,70 +62,70 @@ Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 **Intern kategorisering**
 Kandidattype eksempelvis CV-kandidat, medarbejder osv.
 
-Fornavn
+**Fornavn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Efternavn
+**Efternavn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Postnummer
+**Postnummer**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Land
+**Land**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Region
+**Region**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Nationalitet
+**Nationalitet**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Modtaget jobtilbud
+**Modtaget jobtilbud**
 Dato, hvor ansøgningsstatussen blev indstillet til ”Jobtilbud”
 
-Nuværende job
+**Nuværende job**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Arbejdsgiver
+**Arbejdsgiver**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Dato for telefonsamtale
+**Dato for telefonsamtale**
 Seneste data, hvor denne samtale blev planlagt til
 
-Dato for første samtale
+**Dato for første samtale**
 Seneste data, hvor denne samtale blev planlagt til
 
-Dato for anden samtale
+**Dato for anden samtale**
 Seneste data, hvor denne samtale blev planlagt til
 
-Dato for tredje samtale
+**Dato for tredje samtale**
 Seneste data, hvor denne samtale blev planlagt til
 
-Dato for invitation til telefonsamtale
+**Dato for invitation til telefonsamtale**
 Seneste dato, hvor ansøgningsstatus ændrede sig til ”samtale”
 
-Dato for invitation til første samtale
+**Dato for invitation til første samtale**
 Seneste dato, hvor ansøgningsstatus ændrede sig til ”samtale”
 
-Dato for invitation til anden samtale
+**Dato for invitation til anden samtale**
 Seneste dato, hvor ansøgningsstatus ændrede sig til ”samtale”
 
-Dato for invitation til tredje samtale
+**Dato for invitation til tredje samtale**
 Seneste dato, hvor ansøgningsstatus ændrede sig til ”samtale”
 
-Dato for panelevaluering
+**Dato for panelevaluering**
 Seneste dato, hvor ansøgningsstatus ændrede sig til ”Panelevaluering”
 
-Dato for jobtilbud
+**Dato for jobtilbud**
 Seneste dato, hvor ansøgningsstatus ændrede sig til ”Jobtilbud”
 
-Dato
+**Dato**
 Seneste dato, hvor ansøgningsstatus ændrede sig til brugertilpasset status 1 (BEMÆRK, overskriften ændrer sig med udgangspunkt i navnet på den brugertilpassede status, kunden har)
 
 ##### Se også:
@@ -139,5 +139,5 @@ Seneste dato, hvor ansøgningsstatus ændrede sig til brugertilpasset status 1 (
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNjYxNTkwXX0=
+eyJoaXN0b3J5IjpbLTIwMTkzNDg4NDJdfQ==
 -->
