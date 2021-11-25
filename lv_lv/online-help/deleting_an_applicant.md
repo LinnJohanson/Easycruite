@@ -10,7 +10,7 @@ Kad kandidāts ir izdzēsts no vakances, tā informāciju var turpmāk apstrād�
 
 Ja izdzēstais kandidāts ir saistīts ar izdzēstu vakanci, tad kandidātu nevar atjaunot.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Izdzēsta kandidāta atjaunošana
+#### Izdzēsta kandidāta atjaunošana
 
 1.  Sākumlapā  atlasiet  Izdzēstie pieteikumi.
 2.  Izmantojiet opcijas  Atlasīt vakanci  un  Atlasīt laika periodu, lai izveidotu izdzēsto kandidātu sarakstu.
@@ -18,7 +18,7 @@ Ja izdzēstais kandidāts ir saistīts ar izdzēstu vakanci, tad kandidātu neva
 4.  Noklikšķiniet uz  Atjaunināt  un pēc tam uz  Labi, kad parādās uzvedne apstiprināt darbību.
 5.  Atveriet ar kandidātu saistīto vakanci. Kandidāta  Statuss  tagad ir  Atjaunots.
 
-#Pieteikuma izdzēšana no sistēmas (pilnīga izdzēšana)
+#### Pieteikuma izdzēšana no sistēmas (pilnīga izdzēšana)
 
 1.  Sākumlapā  atlasiet  Izdzēstie pieteikumi.
 2.  Filtrējiet sarakstu un atlasiet izvēles rūtiņas blakus attiecīgajiem kandidātiem.
@@ -38,5 +38,5 @@ Ja izdzēstais kandidāts ir saistīts ar izdzēstu vakanci, tad kandidātu neva
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNTcxODE0XX0=
+eyJoaXN0b3J5IjpbLTI3MTA2MjYzMl19
 -->
