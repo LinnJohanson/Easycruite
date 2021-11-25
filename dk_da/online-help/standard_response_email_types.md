@@ -69,94 +69,94 @@ E-mail sendt til kandidater, der ikke havde succes med deres ansøgning. Indehol
 **Inviter medarbejder til at lægge sit CV ind**
 E-mail sendt til interne medarbejdere, der inviterer dem til at logge på virksomhedens kandidathjemmeside og sikre, at oplysningerne er opdaterede.
 
-Send ansøgning (1)
+**Send ansøgning (1)**
 E-mail sendt til relevante kontaktpersoner, der indeholder en ansægers CV og ansøgning.
 
-Gem og send brugernavn
+**Gem og send brugernavn**
 E-mail sendt til kandidater, der oplyser dem om, at deres oplysninger gemmes i ansøgningsdatabasen og at de kan logge ind med deres brugernavn og adgangskode og ændre oplysningerne.
 
-Invitation til Service-F
+**Invitation til Service-F**
 E-mail-invitationer sendt til ansøgere om Service-F-testen.
 
-Invitation til Matrigma-testen
+**Invitation til Matrigma-testen**
 E-mail-invitationer sendt til ansøgere om Matrigma-testen.
 
-Invitation til 16PF-testen
+**Invitation til 16PF-testen**
 E-mail-invitationer sendt til ansøgere om 16PF-testen.
 
-Invitation til MINT-testen
+**Invitation til MINT-testen**
 E-mail-invitationer sendt til ansøgere om MINT-testen.
 
-cut-e kandidatrapport
+**cut-e kandidatrapport**
 Invitation sendt til en kandidat, der har gennemført en cut-e-bedømmelsestest.
 
-JobAgent
+**JobAgent**
 E-mail sendt til en kandidat, der indeholder oplysninger om aktuelle jobmatches.
 
-Kundeindstillinger – inaktive kandidater med login
+**Kundeindstillinger – inaktive kandidater med login**
 E-mail sendt til kandidater, der ikke har opdateret deres CV i en bestemt periode, der inviterer dem til at logge på deres kandidathjemmeside og opdatere deres oplysninger.
 
-Meddelelse til jobsøgere, der skal slettes, og som har en konto
+**Meddelelse til jobsøgere, der skal slettes, og som har en konto**
 E-mail sendt til kandidater med et login, som ikke har været aktiv i en bestemt periode.
 
-Meddelelse til jobsøgere, der skal slettes, og som ikke har en konto
+**Meddelelse til jobsøgere, der skal slettes, og som ikke har en konto**
 E-mail sendt til kandidater med et login, som ikke har været aktiv i en bestemt periode.
 
-Varsling til rekrutteringsansvarlig når kandidater ikke er blevet behandlet gennem længere tid (1)
+**Varsling til rekrutteringsansvarlig når kandidater ikke er blevet behandlet gennem længere tid (1)**
 E-mail sendt til relevante kontaktpersoner, der indeholder oplysninger om kandidater, der ikke har været aktive i en bestemt periode i forbindelse med et specifikt rekrutteringsprojekt.
 
-Tilknyt kandidatrangering
+**Tilknyt kandidatrangering**
 E-mail sendt til relevante kontaktpersoner, der beder dem om at give deres feedback på kvaliteten af en kandidat. Dette inkluderer et link, hvor de kan bedømme kandidaten.
 
-Information til nye brugere
+**Information til nye brugere**
 E-mail sendt til nye brugere, der indeholder brugernavn og adgangskode til at logge på EasyCruit.
 
-Godkendelse af rekrutteringsprojekt
+**Godkendelse af rekrutteringsprojekt**
 E-mail sendt for at indsende et rekrutteringsprojekt til godkendelse. Denne e-mail sendes til de brugere, der er udpeget som godkendere af et rekrutteringsprojekt.
 
-Påmindelse om udløbende projekt (1 , 2)
+**Påmindelse om udløbende projekt (1 , 2)**
 E-mail sendt til rekruttører et bestemt antal dage før et rekrutteringsprojekt udløber. Dette giver rekruttøren id til at forlænge udløbsdatoen, hvis det er nødvendigt.
 
-E-mail ved glemt adgangskode
+**E-mail ved glemt adgangskode**
 E-mail sendt til brugere, der har anmodet om en adgangskode.
 
-Kontrakt sendt
+**Kontrakt sendt**
 E-mail sendt til kandidater, der får et tilbud om en kontrakt.
 
-Tip en ven-e-mail
+**Tip en ven-e-mail**
 E-mail anvendt til at gøre kandidater i stand til at sende rekrutteringsprojekter til deres venner.
 
-Flytbart CV
+**Flytbart CV**
 E-mail anvendt til at sende et flytbart CV
 
-Opdater automatisk til gemt
+**Opdater automatisk til gemt**
 Automatisk opdatering af Kandidatens type fra kandidat til gemt.
 
-Sender en e-mail om at få kandidaterne evalueret
+**Sender en e-mail om at få kandidaterne evalueret**
 E-mail til panelevalueringsmodtagere, hvori de anmodes om at bedømme eller kommentere.
 
-Sender e-mail tilbage til rekruttør om bekræftelse af evaluering
+**Sender e-mail tilbage til rekruttør om bekræftelse af evaluering**
 Besked til rekrutteringsansvarlig for hver af de gennemførte panelevalueringer.
 ***
-Brev
+**Brev**
 Beskrivelse
 ***
-Ansøgning modtaget
+**Ansøgning modtaget**
 Brev anvendt til at bekræfte, at en ansøgning til et rekrutteringsprojekt er blevet modtaget.
 
-Afslag på ansøgning
+**Afslag på ansøgning**
 Brev anvendt til at bekræfte, at en ansøgning til et rekrutteringsprojekt ikke har været succesfuld.
 ***
-Standard e-mail for publiceringskanal
+**Standard e-mail for publiceringskanal**
 Beskrivelse
 ***
-Start annoncering hos udbyder
+**Start annoncering hos udbyder**
 E-mail sendt til en publiceringskanal for at oplyse dem om at publicere et nyt rekrutteringsprojekt. Denne e-mail anvender variablen <department-about-inherited /> for at sikre, at oplysningerne om rekrutteringsprojektet vises på en karriereside og er inkluderet i alle e-mail-match. Med variablen vises oplysningerne om afdelingen, der er forbundet med rekrutteringsprojektet, hvis disse er tilgængelige. Hvis ikke, finder variablen afdelingsniveauer, indtil den finder oplysninger, der skal inkluderes i e-mailen.
 
-Stop annoncerings-e-mail
+**Stop annoncerings-e-mail**
 E-mailnotifikation om at stoppe annonceringen af et rekrutteringsprojekt.
 ***
-Personlighedstests, e-mails
+**Personlighedstests, e-mails**
 Beskrivelse
 ***
 SHL-bedømmelsesinvitation
@@ -187,5 +187,5 @@ Dette afsnit skal aktiveres af din EasyCruit-konsulent. Når det er aktiveret, v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MDk2OTgwXX0=
+eyJoaXN0b3J5IjpbNTc2NTg3NzMyXX0=
 -->
