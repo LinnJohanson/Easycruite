@@ -252,14 +252,10 @@ Kandidātu novērtējums
 - Uz CV datu bāzi pārnestie dati
 - Uzaicinājums nosūtīt/atjaunināt CV darbinieku
 - Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Jauna lietotāja e-pasts
+ -Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Jauna lietotāja e-pasts
 
 Vakances apstiprinājuma pieprasījums
 
@@ -1626,6 +1622,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU0MDA5MzUsMTIwNDA5OTUzMSwtMT
-UwOTc2OTMzXX0=
+eyJoaXN0b3J5IjpbLTM2MDgzMzM0NywxMjA0MDk5NTMxLC0xNT
+A5NzY5MzNdfQ==
 -->
