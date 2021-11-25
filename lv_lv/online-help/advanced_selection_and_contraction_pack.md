@@ -18,50 +18,32 @@ Atlases procesa aizkave, jo kandidāti neredz e-pastus
 - Uzlabota kandidātu saziņa ar pielāgotām e-pasta veidnēm
 - Detalizētākas uzņēmuma atsauksmes par kandidātiem
 
-Iespēja saņemt kolēģu atsauksmes par kandidātiem strukturētā veidā:
-
-Zemāka efektivitāte un slikta atsauksmju pārskatāmība
-
-Mazāka informētība par darbinieku pieņemšanu, lielāks risks
-
+**Iespēja saņemt kolēģu atsauksmes par kandidātiem strukturētā veidā:**
+- Zemāka efektivitāte un slikta atsauksmju pārskatāmība
+- Mazāka informētība par darbinieku pieņemšanu, lielāks risks
 3. Grupas vērtējums
+- Iespēja ērti pieprasīt, apskatīt un salīdzināt atsauksmes par kandidātiem
+- Samazinās risks pieņemt darbā neatbilstošu kandidātu
 
-Iespēja ērti pieprasīt, apskatīt un salīdzināt atsauksmes par kandidātiem
-
-Samazinās risks pieņemt darbā neatbilstošu kandidātu
-
-Var izsekot parastai saziņai ar kandidātu
-
+**Var izsekot parastai saziņai ar kandidātu:**
 Nespēja izsekot saziņas ar kandidātu vēsturei
-
 4. Divpusējā e-sarakste
+- Integrācija ar jūsu parasto e-pasta rīku
 
-Integrācija ar jūsu parasto e-pasta rīku
-
-Līgumu nekonsekvence
-
+**Līgumu nekonsekvence:**
 Laika patēriņš līgumu sagatavošanai
-
 5. Kontaktinformācijas veidne
+- Pasta sapludināšana, lai izveidotu pielāgotus līgumus jauniem darbiniekiem
 
-Pasta sapludināšana, lai izveidotu pielāgotus līgumus jauniem darbiniekiem
-
-Atbilstošu talantu atrašana uzņēmuma ietvaros vakanču aizpildīšanai
-
-Augstākas personāla atlases izmaksas
-
-Garāks vakanču aizpildīšanas periods
-
-Garāks iestrādāšanās periods
-
+**Atbilstošu talantu atrašana uzņēmuma ietvaros vakanču aizpildīšanai:**
+- Augstākas personāla atlases izmaksas
+- Garāks vakanču aizpildīšanas periods
+- Garāks iestrādāšanās periods
 6. Darbinieku klasifikācija
+- Iespējas ērti meklēt talantus uzņēmuma ietvaros, izmantojot meklēšanas kritērijus
 
-Iespējas ērti meklēt talantus uzņēmuma ietvaros, izmantojot meklēšanas kritērijus
-
-Dubulta vienādu pieteikumu apstrāde
-
+**Dubulta vienādu pieteikumu apstrāde:**
 Laika patēriņš, izskatot vienu kandidatūru vairākkārt
-
 7. Dublējošu kandidatūru pārbaude
 
 Automātisks paziņojums par dublējošiem kandidātiem
@@ -77,5 +59,5 @@ Automātisks paziņojums par dublējošiem kandidātiem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODUxNTc1Nl19
+eyJoaXN0b3J5IjpbMjA3MzAwMzIxMl19
 -->
