@@ -114,78 +114,42 @@ Kandidātu novērtējums
 - Pielāgotais e-pasts
 
 {candidate-password} - Kandidāta parole
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Automātiskais noraidījums
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
 
-Pieteikums saņemts
+{candidate-salutation} - Kandidāta uzruna
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Reģistrācija saņemta
+- Noraidījums pēc pieteikuma izskatīšanas
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Automātiskais noraidījums
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Darba līgums
+- Portable CV
+- Pieteikuma vēstule saņemta/noraidīta
+- SHL novērtējuma uzaicinājums
+- Pielāgotais e-pasts
 
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Automātiskais noraidījums
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-{candidate-salutation}
-
-Kandidāta uzruna
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Reģistrācija saņemta
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Automātiskais noraidījums
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Portable CV
-
-Pieteikuma vēstule saņemta/noraidīta
-
-SHL novērtējuma uzaicinājums
-
-Pielāgotais e-pasts
-
-{candidate-username}
-
-Kandidāta lietotājvārds
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Automātiskais noraidījums
+{candidate-username} - Kandidāta lietotājvārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Automātiskais noraidījums
 
 Lietotājvārda apstiprinājums
 
@@ -1764,5 +1728,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDA5OTUzMSwtMTUwOTc2OTMzXX0=
+eyJoaXN0b3J5IjpbLTE3NTA4MDQzNjMsMTIwNDA5OTUzMSwtMT
+UwOTc2OTMzXX0=
 -->
