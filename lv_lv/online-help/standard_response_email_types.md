@@ -183,36 +183,30 @@ E-pasts adresātiem no vērtēšanas grupas ar lūgumu sniegt savu vērtējumu u
 Nosūta e-pastu personāla atlases speciālistam par vērtēšanas apstiprinājumu
 
 Paziņojums personāla atlases speciālistam par katru pabeigto grupas vērtējumu.
-
-Vēstule
-
+***
+**Vēstule**
 Apraksts
-
-Pieteikums saņemts
-
+***
+**Pieteikums saņemts**
 Vēstule, ar kuru apstiprina, ka pieteikums vakancei ir saņemts.
 
 Pieteikums ir noraidīts
 
 Vēstule, ar kuru apstiprina, ka pieteikums vakancei ir nesekmīgs.
-
-E-pasts par noklusējuma publicēšanas kanālu
-
+***
+**E-pasts par noklusējuma publicēšanas kanālu**
 Apraksts
-
-Sākt publicēšanas e-pastu
-
+***
+**Sākt publicēšanas e-pastu**
 E-pasts, kas tiek nosūtīts publicēšanas kanālam, lai publicētu jaunu vakanci. Šajā e-pastā var izmantot tagu <department-about-inherited />, lai informācija par vakanci tiktu parādīta karjeras vietnē un tiktu iekļauta atbilstošajos e-pastos. Ja izmanto šo tagu, informācija par vakanci tiek parādīta ar vakanci saistītajai nodaļai, ja tāda ir. Ja tās nav, ar tagu var meklēt augstāko nodaļu līmeņus, līdz tiek atrasta informācija iekļaušanai e-pastā.
 
-Publicēšanas pārtraukšanas e-pasts
-
+**Publicēšanas pārtraukšanas e-pasts**
 E-pasts ar paziņojumu par vakances publicēšanas pārtraukšanu.
-
-Novērtējuma testu e-pasti
-
+***
+**Novērtējuma testu e-pasti**
 Apraksts
-
-SHL novērtējuma uzaicinājums
+***
+**SHL novērtējuma uzaicinājums**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot kandidātus veikt SHL novērtējumu.
 
 **Uzaicinājums veikt Master Management novērtējumu**
@@ -239,5 +233,5 @@ Apraksts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDgzMTUzN119
+eyJoaXN0b3J5IjpbNjI1Njc4NjM3XX0=
 -->
