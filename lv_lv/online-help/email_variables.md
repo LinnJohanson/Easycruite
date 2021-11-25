@@ -702,60 +702,32 @@ Kandidāta vērtēšana
 - Lietotāja paroles pieprasījums
 - Pieteikšanās
 
-{position}
+{position} - Amata nosaukums, kuram piesakās
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- Darba aģenta paziņojums
+- cut-e pārskats
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Brīdinājums par vakances termiņa beigām
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- Pieteikums saglabāts
 
-Amata nosaukums, kuram piesakās
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-Darba aģenta paziņojums
-
-cut-e pārskats
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Brīdinājums par vakances termiņa beigām
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-Pieteikums saglabāts
-
-{prefix}
-
-Uzruna (k-gs, k-dze u.c.)
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
+{prefix} - Uzruna (k-gs, k-dze u.c.)
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
 Noraidījums pēc pieteikuma izskatīšanas
 
 Automātiskais noraidījums
@@ -1177,6 +1149,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDQyODYzMSwtOTczNTY3OTEwLDEyMD
-QwOTk1MzEsLTE1MDk3NjkzM119
+eyJoaXN0b3J5IjpbMjU4OTE1Nzc4LC05NzM1Njc5MTAsMTIwND
+A5OTUzMSwtMTUwOTc2OTMzXX0=
 -->
