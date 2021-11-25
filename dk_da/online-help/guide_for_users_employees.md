@@ -2,7 +2,7 @@
 
 Medarbejdersiden indeholder en liste over alle virksomhedens ansatte, der er blevet bragt igennem EasyCruit. Dette inkluderer personer, der har ansøgt på en ledig stilling via en karrierehjemmeside eller de, som er blevet tilføjet manuelt af en rekruttør i systemet som kandidater.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af medarbejdere
+#### Tilføjelse af medarbejdere
 
 Fra siden  Medarbejdere  kan enkelte eller flere medarbejdere tilføjes i systemet ved hjælp af importmuligheden.
 
@@ -31,5 +31,5 @@ Når medarbejderne er tilføjet på siden  Medarbejdere, kan de redigeres, slett
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTI3NDQ3M119
+eyJoaXN0b3J5IjpbODk3NTQ4MTQwXX0=
 -->
