@@ -258,42 +258,24 @@ Kandidātu novērtējums
 - Jauna lietotāja e-pasts
 - Vakances apstiprinājuma pieprasījums
 - Lietotāja paroles pieprasījums
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- E-pasta paraksti
 
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-E-pasta paraksti
-
-{confirmlink}
-
-Saites datuma apstiprināšanai
-
+{confirmlink} - Saites datuma apstiprināšanai
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{contact-name}
-
-Pieteikums saņemts
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
+{contact-name} - Pieteikums saņemts
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
 
 Uz CV datu bāzi pārnestie dati
 
@@ -1620,6 +1602,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA1MDI5MTcsMTIwNDA5OTUzMSwtMT
-UwOTc2OTMzXX0=
+eyJoaXN0b3J5IjpbOTY2NDA3ODU4LDEyMDQwOTk1MzEsLTE1MD
+k3NjkzM119
 -->
