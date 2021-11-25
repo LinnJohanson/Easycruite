@@ -757,64 +757,35 @@ Pārskats par gaidāmo rīcību
 
 {project-title} - Projekta nosaukums
 - Vakances apstiprinājuma pieprasījums
+- Brīdinājums par vakances termiņa beigām
 
-Brīdinājums par vakances termiņa beigām
-
-{publication-channel}
-
-Publicēšanas kanāls
-
+{publication-channel} - Publicēšanas kanāls
 Kandidāta vērtēšana
 
-{recruiter-name}
+{recruiter-name} - Personāla atlases speciālista vārds
+- Pārskats par gaidāmo rīcību
+- Nosūta e-pastu personāla atlases speciālistam par vērtēšanas apstiprinājumu
 
-Personāla atlases speciālista vārds
-
+{reference-number} - Atsauces numurs
 Pārskats par gaidāmo rīcību
 
-Nosūta e-pastu personāla atlases speciālistam par vērtēšanas apstiprinājumu
-
-{reference-number}
-
-Atsauces numurs
-
-Pārskats par gaidāmo rīcību
-
-{route}
-
-Norādījumi
-
+{route} - Norādījumi
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{sender-name}
+{sender-name} - Kandidāta vārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Nosūtīt draugam vakanci
 
-Kandidāta vārds
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Nosūtīt draugam vakanci
-
-{site}
-
-Kanāla nosaukums, kur darba sludinājums publicēts
-
+{site} - Kanāla nosaukums, kur darba sludinājums publicēts
 Brīdinājums par vakances termiņa beigām
 
-{surname}
-
-Uzvārds
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+{surname} - Uzvārds
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
 
 Lietotājvārda apstiprinājums
 
@@ -1121,6 +1092,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDg5MjQ5NywtOTczNTY3OTEwLDEyMD
-QwOTk1MzEsLTE1MDk3NjkzM119
+eyJoaXN0b3J5IjpbNjg0MDU4MjM5LDE4MDA4OTI0OTcsLTk3Mz
+U2NzkxMCwxMjA0MDk5NTMxLC0xNTA5NzY5MzNdfQ==
 -->
