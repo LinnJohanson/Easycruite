@@ -385,127 +385,67 @@ Brīdinājums par vakances termiņa beigām
 - Uzaicinājums uz MINT Matrigma un Service-F testiem
 - cut-e pārskats
 - Vakances apstiprinājuma pieprasījums
-Jauna lietotāja e-pasts
+- Jauna lietotāja e-pasts
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Pielāgotais e-pasts
+- E-pasta paraksti
+- Pieteikums saglabāts
 
-Darba līgums
+{department} - Nodaļas nosaukums
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Vakances apstiprinājuma pieprasījums
+- Jauna lietotāja e-pasts
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- E-pasta paraksti
+- Pieteikums saglabāts
 
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Pielāgotais e-pasts
-
-E-pasta paraksti
-
-Pieteikums saglabāts
-
-{department}
-
-Nodaļas nosaukums
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Vakances apstiprinājuma pieprasījums
-
-Jauna lietotāja e-pasts
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-E-pasta paraksti
-
-Pieteikums saglabāts
-
-{department-address}
-
-Nodaļas adrese
-
+{department-address} - Nodaļas adrese
 E-pasts – kanāla sludinājums
 
-{department-name}
+{department-name} - Nodaļas nosaukums
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Jauna lietotāja e-pasts
+- Vakances apstiprinājuma pieprasījums
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- E-pasta paraksti
 
-Nodaļas nosaukums
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Jauna lietotāja e-pasts
-
-Vakances apstiprinājuma pieprasījums
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-E-pasta paraksti
-
-{departments}
-
-Nodaļa (-as)
-
+{departments} - Nodaļa (-as)
 E-pasts – kanāla sludinājums
 
-{duration}
-
-Intervijas ilgums
+{duration} Intervijas ilgums
 
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
@@ -1492,6 +1432,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0Mzg2NzQ4MywxMjA0MDk5NTMxLC0xNT
-A5NzY5MzNdfQ==
+eyJoaXN0b3J5IjpbODg0NTgwODM4LDEyMDQwOTk1MzEsLTE1MD
+k3NjkzM119
 -->
