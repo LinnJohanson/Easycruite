@@ -6,35 +6,28 @@ For oplysninger specifikt om kandidatrapportering henviser vi til  [Rapport om k
 
 Følgende rapporttyper er tilgængelige:
 
-Rapporttype
-
+**Rapporttype**
 Beskrivelse
 
 Kilderapport
-
 Giver en oversigt over publiceringskanalerne (karrieresider, jobopslagssteder og de, der manuelt tilføjes systemet), hvor rekrutteringsprojekter er blevet anført. Den inkluderer oplysninger som eksempelvis antal match, antal ansøgninger og antal ansættelser.
 
-Kilde/forskellighedsrapport
-
+**Kilde/forskellighedsrapport**
 Giver oplysninger om kønnet og alderen på de personer, der søger på de ledige stillinger/rekrutteringsprojekter, der er anført på publiceringskanalerne.
 
-Rekrutteringsprojektrapport
-
+**Rekrutteringsprojektrapport**
 Giver oplysninger om de forskellige stadier, som ansøgerne er kommet til i specifikke rekrutteringsprojekter som eksempelvis invitation til samtale, afslag, tid til tilbud, tilbud afgivet og ansat.
 
-Demografi - samlet
-
+**Demografi - samlet**
 Giver oplysninger om køn og alder på ansøgerne for hvert rekrutteringsprojekt.
 
-Rapport over afslag
-
+**Rapport over afslag**
 Giver oplysninger om årsagerne til, at en ansøger fik afslag i et rekrutteringsprojekt.
 
 CBS-rapport
-
 CBS-rapporten (Central Bureau of Statistics) er en kvartalsvis rapport, der skal udfyldes af alle virksomheder i Holland. Rapporten inkluderer antallet af åbne, ledige stillinger, udfyldte, ledige stillinger, Ooprettede, ledige stillinger og lukkede (men ikke besatte) ledige stillinger i det indeværende kvartal.
 
-[Dataeksport](data_extract.htm)
+**[Dataeksport](data_extract.htm)**
 Denne ekstrafunktion eksporterer EasyCruit-data til et Excel-regneark. Disse data kan kopieres og indsættes i et antal prækonfigurerede Excel-grafer for at give dig et indblik i dine rekrutteringsaktiviteter. Eksempelgrafer inkluderer kandidater ud fra kilde og rekrutteringsprojekter og kandidater ud fra afdeling.
 
 ##### Se også:
@@ -48,5 +41,5 @@ Denne ekstrafunktion eksporterer EasyCruit-data til et Excel-regneark. Disse dat
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzY1OTgyNF19
+eyJoaXN0b3J5IjpbLTE5MTk5OTI2MzgsMTA0MzY1OTgyNF19
 -->
