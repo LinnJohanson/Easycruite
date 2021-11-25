@@ -4,80 +4,50 @@ Der er flere forskellige spørgsmåltyper tilgængelige i systemet til at imøde
 
 Tabellen nedenfor indeholder en oversigt over hver af spørgsmålstyperne.
 
-**Spørgsmålstype**
-Tilgængeligt svar
-Valg
-Udvælgelse
+**Spørgsmålstype** - Tilgængeligt svar
+Valg - Udvælgelse
 
-Radioknapper
-Brugerdefinerede værdier
-Single
-Ja
+**Radioknapper** - Brugerdefinerede værdier
+Single - Ja
 
-Afkrydsningsfelter
-Brugerdefinerede værdier
-Flere
-Nej
+Afkrydsningsfelter - Brugerdefinerede værdier
+Flere - Nej
 
-Dropdown enkelt
-Brugerdefinerede værdier
-Single
-Ja
+Dropdown enkelt - Brugerdefinerede værdier
+Single - Ja
 
-Dropdown flere
-Brugerdefinerede værdier
-Flere
-Nej
+Dropdown flere - Brugerdefinerede værdier
+Flere - Nej
 
-Afdelingsspørgsmål
-Systemværdier
-Single
-Nej
+Afdelingsspørgsmål - Systemværdier
+Single - Nej
 
-HTML-formatteret tekst
-Ingen
-Ikke relevant
-Nej
+HTML-formatteret tekst - Ingen
+Ikke relevant - Nej
 
-Tekstområde
-Fritekst
-Single
-Nej
+Tekstområde - Fritekst
+Single - Nej
 
-Tekstfelt
-Fritekst
-Single
-Nej
+Tekstfelt - Fritekst
+Single - Nej
 
-Land
-Brugerdefinerede værdier
-Single
-Nej
+Land - Brugerdefinerede værdier
+Single - Nej
 
-Land dropdown flere
-Brugerdefinerede værdier
-Flere
-Nej
+Land dropdown flere - Brugerdefinerede værdier
+Flere - Nej
 
-Dato
-Brugerdefinerede værdier
-Single
-Nej
+Dato - Brugerdefinerede værdier
+Single - Nej
 
-Overskrift
-Ingen
-Ikke relevant
-Nej
+Overskrift - Ingen
+Ikke relevant - Nej
 
-Filoverførsel
-Hent
-Single
-Nej
+Filoverførsel - Hent
+Single - Nej
 
-Videospørgsmål
-Optag live eller upload
-Single
-Nej
+Videospørgsmål - Optag live eller upload
+Single - Nej
 
 Spørgsmålstype  - Følgende er de forskellige spørgsmålstyper, der er tilgængelige. Med undtagelse af  HTML-formatteret tekst,  Overskrift,  Filoverførsel  og  Videospørgsmål inkluderer de andre spørgsmålstyper standardformater som eksempelvis radioknapper, dropdown-lister og fritekstfelter.
 
@@ -208,5 +178,5 @@ Denne type spørgsmål gør det muligt for en kandidat at besvare dit spørgsmå
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc2OTg4MDJdfQ==
+eyJoaXN0b3J5IjpbMTQwOTg5MTAzMF19
 -->
