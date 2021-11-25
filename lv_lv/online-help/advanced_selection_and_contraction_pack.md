@@ -2,26 +2,23 @@
 
 EasyCruit izmantošanas iespējas ir pielāgotas personāla atlases posmiem. Mēs piedāvājam vairākus rīkus, kas palīdz jums turpmākajos atlases posmos sazināties un rīkoties ar kandidātiem, kā arī identificēt talantus uzņēmuma ietvaros.
 
-Izaicinājums
+**Izaicinājums:**
 Ietekme uz biznesu
 Risinājums
 ***
-Sasniegt kandidātus - Atlases procesa aizkave, jo kandidāti neredz e-pastus
+**Sasniegt kandidātus:** 
+Atlases procesa aizkave, jo kandidāti neredz e-pastus
 1. SMS
 - Ērti nosūtāmas īsziņas ar jaunāko informāciju un atgādinājumiem vienam vai vairākiem kandidātiem
 
-Sazinieties ar kandidātiem strukturētā veidā atbilstoši uzņēmuma personāla atlases procesam Nav centralizētas visi posmu pārraudzības
-Nekonsekvents vēstījums kandidātiem
-
+**Sazinieties ar kandidātiem strukturētā veidā atbilstoši uzņēmuma personāla atlases procesam:** 
+- Nav centralizētas visi posmu pārraudzības
+- Nekonsekvents vēstījums kandidātiem
 2. Pielāgojami procesa posmi un e-pasti
+- Uzlabota kandidātu saziņa ar pielāgotām e-pasta veidnēm
+- Detalizētākas uzņēmuma atsauksmes par kandidātiem
 
-Uzlabota kandidātu saziņa ar pielāgotām e-pasta veidnēm
-
-Detalizētākas uzņēmuma atsauksmes par kandidātiem
-
-  
-
-Iespēja saņemt kolēģu atsauksmes par kandidātiem strukturētā veidā
+Iespēja saņemt kolēģu atsauksmes par kandidātiem strukturētā veidā:
 
 Zemāka efektivitāte un slikta atsauksmju pārskatāmība
 
@@ -80,5 +77,5 @@ Automātisks paziņojums par dublējošiem kandidātiem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTA3MTkxOTddfQ==
+eyJoaXN0b3J5IjpbMTMzODUxNTc1Nl19
 -->
