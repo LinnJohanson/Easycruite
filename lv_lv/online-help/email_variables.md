@@ -445,55 +445,31 @@ E-pasts – kanāla sludinājums
 {departments} - Nodaļa (-as)
 E-pasts – kanāla sludinājums
 
-{duration} Intervijas ilgums
-
+{duration} - Intervijas ilgums
 Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 
-{email}
-
-Ievada e-pastā lietotāja e-pasta adresi
-
+{email} - Ievada e-pastā lietotāja e-pasta adresi
 Jauna lietotāja e-pasts
 
-{employer-about}
-
-Par darba devēju
-
+{employer-about} - Par darba devēju
 E-pasts – kanāla sludinājums
 
-{employer-name}
-
-Darba devēja nosaukums
-
+{employer-name} - Darba devēja nosaukums
 E-pasts – kanāla sludinājums
 
-{family-name}
-
-Uzvārds
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
+{family-name} - Uzvārds
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+-Uzaicinājums uz MINT Matrigma un Service-F testiem
 
 cut-e pārskats
 
@@ -1432,6 +1408,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg0NTgwODM4LDEyMDQwOTk1MzEsLTE1MD
-k3NjkzM119
+eyJoaXN0b3J5IjpbMTgxMTc5NzE0OSwxMjA0MDk5NTMxLC0xNT
+A5NzY5MzNdfQ==
 -->
