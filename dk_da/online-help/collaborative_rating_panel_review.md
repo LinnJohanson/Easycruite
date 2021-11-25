@@ -11,7 +11,7 @@ Der er forskellige metoder til at anvende evalueringen:
 
 Efter aktiveringen af fællesrangering for et rekrutteringsprojekt kan rekruttørerne vælge specifikke brugere, der skal have en e-mail tilsendt, når en ny kandidat søger på den ledige stilling, så vedkommende kan evaluere kandidaten. Dette er nyttigt i specialiserede stillinger og anbefales ikke til stillinger med mange kandidater, da brugerne får mange e-mails.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Panelevaluering
+#### Panelevaluering
 
 Sådan sendes favoritkandidater til evaluering hos specifikke interne eller eksterne personer
 
@@ -50,19 +50,19 @@ Bedømmerne kan klikke på kandidatens navn for at se en oversigt over dennes pr
 
 Dette markerer evalueringen som gennemført i  Proceslisten  for den pågældende kandidat, og anmoderen får en e-mail, der fortæller, at evalueringen er færdig, hvis denne tjeneste er valgt.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Vis evalueringer
+#### Vis evalueringer
 
 1.  I rekrutteringsoversigten kan man se, at kandidaterne nu er i det afsnit, der hedder  Fællesrangering.
 2.  Hvis man klikker på dette punkt, vises en liste over kandidater, der er blevet indsendt til evaluering, og man kan se gennemsnitsevalueringerne for hver kandidat.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Konfiguration af fællesrangering
+#### Konfiguration af fællesrangering
 
 1.  På den første side, når man opretter/redigerer et rekrutteringsprojekt, vælges muligheden  Brug fællesrangering for dette projekt. Dette gør, at alle brugere, der har adgang til rekrutteringsprojektet, og ansøgerne kan give en evaluering af kandidaten fra 1-7.
 2.  For at sende en ny e-mail til specifikke brugere, der beder dem evaluere kandidaten, når en ny kandidat ansøger, vælges på siden Rediger rekrutteringsprojekt  Fællesrangering  og derefter vælges de nødvendige rekruttører.
 3.  Vælg muligheden  Inkluder kandidaters personlige oplysninger og vedhæftede dokumenter  for at sende ansøgerens oplysninger til de brugere, der deltager i evalueringen.
 4.  Klik på  Gem, når du er færdig.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Anvendelse af fællesrangering
+#### Anvendelse af fællesrangering
 
 Sørg for, at den forrige procedure er blevet fuldendt for det nødvendige rekrutteringsprojekt.
 
@@ -92,5 +92,5 @@ Hvis du vælger ansøgerens  Navn  og derefter siden  Fællesrangering, vises al
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODcyNjI4MV19
+eyJoaXN0b3J5IjpbMTAxNzI5OTQxN119
 -->
