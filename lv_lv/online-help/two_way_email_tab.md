@@ -8,7 +8,7 @@ Divpusēja e-pastu apmaiņa ir e-pastu pavedienu vēsture starp personāla atlas
 2.  Atlasiet  Kandidāta vārds  un tad cilni  Divpusējs e-pasts.
 3.  Noklikšķiniet uz  Rakstīt e-pastu kandidātam, lai automātiski palaistu Microsoft® Outlook ar sistēmas ģenerētu kandidāta e-pasta adresi laukā  Adresāts.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Divpusēju e-pastu informācijas aplūkošana
+#### Divpusēju e-pastu informācijas aplūkošana
 
 1.  Cilnē  Divpusējs e-pasts  ar kursoru norādiet uz  No  unAdresāts, lai redzētu lietotāju e-pasta adreses.
 2.  Noklikšķiniet uz jebkuru vērtību, lai parādītu e-pastu un pielikumus.
@@ -25,5 +25,5 @@ Divpusēja e-pastu apmaiņa ir e-pastu pavedienu vēsture starp personāla atlas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjYwOTEyOF19
+eyJoaXN0b3J5IjpbLTExMjcyMDkwODFdfQ==
 -->
