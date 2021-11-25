@@ -4,13 +4,13 @@ Brug søgeskabeloner til at konfigurere et søgekriterium og genbrug dette, når
 
 For yderligere oplysninger om søgeskabeloner henvises til  [Søgeskabeloner](../online-help/search_templates.htm).
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Kørsel af en avanceret søging ved hjælp af søgeskabeloner
+#### Kørsel af en avanceret søging ved hjælp af søgeskabeloner
 
 1.  Fra siden  Start  vælges  Søg  og efterfølgende klikkes på  Gå til avanceret søgning.
 2.  Vælg den nødvendige skabelon i listen  Vælg søgeskabelon.
 3.  Tilpas søgekriteriet, hvis det er nødvendigt, og klik derefter på  Vis søgeresultat.
 
-#Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Kandidattyper](../online-help/candidate_types.htm)
 ![](../Resources/Images/icon-document-link.png)  [Søgeskabeloner](../online-help/search_templates.htm)
@@ -20,5 +20,5 @@ For yderligere oplysninger om søgeskabeloner henvises til  [Søgeskabeloner](..
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc3NjA4OTZdfQ==
+eyJoaXN0b3J5IjpbMTY5NzE3NTk2MV19
 -->
