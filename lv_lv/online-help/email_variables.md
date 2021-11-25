@@ -276,78 +276,42 @@ Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
 - Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Jauna lietotāja e-pasts
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- Darba līgums
+- Pieteikuma vēstule saņemta/noraidīta
+- Portable CV
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Uz CV datu bāzi pārnestie dati
+{contact-person} - Kontaktpersona (šim projektam)
+- Pieteikums saņemts
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- Jauna lietotāja e-pasts
+- Darba aģenta paziņojums
+- Darba līgums
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Jauna lietotāja e-pasts
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-Darba līgums
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Portable CV
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{contact-person}
-
-Kontaktpersona (šim projektam)
-
-Pieteikums saņemts
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-Jauna lietotāja e-pasts
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{contact-person-cellular-telephone}
-
-Kontaktpersonas mobilā tālruņa numurs
-
+{contact-person-cellular-telephone} - Kontaktpersonas mobilā tālruņa numurs
 E-pasts – kanāla sludinājums
 
-{contact-person-email}
-
-Kontaktpersonas e-pasta adrese
-
+{contact-person-email} - Kontaktpersonas e-pasta adrese
 E-pasts – kanāla sludinājums
 
-{contact-person-name}
-
-Kontaktpersonas vārds
+{contact-person-name}Kontaktpersonas vārds
 
 Pieteikums saņemts
 
@@ -1602,6 +1566,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NDA3ODU4LDEyMDQwOTk1MzEsLTE1MD
+eyJoaXN0b3J5IjpbNjgxNTEyMzU1LDEyMDQwOTk1MzEsLTE1MD
 k3NjkzM119
 -->
