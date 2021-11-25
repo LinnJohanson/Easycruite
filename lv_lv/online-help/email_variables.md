@@ -335,108 +335,56 @@ E-pasts – kanāla sludinājums
 {contact-persons} - Kontaktpersona (-as)
 E-pasts – kanāla sludinājums
 
-{customer-name}
+{customer-name} - Klienta nosaukums
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Jauna lietotāja e-pasts
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Vakances apstiprinājuma pieprasījums
+- Darba līgums
+- Nosūtīt draugam vakanci
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
+- E-pasta paraksti
 
-Klienta nosaukums
+{cv} - Pievieno CV
+- Kandidātu novērtējums
+- Pieteikuma kopija
 
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Jauna lietotāja e-pasts
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Vakances apstiprinājuma pieprasījums
-
-Darba līgums
-
-Nosūtīt draugam vakanci
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-E-pasta paraksti
-
-{cv}
-
-Pievieno CV
-
-Kandidātu novērtējums
-
-Pieteikuma kopija
-
-{date}
-
-Vakances termiņa beigu datums
-
+{date} - Vakances termiņa beigu datums
 Brīdinājums par vakances termiņa beigām
 
-{days}
-
-Cik dienas iepriekš vēlaties, lai jūs brīdina
-
+{days} - Cik dienas iepriekš vēlaties, lai jūs brīdina
 Brīdinājums par vakances termiņa beigām
 
-{department-disclaimer}
-
-Nodaļas atrunas teksts
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Vakances apstiprinājuma pieprasījums
-
+{department-disclaimer - Nodaļas atrunas teksts
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Vakances apstiprinājuma pieprasījums
 Jauna lietotāja e-pasts
 
 Darba līgums
@@ -1544,6 +1492,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njc5MDM1NCwxMjA0MDk5NTMxLC0xNT
+eyJoaXN0b3J5IjpbLTc0Mzg2NzQ4MywxMjA0MDk5NTMxLC0xNT
 A5NzY5MzNdfQ==
 -->
