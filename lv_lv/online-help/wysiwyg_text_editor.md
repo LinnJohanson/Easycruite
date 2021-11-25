@@ -11,31 +11,24 @@ Rīkjosla sniedz piekļuvi lielākajai daļai redaktora funkciju un komandu. Rī
 Ir šādas rīkjoslas opcijas:
 
 Poga
-
 Apraksts
-
+***
 ![](../Resources/Images/bold.jpg)
-
 Treknraksts (CTRL + B)
 
 ![](../Resources/Images/italic.jpg)
-
 Slīpraksts (CTRL + B)
 
 ![](../Resources/Images/underlined.jpg)
-
 Pasvītrojums (CTRL + B)
 
 ![](../Resources/Images/strike.jpg)
-
 Svītrojums
 
 ![](../Resources/Images/align_left.jpg)
-
 Līdzināt tekstu pa kreisi
 
 ![](../Resources/Images/align_centre2.jpg)
-
 Centrēt tekstu
 
 ![](../Resources/Images/align_right.jpg)
@@ -197,5 +190,5 @@ Ar funkciju Teksta meklēšana un aizstāšana redaktorā WYSIWYG var veikt teks
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDM0ODMxNV19
+eyJoaXN0b3J5IjpbLTMzMDg2MTQ3OV19
 -->
