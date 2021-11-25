@@ -604,132 +604,68 @@ Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Brīdinājums par vakances termiņa beigām
 - Pielāgotais e-pasts
 
-{last-name}
+{last-name} - Uzvārds
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Reģistrācija saņemta
+- Noraidījums pēc pieteikuma izskatīšanas
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Automātiskais noraidījums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testu
+- cut-e pārskats
+- Jauna lietotāja e-pasts
+- Darba aģenta paziņojums
+- Darba līgums
+- Portable CV
+- Kandidāta vērtēšana
+- Pieteikuma vēstule saņemta/noraidīta
+- SHL novērtējuma uzaicinājums
+- Pielāgotais e-pasts
 
-Uzvārds
+{link} - Saite paroles atgūšanai
+- Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pieteikums saglabāts
 
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Reģistrācija saņemta
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Automātiskais noraidījums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testu
-
-cut-e pārskats
-
-Jauna lietotāja e-pasts
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Portable CV
-
-Kandidāta vērtēšana
-
-Pieteikuma vēstule saņemta/noraidīta
-
-SHL novērtējuma uzaicinājums
-
-Pielāgotais e-pasts
-
-{link}
-
-Saite paroles atgūšanai
-
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pieteikums saglabāts
-
-{matches}
-
-Ievietot visus atbilstošos darbus, par kuriem kandidāts varētu interesēties
-
+{matches} - Ievietot visus atbilstošos darbus, par kuriem kandidāts varētu interesēties
 Darba aģents
 
-{middle-name}
+{middle-name} - Otrs vārds
+- Pieteikums saņemts
+- Pieteikuma kopija
+- Reģistrācija saņemta
+- Noraidījums pēc pieteikuma izskatīšanas
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Automātiskais noraidījums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- Uzaicinājums uz MINT Matrigma un Service-F testiem
+- cut-e pārskats
+- Darba aģenta paziņojums
+- Darba līgums
+- Portable CV
+- Pieteikuma vēstule saņemta/noraidīta
+- SHL novērtējuma uzaicinājums
+- Pielāgotais e-pasts
 
-Otrs vārds
-
-Pieteikums saņemts
-
-Pieteikuma kopija
-
-Reģistrācija saņemta
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Automātiskais noraidījums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-Uzaicinājums uz MINT Matrigma un Service-F testiem
-
-cut-e pārskats
-
-Darba aģenta paziņojums
-
-Darba līgums
-
-Portable CV
-
-Pieteikuma vēstule saņemta/noraidīta
-
-SHL novērtējuma uzaicinājums
-
-Pielāgotais e-pasts
-
-{middle-name}
-
-Kandidāta otrs vārds saglabātajā pieteikumā
-
+{middle-name} - Kandidāta otrs vārds saglabātajā pieteikumā
 Pieteikums saglabāts
 
-{name}
-
-Kandidāta vārds
-
-Pieteikums saņemts
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
+{name} - Kandidāta vārds
+- Pieteikums saņemts
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
 Lietotājvārda apstiprinājums
 
 Uz CV datu bāzi pārnestie dati
@@ -1275,6 +1211,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTA1Mjc0MiwtOTczNTY3OTEwLDEyMD
+eyJoaXN0b3J5IjpbLTE3ODU0NjQ4NywtOTczNTY3OTEwLDEyMD
 QwOTk1MzEsLTE1MDk3NjkzM119
 -->
