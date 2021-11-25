@@ -4,7 +4,7 @@ Følgende tabel beskriver de felter, der anvendes i publiceringseksport.
 
 **Feltnavn**
 Beskrivelse
-
+***
 **Kanal**
 Navn på den kanal, hvor rekrutteringsprojektet blev publiceret
 
@@ -17,37 +17,37 @@ Rekrutteringsprojektets referencenummer, hvis det anvendes
 **Stillingstitel**
 Intern stillingstitel, der til enhver tid kan ændres. Det er ikke den titel, der er angivet i jobannoncen
 
-Antal af kandidater
+**Antal af kandidater**
 Det samlede antal kandidater fra kanalen i forhold til rekrutteringsprojektet
 
-Ansættelser
+**Ansættelser**
 Det samlede antal ansættelser fra kanalen i forhold til rekrutteringsprojektet
 
-Pris for publicering
+**Pris for publicering**
 Prisen for publiceringen, hvis indtastet i forhold til kanalen
 
-Første publiceringsdato
+**Første publiceringsdato**
 Den sidste ”Fra”-dato, hvor rekrutteringsprojektet var publiceret på kanalen
 
-Sidste publiceringsdato
+**Sidste publiceringsdato**
 Den sidste ”Til”-dato, hvor rekrutteringsprojektet var publiceret på kanalen
 
-Ansættelsestype
+**Ansættelsestype**
 Kriterium valgt ved publicering af rekrutteringsprojektet
 
-Arbejdsdage
+**Arbejdsdage**
 Kriterium valgt ved publicering af rekrutteringsprojektet
 
-Arbejdstider
+**Arbejdstider**
 Kriterium valgt ved publicering af rekrutteringsprojektet
 
-Stillingstype
+**Stillingstype**
 Kriterium valgt ved publicering af rekrutteringsprojektet
 
-Jobniveau
+**Jobniveau**
 Kriterium valgt ved publicering af rekrutteringsprojektet
 
-Branche
+**Branche**
 Kriterium valgt ved publicering af rekrutteringsprojektet
 
 ##### Se også:
@@ -61,5 +61,5 @@ Kriterium valgt ved publicering af rekrutteringsprojektet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTI5ODYwNF19
+eyJoaXN0b3J5IjpbLTczNjUxODUzNl19
 -->
