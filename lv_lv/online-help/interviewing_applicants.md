@@ -2,7 +2,7 @@
 
 Pēc pieteikumu izskatīšanas kandidātus ar atbilstošām prasmēm var uzaicināt uz interviju. Tā var būt telefonintervija, personiska tikšanas vai grupas intervija, kas var būt pirmais solis kandidāta izraudzīšanai konkrētajai vakancei.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Kandidātu uzaicināšana uz interviju
+#### Kandidātu uzaicināšana uz interviju
 
 1.  Atlasiet tiešo saiti  Vakanču saraksts, lai parādītu lapu  Vakanču pārskats.
 2.  Atlasiet  Nosaukums  vakancei, kurai vēlaties ieplānot intervijas, lai parādītu lapu  Pieteikumu apstrāde.
@@ -13,7 +13,7 @@ Pēc pieteikumu izskatīšanas kandidātus ar atbilstošām prasmēm var uzaicin
     Gādājiet, lai opcija  Darbība  būtu iestatīta uz  Sūtīt e-pastu, lai kandidāti varētu saņemt e-pasta ziņojumu par interviju. Apsveriet arī iespēju izvēlēties saites apstiprināšanas opciju, lai kandidāts varētu apstiprināt tikšanos.
 7.  Atvērsies lapa  Pieteikumi, un kandidāta statuss tiks atjaunināts, norādot, ka kandidāts ir uzaicināts uz interviju.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Saites apstiprināšanas apsvērumi
+#### Saites apstiprināšanas apsvērumi
 
 Iekļaujot epastā tagu  {confirmlink}, tiek nodrošināts, ka kandidāts pienācīgi atbild uz intervijas uzaicinājumu.
 
@@ -29,7 +29,7 @@ E-pasts ir nosūtīts vairākiem kandidātiem, kas runā dažādās valodās
 -   Ja e-pasta sadaļa  Saturs  katrā valodā satur  {confirmlink}, opcija nav atlasīta.
 -   Ja e-pasta sadaļa  Saturs  jebkurā valodā nesatur  {confirmlink}, opcija ir atlasīta pēc noklusējuma.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Atgādinājumu par interviju nosūtīšana
+#### Atgādinājumu par interviju nosūtīšana
 
 Atgādinājumus par interviju iestata tajā pašā lapā, kur kandidātam nosūta uzaicinājumu uz interviju.
 
@@ -57,31 +57,21 @@ Atgādinājumus par interviju iestata tajā pašā lapā, kur kandidātam nosūt
 10.  Noklikšķiniet uz  Nosūtīt.  
     Parādīsies brīdinājums, ja mēģināsiet nosūtīt SMS atgādinājumu kandidātam, kuram nav ievadīts tālruņa numurs.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Kandidāti un interviju process
+#### Kandidāti un interviju process
 
 Pēc uzaicināšanas uz interviju kandidātam ir jāatbild uz e-pasta uzaicinājumu, lai sistēma varētu atjaunināt informāciju. Kandidāta saņemtajā e-pastā ir nepieciešamie dati, kas tiek automātiski ievietoti e-pasta tekstā, lai aizstātu mainīgos, kuri ir iekļauti e-pasta veidnē.
 
 Noklikšķinot uz apstiprināšanas saites, kandidāts tiek novirzīts uz citu vietnes lapu, kur var sniegt atbildi, un tādējādi viņa statuss EasyCruit tiek atjaunināts. Tabulā ir parādīts, kāds katrai apstiprināšanas opcijai ir rezultāts. Statuss  Acc.laiks  tiek parādīts  Personāla atlases kalendārā, bet statuss  Uzaicinājuma uz tikšanos rediģēšana  tiek parādīts kandidāta lapā  Pieteikums un CV.
 
-Apstiprināšanas opcija
+**Apstiprināšanas opcija** - Acc. Laiks/Rediģēt uzaicinājumu uz tikšanos statuss
 
-Acc. Laiks/Rediģēt uzaicinājumu uz tikšanos statuss
+**Jā, es ieradīšos** - Apstiprināts
 
-Jā, es ieradīšos
+**Nē, es neieradīšos** - Noraidīts
 
-Apstiprināts
+**Sazinieties ar mani jaunas vakances sakarā** - Sazināties jauna datuma/laika sakarā
 
-Nē, es neieradīšos
-
-Noraidīts
-
-Sazinieties ar mani jaunas vakances sakarā
-
-Sazināties jauna datuma/laika sakarā
-
-Lūdzu atsaukt manu pieteikumu
-
-Nepiemēro. Kandidāta  Vakances statuss  tiek atjaunināts, norādot  Atsaukts.
+**Lūdzu atsaukt manu pieteikumu** - Nepiemēro. Kandidāta  Vakances statuss  tiek atjaunināts, norādot  Atsaukts.
 
 Atkarībā no kandidāta atbildes intervija var notikt, un kandidāta statuss tiek atjaunināts pēc intervijas.
 
@@ -98,5 +88,5 @@ Lai uzzinātu par interviju aplūkošanu un uzaicinājumu statusu, skatiet  [Per
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDAwODUwMl19
+eyJoaXN0b3J5IjpbLTEwODIxNjEzNDNdfQ==
 -->
