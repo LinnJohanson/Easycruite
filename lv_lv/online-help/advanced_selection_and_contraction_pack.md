@@ -19,8 +19,8 @@ Risinājums
 - Detalizētākas uzņēmuma atsauksmes par kandidātiem
 
 **Iespēja saņemt kolēģu atsauksmes par kandidātiem strukturētā veidā:**
-*- Zemāka efektivitāte un slikta atsauksmju pārskatāmība
-- Mazāka informētība par darbinieku pieņemšanu, lielāks risks*
+*- Zemāka efektivitāte un slikta atsauksmju pārskatāmība*
+*- Mazāka informētība par darbinieku pieņemšanu, lielāks risks*
 3. Grupas vērtējums
 - Iespēja ērti pieprasīt, apskatīt un salīdzināt atsauksmes par kandidātiem
 - Samazinās risks pieņemt darbā neatbilstošu kandidātu
@@ -36,9 +36,9 @@ Risinājums
 - Pasta sapludināšana, lai izveidotu pielāgotus līgumus jauniem darbiniekiem
 
 **Atbilstošu talantu atrašana uzņēmuma ietvaros vakanču aizpildīšanai:**
-*- Augstākas personāla atlases izmaksas
-- Garāks vakanču aizpildīšanas periods
-- Garāks iestrādāšanās periods*
+*- Augstākas personāla atlases izmaksas*
+*- Garāks vakanču aizpildīšanas periods*
+*- Garāks iestrādāšanās periods*
 6. Darbinieku klasifikācija
 - Iespējas ērti meklēt talantus uzņēmuma ietvaros, izmantojot meklēšanas kritērijus
 
@@ -58,5 +58,5 @@ Risinājums
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTc3ODI5XX0=
+eyJoaXN0b3J5IjpbMTg3MTM5ODc5MV19
 -->
