@@ -786,95 +786,50 @@ Brīdinājums par vakances termiņa beigām
 - Automātiskais noraidījums
 - Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
 - Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+ - Lietotājvārda apstiprinājums
+- Uz CV datu bāzi pārnestie dati
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
+- cut-e pārskats
+- Jauna lietotāja e-pasts
+- Darba aģenta paziņojums
+- Kandidāta vērtēšana
+- Uzaicinājums veikt SHL un cut-e vērtējumu
+- Pielāgotais e-pasts
 
-Lietotājvārda apstiprinājums
-
-Uz CV datu bāzi pārnestie dati
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-cut-e pārskats
-
-Jauna lietotāja e-pasts
-
-Darba aģenta paziņojums
-
-Kandidāta vērtēšana
-
-Uzaicinājums veikt SHL un cut-e vērtējumu
-
-Pielāgotais e-pasts
-
-{test-code}
-
-Testa atsauces kods
-
+{test-code} - Testa atsauces kods
 Uzaicinājums uz MINT Matrigma un Service-F testiem
 
-{test-link}
-
-Saite uz tiešsaistes testu
-
+{test-link} - Saite uz tiešsaistes testu
 Uzaicinājums uz MINT Matrigma un Service-F testiem
 
-{test-password}
-
-Parole piekļuvei 16PF testam
-
+{test-password} - Parole piekļuvei 16PF testam
 16PF e-pasti
 
-{test-username}
-
-Lietotājvārds piekļuvei 16PF testam
-
+{test-username} - Lietotājvārds piekļuvei 16PF testam
 16PF e-pasti
 
-{title}
+{title} - Darba nosaukums
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
+- Uzaicinājums nosūtīt/atjaunināt CV darbinieku
+- Pārsūtīt pieteikumu
 
-Darba nosaukums
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
-Uzaicinājums nosūtīt/atjaunināt CV darbinieku
-
-Pārsūtīt pieteikumu
-
-{title-grade}
-
-Darba nosaukuma kategorija
-
-Pieteikums saņemts
-
-Reģistrācija saņemta
-
-Pieteikuma kopija
-
-Noraidījums pēc pieteikuma izskatīšanas
-
-Automātiskais noraidījums
-
-Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
-
-Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
-
-Lietotājvārda apstiprinājums
-
+{title-grade} - Darba nosaukuma kategorija
+- Pieteikums saņemts
+- Reģistrācija saņemta
+- Pieteikuma kopija
+- Noraidījums pēc pieteikuma izskatīšanas
+- Automātiskais noraidījums
+- Uzaicinājums uz sākotnējo, 1., 2. un 3. tikšanos
+- Noraidījums pēc sākotnējās, 1., 2. un 3. tikšanās
+- Lietotājvārda apstiprinājums
 Uz CV datu bāzi pārnestie dati
 
 Uzaicinājums nosūtīt/atjaunināt CV darbinieku
@@ -1092,6 +1047,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MDU4MjM5LDE4MDA4OTI0OTcsLTk3Mz
+eyJoaXN0b3J5IjpbNTY4MTEyOTk5LDE4MDA4OTI0OTcsLTk3Mz
 U2NzkxMCwxMjA0MDk5NTMxLC0xNTA5NzY5MzNdfQ==
 -->
