@@ -1,43 +1,33 @@
 # Standarta atbildes e-pasta veidi
 
-Pieteikums saņemts
-
+**Pieteikums saņemts**
 Apraksts
-
-Pieteikums saņemts (1, 2)
-
+***
+**Pieteikums saņemts (1, 2)**
 E-pasts, kas tiek nosūtīts kandidātam, apstiprinot, ka kandidāta pieteikums ir saņemts.
 
-CV reģistrēts (1)
-
+**CV reģistrēts (1)**
 E-pasts, kas tiek nosūtīts kandidātam, apstiprinot, ka kandidāta CV ir reģistrēts.
 
-Nosūtīt pretendentam pieteikuma kopiju
-
+**Nosūtīt pretendentam pieteikuma kopiju**
 E-pasts, kas tiek nosūtīts kandidātam, informējot, ka kandidātam ir nosūtīta pieteikuma kopija. Lai iespējotu šo funkcionalitāti, pieteikuma veidlapas sadaļā Personas dati ir jābūt e-pasta laukiem.
 
-Pieteikums saglabāts (1, 2)
-
+**Pieteikums saglabāts (1, 2)**
 Personalizēts e-pasts, kas tiek nosūtīts kandidātam, apstiprinot, ka kandidāta pieteikums ir saglabāts.
-
-Pieteikums ir noraidīts
-
+***
+**Pieteikums ir noraidīts**
 Apraksts
-
-Noraidījums pēc pieteikuma izskatīšanas (1)
-
+***
+**Noraidījums pēc pieteikuma izskatīšanas (1)**
 E-pasts, kas tiek nosūtīts kandidātam, informējot, ka kandidāts nav piemērots.
 
-Automātisks noraidījums (1,2)
-
+**Automātisks noraidījums (1,2)**
 E-pasts kandidātiem, kuru sasniegtais rezultāts neatbilst vakances atlases jautājumiem.
-
-Atlikts noraidījums
-
+***
+**Atlikts noraidījums**
 Apraksts
-
-Atlikts noraidījums (1,2)
-
+***
+**Atlikts noraidījums (1,2)**
 E-pasts, kas tiek nosūtīts kandidātiem, informējot, ka viņu pieteikums vairs netiks izskatīts. Tas tiek nosūtīts, ja noteiktā laika periodā (nedēļās) netiek veiktas nekādas darbības.
 ***
 **Uzaicinājums uz tikšanos /atteikums**
@@ -52,19 +42,19 @@ E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot uz pirmo interviju.
 **Otrā intervija (1)**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot uz otro interviju.
 
-Trešā intervija (1)
+**Trešā intervija (1)**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot uz trešo interviju.
 
-Noraidījums pēc pirmās tikšanās vai telefonintervijas (1)
+**Noraidījums pēc pirmās tikšanās vai telefonintervijas (1)**
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 
-Noraidījums pēc pirmās intervijas (1)
+**Noraidījums pēc pirmās intervijas (1)**
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 
-Noraidījums pēc otrās intervijas (1)
+**Noraidījums pēc otrās intervijas (1)**
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 
-Noraidījums pēc trešās intervijas (1)
+**Noraidījums pēc trešās intervijas (1)**
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 ***
 **Citi**
@@ -196,5 +186,5 @@ Apraksts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODA2OTcxM119
+eyJoaXN0b3J5IjpbMTM2NTA1Nzc4N119
 -->
