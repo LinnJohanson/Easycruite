@@ -5,57 +5,57 @@ Spørgsmålsudtræk til kandidatprofiler inkluderer kandidatsvar på spørgsmål
 **Feltnavn**
 Beskrivelse
 ***
-Kandidat-ID
+**Kandidat-ID**
 Kandidatens unikke ID, systemgenereret
 
-Sidst ændret
+**Sidst ændret**
 Den sidste dato hvor kandidaten foretog en ændring i nogen af de oplysninger, der findes i kandidatens karrierecenter
 
-Køn
+**Køn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Fødselsdato
+**Fødselsdato**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Intern kategorisering
+**Intern kategorisering**
 Kandidattype eksempelvis CV-kandidat, medarbejder osv.
 
-Fornavn
+**Fornavn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Efternavn
+**Efternavn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Postnummer
+**Postnummer**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Land
+**Land**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Region
+**Region**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Nationalitet
+**Nationalitet**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-E-mail
+**E-mail**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Kandidatprofilspørgsmål
-Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
-Bemærk, hvert spørgsmål til  CV-kandidater -  (og jobsøgere)  vises i en særskilt kolonne.
-Bemærk, overskriften ændrer sig med udgangspunkt i spørgsmålets titel
+**Kandidatprofilspørgsmål**
+- Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
+- Bemærk, hvert spørgsmål til  CV-kandidater -  (og jobsøgere)  vises i en særskilt kolonne.
+- Bemærk, overskriften ændrer sig med udgangspunkt i spørgsmålets titel
 
-HR-klassificering - spørgsmål til kandidatprofil
-Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
-Bemærk, hvert spørgsmål til  CV-kandidater -  (og jobsøgere)  vises i en særskilt kolonne.
-Bemærk, overskriften ændrer sig med udgangspunkt i spørgsmålets titel
+**HR-klassificering - spørgsmål til kandidatprofil**
+- Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
+- Bemærk, hvert spørgsmål til  CV-kandidater -  (og jobsøgere)  vises i en særskilt kolonne.
+- Bemærk, overskriften ændrer sig med udgangspunkt i spørgsmålets titel
 
 ##### Se også:
 
@@ -68,5 +68,5 @@ Bemærk, overskriften ændrer sig med udgangspunkt i spørgsmålets titel
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4ODE2MjddfQ==
+eyJoaXN0b3J5IjpbLTk2MDQ5MDUwMV19
 -->
