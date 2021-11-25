@@ -2,7 +2,7 @@
 
 Denne fane indeholder rangeringskommentarer, noter og uploadede dokumenter forbundet med kandidaten. I overskriften vises antallet af dokumenter og noter i fanen.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Upload af et dokument eller tilføjelse af en note
+#### Upload af et dokument eller tilføjelse af en note
 
 1.  Vælg det relevante rekrutteringsprojekt og vælg derefter  Alle ansøgninger  for at vise kandidatlisten.
 2.  Vælg  Kandidatnavnet  og vælg derefter fanen  Dokumenter / Noter.
@@ -11,11 +11,11 @@ Denne fane indeholder rangeringskommentarer, noter og uploadede dokumenter forbu
     indtast et  Emne  og  Indhold  og klik derefter på  Tilføj  for at inkludere en note.  
     
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning at et uploadet dokument eller en note
+#### Visning at et uploadet dokument eller en note
 
 1.  Klik på navnet i kolonnen  Fil  for at vise et dokument eller klik på navnet i kolonnen  Kommentarer  for at vise en note.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning af eksisterende noter eller overskrifter eller tilføjelse af yderligere noter
+#### Visning af eksisterende noter eller overskrifter eller tilføjelse af yderligere noter
 
 Du kan også se en liste med Noter og Dokumenter, der gælder for en kandidat, direkte fra  oversigten Ansøgningshåndtering:
 
@@ -40,5 +40,5 @@ Du kan også se en liste med Noter og Dokumenter, der gælder for en kandidat, d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkxOTM1OV19
+eyJoaXN0b3J5IjpbMTAyNzMyNDIxMF19
 -->
