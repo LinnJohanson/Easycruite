@@ -39,41 +39,32 @@ Apraksts
 Atlikts noraidījums (1,2)
 
 E-pasts, kas tiek nosūtīts kandidātiem, informējot, ka viņu pieteikums vairs netiks izskatīts. Tas tiek nosūtīts, ja noteiktā laika periodā (nedēļās) netiek veiktas nekādas darbības.
-
-Uzaicinājums uz tikšanos /atteikums
-
+***
+**Uzaicinājums uz tikšanos /atteikums**
 Apraksts
-
-Sākotnējā tikšanās/telefonintervija (1)
-
+***
+**Sākotnējā tikšanās/telefonintervija (1)**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot tikties vai piedalīties telefonintervijā.
 
-Pirmā intervija (1)
-
+**Pirmā intervija (1)**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot uz pirmo interviju.
 
-Otrā intervija (1)
-
+**Otrā intervija (1)**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot uz otro interviju.
 
 Trešā intervija (1)
-
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot uz trešo interviju.
 
 Noraidījums pēc pirmās tikšanās vai telefonintervijas (1)
-
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 
 Noraidījums pēc pirmās intervijas (1)
-
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 
 Noraidījums pēc otrās intervijas (1)
-
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 
 Noraidījums pēc trešās intervijas (1)
-
 E-pasts, kas tiek manuāli nosūtīts kandidātiem, paziņojot, ka viņi netiek pieteikšanās procesa nākamajā kārtā.
 ***
 **Citi**
@@ -106,55 +97,55 @@ E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot piedalīties 16PF testā.
 **Uzaicinājums veikt MINT testu**
 E-pasts, kas tiek nosūtīts kandidātiem, uzaicinot piedalīties MINT testā.
 
-cut-e kandidāta pārskats
+**cut-e kandidāta pārskats**
 Uzaicinājums, kas tiek nosūtīts kandidātam, kurš pabeidzis cut-e novērtējuma testu.
 
-JobAgent
+**JobAgent**
 E-pasts, kas tiek nosūtīts kandidātam un satur informāciju par atbilstošām vakancēm.
 
-Ziņojums kandidātiem, kuri nav atjauninājuši savu informāciju
+**Ziņojums kandidātiem, kuri nav atjauninājuši savu informāciju**
 E-pasts, kas tiek nosūtīts kandidātiem, kuri noteiktā laika periodā nav atjauninājuši savu CV, uzaicinot kandidātus pieteikties kandidātu vietnē un atjaunināt informāciju.
 
-Paziņojums dzēšamajiem kandidātiem, kam ir pieteikumvārds
+**Paziņojums dzēšamajiem kandidātiem, kam ir pieteikumvārds**
 E-pasts, kas tiek nosūtīts lietotājiem, kam ir pieteikumvārds un kuri noteiktu laiku nav bijuši aktīvi.
 
-Paziņojums dzēšamajiem kandidātiem, kam nav pieteikumvārda
+**Paziņojums dzēšamajiem kandidātiem, kam nav pieteikumvārda**
 E-pasts, kas tiek nosūtīts lietotājiem, kam ir pieteikumvārds un kuri noteiktu laiku nav bijuši aktīvi.
 
-Ziņojums par gaidāmo rīcību (1)
+**Ziņojums par gaidāmo rīcību (1)**
 E-pasts, kas tiek nosūtīts attiecīgajām kontaktpersonām un satur informāciju par kandidātiem, kuri noteiktā laikā nav bijuši aktīvi attiecībā uz konkrētu vakanci.
 
-Kandidātu novērtējums
+**Kandidātu novērtējums**
 E-pasts, kas tiek nosūtīts attiecīgajām kontaktpersonām, aicinot sniegt atsauksmes par kandidātu. Tas ietver saiti uz vietu, kur kontaktpersonas var novērtēt kandidātu.
 
-Paziņojums jaunam lietotājam
+**Paziņojums jaunam lietotājam**
 E-pasts, kas tiek nosūtīts jauniem lietotājiem un satur EasyCruit lietotājvārdu un paroli.
 
-Vakances apstiprināšana
+**Vakances apstiprināšana**
 E-pasts, kas tiek nosūtīts, lai iesniegtu vakanci apstiprināšanai. Šo e-pastu nosūta lietotājiem, kas iecelti par vakances apstiprinātājiem
 
-Ziņojums par vakances termiņa beigām (1, 2)
+**Ziņojums par vakances termiņa beigām (1, 2)**
 E-pasts, kas tiek nosūtīts noteiktu dienu skaitu pirms vakances termiņa beigām. Tas personālā atlases speciālistam dod laiku pagarināt termiņu, ja nepieciešams.
 
-Paroles izguves e-pasts
+**Paroles izguves e-pasts**
 E-pasts, kas tiek nosūtīts lietotājiem, kuri pieprasījuši paroli.
 
-Līgums nosūtīts e-pasts
+**Līgums nosūtīts e-pasts**
 E-pasts, kas tiek nosūtīts kandidātiem, kuriem piedāvā noslēgt līgumu.
 
-Nosūtīt draugam e-pasts
+**Nosūtīt draugam e-pasts**
 E-pasts, ar ko kandidātiem tiek dota iespēja nosūtīt e-pastu par vakancēm saviem draugiem.
 
-Portable CV
+**Portable CV**
 E-pasts, kas tiek nosūtīts Portable CV.
 
-Automātiski atjaunināt uz saglabāts
+**Automātiski atjaunināt uz saglabāts**
 Automātiski atjaunināt kandidāta tipu no "Kandidāts" uz "Saglabāts".
 
-Nosūta e-pastu, lai vērtētu kandidātus
+**Nosūta e-pastu, lai vērtētu kandidātus**
 E-pasts adresātiem no vērtēšanas grupas ar lūgumu sniegt savu vērtējumu un/vai piezīmes.
 
-Nosūta e-pastu personāla atlases speciālistam par vērtēšanas apstiprinājumu
+**Nosūta e-pastu personāla atlases speciālistam par vērtēšanas apstiprinājumu**
 Paziņojums personāla atlases speciālistam par katru pabeigto grupas vērtējumu.
 ***
 **Vēstule**
@@ -205,5 +196,5 @@ Apraksts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczOTIzNTEzXX0=
+eyJoaXN0b3J5IjpbMTA2ODA2OTcxM119
 -->
