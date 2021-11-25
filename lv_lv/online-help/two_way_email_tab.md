@@ -2,7 +2,7 @@
 
 Divpusēja e-pastu apmaiņa ir e-pastu pavedienu vēsture starp personāla atlases speciālistu un kandidātu, kad sarakste sākta šajā sistēmas daļā.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Divpusēja e-pasta nosūtīšana
+#### Divpusēja e-pasta nosūtīšana
 
 1.  Atlasiet attiecīgo vakanci un tad –  Visi pieteikumi, lai parādītu sarakstu  Kandidāti.
 2.  Atlasiet  Kandidāta vārds  un tad cilni  Divpusējs e-pasts.
@@ -25,5 +25,6 @@ Divpusēja e-pastu apmaiņa ir e-pastu pavedienu vēsture starp personāla atlas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcyMDkwODFdfQ==
+eyJoaXN0b3J5IjpbLTEyNjQ3NjI3MjIsLTExMjcyMDkwODFdfQ
+==
 -->
