@@ -6,35 +6,28 @@ Informāciju par kandidātu pārskatiem skatiet sadaļā  [Pārskati par kandid�
 
 Ir pieejami šādi pārskatu veidi:
 
-Pārskata veids
+**Pārskata veids**
 Apraksts
-
-Avotu pārskats
-
+***
+**Avotu pārskats**
 Sniedz pārskatu par vakanču publicēšanas kanāliem (karjeras vietnēm), darba sludinājumu dēļiem un sistēmai manuāli pievienotajiem kanāliem. Tas ietver informāciju par trāpījumu skaitu, pieteikumu skaitu un pieņemto darbinieku skaitu.
 
-Avotu/dažādības pārskats
-
+**Avotu/dažādības pārskats**
 Sniedz informāciju par to kandidātu dzimumu un vecumu, kas pieteikušies kanālā publicētajai vakancei.
 
-Vakanču pārskats
-
+**Vakanču pārskats**
 Sniedz informāciju par dažādiem atlases posmiem konkrētās vakancēs, piemēram, Uzaicināts uz interviju, Noraidītie kandidāti, Piedāvātais laiks, Izteikts piedāvājums un Pieņemts darbā.
 
-Vakanču/dažādības pārskats
-
+**Vakanču/dažādības pārskats**
 Sniedz informāciju par katras vakances kandidātu dzimumu un vecumu.
 
-Pārskats par noraidījuma iemesliem
-
+**Pārskats par noraidījuma iemesliem**
 Sniedz informāciju par vakancei pieteikušos kandidātu noraidīšanas iemesliem.
 
-CBS ziņojums
-
+**CBS ziņojums**
 Centrālā statistikas biroja (CBS) pārskats ir kvartāla pārskats, kas jāaizpilda visiem Nīderlandes uzņēmumiem. Pārskatā norāda brīvo vakanču skaitu, aizpildīto vakanču skaitu, izveidoto vakanču skaitu un slēgto (bet neaizpildīto) vakanču skaitu kvartālā.
 
-[Datu izvilkums](data_extract.htm)
-
+**[Datu izvilkums](data_extract.htm)**
 Ar šo pievienojamo funkciju EasyCruit datus eksportē Excel izklājlapā. Datus var kopēt un ielīmēt vairākos konfigurētos Excel grafikos, lai iegūtu priekšstatu par jūsu personāla atlases darbībām. Grafiku paraugi ietver: Kandidāti pēc avota un Vakances un kandidāti pa nodaļām.
 
 ##### Skatīt arī:
@@ -48,5 +41,5 @@ Ar šo pievienojamo funkciju EasyCruit datus eksportē Excel izklājlapā. Datus
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzQzOTkzNV19
+eyJoaXN0b3J5IjpbLTk2NTE4MDgwMV19
 -->
