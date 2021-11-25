@@ -10,7 +10,7 @@ Pēc vakances slēgšanas to var arī atjaunot. Tikai administratori var atjauno
     Ja ar vakanci ir saistīti ārēji kanāli, jānoklikšķina uz  Atcelt  un tad jārediģē vakance, lai noņemtu kanālu. Šim nolūkam izmanto opciju  Publicēt/Publicēšana  lapā  Rediģēt vakanci.
 4.  Atlasiet cilni  Pabeigtas, lai apskatītu vakanci un apstiprinātu tās slēgšanu.
 
-###Skatīt arī:
+##### Skatīt arī:
 
 ![](../Resources/Images/icon-document-link.png)  [Vakances atjaunošana](restoring_a_vacancy.htm)
 ![](../Resources/Images/icon-document-link.png)  [Jaunas vakances izveidošana](creating_a_new_vacancy.htm)
@@ -21,5 +21,5 @@ Pēc vakances slēgšanas to var arī atjaunot. Tikai administratori var atjauno
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMzg0NTJdfQ==
+eyJoaXN0b3J5IjpbMTk1MTE5MTg4Nl19
 -->
