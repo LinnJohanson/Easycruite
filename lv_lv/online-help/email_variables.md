@@ -256,10 +256,8 @@ Kandidātu novērtējums
 - cut-e pārskats
 - Darba aģenta paziņojums
 - Jauna lietotāja e-pasts
-
-Vakances apstiprinājuma pieprasījums
-
-Lietotāja paroles pieprasījums
+- Vakances apstiprinājuma pieprasījums
+- Lietotāja paroles pieprasījums
 
 Darba līgums
 
@@ -1622,6 +1620,6 @@ Pielāgotais e-pasts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MDgzMzM0NywxMjA0MDk5NTMxLC0xNT
-A5NzY5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTA1MDI5MTcsMTIwNDA5OTUzMSwtMT
+UwOTc2OTMzXX0=
 -->
