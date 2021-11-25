@@ -159,20 +159,19 @@ E-mailnotifikation om at stoppe annonceringen af et rekrutteringsprojekt.
 **Personlighedstests, e-mails**
 Beskrivelse
 ***
-SHL-bedømmelsesinvitation
+**SHL-bedømmelsesinvitation**
 E-mail sendt til kandidater, hvori de inviteres til en SHL-bedømmelse.
 
-Indkaldelse til Master Management-test
+**Indkaldelse til Master Management-test**
 E-mail sendt til kandidater, hvori de inviteres til en Master Management-bedømmelse.
 
-Invitation til cut-e test
+**Invitation til cut-e test**
 E-mail sendt til kandidater, hvori de inviteres til en cut-e-bedømmelse
 ***
-Brugerstyrede e-mailskabeloner
+**Brugerstyrede e-mailskabeloner**
 Beskrivelse
 ***
-Indeholder e-mails, der er skabt til brugeren.
-
+**Indeholder e-mails, der er skabt til brugeren.**
 Dette afsnit skal aktiveres af din EasyCruit-konsulent. Når det er aktiveret, vises det, selvom der ikke eksisterer skabeloner.
 
 1.  En tidsforsinkelse kan anvendes for denne e-mail. Denne mulighed er nyttig til at undgå øjeblikkelige, automatiske svar til kandidaterne.
@@ -187,5 +186,5 @@ Dette afsnit skal aktiveres af din EasyCruit-konsulent. Når det er aktiveret, v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2NTg3NzMyXX0=
+eyJoaXN0b3J5IjpbLTgyNDAzODkzOF19
 -->
