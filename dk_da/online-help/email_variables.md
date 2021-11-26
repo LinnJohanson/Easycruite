@@ -681,18 +681,18 @@ E-mail-kanalpublicering
 - Ny bruger-e-mail
 - Invitation til at Send/opdatér CV, medarbejder
 - Videresend ansøgning
-Invitation til MINT Matrigma og Service-F-test
-cut-e-rapport
-Jobagentbesked
-Anmod om godkendelse af rekrutteringsprojekt
-Ansættelseskontrakt
-Tip en ven-e-mail/Rekrutteringsprojekt
-Flytbart CV
-Evaluering af kandidat
-Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
-Brugertilpasset e-mail
-E-mail-signaturer
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Anmod om godkendelse af rekrutteringsprojekt
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+- E-mail-signaturer
 
 **{cv} - Vedhæfter CV**
 Tilknyt kandidatrangering
@@ -1277,5 +1277,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxNDA5MDQ3LC04MDI2NTgyMDVdfQ==
+eyJoaXN0b3J5IjpbMTczMzc5ODQ4NywtODAyNjU4MjA1XX0=
 -->
