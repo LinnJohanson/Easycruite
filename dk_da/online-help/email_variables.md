@@ -1206,105 +1206,58 @@ Udløbsadvarsel for rekrutteringsprojekt
 
 Brugertilpasset e-mail
 
-{last-name}
+**{last-name} - Efternavn**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Registrering modtaget
+- Afslag efter behandlet ansøgning
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Automatisk afslag
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ny bruger-e-mail
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- SHL-bedømmelsesinvitation
+- Brugertilpasset e-mail
 
-Efternavn
+**{link} - Link til at gendanne adgangskode**
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Ansøgning gemt
 
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Registrering modtaget
-
-Afslag efter behandlet ansøgning
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Automatisk afslag
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ny bruger-e-mail
-
-Jobagentbesked
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-SHL-bedømmelsesinvitation
-
-Brugertilpasset e-mail
-
-{link}
-
-Link til at gendanne adgangskode
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Ansøgning gemt
-
-{matches}
-
-Indsætter alle matchende job, som kandidaten er interesseret i
-
+**{matches} - Indsætter alle matchende job, som kandidaten er interesseret i**
 Jobagent
 
-{middle-name}
-
-Mellemnavn
-
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Registrering modtaget
-
-Afslag efter behandlet ansøgning
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Automatisk afslag
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-Jobagentbesked
-Ansættelseskontrakt
-Flytbart CV
-Brevansøgning modtaget/afslået
-SHL-bedømmelsesinvitation
-Brugertilpasset e-mail
+**{middle-name} - Mellemnavn**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Registrering modtaget
+- Afslag efter behandlet ansøgning
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Automatisk afslag
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- SHL-bedømmelsesinvitation
+- Brugertilpasset e-mail
 
 **{middle-name} - Kandidats mellemnavn angivet for den gemte ansøgning**
 Ansøgning gemt
@@ -1593,5 +1546,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjAxNjgyOSwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbNjY3MDc2MzczLC04MDI2NTgyMDVdfQ==
 -->
