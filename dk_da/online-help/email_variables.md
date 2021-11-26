@@ -668,121 +668,63 @@ Kontaktperson/-er
 
 E-mail-kanalpublicering
 
-{customer-name}
-
-Kundenavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Ny bruger-e-mail
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
+**{customer-name} - Kundenavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Ny bruger-e-mail
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
 Invitation til MINT Matrigma og Service-F-test
-
 cut-e-rapport
-
 Jobagentbesked
-
 Anmod om godkendelse af rekrutteringsprojekt
-
 Ansættelseskontrakt
-
 Tip en ven-e-mail/Rekrutteringsprojekt
-
 Flytbart CV
-
 Evaluering af kandidat
-
 Brevansøgning modtaget/afslået
-
 Invitation til SHL- og cut-e test
-
 Brugertilpasset e-mail
-
 E-mail-signaturer
 
-{cv}
-
-Vedhæfter CV
-
+**{cv} - Vedhæfter CV**
 Tilknyt kandidatrangering
-
 Kopi af ansøgning
 
-{date}
-
-Dato hvor rekrutteringsprojektet udløber
-
+**{date} - Dato hvor rekrutteringsprojektet udløber**
 Udløbsadvarsel for rekrutteringsprojekt
 
-{days}
-
-Antal dage i forvejen, hvor du notificeres
-
+**{days} - Antal dage i forvejen, hvor du notificeres**
 Udløbsadvarsel for rekrutteringsprojekt
 
-{department-disclaimer}
-
-Tekst til ansvarsfraskrivelse for afdeling
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Anmod om godkendelse af rekrutteringsprojekt
-
-Ny bruger-e-mail
-
-Ansættelseskontrakt
-
-Tip en ven-e-mail/Rekrutteringsprojekt
-
-Flytbart CV
-
-Brugertilpasset e-mail
-
-E-mail-signaturer
-
-Ansøgning gemt
+**{department-disclaimer} - Tekst til ansvarsfraskrivelse for afdeling**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Anmod om godkendelse af rekrutteringsprojekt
+- Ny bruger-e-mail
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Brugertilpasset e-mail
+- E-mail-signaturer
+- Ansøgning gemt
 
 **{department} - Afdelingsnavn**
 - Ansøgning modtaget
@@ -798,15 +740,15 @@ Ansøgning gemt
 - cut-e-rapport
 - Jobagentbesked
 - Anmod om godkendelse af rekrutteringsprojekt
-Ny bruger-e-mail
-Ansættelseskontrakt
-Tip en ven-e-mail/Rekrutteringsprojekt
-Flytbart CV
-Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
-Brugertilpasset e-mail
-E-mail-signaturer
-Ansøgning gemt
+- Ny bruger-e-mail
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+- E-mail-signaturer
+- Ansøgning gemt
 
 **{department-address} - Afdelingsadresse**
 E-mail-kanalpublicering
@@ -1335,5 +1277,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDA5NTkwNSwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbODcxNDA5MDQ3LC04MDI2NTgyMDVdfQ==
 -->
