@@ -121,96 +121,57 @@ Invitation til at Send/opdatér CV, medarbejder
 Videresend ansøgning
 
 Invitation til MINT Matrigma og Service-F-test
-
 cut-e-rapport
-
 Ny bruger-e-mail
-
-Jobagentbesked
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-{candidate-given-name}
-
-Fornavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Jobagentbesked
-
-Ny bruger-e-mail
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-{candidate-middle-name}
-
-Mellemnavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-Bekræftelse af brugernavn
-Oplysninger overført til CV-database
-Invitation til at Send/opdatér CV, medarbejder
-Videresend ansøgning
-Invitation til MINT Matrigma og Service-F-test
-cut-e-rapport
 Jobagentbesked
 Ansættelseskontrakt
 Flytbart CV
 Brevansøgning modtaget/afslået
 Invitation til SHL- og cut-e test
 Brugertilpasset e-mail
+
+**{candidate-given-name} - Fornavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ny bruger-e-mail
+- Ansættelseskontrakt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+
+**{candidate-middle-name} - Mellemnavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
 **{candidate-password} - Kandidats adgangskode**
 - Ansøgning modtaget
@@ -1043,5 +1004,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MjY5MTMxLC04MDI2NTgyMDVdfQ==
+eyJoaXN0b3J5IjpbMTE4MzgzMTkyNCwtODAyNjU4MjA1XX0=
 -->
