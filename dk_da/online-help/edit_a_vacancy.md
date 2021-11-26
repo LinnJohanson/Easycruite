@@ -8,28 +8,23 @@ Når et rekrutteringsprojekt er blevet publiceret, kan det være nødvendigt at 
       
     Bemærk de muligheder, der kan redigeres, når rekrutteringsprojektet ikke er godkendt. Bemærk de muligheder, der kan redigeres, når rekrutteringsprojektet er godkendt.
 3.  Klik på ikonet med en blyant for at få adgang til muligheden for at blive redigeret og foretag de nødvendige ændringer som angivet nedenfor og klik på  Gem, når du er færdig.
-
-Rekrutteringsprojektmulighed
-
+***
+**Rekrutteringsprojektmulighed**
 Beskrivelse
-
-Titel og Region
-
+***
+**Titel og Region**
 Bruges til at redigere rekrutteringsprojekttitlen, referencenummeret, tilgængelige sprog, geografisk placering og projektejer.
 
-Afdelinger og kontaktpersoner
-
+**Afdelinger og kontaktpersoner**
 Gør det muligt at ændre de afdelinger, som rekrutteringsprojektet er beregnet til, og giver mulighed for at ændre, hvilken bruger der anvendes som kontaktperson i rekrutteringsprojektets annonce og de almindeligt udsendte e-mails.
 
-Projektprofil
-
+**Projektprofil**
 Svar på projektrelaterede spørgsmål, der anvendes til at foretage klassificering, kan tilføjes, fjernes eller redigeres.
 
-Rekrutteringsprojekt
-
+**Rekrutteringsprojekt**
 Anvendes til at redigere teksten i et rekrutteringsprojekt og overskriften til annoncetitlen anvendt på karrierehjemmeside, hvor rekrutteringsprojektet er publiceret. Datoerne og placeringen er anført i rekrutteringsprojektets annonce og kan også redigeres.
 
-****
+**Ansøgningsformular**
 Dette gør det muligt at anvende nye ansøgningsformularer eller at redigere i eksisterende ansøgningsformularer.
 
 **Screeningsspørgsmål**
@@ -63,5 +58,5 @@ For yderligere oplysninger om disse muligheder henvises til  [Oprettelse af et r
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY2ODY0Nl19
+eyJoaXN0b3J5IjpbMTQxNTg1MTc2Nl19
 -->
