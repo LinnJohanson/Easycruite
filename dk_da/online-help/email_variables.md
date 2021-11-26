@@ -64,71 +64,42 @@ Den afdeling jobansøger er forbundet med
 
 Afventer yderligere handlingsrapport
 
-{applicant-id}
-
-Jobansøgers id-nummer
-
+**{applicant-id} - Jobansøgers id-nummer**
 Afventer yderligere handlingsrapport
 
-{applicant-name}
-
-Jobansøgers navn
-
+**{applicant-name} - Jobansøgers navn**
 Afventer yderligere handlingsrapport
 
-{approval-link}
-
-Indsætter godkendelseslinket
-
+**{approval-link} - Indsætter godkendelseslinket**
 Anmod om godkendelse af rekrutteringsprojekt
 
-{assessment-test-name-link-group}
-
-cut-e-testnavn + URL
-
+**{assessment-test-name-link-group} - cut-e-testnavn + URL**
 Invitation til cut-e test
 
-{ballot-link}
-
-Link til at partnere kan rangere kandidater
-
+**{ballot-link} - Link til at partnere kan rangere kandidater**
 Tilknyt kandidatrangering
 
-{candidate-family-name}
-
-Efternavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-cut-e-rapport
-Ny bruger-e-mail
-Jobagentbesked
-Ansættelseskontrakt
-Flytbart CV
-Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
-Brugertilpasset e-mail
+**{candidate-family-name} - Efternavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ny bruger-e-mail
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
 **{candidate-given-name} - Fornavn**
 - Ansøgning modtaget
@@ -1004,5 +975,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzgzMTkyNCwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbMTk5Nzk1NjQxMiwtODAyNjU4MjA1XX0=
 -->
