@@ -4,7 +4,7 @@ EasyCruit har en anden partner til jobfordelingsintegration, der gør kunderne i
 
 ## Publicering af rekrutteringsprojekter
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Publicering af et rekrutteringsprojekt
+#### Publicering af et rekrutteringsprojekt
 
 1.  Under oprettelse af et rekrutteringsprojekt og efter aktivering af svarmail vises siden  Vælg annonceringskanal. Vælg hvilke kanaler du gerne vil foretage publicering på samt på hvilke sprog, det skal gøres. Hvis du gerne vil publicere til mere end en afdeling, skal du vælge kanaler til hver afdeling i listen over kanaler, der er tilgængelige for den afdeling og bagefter klikke på  Næste.
 2.  Vælg perioden for jobpubliceringen for hver afdeling og klik derefter på  Næste.
@@ -33,7 +33,7 @@ EasyCruit har en anden partner til jobfordelingsintegration, der gør kunderne i
     Siden  Redigér rekrutteringsprojekt  vises. Du kan vende tilbage til denne side og ændre annonceringskanalerne på et senere tidspunkt, hvis det er nødvendigt.  
     Bemærk at du ikke kan ændre datoerne efter projektet er publiceret på  Multiposting-kanalerne.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Vis publiceringsoplysninger og status
+#### Vis publiceringsoplysninger og status
 
 Der oprettes en publiceringsgruppe for hver afdeling. Publiceringsdatoen og slutdatoen samt publiceringsstatus vises for hver kanal fra gruppen.
 
@@ -48,7 +48,7 @@ For hver kanal kan du se oplysninger vedrørende publiceringsstatus i kolonnen  
 
 Du kan publicere dine job på forskellige kanaler med forskellige startdatoer.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Redigering af et publiceret rekrutteringsprojekt på en publiceringsgruppe
+#### Redigering af et publiceret rekrutteringsprojekt på en publiceringsgruppe
 
 Du kan redigere de oplysninger, der sendes til en gruppe kanaler på én gang, ved at vælge blyantikonet øverst i gruppelisten.
 
@@ -60,7 +60,7 @@ Du kan redigere de oplysninger, der sendes til en gruppe kanaler på én gang, v
 5.  Gennemgå indholdet og klik derefter på  Validér  for at opdatere rekrutteringsprojektet på alle de valgte kildekanaler. Du kan om nødvendigt klikke på Tilbage for at opdatere oplysningerne.  
     Siden  Redigér rekrutteringsprojekt  vises. Du kan vende tilbage til denne side og redigere publiceringsgrupperne på et senere tidspunkt, hvis det er nødvendigt.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Fjern publiceringen af et rekrutteringsprojekt
+#### Fjern publiceringen af et rekrutteringsprojekt
 
 Du kan fjerne publiceringen af et job fra en specifik kanal eller fra hele publiceringsgruppen ved at klikke på ikonet for fjernelse af et publiceret rekrutteringsprojekt øverst i gruppelisten.
 
@@ -84,5 +84,5 @@ I løbet af implementeringen vælger du, hvilke kanaler der skal gøres tilgæng
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjUzNDA5NF19
+eyJoaXN0b3J5IjpbLTY5NzY1NDg2Nl19
 -->
