@@ -14,97 +14,97 @@ EasyCruit understøtter flere annonceringsperioder, som brugeren kan vælge imel
 
 #### Kategoriserings-XML
 
-<Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
+< Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
 
-<Versions>
+< Versions>
 
-<Version language="en"> (Vacancy language, ex. da, sv, eng, osv.)
+< Version language="en"> (Vacancy language, ex. da, sv, eng, osv.)
 
-<Title>Mandatory title</Title>
+< Title>Mandatory title< /Title>
 
-<TitleHeading>Not mandatory sub title</TitleHeading>
+< TitleHeading>Not mandatory sub title< /TitleHeading>
 
-<AlternativeCompanyName>Company name</AlternativeCompanyName>
+< AlternativeCompanyName>Company name< /AlternativeCompanyName>
 
-<ApplicationDeadline>Free text field with application deadline</ApplicationDeadline>
+< ApplicationDeadline>Free text field with application deadline< /ApplicationDeadline>
 
-<Location>Free text field with job location</Location>
+< Location>Free text field with job location</ Location>
 
-<Engagement>Free text field with engagement</Engagement>
+< Engagement>Free text field with engagement< /Engagement>
 
-<Region>
+< Region>
 
-<Country id="xx" name="Sweden"> (Vacancy country)
+< Country id="xx" name="Sweden"> (Vacancy country)
 
-<County id="xxx">Region in selected country</County>
+< County id="xxx">Region in selected country< /County>
 
-</Country>
+< /Country>
 
-</Region>
+< /Region>
 
-<Categories>
+< Categories>
 
-<Item type="area-of-interest" id="xxx">Area of interest</Item>
+< Item type="area-of-interest" id="xxx">Area of interest< /Item>
 
-<Item type="position-type" id="xxx">Position type</Item>
+< Item type="position-type" id="xxx">Position type< /Item>
 
-<Item type="job-level" id="xxx">Job level</Item>
+< Item type="job-level" id="xxx">Job level< /Item>
 
-<Item type="duration" id="xxx">Duration</Item>
+< Item type="duration" id="xxx">Duration< /Item>
 
-<Item type="extent" id="xxx">Extent</Item>
+< Item type="extent" id="xxx">Extent< /Item>
 
-<Item type="operating-time" id="xxx">Operation time</Item>
+< Item type="operating-time" id="xxx">Operation time< /Item>
 
-</Categories>
+< /Categories>
 
-</Version>
+< /Version>
 
-</Versions>
+< /Versions>
 
-<Departments>
+< Departments>
 
-<Department id="xxx">
+< Department id="xxx">
 
-<Name>Department name</Name>
+< Name>Department name< /Name>
 
-<LogoURL>Full URL to uploaded logo</LogoURL>
+< LogoURL>Full URL to uploaded logo< /LogoURL>
 
-<VacancyURL>URL to vacancy</VacancyURL>
+< VacancyURL>URL to vacancy< /VacancyURL>
 
-<ApplicationURL>URL to application form</ApplicationURL>
+< ApplicationURL>URL to application form< /ApplicationURL>
 
-</Department>
+< /Department>
 
-</Departments>
+< /Departments>
 
-</Vacancy>
+< /Vacancy>
 
 #### Rekrutteringsprojekt-XML
 
 Udover de ovennævnte variabler, er dette variablerne til stillingsaanoncen.
 
-<Description>Vacancy text with html formatting included</Description>
+< Description>Vacancy text with html formatting included< /Description>
 
-<About>Department ingress with html formatting</About>
+< About>Department ingress with html formatting< /About>
 
-<PrivacyPolicy>Department Privacy Policy with html formatting</PrivacyPolicy>
+< PrivacyPolicy>Department Privacy Policy with html formatting< /PrivacyPolicy>
 
 < Address type="postal">(Department postal)
 
-< Street>Street name / number</Street>
+< Street>Street name / number< /Street>
 
-< Area>City</Area>
+< Area>City< /Area>
 
-< AreaCode>Zip</AreaCode>
+< AreaCode>Zip< /AreaCode>
 
 < /Address>
 
 < Address type="office">(Department visiting address)
 
-< Street>Street name / number</Street>
+< Street>Street name / number< /Street>
 
-< Area>City</Area>
+< Area>City< /Area>
 
 < AreaCode>Zip< /AreaCode>
 
@@ -167,5 +167,5 @@ Rekrutteringsprojekt:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.e
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNzIwMTE2XX0=
+eyJoaXN0b3J5IjpbLTg4MzUzNTEwMl19
 -->
