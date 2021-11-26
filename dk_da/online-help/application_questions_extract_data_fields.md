@@ -53,16 +53,16 @@ Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 **Land**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Region
+**Region**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Nationalitet
+**Nationalitet**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-E-mail
+**E-mail**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
 **Ansøgningsprofilspørgsmål**
@@ -81,5 +81,5 @@ Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NzAzNzAyLC0xNjU3NDg3NDM4XX0=
+eyJoaXN0b3J5IjpbLTU0MjU3MDQxMCwtMTY1NzQ4NzQzOF19
 -->
