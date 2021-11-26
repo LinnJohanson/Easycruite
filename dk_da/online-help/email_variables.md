@@ -1480,73 +1480,42 @@ Brevansøgning modtaget/afslået
 
 Brugertilpasset e-mail
 
-{processed-applicants]
-
-Mærke anvendt til at starte rapport om behandlede ansøgere. Mærke anvendt til at slutte rapport om behandlede ansøgere
-
+{processed-applicants] - Mærke anvendt til at starte rapport om behandlede ansøgere. Mærke anvendt til at slutte rapport om behandlede ansøgere
 Afventer yderligere handlingsrapport
 
-{project}
+**{project} - Projekt**
+- Anmod om godkendelse af rekrutteringsprojekt
+- Evaluering af kandidat
+- Udløbsadvarsel for rekrutteringsprojekt
 
-Projekt
+**{project-period-end} - Dato hvor projektet sluttede**
+Afventer yderligere handlingsrapport
 
-Anmod om godkendelse af rekrutteringsprojekt
+**{project-period-start} - Dato hvor projektet begyndte**
+Afventer yderligere handlingsrapport
 
+**{project-title} - Projekttitel**
+- Anmod om godkendelse af rekrutteringsprojekt
+- Udløbsadvarsel for rekrutteringsprojekt
+
+**{publication-channel} - Publiceringskanal**
 Evaluering af kandidat
 
-Udløbsadvarsel for rekrutteringsprojekt
-
-{project-period-end}
-
-Dato hvor projektet sluttede
-
+**{recruiter-name} - Rekruttørs navn**
 Afventer yderligere handlingsrapport
-
-{project-period-start}
-
-Dato hvor projektet begyndte
-
-Afventer yderligere handlingsrapport
-
-{project-title}
-
-Projekttitel
-
-Anmod om godkendelse af rekrutteringsprojekt
-
-Udløbsadvarsel for rekrutteringsprojekt
-
-{publication-channel}
-
-Publiceringskanal
-
-Evaluering af kandidat
-
-{recruiter-name}
-
-Rekruttørs navn
-
-Afventer yderligere handlingsrapport
-
 Sender e-mail tilbage til rekruttør om bekræftelse af evaluering
 
-{reference-number}
-
-Referencenummer
-
+**{reference-number} - Referencenummer**
 Afventer yderligere handlingsrapport
 
-{route}
-
-Vejbeskrivelse
-
+**{route} - Vejbeskrivelse**
 Invitation til indledende, første, andet og tredje møde
 
-{sender-name} - Ansøgers navn
-Ansøgning modtaget
-Registrering modtaget
-Kopi af ansøgning
-Tip en ven-e-mail/Rekrutteringsprojekt
+**{sender-name} - Ansøgers navn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Tip en ven-e-mail/Rekrutteringsprojekt
 
 **{site} - Navn på kanal, hvor jobbet publiceres**
 Udløbsadvarsel for rekrutteringsprojekt
@@ -1714,5 +1683,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODQ4MzMzMSwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbLTE2NzA2OTkzMzksLTgwMjY1ODIwNV19
 -->
