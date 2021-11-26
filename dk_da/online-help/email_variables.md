@@ -1097,114 +1097,60 @@ Jobagentbesked
 Ny bruger-e-mail
 
 Ansættelseskontrakt
-
 Flytbart CV
-
 Evaluering af kandidat
-
 Brevansøgning modtaget/afslået
-
 Invitation til SHL- og cut-e test
-
 Brugertilpasset e-mail
 
-{interviewdate}
-
-Dato for samtale
-
+**{interviewdate} - Dato for samtale**
 Invitation til indledende, første, andet og tredje møde
 
-{interviewer} {interviewers}
-
-Rekruttør som medvirker
-
+**{interviewer} {interviewers} - Rekruttør som medvirker**
 Invitation til indledende, første, andet og tredje møde
 
-{interviewtime}
-
-Tid for samtale
-
+**{interviewtime} - Tid for samtale**
 Invitation til indledende, første, andet og tredje møde
 
-{job}
+**{job} - Job**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Udløbsadvarsel for rekrutteringsprojekt
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
-Job
-
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ansættelseskontrakt
-
-Tip en ven-e-mail/Rekrutteringsprojekt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-Udløbsadvarsel for rekrutteringsprojekt
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-{job-position}
-
-Jobstilling
-
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ansættelseskontrakt
-
-Tip en ven-e-mail/Rekrutteringsprojekt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-Udløbsadvarsel for rekrutteringsprojekt
-
-Brugertilpasset e-mail
+**{job-position} - Jobstilling**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Udløbsadvarsel for rekrutteringsprojekt
+- Brugertilpasset e-mail
 
 **{last-name} - Efternavn**
 - Ansøgning modtaget
@@ -1546,5 +1492,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3MDc2MzczLC04MDI2NTgyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NjgyMzE4NDIsLTgwMjY1ODIwNV19
 -->
