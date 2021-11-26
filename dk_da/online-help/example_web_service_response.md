@@ -112,43 +112,43 @@
 
 </EducationHistory>
 
-<Certifications>
+< Certifications>
 
-<Certification id="5101959">
+< Certification id="5101959">
 
-<Name>Course</Name>
+< Name>Course</Name>
 
-<Description>Desc.</Description>
+< Description>Desc.</Description>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01</StartDate>
 
-<EndDate>01-04-2014</EndDate>
+< EndDate>01-04-2014</EndDate>
 
-<Duration type="hours">100</Duration>
+< Duration type="hours">100< /Duration>
 
-</Certification>
+< /Certification>
 
-</Certifications>
+< /Certifications>
 
-<References>
+< References>
 
-<Reference id="3686853">
+< Reference id="3686853">
 
-<CompanyName>Company</CompanyName>
+< CompanyName>Company< /CompanyName>
 
-<PersonName>Name</PersonName>
+< PersonName>Name< /PersonName>
 
-<ContactInfo>123456</ContactInfo>
+< ContactInfo>123456< /ContactInfo>
 
-</Reference>
+< /Reference>
 
-</References>
+< /References>
 
-<Competencies name="IT Knowledge">
+< Competencies name="IT Knowledge">
 
-<Competency id="12018913">
+< Competency id="12018913">
 
-<Name>Office</Name>
+< Name>Office< /Name>
 
 < Level id="3">2. Advanced student< /Level>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NDg5OTExLDM4Mjc5ODg3OV19
+eyJoaXN0b3J5IjpbMTg0MjIzMDI5NSwzODI3OTg4NzldfQ==
 -->
