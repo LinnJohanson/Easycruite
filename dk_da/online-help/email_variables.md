@@ -1640,158 +1640,81 @@ Invitation til at Send/opdatér CV, medarbejder
 
 Videresend ansøgning
 
-{title-grade}
+**{title-grade} - Grad af jobtitel**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Ansættelseskontrakt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
 
-Grad af jobtitel
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-{unsubscribe-click-here}
-
-Angiver tekst til Afmeld dig her
-
+**{unsubscribe-click-here} - Angiver tekst til Afmeld dig her**
 Jobagentbesked
 
-{unsubscribe-link}
-
-Angiver link til teksten til Afmeld dig her
-
+**{unsubscribe-link} - Angiver link til teksten til Afmeld dig her**
 Jobagentbesked
 
-{url}
+**{url} - URL til gendannelse af adgangskode**
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
 
-URL til gendannelse af adgangskode
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-{user-cellular-telephone}
-
-Bruges mobiltelefonnummer
-
+**{user-cellular-telephone} - Bruges mobiltelefonnummer**
 E-mail-kanalpublicering
 
-{user-family-name}
-
-Brugers efternavn
-
+**{user-family-name} - Brugers efternavn**
 E-mail-kanalpublicering
 
-{user-given-name}
-
-Brugers fornavn
-
+**{user-given-name} - Brugers fornavn**
 E-mail-kanalpublicering
 
-{username}
+**{username} - Kandidatens brugernavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Automatisk afslag
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ny bruger-e-mail
+- Login
+- Ansøgning gemt
 
-Kandidatens brugernavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Automatisk afslag
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ny bruger-e-mail
-
-Login
-
-Ansøgning gemt
-
-{user-office-telephone}
-
-Bruges arbejdstelefonnummer, mobil
-
+**{user-office-telephone} - Bruges arbejdstelefonnummer, mobil**
 E-mail-kanalpublicering
 
-{vacancy}
+**{vacancy} - Ansøgning modtaget**
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+- Udløbsadvarsel for rekrutteringsprojekt
 
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ansættelseskontrakt
-
-Tip en ven-e-mail/Rekrutteringsprojekt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-Udløbsadvarsel for rekrutteringsprojekt
-
-{vacancy-link}
-
-Link til rekrutteringsprojekt
-
+**{vacancy-link} - Link til rekrutteringsprojekt**
 Ikke anvendt (eksisterer ikke i kildekode)
 
 **{vacancy-ref-number} - Rekrutteringsprojektets referencenummer**
@@ -1803,13 +1726,13 @@ Ikke anvendt (eksisterer ikke i kildekode)
 - Invitation til at Send/opdatér CV, medarbejder
 - Videresend ansøgning
 - Invitation til MINT Matrigma og Service-F-test
-Anmod om godkendelse af rekrutteringsprojekt
-Ansættelseskontrakt
-Flytbart CV
-Evaluering af kandidat
-Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
-Brugertilpasset e-mail
+- Anmod om godkendelse af rekrutteringsprojekt
+- Ansættelseskontrakt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
 **{vacancy-title} - Stillingstitel**
 - Ansøgning modtaget
@@ -1840,5 +1763,5 @@ Brugertilpasset e-mail
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM0MDQyODldfQ==
+eyJoaXN0b3J5IjpbLTgwMjY1ODIwNV19
 -->
