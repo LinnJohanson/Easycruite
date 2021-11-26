@@ -1616,29 +1616,17 @@ Adgangsnavn til adgang til 16PF-test
 
 16PF-e-mails
 
-{title}
-
-Jobtitel
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
+**{title} - Jobtitel**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
 
 **{title-grade} - Grad af jobtitel**
 - Ansøgning modtaget
@@ -1763,5 +1751,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjY1ODIwNV19
+eyJoaXN0b3J5IjpbLTEyNzU0MjMwODgsLTgwMjY1ODIwNV19
 -->
