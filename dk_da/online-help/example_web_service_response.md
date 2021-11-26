@@ -150,7 +150,7 @@
 
 <Name>Office</Name>
 
-< Level id="3">2. Advanced student</Level>
+< Level id="3">2. Advanced student< /Level>
 
 < /Competency>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyNzk4ODc5XX0=
+eyJoaXN0b3J5IjpbMjE4NDg5OTExLDM4Mjc5ODg3OV19
 -->
