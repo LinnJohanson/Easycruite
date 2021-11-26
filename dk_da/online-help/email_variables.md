@@ -2,66 +2,35 @@
 
 [Standard svar-mails](standard_response_email_types.htm)  kan indeholde de følgende variabler (flettefelter):
 
-Variabel
-
-Beskrivelse
-
+**Variabel - Beskrivelse**
 Brugt i
-
-{address}
-
-Placering for interview
-
+***
+**{address} - Placering for interview**
 Invitation til indledende, første, andet og tredje møde
 
-{advertisement-active-from-date}
-
-Startdato for annonce
-
+**{advertisement-active-from-date} - Startdato for annonce**
 E-mail-kanalpublicering
 
-{advertisement-active-to-date}
-
-Slutdato for offentliggørelse af annonce
-
+**{advertisement-active-to-date} - Slutdato for offentliggørelse af annonce**
 E-mail-kanalpublicering
-
 Ansøgning gemt
 
-{advertisement-body}
-
-Annoncetekst
-
+**{advertisement-body} - Annoncetekst**
 E-mail-kanalpublicering
 
-{advertisement-heading}
-
-Annonceoverskrift
-
+**{advertisement-heading} - Annonceoverskrift**
 E-mail-kanalpublicering
 
-{advertisement-title}
-
-Annoncetitel
-
+**{advertisement-title} - Annoncetitel**
 E-mail-kanalpublicering
 
-{advertisement-work-place}
-
-Annoncejobs placering
-
+**{advertisement-work-place} - Annoncejobs placering**
 E-mail-kanalpublicering
 
-{appetizer-text}
-
-Tekst i annonceteaser
-
+**{appetizer-text} - Tekst i annonceteaser**
 E-mail-kanalpublicering
 
-{applicant-department}
-
-Den afdeling jobansøger er forbundet med
-
+{applicant-department} - Den afdeling jobansøger er forbundet med
 Afventer yderligere handlingsrapport
 
 **{applicant-id} - Jobansøgers id-nummer**
@@ -975,5 +944,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Nzk1NjQxMiwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbMTg5NjU5NTYwNCwtODAyNjU4MjA1XX0=
 -->
