@@ -1299,97 +1299,57 @@ Videresend ansøgning
 Invitation til MINT Matrigma og Service-F-test
 
 cut-e-rapport
-
 Jobagentbesked
-
 Ansættelseskontrakt
-
 Flytbart CV
-
 Brevansøgning modtaget/afslået
-
 SHL-bedømmelsesinvitation
-
 Brugertilpasset e-mail
 
-{middle-name}
-
-Kandidats mellemnavn angivet for den gemte ansøgning
-
+**{middle-name} - Kandidats mellemnavn angivet for den gemte ansøgning**
 Ansøgning gemt
 
-{name}
+**{name} - Kandidatens fornavn**
+- Ansøgning modtaget
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ny bruger-e-mail
+- Ansættelseskontrakt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+- E-mail-signaturer
+- Ansøgning gemt
 
-Kandidatens fornavn
-
-Ansøgning modtaget
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ny bruger-e-mail
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-E-mail-signaturer
-
-Ansøgning gemt
-
-{new-applicants}
-
-Mærke anvendt til at starte rapport om nye ansøgere. Mærke anvendt til at slutte rapport om nye ansøgere
-
+**{new-applicants} - Mærke anvendt til at starte rapport om nye ansøgere. Mærke anvendt til at slutte rapport om nye ansøgere**
 Afventer yderligere handlingsrapport
 
-{number-of-applicants}
-
-Antal ansøgere, der sendes til bedømmeren for evaluering
-
+**{number-of-applicants} - Antal ansøgere, der sendes til bedømmeren for evaluering**
 Evaluering af kandidat
 
-{password}
-
-Kandidats adgangskode
-
-Ansøgning modtaget
-Registrering modtaget
-Kopi af ansøgning
-Automatisk afslag
-Bekræftelse af brugernavn
-Oplysninger overført til CV-database
-Invitation til at Send/opdatér CV, medarbejder
-Videresend ansøgning
-Invitation til MINT Matrigma og Service-F-test
-cut-e-rapport
-Anmod om brugeradgangskode
-Login
+**{password} - Kandidats adgangskode**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Automatisk afslag
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Anmod om brugeradgangskode
+- Login
 
 **{position} - Titel på stilling, der er søgt på**
 - Ansøgning modtaget
@@ -1633,5 +1593,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzAwODcyOCwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbLTU4MjAxNjgyOSwtODAyNjU4MjA1XX0=
 -->
