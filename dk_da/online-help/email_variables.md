@@ -900,109 +900,60 @@ Indtaster brugernes e-mailadresse i e-mailen
 
 Ny bruger-e-mail
 
-{employer-about}
-
-Om virksomheden
-
+**{employer-about} - Om virksomheden**
 E-mail-kanalpublicering
 
-{employer-name}
-
-Arbejdsgivers navn
-
+**{employer-name} - Arbejdsgivers navn**
 E-mail-kanalpublicering
 
-{family-name}
+**{family-name} - Efternavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ny bruger-e-mail
+- Ansættelseskontrakt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
-Efternavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Jobagentbesked
-
-Ny bruger-e-mail
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-{family-name}
-
-Kandidats efternavn angivet for den gemte ansøgning
-
+**{family-name} - Kandidats efternavn angivet for den gemte ansøgning**
 Ansøgning gemt
 
-{first-name}
-
-Fornavn
-
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Registrering modtaget
-
-Afslag efter behandlet ansøgning
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Automatisk afslag
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ny bruger-e-mail
-
-Jobagentbesked
-ættelseskontrakt
-Flytbart CV
-Evaluering af kandidat
-Brevansøgning modtaget/afslået
-SHL-bedømmelsesinvitation
-Brugertilpasset e-mail
+**{first-name} - Fornavn**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Registrering modtaget
+- Afslag efter behandlet ansøgning
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Automatisk afslag
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ny bruger-e-mail
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- SHL-bedømmelsesinvitation
+- Brugertilpasset e-mail
 
 **{first-name} - Kandidats fornavn angivet for den gemte ansøgning**
 Ansøgning gemt
@@ -1442,5 +1393,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA3NzM3OTksLTgwMjY1ODIwNV19
+eyJoaXN0b3J5IjpbMTY0NTI4Mzk4MCwtODAyNjU4MjA1XX0=
 -->
