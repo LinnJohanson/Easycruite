@@ -1379,108 +1379,58 @@ Evaluering af kandidat
 Kandidats adgangskode
 
 Ansøgning modtaget
-
 Registrering modtaget
-
 Kopi af ansøgning
-
 Automatisk afslag
-
 Bekræftelse af brugernavn
-
 Oplysninger overført til CV-database
-
 Invitation til at Send/opdatér CV, medarbejder
-
 Videresend ansøgning
-
 Invitation til MINT Matrigma og Service-F-test
-
 cut-e-rapport
-
 Anmod om brugeradgangskode
-
 Login
 
-{position}
+**{position} - Titel på stilling, der er søgt på**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- Jobagentbesked
+- cut-e-rapport
+- Ansættelseskontrakt
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Udløbsadvarsel for rekrutteringsprojekt
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+- Ansøgning gemt
 
-Titel på stilling, der er søgt på
+**{prefix} - Præfiks (hr, fru, frk. osv).**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ansættelseskontrakt
+- Brevansøgning modtaget/afslået
+- Brugertilpasset e-mail
 
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-Jobagentbesked
-
-cut-e-rapport
-
-Ansættelseskontrakt
-
-Tip en ven-e-mail/Rekrutteringsprojekt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-Udløbsadvarsel for rekrutteringsprojekt
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-Ansøgning gemt
-
-{prefix}
-
-Præfiks (hr, fru, frk. osv).
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ansættelseskontrakt
-
-Brevansøgning modtaget/afslået
-
-Brugertilpasset e-mail
-
-{processed-applicants] - Mærke anvendt til at starte rapport om behandlede ansøgere. Mærke anvendt til at slutte rapport om behandlede ansøgere
+**{processed-applicants] - Mærke anvendt til at starte rapport om behandlede ansøgere. Mærke anvendt til at slutte rapport om behandlede ansøgere**
 Afventer yderligere handlingsrapport
 
 **{project} - Projekt**
@@ -1683,5 +1633,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA2OTkzMzksLTgwMjY1ODIwNV19
+eyJoaXN0b3J5IjpbLTgwMzAwODcyOCwtODAyNjU4MjA1XX0=
 -->
