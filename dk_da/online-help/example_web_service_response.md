@@ -96,33 +96,33 @@
 
 <Degree id="91">Architect</Degree>
 
-<StartDate>01-03-2010</StartDate>
+< StartDate>01-03-2010< /StartDate>
 
-<EndDate>01-04-2014</EndDate>
+< EndDate>01-04-2014< /EndDate>
 
-<AverageGrade>Grade</AverageGrade>
+< AverageGrade>Grade< /AverageGrade>
 
-<ResultPoints>544</ResultPoints>
+< ResultPoints>544< /ResultPoints>
 
-<Country iso="SE" id="14">Sweden</Country>
+< Country iso="SE" id="14">Sweden< /Country>
 
-<Comments>Specialisation</Comments>
+< Comments>Specialisation< /Comments>
 
-</Education>
+< /Education>
 
-</EducationHistory>
+< /EducationHistory>
 
 < Certifications>
 
 < Certification id="5101959">
 
-< Name>Course</Name>
+< Name>Course< /Name>
 
-< Description>Desc.</Description>
+< Description>Desc.< /Description>
 
-< StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-< EndDate>01-04-2014</EndDate>
+< EndDate>01-04-2014< /EndDate>
 
 < Duration type="hours">100< /Duration>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MjIzMDI5NSwzODI3OTg4NzldfQ==
+eyJoaXN0b3J5IjpbLTIwMzAzODM4MzEsMzgyNzk4ODc5XX0=
 -->
