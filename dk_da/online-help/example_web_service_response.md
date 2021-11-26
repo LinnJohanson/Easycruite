@@ -150,51 +150,51 @@
 
 <Name>Office</Name>
 
-<Level id="3">2. Advanced student</Level>
+< Level id="3">2. Advanced student</Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Language">
+< Competencies name="Language">
 
-<Competency id="21575765">
+< Competency id="21575765">
 
-<Name iso="SE" id="204">Swedish</Name>
+< Name iso="SE" id="204">Swedish< /Name>
 
-<Level type="speaking" id="3">Native speaker</Level>
+< Level type="speaking" id="3">Native speaker< /Level>
 
-<Level type="reading" id="3">Native speaker</Level>
+< Level type="reading" id="3">Native speaker< /Level>
 
-<Level type="writing" id="3">Native speaker</Level>
+< Level type="writing" id="3">Native speaker< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Driverlicense">
+< Competencies name="Driverlicense">
 
-<Competency id="6315595"><Name id="1">Car/Van</Name>
+< Competency id="6315595">< Name id="1">Car/Van< /Name>
 
-<Level type="date">1995</Level>
+< Level type="date">1995< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Personlighed>
+< Personlighed>
 
-<Trait id="22"/><Trait id="31"/><Trait id="1"/><Trait id="4"/>
+< Trait id="22"/>< Trait id="31"/>< Trait id="1"/>< Trait id="4"/>
 
-</Personality>
+< /Personality>
 
-<InternalDocuments/>
+< InternalDocuments/>
 
-<Applications>
+< Applications>
 
-<Application id="1029513">
+< Application id="1029513">
 
-<ProjectTitle>Lumesse test 2</ProjectTitle>
+< ProjectTitle>Lumesse test 2< /ProjectTitle>
 
 < VacancyTitle>Lumesse test 2< /VacancyTitle>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0NDA1MTQ1XX0=
+eyJoaXN0b3J5IjpbMzgyNzk4ODc5XX0=
 -->
