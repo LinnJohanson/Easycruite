@@ -199,120 +199,63 @@ Automatisk afslag
 Invitation til indledende, første, andet og tredje møde
 
 Afslag efter indledende, første, andet og tredje møde
-
 Bekræftelse af brugernavn
-
 Oplysninger overført til CV-database
-
 Invitation til at Send/opdatér CV, medarbejder
-
 Videresend ansøgning
-
 Invitation til MINT Matrigma og Service-F-test
-
 cut-e-rapport
-
 Jobagentbesked
-
 Ansættelseskontrakt
-
 Flytbart CV
-
 Brevansøgning modtaget/afslået
-
 Invitation til SHL- og cut-e test
-
 Brugertilpasset e-mail
 
-{candidate-password}
+**{candidate-password} - Kandidats adgangskode**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Automatisk afslag
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
 
-Kandidats adgangskode
+**{candidate-salutation} - Kandidathilsen**
+- Ansøgning modtaget
+- Kopi af ansøgning
+- Registrering modtaget
+- Afslag efter behandlet ansøgning
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Automatisk afslag
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- Brevansøgning modtaget/afslået
+- SHL-bedømmelsesinvitation
+- Brugertilpasset e-mail
 
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Automatisk afslag
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-{candidate-salutation}
-
-Kandidathilsen
-
-Ansøgning modtaget
-
-Kopi af ansøgning
-
-Registrering modtaget
-
-Afslag efter behandlet ansøgning
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Automatisk afslag
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Jobagentbesked
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Brevansøgning modtaget/afslået
-
-SHL-bedømmelsesinvitation
-
-Brugertilpasset e-mail
-
-{candidate-username}
-
-Kandidats brugernavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Automatisk afslag
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Ny bruger-e-mail
+**{candidate-username} - Kandidats brugernavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Automatisk afslag
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Ny bruger-e-mail
 
 **{client} - Kunde (kun til rekrutteringsbureau)**
 - Ansøgning modtaget
@@ -332,13 +275,13 @@ Ny bruger-e-mail
 - Anmod om godkendelse af rekrutteringsprojekt
 - Ny bruger-e-mail
 - Ansættelseskontrakt
-Tip en ven-e-mail/Rekrutteringsprojekt
-Flytbart CV
-Evaluering af kandidat
-Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
-Brugertilpasset e-mail
-E-mail-signaturer
+- Tip en ven-e-mail/Rekrutteringsprojekt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
+- E-mail-signaturer
 
 **{client-name} - Kundenavn (kun til rekrutteringsbureau)**
 - Ansøgning modtaget
@@ -1100,5 +1043,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU0OTc3NjA2LC04MDI2NTgyMDVdfQ==
+eyJoaXN0b3J5IjpbMzc0MjY5MTMxLC04MDI2NTgyMDVdfQ==
 -->
