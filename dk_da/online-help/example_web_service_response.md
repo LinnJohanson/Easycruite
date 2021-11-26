@@ -62,39 +62,39 @@
 
 <Employment current="1" id="29980191">
 
-<EmployerName>Test AB</EmployerName>
+< EmployerName>Test AB</EmployerName>
 
-<PositionTitle>Test</PositionTitle>
+< PositionTitle>Test</PositionTitle>
 
-<PositionDescription>Description</PositionDescription>
+< PositionDescription>Description</PositionDescription>
 
-<Sector id="35"/>
+< Sector id="35"/>
 
-<JobCategory id="35">Call Centre</JobCategory>
+< JobCategory id="35">Call Centre< /JobCategory>
 
-<SubCategory id="357">Team Leader</SubCategory>
+< SubCategory id="357">Team Leader< /SubCategory>
 
-<WorkRole id="6">Kundansvarig</WorkRole>
+< WorkRole id="6">Kundansvarig< /WorkRole>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2013-03-01</EndDate>
+< EndDate>2013-03-01< /EndDate>
 
-</Employment>
+< /Employment>
 
-</EmploymentHistory>
+< /EmploymentHistory>
 
-<EducationHistory>
+< EducationHistory>
 
-<Education current="1" id="20060247">
+< Education current="1" id="20060247">
 
-<InstituteType id="3">College</InstituteType>
+< InstituteType id="3">College< /InstituteType>
 
-<InstituteName>School</InstituteName>
+< InstituteName>School< /InstituteName>
 
-<AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
+< AreaOfEducation id="98">Aerospace Engineering< /AreaOfEducation>
 
-<Degree id="91">Architect</Degree>
+< Degree id="91">Architect< /Degree>
 
 < StartDate>01-03-2010< /StartDate>
 
@@ -235,5 +235,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAzODM4MzEsMzgyNzk4ODc5XX0=
+eyJoaXN0b3J5IjpbLTE0NTk3MDgzOTcsLTIwMzAzODM4MzEsMz
+gyNzk4ODc5XX0=
 -->
