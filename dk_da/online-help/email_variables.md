@@ -997,111 +997,61 @@ cut-e-rapport
 Ny bruger-e-mail
 
 Jobagentbesked
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-Evaluering af kandidat
-
-Brevansøgning modtaget/afslået
-
-SHL-bedømmelsesinvitation
-
-Brugertilpasset e-mail
-
-{first-name}
-
-Kandidats fornavn angivet for den gemte ansøgning
-
-Ansøgning gemt
-
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""}
-
-Hilsen
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter ansøgning
-
-Gennemgå Automatisk afslag
-
-Tidsbestemt afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Videresend ansøgning
-
-E-mail-signaturer
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Jobagentbesked
-
-Ansættelseskontrakt
-
-Flytbart CV
-
-SHL-bedømmelsesinvitation
-
-Brugertilpasset e-mail
-
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""}
-
-Hilsen til den gemte ansøgning
-
-Ansøgning gemt
-
-{given-name}
-
-Fornavn
-
-Ansøgning modtaget
-
-Registrering modtaget
-
-Kopi af ansøgning
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Invitation til MINT Matrigma og Service-F-test
-
-cut-e-rapport
-
-Jobagentbesked
-
-Ny bruger-e-mail
-
-Ansættelseskontrakt
+ættelseskontrakt
 Flytbart CV
 Evaluering af kandidat
 Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
+SHL-bedømmelsesinvitation
 Brugertilpasset e-mail
+
+**{first-name} - Kandidats fornavn angivet for den gemte ansøgning**
+Ansøgning gemt
+
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Hilsen**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter ansøgning
+- Gennemgå Automatisk afslag
+- Tidsbestemt afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Videresend ansøgning
+- E-mail-signaturer
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ansættelseskontrakt
+- Flytbart CV
+- SHL-bedømmelsesinvitation
+- Brugertilpasset e-mail
+
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Hilsen til den gemte ansøgning**
+Ansøgning gemt
+
+**{given-name} - Fornavn**
+- Ansøgning modtaget
+- Registrering modtaget
+- Kopi af ansøgning
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- cut-e-rapport
+- Jobagentbesked
+- Ny bruger-e-mail
+- Ansættelseskontrakt
+- Flytbart CV
+- Evaluering af kandidat
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
 **{interviewdate} - Dato for samtale**
 Invitation til indledende, første, andet og tredje møde
@@ -1492,5 +1442,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgyMzE4NDIsLTgwMjY1ODIwNV19
+eyJoaXN0b3J5IjpbLTIxNDA3NzM3OTksLTgwMjY1ODIwNV19
 -->
