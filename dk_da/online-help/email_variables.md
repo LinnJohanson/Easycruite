@@ -1542,77 +1542,41 @@ Vejbeskrivelse
 
 Invitation til indledende, første, andet og tredje møde
 
-{sender-name}
-
-Ansøgers navn
-
+{sender-name} - Ansøgers navn
 Ansøgning modtaget
-
 Registrering modtaget
-
 Kopi af ansøgning
-
 Tip en ven-e-mail/Rekrutteringsprojekt
 
-{site}
-
-Navn på kanal, hvor jobbet publiceres
-
+**{site} - Navn på kanal, hvor jobbet publiceres**
 Udløbsadvarsel for rekrutteringsprojekt
 
-{surname}
+**{surname} - Efternavn**
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- cut-e-rapport
+- Ny bruger-e-mail
+- Jobagentbesked
+- Evaluering af kandidat
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
-Efternavn
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-cut-e-rapport
-
-Ny bruger-e-mail
-
-Jobagentbesked
-
-Evaluering af kandidat
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-{test-code}
-
-Referencekode til test
-
+**{test-code} - Referencekode til test**
 Invitation til MINT Matrigma og Service-F-tests
 
-{test-link}
-
-Link til online test
-
+**{test-link} - Link til online test**
 Invitation til MINT Matrigma og Service-F-tests
 
-{test-password}
-
-Adgangskode til adgang til 16PF-test
-
+**{test-password} - Adgangskode til adgang til 16PF-test**
 16PF-e-mails
 
-{test-username}
-
-Adgangsnavn til adgang til 16PF-test
+**{test-username} - Adgangsnavn til adgang til 16PF-test**
 16PF-e-mails
 
 **{title} - Jobtitel**
@@ -1750,5 +1714,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTIwMTg1NCwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbLTU5ODQ4MzMzMSwtODAyNjU4MjA1XX0=
 -->
