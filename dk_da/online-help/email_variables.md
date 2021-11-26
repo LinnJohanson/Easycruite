@@ -521,74 +521,49 @@ Ansættelseskontrakt
 Tip en ven-e-mail/Rekrutteringsprojekt
 
 Flytbart CV
-
 Evaluering af kandidat
-
 Brevansøgning modtaget/afslået
-
 Invitation til SHL- og cut-e test
-
 Brugertilpasset e-mail
-
 E-mail-signaturer
 
-{confirmlink}
-
-Link til bekræftelse af datoen
-
+**{confirmlink} - Link til bekræftelse af datoen**
 Invitation til indledende, første, andet og tredje møde
 
-{contact-name}
+**{contact-name} - Ansøgning modtaget**
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Ny bruger-e-mail
+- Invitation til MINT Matrigma og Service-F-test
+- Ansættelseskontrakt
+- Brevansøgning modtaget/afslået
+- Flytbart CV
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
-Ansøgning modtaget
-
-Afslag efter behandlet ansøgning
-
-Automatisk afslag
-
-Invitation til indledende, første, andet og tredje møde
-
-Afslag efter indledende, første, andet og tredje møde
-
-Bekræftelse af brugernavn
-
-Oplysninger overført til CV-database
-
-Invitation til at Send/opdatér CV, medarbejder
-
-Videresend ansøgning
-
-Ny bruger-e-mail
-
-Invitation til MINT Matrigma og Service-F-test
-
-Ansættelseskontrakt
-
-Brevansøgning modtaget/afslået
-
-Flytbart CV
-
-Invitation til SHL- og cut-e test
-
-Brugertilpasset e-mail
-
-{contact-person} - Kontaktperson (til dette projekt)
-Ansøgning modtaget
-Afslag efter behandlet ansøgning
-Automatisk afslag
-Invitation til indledende, første, andet og tredje møde
-Afslag efter indledende, første, andet og tredje møde
-Bekræftelse af brugernavn
-Oplysninger overført til CV-database
-Invitation til at Send/opdatér CV, medarbejder
-Videresend ansøgning
-Invitation til MINT Matrigma og Service-F-test
-Ny bruger-e-mail
-Jobagentbesked
-Ansættelseskontrakt
-Brevansøgning modtaget/afslået
-Invitation til SHL- og cut-e test
-Brugertilpasset e-mail
+**{contact-person} - Kontaktperson (til dette projekt)**
+- Ansøgning modtaget
+- Afslag efter behandlet ansøgning
+- Automatisk afslag
+- Invitation til indledende, første, andet og tredje møde
+- Afslag efter indledende, første, andet og tredje møde
+- Bekræftelse af brugernavn
+- Oplysninger overført til CV-database
+- Invitation til at Send/opdatér CV, medarbejder
+- Videresend ansøgning
+- Invitation til MINT Matrigma og Service-F-test
+- Ny bruger-e-mail
+- Jobagentbesked
+- Ansættelseskontrakt
+- Brevansøgning modtaget/afslået
+- Invitation til SHL- og cut-e test
+- Brugertilpasset e-mail
 
 **{contact-person-cellular-telephone} - Kontaktpersons mobiltelefonnummer**
 E-mail-kanalpublicering
@@ -1229,5 +1204,5 @@ Ikke anvendt (eksisterer ikke i kildekode)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzgzMDYxMSwtODAyNjU4MjA1XX0=
+eyJoaXN0b3J5IjpbLTIwNTMxNTIxODQsLTgwMjY1ODIwNV19
 -->
