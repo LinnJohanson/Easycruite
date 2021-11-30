@@ -2,7 +2,7 @@
 
 Når en ansøger eller et kandidatemne kontakter rekruttøren via brev eller e-mail, skal vedkommende indtastes manuelt i systemet.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af kandidattype
+#### Tilføjelse af kandidattype
 
 Ansøgere, der indsendes manuelt, som eksempelvis ansøgere, der har sendt deres ansøgninger via e-mail fra andre systemer end EasyCruit, skal tilføjes systemet af rekruttøren. Funktionen  Tilføj kandidat  gør rekruttørerne i stand til manuelt at tilføje en kandidat til et rekrutteringsprojekt i EasyCruit. Funktionen kan også anvendes til at tilføje andre typer kandidater som eksempelvis kandidatemner og medarbejdere. For yderligere oplysninger om kandidattyper henvises til  [kandidattyper](candidate_types.htm).
 
@@ -18,7 +18,7 @@ Ansøgere, der indsendes manuelt, som eksempelvis ansøgere, der har sendt deres
     Klik på  Gem  og derefter på  Navigér til rekrutteringsprojekt  for at komme til siden  Ansøgning og CV  for det rekrutteringsprojekt, som kandidaten blev tilføjet.  
     Hvis kandidaten har fået et brugernavn og en adgangskode til kandidatens hjemmeside, bør rekruttøren ikke redigere kandidatens oplysninger igen, med mindre der laves en udtrykkelig anmodning.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Tilføjelse af en medarbejdertype
+#### Tilføjelse af en medarbejdertype
 
 1.  På siden  Start  vælges  Tilføj kandidat.
 2.  Vælg  Medarbejder  i listen  Vælg kategori.
@@ -59,5 +59,5 @@ Ansøgere, der indsendes manuelt, som eksempelvis ansøgere, der har sendt deres
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAxODMwMzNdfQ==
+eyJoaXN0b3J5IjpbMTc2Nzk0MjYzOV19
 -->
