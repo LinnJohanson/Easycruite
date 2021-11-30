@@ -21,9 +21,7 @@ Manglende overensstemmelse mellem meddelelserne til kandidaterne
 - Mere granularitet på virksomhedsfeedback om kandidaterne
 
   
-
-Indsamling af feedback fra kollegaer om kandidater på en struktureret måde
-
+I***
 Mindre effektivitet og dårlig gennemsigtighed i feedback
 
 Færre informerede ansættelsesvalg, øget risiko
@@ -81,5 +79,5 @@ Automatisk besked om potentielle dubletter
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzc2MjgxOV19
+eyJoaXN0b3J5IjpbLTIwNDk1MzAwNTFdfQ==
 -->
