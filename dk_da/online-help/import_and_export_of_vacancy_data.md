@@ -91,41 +91,41 @@ XML-skema til VacancyList-svar:  [https://www.easycruit.com/wsdl/ws/Va...stRespo
 
 <VacancyList ContentLanguage="?">
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Vacancy id="?">
+< Vacancy id="?">
 
-<!--You may enter the following 4 items in any order-->
+< !--You may enter the following 4 items in any order-->
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<RefId>?</RefId>
+< RefId>?< /RefId>
 
-<Departments>
+< Departments>
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<Department id="?">?</Department>
+< Department id="?">?< /Department>
 
-</Departments>
+< /Departments>
 
-<Languages>
+< Languages>
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<Language iso="?">?</Language>
+< Language iso="?">?< /Language>
 
-</Languages>
+< /Languages>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyListResponse>
+< /urn:VacancyListResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# example
 
@@ -208,89 +208,89 @@ XML-skema til VacancyExport-svar:  [https://www.easycruit.com/wsdl/ws/Va...rtRes
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExport>
+< urn:VacancyExport>
 
-<urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
+< urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
 
-</urn:VacancyExport>
+< /urn:VacancyExport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 ## VacancyExport SOAP-svareksempler
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExportResponse>
+< urn:VacancyExportResponse>
 
-<VacancyList>
+< VacancyList>
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Vacancy id="?" language="?">
+< Vacancy id="?" language="?">
 
-<!--You may enter the following 13 items in any order-->
+< !--You may enter the following 13 items in any order-->
 
-<ProjectTitle>?</ProjectTitle>
+< ProjectTitle>?< /ProjectTitle>
 
-<refId>?</refId>
+< refId>?< /refId>
 
-<TitleHeading>?</TitleHeading>
+< TitleHeading>?< /TitleHeading>
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<CompanyName>?</CompanyName>
+< CompanyName>?< /CompanyName>
 
-<Body>?</Body>
+< Body>?< /Body>
 
-<Deadline>?</Deadline>
+< Deadline>?< /Deadline>
 
-<Engagement>?</Engagement>
+< Engagement>?< /Engagement>
 
-<Location>?</Location>
+< Location>?< /Location>
 
-<DailyHours>?</DailyHours>
+< DailyHours>?< /DailyHours>
 
-<Contacts>
+< Contacts>
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Contact>
+< Contact>
 
-<!--You may enter the following 5 items in any order-->
+< !--You may enter the following 5 items in any order-->
 
-<Name>?</Name>
+< Name>?< /Name>
 
-<EmailAddress>?</EmailAddress>
+< EmailAddress>?< /EmailAddress>
 
 < TelephoneOffice>?< /TelephoneOffice>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY3NDk0MzAxXX0=
+eyJoaXN0b3J5IjpbMTc3Mzg2Mjg3M119
 -->
