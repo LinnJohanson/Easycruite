@@ -41,19 +41,19 @@ Navnet på den person, der godkendte rekrutteringsprojektet, hvis der anvendes g
 **Godkendelsesdato**
 Dato, hvor rekrutteringsprojektet blev godkendt, hvis godkendelser anvendes
 
-Afdelingsnavn
+**Afdelingsnavn**
 Navnet på den afdeling, rekrutteringsprojektet er oprettet i forhold til. Hvis det er sammenkædet med mere end en afdeling, anføres alle afdelinger med separationstegn
 
-Afdelings-ID
+**Afdelings-ID**
 Systemgenereret afdelings-ID tilhørende den afdeling, rekrutteringsprojektet er oprettet i forhold til. Hvis det er sammenkædet med mere end en afdeling, anføres alle afdelinger med separationstegn
 
-Kontaktpersoner
+**Kontaktpersoner**
 Navne på de kontaktpersoner, der blev tilføjet i rekrutteringsprojektet
 
-Land
+**Land**
 Land valgt til rekrutteringsprojektet
 
-Region
+**Region**
 Regioner valgt til rekrutteringsprojektet
 
 **Projektprofilspørgsmål**
@@ -72,5 +72,5 @@ Regioner valgt til rekrutteringsprojektet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODMzMjk4XX0=
+eyJoaXN0b3J5IjpbMTYwNzcwMDk3NF19
 -->
