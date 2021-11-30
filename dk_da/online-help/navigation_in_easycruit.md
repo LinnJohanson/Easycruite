@@ -4,35 +4,29 @@ EasyCruit indeholder funktioner, der gør en organisation i stand til at forbedr
 
 Uanset brugerens adgangsniveau er EasyCruits arbejdsområde bygget op på den samme konsistente måde.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Værktøjslinje
+#### Værktøjslinje
 
 Værktøjslinjen indeholder hurtiglinks til nøglekomponenter, som en bruger har brug for i det daglige. De muligheder, der er tilgængelige i værktøjslinjen, afhænger af, hvilken type bruger, der er logget ind.
 
-Startside
-
+**Startside**
 Fører dig til startsiden med rekrutteringsaktiviteterne.
 
-Ny rekruttering
-
+**Ny rekruttering**
 Fører dig til den side, hvor man opretter et  Nyt rekrutteringsprojekt.
 
-Rekrutteringsoversigt
-
+**Rekrutteringsoversigt**
 Fører dig til  Rekrutteringsoversigten.
 
-Indstillinger
-
+**Indstillinger**
 Fører dig til siden Indstillinger, hvor du kan foretage ændringer i systemindstillingerne.
 
-Log ud
-
+**Log ud**
 Log ud.
 
-Hjælp/Support
-
+**Hjælp/Support**
 Spørgsmålstegnet fører dig til hjælpesiderne.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Indholdspanelet
+#### Indholdspanelet
 
 ***
 Ikon - Beskrivelse
@@ -139,5 +133,5 @@ Vi henviser til  [Adgangskontrol](access_control_options.htm)  for yderligere op
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjM0NzA3LC0yODQ0OTY5MzVdfQ==
+eyJoaXN0b3J5IjpbLTM2NzY0OTU1NywtMjg0NDk2OTM1XX0=
 -->
