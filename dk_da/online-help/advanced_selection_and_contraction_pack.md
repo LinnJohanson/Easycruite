@@ -21,52 +21,39 @@ Manglende overensstemmelse mellem meddelelserne til kandidaterne
 - Mere granularitet på virksomhedsfeedback om kandidaterne
 
   
-I***
+**Indsamling af feedback fra kollegaer om kandidater på en struktureret måde**
 Mindre effektivitet og dårlig gennemsigtighed i feedback
-
 Færre informerede ansættelsesvalg, øget risiko
 
 3. Panelevaluering
+- Nemt at anmode, vise og sammenligne feedback om kandidater
+- Mindsker risikoen for at ansætte en kandidat, der ikke passer
 
-Nemt at anmode, vise og sammenligne feedback om kandidater
-
-Mindsker risikoen for at ansætte en kandidat, der ikke passer
-
-Hold styr på ad hoc-kandidatkommunikation
-
+**Hold styr på ad hoc-kandidatkommunikation**
 Mindre dialoghistorik med kandidaterne
 
 4. 2-vejs-e-mail
+- Integration med dit almindelige værktøj
 
-Integration med dit almindelige værktøj
-
-Uoverensstemmelse i kontrakter
-
+**Uoverensstemmelse i kontrakter**
 Tid til at producere kontrakter
 
 5. Kontraktskabelon
+- Mailfletning for at danne brandede kontrakter til nye ansættelser
 
-Mailfletning for at danne brandede kontrakter til nye ansættelser
-
-Identificering af interne talenter, der er egnede til rekrutteringsprojektet
-
+**Identificering af interne talenter, der er egnede til rekrutteringsprojektet**
 Højere rekrutteringsomkostninger
-
 Langsomme at foretage ansættelse
-
 Længere tid til præstation
 
 6. Medarbejderklassificering
+- Nemt at søge efter interne talenter med udgangspunkt i dine kriterier
 
-Nemt at søge efter interne talenter med udgangspunkt i dine kriterier
-
-Dobbelthåndtering af dobbelte ansøgninger
-
+**Dobbelthåndtering af dobbelte ansøgninger**
 Tid tilbragt med at gennemgå kandidaterne mere end en gang
 
 7. Kontrol af dubletkandidater
-
-Automatisk besked om potentielle dubletter
+- Automatisk besked om potentielle dubletter
 
 ##### Se også:
 
@@ -79,5 +66,5 @@ Automatisk besked om potentielle dubletter
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk1MzAwNTFdfQ==
+eyJoaXN0b3J5IjpbNzE3ODE5MjQxXX0=
 -->
