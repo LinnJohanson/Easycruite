@@ -45,51 +45,51 @@ XML-skema til VacancyList-svar:  [https://www.easycruit.com/wsdl/ws/Va...stRespo
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+<Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyList>
+< urn:VacancyList>
 
-<urn:Vacancy language="?" department="?"/>
+< urn:Vacancy language="?" department="?"/>
 
-</urn:VacancyList>
+< /urn:VacancyList>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### VacancyList SOAP-svareksempel
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyListResponse>
+< urn:VacancyListResponse>
 
-<VacancyList ContentLanguage="?">
+< VacancyList ContentLanguage="?">
 
 < !--Zero or more repetitions:-->
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzg2Mjg3M119
+eyJoaXN0b3J5IjpbMTA4NzQzMzk1NV19
 -->
