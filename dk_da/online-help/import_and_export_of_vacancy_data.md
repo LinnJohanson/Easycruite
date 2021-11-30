@@ -292,45 +292,45 @@ XML-skema til VacancyExport-svar:  [https://www.easycruit.com/wsdl/ws/Va...rtRes
 
 <EmailAddress>?</EmailAddress>
 
-<TelephoneOffice>?</TelephoneOffice>
+< TelephoneOffice>?< /TelephoneOffice>
 
-<TelephoneMobile>?</TelephoneMobile>
+< TelephoneMobile>?< /TelephoneMobile>
 
-<Department id="?">?</Department>
+< Department id="?">?< /Department>
 
-</Contact>
+< /Contact>
 
-</Contacts>
+< /Contacts>
 
-<Questions>?</Questions>
+< Questions>?< /Questions>
 
-<CompanyInformation>
+< CompanyInformation>
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Company>
+< Company>
 
-<!--You may enter the following 3 items in any order-->
+< !--You may enter the following 3 items in any order-->
 
-<Department>?</Department>
+< Department>?< /Department>
 
-<About>?</About>
+< About>?< /About>
 
-<Homepage>?</Homepage>
+< Homepage>?< /Homepage>
 
-</Company>
+< /Company>
 
-</CompanyInformation>
+< /CompanyInformation>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyExportResponse>
+< /urn:VacancyExportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# example:
 
@@ -420,63 +420,63 @@ XML-skema til VacancyExport-svar:  [https://www.easycruit.com/wsdl/ws/Va...rtRes
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImport>
+< urn:VacancyImport>
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<urn:Vacancy RefId="?">
+< urn:Vacancy RefId="?">
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<urn:Version Language="?">
+< urn:Version Language="?">
 
-<!--You may enter the following 8 items in any order-->
+< !--You may enter the following 8 items in any order-->
 
-<urn:Title>?</urn:Title>
+< urn:Title>?< /urn:Title>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:TitleHeading>?</urn:TitleHeading>
+< urn:TitleHeading>?< /urn:TitleHeading>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Body>?</urn:Body>
+< urn:Body>?< /urn:Body>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Deadline>?</urn:Deadline>
+< urn:Deadline>?< /urn:Deadline>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Engagement>?</urn:Engagement>
+< urn:Engagement>?< /urn:Engagement>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Location>?</urn:Location>
+< urn:Location>?< /urn:Location>
 
 < !--Optional:-->
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjI0Njc1N119
+eyJoaXN0b3J5IjpbOTY3NDk0MzAxXX0=
 -->
