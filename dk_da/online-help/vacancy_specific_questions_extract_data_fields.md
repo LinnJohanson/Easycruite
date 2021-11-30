@@ -2,82 +2,67 @@
 
 Spørgsmålseksport til ledige stillinger inkluderer kandidatsvar til specifikke spørgsmål omkring en valgt ledig stilling. Følgende tabel beskriver de felter, der anvendes i spørgsmålseksport specifikt til ledige stillinger.
 
-Feltnavn
-
+**Feltnavn**
 Beskrivelse
-
-Kandidat-ID
-
+***
+**Kandidat-ID**
 Kandidatens unikke ID, systemgenereret
 
-Projekt-ID
-
+**Projekt-ID**
 Rekrutteringsprojektets unikke ID, systemgenereret
 
-Projektreferencenummer
-
+**Projektreferencenummer**
 Rekrutteringsprojektets referencenummer, hvis det anvendes
 
-Stillingstitel
-
+**Stillingstitel**
 Intern stillingstitel, der til enhver tid kan ændres. Det er ikke den titel, der er angivet i jobannoncen
 
-Afdelingsnavn
-
+**Afdelingsnavn**
 Navnet på den afdeling, der henvises til i afdelings-ID’et
 
-Afdelings-ID
-
+**Afdelings-ID**
 Systemgenereret afdelings-ID, som kandidaten har søgt på. Dette kan anvendes til opslag på andre eksporter
 
-Ansøgningsdato
-
+**Ansøgningsdato**
 Den dato, hvor ansøgningen blev skrevet
 
-Ansøgningsopdatering
-
+**Ansøgningsopdatering**
 Sidste dato, hvor ansøgningen blev opdateret enten af kandidaten eller en EasyCruit-bruger, eksempelvis ved behandling af en ansøgning (ændring af status)
 
-Køn
-
+**Køn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Fødselsdato
-
+**Fødselsdato**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Intern kategorisering
-
+**Intern kategorisering**
 Kandidattype eksempelvis CV-kandidat, medarbejder osv.
 
-Fornavn
-
+**Fornavn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Efternavn
-
+**Efternavn**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Postnummer
-
+**Postnummer**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Land
+**Land**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Region
+**Region**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-By
+**By**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-Nationalitet
+**Nationalitet**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
-E-mail
+**E-mail**
 Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
 **Rekrutteringsprojektspecifikke spørgsmål**
@@ -96,5 +81,5 @@ Kandidatens reaktion på dette spørgsmål, hvis det blev stillet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM0Njc3ODddfQ==
+eyJoaXN0b3J5IjpbMTA4OTIzMTE2NV19
 -->
