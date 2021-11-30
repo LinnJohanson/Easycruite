@@ -7,12 +7,12 @@ Mens der kan oprettes flere forskellige standardbrugertyper med prævalgte indst
 
 De følgende emner beskriver de tilgængelige adgangsrettigheder.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Administratorfunktioner
+#### Administratorfunktioner
 
 -   Er administrator  - Aktiverer de administrative funktioner, der kan tilgås via siden Indstillinger. Når denne indstilling er deaktiveret, kan brugerne kun se  Dine brugeroplysninger,  Afdelinger  og  Retningslinjer. Den gør også brugerne i stand til at ændre deres egne adgangskontrolindstillinger.
 -   Er afdelingsadministrator  - Giver den samme funktionalitet som en administrator, men kun til spefikke afdelinger.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Ansøgning og CV
+#### Ansøgning og CV
 
 -   Skal have adgang til CV-søgning  - Giver adgang til funktionen  [Søg](searching_for_candidates.htm)  på  Start-siden. Dette inkluderer muligheden for at søge på Kandidat, CV-kandidat, Kandidatemne og Gemte kandidattyper.
 -   Skal have adgang til proceslisten i forbindelse med ansøgninger  - Aktiverer fanen  [Procesliste](recruitment_activities_list_tab.htm).
@@ -20,7 +20,7 @@ De følgende emner beskriver de tilgængelige adgangsrettigheder.
 -   Skal have adgang til slettede ansøgninger  - Giver adgang til funktionen  [Slet ansøgning](deleting_an_applicant.htm)  på  Start-siden.
 -   Ingen adgang til at redigere i ansøgningsskabeloner  - Fjerner brugenes mulighed for at redigere en ansøgningsformular. Standard ansøgningsformularerne i systemet kan forbindes med et rekrutteringsprojekt af brugeren, men kan ikke ændres.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Rekrutteringsaktiviteter
+#### Rekrutteringsaktiviteter
 
 -   Skal kunne tilføje kandidater  - Aktiverer funktionen  [Tilføj kandidater](adding_candidates.htm)  på startsiden for at tilføje kandidater manuelt.
 -   Skal kunne indkalde til informationsmøde  - Gør brugeren i stand til at bruge  Videre behandling  og listen  Type af samtale  til at invitere en kandidat til et indledende møde eller en telefonsamtale.
@@ -32,20 +32,20 @@ De følgende emner beskriver de tilgængelige adgangsrettigheder.
 -   Skal kunne slette kandidater  - Gør brugeren i stand til at bruge listen  Videre Behandling  for at  [slette](deleting_an_applicant.htm)  kandidatens ansøgning og få den tilføjet i  Slettede ansøgninger.
 -   Adgang til at oprette "Klassificering - Projektprofil"-spørgsmål  - Gør brugeren i stand til at registrere interne ansøger-[klassificeringer](classification_tab.htm)  og bruge disse til rapportering.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Annoncering
+#### Annoncering
 
 -   Skal kunne oprette / redigere annoncer  - Gør brugeren i stand til at oprette og redigere annoncer. Når denne mulighed er deaktiveret, er alle de tilgængelige indstillinger i fanen  [Redigér rekrutteringsprojekt](edit_a_vacancy.htm)  ikke valgbare.
 -   Skal kunne afslutte og slette projekter  - Gør brugeren i stand til at  [lukke](closing_a_vacancy.htm)  et rekrutteringsprojekt og  [slette](deleting_a_vacancy.htm)  det.
 -   Skal kunne ændre svar-mails  - Gør brugeren i stand til at ændre svar-mails for et specifikt rekrutteringsprojekt.
 -   Skal kunne bruge teksteditor (WYSIWYG)  - Inkluderer værktøjslinjen  [WYSIWYG-redigering](wysiwyg_text_editor.htm), når der oprettes et rekrutteringsprojekt. Dette giver mulighed for at style og formattere rekrutteringsannoncen.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Kommunikation
+#### Kommunikation
 
 -   Skal kunne sende e-mail  - Aktiverer værdien  Send e-mail  i listen  [Videre Behandling](applicant_progress_options.htm), så brugeren kan sende en ad hoc-e-mail til kandidaten, uden at skulle ændre kandidatens status eller arbejde i rekrutteringsarbejdsgangen.
 -   Skal kunne sende SMS  - Gør det muligt for en enkelt bruger at sende en SMS-besked til en kandidat, der har et gyldigt mobiltelefonnummer. For at benytte denne funktion korrekt, skal EasyCruit-repræsentanter indledningsvis foretage noget konfigurationsarbejde.
 -   Adgang til tovejs e-mail  - Aktiverer fanen  [Tovejs e-mail](two_way_email_tab.htm), der er tilgængelig fra kandidatens  Ansøgning og CV-side.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Diverse
+#### Diverse
 
 -   Skal have adgang til rapporter  - Aktiverer funktionen  Rapporter  på  Start-siden.
 -   Adgang til CBS-rapporter  - Aktiverer brugen af CBS-rapporter (Central Bureau of Statistics), der er oprettet for at imødekomme bestemmelser for overensstemmelse i Holland.
@@ -58,7 +58,7 @@ De følgende emner beskriver de tilgængelige adgangsrettigheder.
 -   Adgang til medarbejderoplysninger  - Aktiverer funktionen  [Medarbejdere](guide_for_users_employees.htm)  på startsiden.
 -   Deaktiver videresendte punkter  - Forhindrer brugerne i at se historikken for videresendte kandidater.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Brugergrænseflade
+#### Brugergrænseflade
 
 -   Benyt simpel grafisk brugergrænseflade  - Dette er en overflødig funktion, og den behøver ikke blive aktiveret.
 -   Sikkerhed på adgangskode (CAPTIVA)  - Sørg for, at en bruger skal indtaste unikke adgangskoder efter fem adgangskodeændringer, inden de kan genbruge en tidligere anvendt adgangskode.
@@ -71,5 +71,5 @@ De følgende emner beskriver de tilgængelige adgangsrettigheder.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTYxMzIzMTVdfQ==
+eyJoaXN0b3J5IjpbMTM0NjQ4MTEyNF19
 -->
