@@ -6,7 +6,7 @@ De tilgængelige kriterier, der kan vælges, konfigureres i løbet af den indled
 
 Som standard anvendes  Fornavn  og  Efternavn  altid som matchkriterier ved kontrol af dubletter.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Oprettelse af en jobkategoritype
+#### Oprettelse af en jobkategoritype
 
 1.  I  Værktøjslinjen  klikkes på  Indstillinger  og derefter på  Matchkriterier.
 2.  Vælg de muligheder (herunder spørgsmål), som du gerne vil kontrollere for dubletter og bruge som matchkriterier.
@@ -24,5 +24,5 @@ Som standard anvendes  Fornavn  og  Efternavn  altid som matchkriterier ved kont
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzNjE4MDRdfQ==
+eyJoaXN0b3J5IjpbNzQ1NTczNDk1XX0=
 -->
