@@ -86,13 +86,13 @@ Gemte ansøgninger
 
 Fra  Startsiden  og  Indstillingerne  kommer du til emnets oversigtsside, hvis du vælger ikoner. De tilgængelige ikoner af brugerens adgangsniveau.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Hurtiglinkmenuer
+#### Hurtiglinkmenuer
 
 Mine aktive projekter  viser de sidste ti rekrutteringsprojekter, du har set på.  Mine udløbne projekter  viser dine sidste ti udløbne rekrutteringsprojekter. Under dette er der hurtigsøgelink til at finde en ansøger ved at søge efter vedkommendes navn eller CV-id.  Mine pdf-rapporter  indeholder links til de anmodede dokumenter og søgeskabeloner, hvis du tidligere har haft åbnet disse.
 
 Hvis brugeren vælger et af de rekrutteringsprojekter, der vises i  Mine aktive projekter  eller  Mine udløbne projekter, føres vedkommende til siden  Ansøgningshåndtering  for det rekrutteringsprojekt.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Adgang til arbejdsområdet
+#### Adgang til arbejdsområdet
 
 Adgang til arbejdsområdet og dets funktioner er afhængigt af en brugers adgangsniveau. De elementer, der er tilgængelige på  Startsiden  og på  Indstillingssiden, kan konfigureres ved hjælp af fire almindelige brugerniveauer eller de kan være lige så brugerdefinerede, som din organisation ønsker det.
 
@@ -162,5 +162,5 @@ Vi henviser til  [Adgangskontrol](access_control_options.htm)  for yderligere op
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NjYwMzM1XX0=
+eyJoaXN0b3J5IjpbLTI4NDQ5NjkzNV19
 -->
