@@ -100,83 +100,45 @@ De følgende eksempler på en almindelig, komplet bruger og en almindelig begræ
 
 #### Udfyld bruger
 
-Ikon
+Ikon - Beskrivelse
 
-Beskrivelse
+![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Rekrutteringsoversigt
 
-Ny rekruttering
+![](../Resources/Images/recruitment_calendar.jpg) - Rekrutteringskalender
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/employees.jpg) - Medarbejdere
 
-Rekrutteringsoversigt
+![](../Resources/Images/search.jpg) - Søgning
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/add_candidate.jpg) - Tilføj kandidat
 
-Rekrutteringskalender
+![](../Resources/Images/deleted_applications.jpg) - Slettede ansøgninger
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/reports.jpg) - Rapporter
 
-Medarbejdere
+![](../Resources/Images/guidelines.jpg) - Retningslinjer
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Kandidater der skal slettes
 
-Søgning
-
-![](../Resources/Images/add_candidate.jpg)
-
-Tilføj kandidat
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Slettede ansøgninger
-
-![](../Resources/Images/reports.jpg)
-
-Rapporter
-
-![](../Resources/Images/guidelines.jpg)
-
-Retningslinjer
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Kandidater der skal slettes
-
-![](../Resources/Images/stored_applications.jpg)
-
-Gemte ansøgninger
+![](../Resources/Images/stored_applications.jpg) - Gemte ansøgninger
 
 #### Begrænset bruger
 
-Ikon
+Ikon - Beskrivelse
 
-Beskrivelse
+![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Ferieliste
 
-Ny rekruttering
+![](../Resources/Images/recruitment_calendar.jpg) - Rekrutteringskalender
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/add_candidate.jpg) - Tilføj kandidat
 
-Ferieliste
+![](../Resources/Images/deleted_applications.jpg) - Slettede ansøgninger
 
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Rekrutteringskalender
-
-![](../Resources/Images/add_candidate.jpg)
-
-Tilføj kandidat
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Slettede ansøgninger
-
-![](../Resources/Images/guidelines.jpg)
-
-Retningslinjer
+![](../Resources/Images/guidelines.jpg) - Retningslinjer
 
 #### Brugerniveauer
 
@@ -189,7 +151,7 @@ Der er flere forskellige almindelige brugeradgangsniveauer i systemet. Hvert niv
 
 Vi henviser til  [Adgangskontrol](access_control_options.htm)  for yderligere oplysninger om brugeradgangsniveauer.
 
-##Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Vejledning til administratorer - Konfigurationsindstillinger](guide_for_administrators_configuration_settings.htm)
 ![](../Resources/Images/icon-document-link.png)  [Vejledning til administratorer - Indstillinger](guide_for_administrators_settings.htm)
@@ -200,5 +162,5 @@ Vi henviser til  [Adgangskontrol](access_control_options.htm)  for yderligere op
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Nzk0NDk3N119
+eyJoaXN0b3J5IjpbNzA1NjYwMzM1XX0=
 -->
