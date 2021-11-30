@@ -13,20 +13,16 @@ Sådan redigeres en brugertilpasset e-mailskabelon
 7.  Udfyld felterne  Emne  og  Indhold. Brug værktøjslinjen til at formattere teksten, hvis det er nødvendigt.
 8.  Hvis du ønsker at bruge skabelonen med det samme, kan du aktivere e-mailskabelonen ved at indstille  Status  til  Aktiv.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Ansøgning gemt](application_saved.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Behandling af ansøgninger](processing_applications.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Mulighed for ansøgerbehandling](applicant_progress_options.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Ansættelseskontrakter](employment_contacts.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Avanceret udvælgelse og kontraktindgåelsespakke](advanced_selection_and_contraction_pack.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3MTQ1MzFdfQ==
+eyJoaXN0b3J5IjpbLTcwNzcwMTMzOF19
 -->
