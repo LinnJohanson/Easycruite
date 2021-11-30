@@ -34,53 +34,30 @@ Spørgsmålstegnet fører dig til hjælpesiderne.
 
 ![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Indholdspanelet
 
-Ikon
+***
+Ikon - Beskrivelse
 
-Beskrivelse
+![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Rekrutteringsoversigt
 
-Ny rekruttering
+![](../Resources/Images/recruitment_calendar.jpg) - Rekrutteringskalender
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/employees.jpg) - Medarbejdere
 
-Rekrutteringsoversigt
+![](../Resources/Images/search.jpg) - Søgning
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/add_candidate.jpg) - Tilføj kandidat
 
-Rekrutteringskalender
+![](../Resources/Images/deleted_applications.jpg) - Slettede ansøgninger
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/reports.jpg) - Rapporter
 
-Medarbejdere
+![](../Resources/Images/guidelines.jpg) - Retningslinjer
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Kandidater der skal slettes
 
-Søgning
-
-![](../Resources/Images/add_candidate.jpg)
-
-Tilføj kandidat
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Slettede ansøgninger
-
-![](../Resources/Images/reports.jpg)
-
-Rapporter
-
-![](../Resources/Images/guidelines.jpg)
-
-Retningslinjer
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Kandidater der skal slettes
-
-![](../Resources/Images/stored_applications.jpg)
-
-Gemte ansøgninger
+![](../Resources/Images/stored_applications.jpg) - Gemte ansøgninger
 
 Øverst på  Indholdspanelet  vises de ændrende tekstoplysninger, der svarer til den opgave, en bruger udfører.
 
@@ -99,7 +76,7 @@ Adgang til arbejdsområdet og dets funktioner er afhængigt af en brugers adgang
 De følgende eksempler på en almindelig, komplet bruger og en almindelig begrænset bruger viser forskellen mellem hver brugers adgang.
 
 #### Udfyld bruger
-
+***
 Ikon - Beskrivelse
 
 ![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
@@ -162,5 +139,5 @@ Vi henviser til  [Adgangskontrol](access_control_options.htm)  for yderligere op
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDQ5NjkzNV19
+eyJoaXN0b3J5IjpbLTY4MjM0NzA3LC0yODQ0OTY5MzVdfQ==
 -->
