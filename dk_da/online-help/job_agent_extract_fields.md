@@ -3,58 +3,45 @@
 Følgende tabel beskriver de felter, der anvendes i jobagentudtræk.
 
 Feltnavn
-
 Beskrivelse
-
-Kandidat-ID
-
+***
+**Kandidat-ID**
 Kandidatens unikke ID, systemgenereret
 
-Fornavn
-
+**Fornavn**
 Kandidatens svar på spørgsmålet, hvis det blev stillet
 
-Efternavn
-
+**Efternavn**
 Kandidatens svar på spørgsmålet, hvis det blev stillet
 
-E-mail
-
+**E-mail**
 Kandidatens svar på spørgsmålet, hvis det blev stillet
 
-Sprog
-
+**Sprog**
 Kandidatens svar på spørgsmålet, hvis det blev stillet
 
-Tidsindstillinger for jobagent
-
+**Tidsindstillinger for jobagent**
 Indstilling for hyppighed for modtagelse af jobbeskeder
 
-Kategori
-
+**Kategori**
 Dette er den kategori, som kriterierne befinder sig i. Hvis kandidaten eksempelvis vælger kriteriet ”Nord” tilhører kategorien Nord måske til Region
 
-Kriterium
-
+**Kriterium**
 Kandidatens svar på dette spørgsmål, hvis det blev stillet Det specifikke kriterium, som kandidaten har valgt for at få beskeder om jobmatch
 
-Kriterium-id
-
+**Kriterium-id**
 Kriteriets id
 
-Dato registreret
-
+**Dato registreret**
 Den dato, hvor kandidaten først oprettede sit login til kandidatkarrieresiden
 
-Sidst ændret
-
+**Sidst ændret**
 Den sidste dato hvor kandidaten foretog en ændring i nogen af de oplysninger, der findes i kandidatens karrierecenter
 
-Sidste logon
-
+**Sidste logon**
 Sidste dato, hvor kandidaten loggede på kandidatens karriereside.
 
-##Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Eksportskabeloner](export_templates.htm)
 ![](../Resources/Images/icon-document-link.png)  [Konfiguration af kørsel af rapport](configuring_and_running_a_report.htm)
@@ -65,5 +52,5 @@ Sidste dato, hvor kandidaten loggede på kandidatens karriereside.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MTk3MzQ5XX0=
+eyJoaXN0b3J5IjpbMTgyMjQ2NjMwNF19
 -->
