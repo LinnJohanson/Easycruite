@@ -12,7 +12,7 @@ Der er typisk tre forskellige metoder, hvormed en søgning kan køres:
 
 For detaljer om søgeparametre og hvordan du opnår de resultater, du ønsker, henviser vi til  [Overvejelser om søgekriterier](searching_criteria_considerations_and_examples.htm).
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Adgang til EasyCruit](accessing_easycruit.htm)
 ![](../Resources/Images/icon-document-link.png)  [Navigation i EasyCruit](navigation_in_easycruit.htm)
@@ -23,5 +23,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTE2OTAxNl19
+eyJoaXN0b3J5IjpbLTg5NTk3MTAxM119
 -->
