@@ -4,7 +4,7 @@ Annonceskabeloner er en bekvem metode til at oprette genanvendeligt indhold til 
 
 Sammen med almindeligt indhold så som annoncetitel og et blikfang af en overskrift til en annoncetitel gør et brugervenligt Microsoft® Word-agtigt redigeringsværktøj, at indholdet nemt kan oprettes til et rekrutteringsprojekt. WYSIWYG-redigeringen er en almindelig funktion med et antal EasyCruit-komponenter. For yderligere oplysninger om brug af redigeringsværktøjet henviser vi til  [WYSIWYG-redigeringen](wysiwyg_text_editor.htm).
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Oprettelse af en annonceskabelon
+#### Oprettelse af en annonceskabelon
 
 1.  I værktøjslinjen klikkes på  Indstillinger  og derefter  Annonceskabeloner  for at vise siden  Annonceskabeloner.
 2.  Vælg den relevante afdeling og klik derefter på  Ny skabelon  for at vise den nye annonceskabelonside. En fane vises for hvert sprog, der er konfigureret i systemet.
@@ -35,5 +35,5 @@ Sammen med almindeligt indhold så som annoncetitel og et blikfang af en overskr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjc2MTc2NV19
+eyJoaXN0b3J5IjpbLTEzNTI4NzQxNjBdfQ==
 -->
