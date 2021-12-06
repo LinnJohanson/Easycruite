@@ -4,7 +4,7 @@ Det finnes en rekke arbeidspsykologiske tester som leveres av Assessio, cut-e og
 
 Testintegrasjonene er bare tilgjengelige for kunder som abonnerer på denne funksjonaliteten.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Bruke tester
+#### Bruke tester
 
 1.  Hvis du vil bruke tester i et rekrutteringsprosjekt, klikker du på hurtigkoblingen Ny rekruttering og velger den ønskede testen under  Diverse innstillinger.  
     Testene aktiveres for prosjektet.
@@ -14,7 +14,7 @@ Testintegrasjonene er bare tilgjengelige for kunder som abonnerer på denne funk
 
 Tester kan brukes på mange måter. Du vil kanskje for eksempel konfigurere screeningspørsmål som må besvares riktig før en test blir sendt automatisk, eller kanskje vil du sende tester manuelt til utvalgte kandidater.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Assessio
+#### Assessio
 
 Assessio er en av leverandørene av personlighetstester som kan integreres i EasyCruit.
 
@@ -94,5 +94,5 @@ Du kan sende flere enkelttester eller, hvis organisasjonen din har konfigurert d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODk0NTMxNF19
+eyJoaXN0b3J5IjpbODQ2OTAzMTQ0XX0=
 -->
