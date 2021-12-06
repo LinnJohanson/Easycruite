@@ -54,65 +54,35 @@ Formatliste. Indeholder en liste over præformatterede skrifttypestilarter
 
 Skrifttypefamilie. Indeholder en række forskellige skrifttyper, herunder dem der aktiverer dobbelt-bit-tegn sprog som eksempelvis forenklet kinesisk, således at de vises korrekt
 
-![](../Resources/Images/font_size.jpg)
+![](../Resources/Images/font_size.jpg) - Liste over skrifttypestørrelse
 
-Liste over skrifttypestørrelse
+![](../Resources/Images/font_color.jpg) - Skrifttypefarve. Når du vælger pilen i dropdown-menuen, vises en farvevælger, hvor du kan vælge faste og brugerdefinerede farver
 
-![](../Resources/Images/font_color.jpg)
+![](../Resources/Images/background_color.jpg) - Baggrundsfarve Når du vælger pilen i dropdown-menuen, vises en farvevælger, hvor du kan vælge faste og brugerdefinerede farver
 
-Skrifttypefarve. Når du vælger pilen i dropdown-menuen, vises en farvevælger, hvor du kan vælge faste og brugerdefinerede farver
+![](../Resources/Images/bullet_list.jpg) - Inddelt liste/nummereret liste
 
-![](../Resources/Images/background_color.jpg)
+![](../Resources/Images/numbered_list.jpg) - Ikke-inddelt liste/punktopstillet liste
 
-Baggrundsfarve Når du vælger pilen i dropdown-menuen, vises en farvevælger, hvor du kan vælge faste og brugerdefinerede farver
+![](../Resources/Images/decrease.jpg) - Faldende indrykning
 
-![](../Resources/Images/bullet_list.jpg)
+![](../Resources/Images/increase.jpg) - Øget indrykning
 
-Inddelt liste/nummereret liste
+![](../Resources/Images/undo.jpg) - Fortryde den sidste handling (CTRL + Z)
 
-![](../Resources/Images/numbered_list.jpg)
+![](../Resources/Images/redo.jpg) - Annullere sidste fortrudte handling (CTRL + Y)
 
-Ikke-inddelt liste/punktopstillet liste
+![](../Resources/Images/insert_link.jpg) - Indsæt et nyt link Klikkes på dette, åbnes en ny dialogboks, hvor URL for linket kan indtastes, sammen med valg af, om linket skal åbnes i et nyt vindue eller i det aktuelle vindue
 
-![](../Resources/Images/decrease.jpg)
+![](../Resources/Images/remove_link.jpg) - Fjern det valgte link. Fremhæv et link med markøren og klik på denne knap for at fjerne linket
 
-Faldende indrykning
+![](../Resources/Images/anchor.jpg) - Indsæt et nyt anker. Valg af denne knap åbner en ny dialogboks, hvor et ankernavn kan angives for punktet på siden, hvor markøren er aktiv. Dette muliggør, at et nyt link inkluderes, der linker til den del af siden.
 
-![](../Resources/Images/increase.jpg)
+![](../Resources/Images/clean_up.jpg) - Renselseskode. Fjerner uønsket formattering. Denne funktion er nyttig ved kopiering af præformateret tekst fra Word.
 
-Øget indrykning
+![](../Resources/Images/help.jpg) - Hjælp i WYSIWYG-redigeringen
 
-![](../Resources/Images/undo.jpg)
-
-Fortryde den sidste handling (CTRL + Z)
-
-![](../Resources/Images/redo.jpg)
-
-Annullere sidste fortrudte handling (CTRL + Y)
-
-![](../Resources/Images/insert_link.jpg)
-
-Indsæt et nyt link Klikkes på dette, åbnes en ny dialogboks, hvor URL for linket kan indtastes, sammen med valg af, om linket skal åbnes i et nyt vindue eller i det aktuelle vindue
-
-![](../Resources/Images/remove_link.jpg)
-
-Fjern det valgte link. Fremhæv et link med markøren og klik på denne knap for at fjerne linket
-
-![](../Resources/Images/anchor.jpg)
-
-Indsæt et nyt anker. Valg af denne knap åbner en ny dialogboks, hvor et ankernavn kan angives for punktet på siden, hvor markøren er aktiv. Dette muliggør, at et nyt link inkluderes, der linker til den del af siden.
-
-![](../Resources/Images/clean_up.jpg)
-
-Renselseskode. Fjerner uønsket formattering. Denne funktion er nyttig ved kopiering af præformateret tekst fra Word.
-
-![](../Resources/Images/help.jpg)
-
-Hjælp i WYSIWYG-redigeringen
-
-![](../Resources/Images/html.jpg)
-
-HTML-kodning Denne knap åbner et nyt vindue, hvor indholdet kan indtastes i redigeringen i HTML-kode. Når det gemmes og lukkes, opdateres indholdet i WYSIWYG-redigeringen, uden at koden vises.
+![](../Resources/Images/html.jpg) - HTML-kodning Denne knap åbner et nyt vindue, hvor indholdet kan indtastes i redigeringen i HTML-kode. Når det gemmes og lukkes, opdateres indholdet i WYSIWYG-redigeringen, uden at koden vises.
 
 ![](../Resources/Images/cut.jpg) - Klip den fremhævede tekst (CTRL + C)
 
@@ -209,5 +179,5 @@ Der kan foretages ændringer i teksten i WYSIWYG-redigeringen ved hjælp af funk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTc2NDldfQ==
+eyJoaXN0b3J5IjpbOTcxOTc0NDUyXX0=
 -->
