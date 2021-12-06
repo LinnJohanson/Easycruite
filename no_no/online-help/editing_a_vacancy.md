@@ -42,7 +42,6 @@ Responsmail
 Automatiserte e-postmeldinger som er knyttet til det bestemte rekrutteringsprosjektet, kan endres, aktiveres eller angis som ikke aktivert.
 
 Publish2board/Publish2Print ...
-
 Dette alternativet brukes til å gjøre endringer på karrieresider og andre publiseringskanaler hvor annonsen vises.
 
 Hvis annonsen for øyeblikket ikke er godkjent, kan ikke dette alternativet endres.
@@ -62,5 +61,6 @@ Hvis du vil ha mer informasjon om disse alternativene, kan du se  [Opprette et n
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjU0MDkwNiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIyNTE2NzU0OCwtNTIyNTQwOTA2LDczMD
+k5ODExNl19
 -->
