@@ -116,51 +116,29 @@ Rekrutteringsoversikt
 
 Rekrutteringskalender
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/employees.jpg) - Medarbeidere
 
-Medarbeidere
+![](../Resources/Images/search.jpg) - Søk
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/add_candidate.jpg) - Legg til kandidat
 
-Søk
+![](../Resources/Images/deleted_applications.jpg) - Slettede søknader
 
-![](../Resources/Images/add_candidate.jpg)
+![](../Resources/Images/reports.jpg) - Rapporter
 
-Legg til kandidat
+![](../Resources/Images/guidelines.jpg) - Retningslinjer
 
-![](../Resources/Images/deleted_applications.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Kandidater som skal slettes
 
-Slettede søknader
-
-![](../Resources/Images/reports.jpg)
-
-Rapporter
-
-![](../Resources/Images/guidelines.jpg)
-
-Retningslinjer
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Kandidater som skal slettes
-
-![](../Resources/Images/stored_applications.jpg)
-
-Lagrede søknader
+![](../Resources/Images/stored_applications.jpg) - Lagrede søknader
 
 #### Bruker med begrenset tilgang
 
-Ikon
+Ikon - Beskrivelse
 
-Beskrivelse
+![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
 
-![](../Resources/Images/new_vacancy.jpg)
-
-Ny rekruttering
-
-![](../Resources/Images/vacancy_list.jpg)
-
-Rekrutteringsoversikt
+![](../Resources/Images/vacancy_list.jpg) - Rekrutteringsoversikt
 
 ![](../Resources/Images/recruitment_calendar.jpg) - Rekrutteringskalender
 
@@ -192,5 +170,5 @@ Hvis du vil vite mer om nivåer for brukertilgang, kan du se  [Alternativer for 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTcyNDY1M119
+eyJoaXN0b3J5IjpbNzIzMzkyNTk0XX0=
 -->
