@@ -2,7 +2,7 @@
 
 I denne fane ses de almindelige oplysninger om kandidaten og vedkommendes ansøgning. Det inkluderer normalt punkter så som personlige oplysninger, Uploadet CV og oplysninger om mødeindkaldelser.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Redigér personlige oplysninger
+#### Redigér personlige oplysninger
 
 1.  Vælg det relevante rekrutteringsprojekt og vælg derefter  Alle ansøgninger  for at vise kandidatlisten.
 2.  Vælg kandidatnavn for at vise siden  Ansøgning og CV.
@@ -25,5 +25,5 @@ I denne fane ses de almindelige oplysninger om kandidaten og vedkommendes ansøg
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjc4MzQwNF19
+eyJoaXN0b3J5IjpbLTEwNjE2OTY4NjVdfQ==
 -->
