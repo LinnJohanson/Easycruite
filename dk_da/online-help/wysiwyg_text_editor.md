@@ -10,49 +10,27 @@ Værktøjslinjen giver adgang til de fleste af redigeringsfunktionerne og komman
 
 Værktøjslinjeindstillingerne er følgende:
 
-Knap
+Knap - Beskrivelse
+***
+![](../Resources/Images/bold.jpg) - Fed tekst (CTRL + B)
 
-Beskrivelse
+![](../Resources/Images/italic.jpg) - Kursiv tekst (CTRL + I)
 
-![](../Resources/Images/bold.jpg)
+![](../Resources/Images/underlined.jpg) - Understreget tekst (CTRL + U)
 
-Fed tekst (CTRL + B)
+![](../Resources/Images/strike.jpg) - Gennemstreget tekst
 
-![](../Resources/Images/italic.jpg)
+![](../Resources/Images/align_left.jpg) - Justér til venstre
 
-Kursiv tekst (CTRL + I)
+![](../Resources/Images/align_centre2.jpg) - Justér midtfor
 
-![](../Resources/Images/underlined.jpg)
+![](../Resources/Images/align_right.jpg) - Justér til højre
 
-Understreget tekst (CTRL + U)
+![](../Resources/Images/align_centre.jpg) - Justering berettiget
 
-![](../Resources/Images/strike.jpg)
+![](../Resources/Images/format.jpg) - Formatliste. Indeholder en liste over præformatterede skrifttypestilarter
 
-Gennemstreget tekst
-
-![](../Resources/Images/align_left.jpg)
-
-Justér til venstre
-
-![](../Resources/Images/align_centre2.jpg)
-
-Justér midtfor
-
-![](../Resources/Images/align_right.jpg)
-
-Justér til højre
-
-![](../Resources/Images/align_centre.jpg)
-
-Justering berettiget
-
-![](../Resources/Images/format.jpg)
-
-Formatliste. Indeholder en liste over præformatterede skrifttypestilarter
-
-![](../Resources/Images/font_family.jpg)
-
-Skrifttypefamilie. Indeholder en række forskellige skrifttyper, herunder dem der aktiverer dobbelt-bit-tegn sprog som eksempelvis forenklet kinesisk, således at de vises korrekt
+![](../Resources/Images/font_family.jpg) - Skrifttypefamilie. Indeholder en række forskellige skrifttyper, herunder dem der aktiverer dobbelt-bit-tegn sprog som eksempelvis forenklet kinesisk, således at de vises korrekt
 
 ![](../Resources/Images/font_size.jpg) - Liste over skrifttypestørrelse
 
@@ -179,5 +157,5 @@ Der kan foretages ændringer i teksten i WYSIWYG-redigeringen ved hjælp af funk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxOTc0NDUyXX0=
+eyJoaXN0b3J5IjpbMTEyNTE5OTk2M119
 -->
