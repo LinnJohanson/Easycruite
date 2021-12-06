@@ -419,7 +419,7 @@ Hvis du har jobber som kun skal lyses ut internt og ikke offentlig, bør du publ
 1.  IP-begrensning – De eneste som har tilgang til senteret og jobbene er de som er koblet til den bestemte IP-adressen, f.eks. over VPN eller internt nettverk.
 2.  Innlogging – Det kreves brukernavn og passord for å få tilgang til det interne karrieresenteret. Dette kan også brukes til å begrense tilgangen for bemanningsbyråer, slik at byråene kan se jobbene du vil de skal rekruttere til, og slik at de kan registrere kandidatene direkte selv.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Kan jeg endre virksomhetens navn?
+#### Kan jeg endre virksomhetens navn?
 
 ### Er det mulig å endre navnet på en virksomhet?
 
@@ -427,7 +427,7 @@ Noen ganger endrer en organisasjon navn. Hvis du vil endre navnet på virksomhet
 
 1.  Du kan sjekke hva virksomhetsnavnet er nå, ved å åpne  Innstillinger  >  Bedriftsinformasjon.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Endre logo/bilde
+#### Endre logo/bilde
 
 ### Slik endrer du logo/avdelingsbilde
 
@@ -441,7 +441,7 @@ For alle andre avdelinger kan det gjøres av en administrator eller avdelingsadm
 
 Hvis det ikke lastes opp et bilde, arver avdelingen bildet til foreldreavdelingen eller virksomheten.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Åpne/generelle søknader
+#### Åpne/generelle søknader
 
 ### Mønsterpraksis for håndtering av åpne/generelle søknader
 
@@ -468,7 +468,7 @@ Dette er fordelene med denne fremgangsmåten:
 
 [![](../Resources/Images/vacancies_thumb_120_0.jpg)](../Resources/Images/vacancies.jpg)
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Logg ut
+#### Logg ut
 
 ### Hvorfor logges jeg ut av systemet?
 
@@ -488,7 +488,7 @@ Vær klar over at å skrive i et tekstfelt ikke regnes som en aktivitet, og dett
 
 Det kan skyldes at IP-adressen din endrer seg. Dette kan skje hvis du bruker VPN, eller hvis en informasjonskapsel for økten slettes av en eller annen grunn. Kontakt IT-avdelingen der du jobber, hvis du opplever hyppig utlogging, da dette kan skyldes internettinnstillingene dine.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Hvilke funksjoner er aktivert for Vår EasyCruit?
+#### Hvilke funksjoner er aktivert for Vår EasyCruit?
 
 EasyCruit-administratorer kan se hvilke funksjoner som er kjøpt og aktivert.
 
@@ -497,13 +497,13 @@ EasyCruit-administratorer kan se hvilke funksjoner som er kjøpt og aktivert.
     Et tall ved siden av pakken viser hvor mange funksjoner som er aktivert. Hvis det vises en grønn hake ved siden av pakken, er alle funksjonene aktiverte.
 3.  Velg et pakkenavn for å utvide den og vise oversikten over funksjoner.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)E-post til flere mottakere – er mottakerne synlige for andre?
+#### E-post til flere mottakere – er mottakerne synlige for andre?
 
 ### Jeg skal sende e-post til flere mottakere. Vil de se hverandres e-postadresser?
 
 Nei. Når du sender e-post til flere kandidater samtidig i EasyCruit, kan du alltid være trygg på at EasyCruit sender en separat e-post til hver enkelt e-postadresse i listen. Systemet sender dem ikke som kopier eller blindkopier, men som individuelle e-postmeldinger.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Avslutte abonnementet på uønsket EasyCruit-e-post for en administrator
+#### Avslutte abonnementet på uønsket EasyCruit-e-post for en administrator
 
 Mottar du e-post om systemoppdateringer, men ønsker ikke å motta slik e-post fordi du har sluttet i stillingen eller organisasjonen?
 
@@ -528,5 +528,5 @@ Hvis du har spørsmål, må du mer enn gjerne kontakte kundestøtte.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzQ3NTk3XX0=
+eyJoaXN0b3J5IjpbMTI0NjAyOTg4Ml19
 -->
