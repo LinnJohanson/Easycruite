@@ -14,11 +14,11 @@ Testintegrationerne er kun tilgængelige for kunder, der har abonneret på denne
 
 Tests kan anvendes på mange forskellige måder. Eksempelvis ønsker du måske at bruge screeningsspørgsmål, der skal besvares korrekt, inden der automatisk sendes en test, eller du ønsker måske at sende tests manuelt til udvalgte kandidater.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Assessio
+#### Assessio
 
 Assessio er en af de udbydere, der leverer personlighedstests, der kan integreres i EasyCruit.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning af resultaterne af Service-F-personlighedstests til rekrutteringsprojekt.
+#### Visning af resultaterne af Service-F-personlighedstests til rekrutteringsprojekt.
 
 1.  Log ind på EasyCruit og vælg et rekrutteringsprojekt.
 2.  Vælg fanen  Ansøgningshåndtering.  
@@ -26,7 +26,7 @@ Assessio er en af de udbydere, der leverer personlighedstests, der kan integrere
 3.  Vælg  Service-F.  
     På siden  Rekrutteringsoplysning  ses en liste over kandidater, der har gennemført personlighedstesten Service-F samt andre individuelle resultater.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning af resultaterne af MINT-personlighedstests til rekrutteringsprojekt.
+#### Visning af resultaterne af MINT-personlighedstests til rekrutteringsprojekt.
 
 1.  Log ind på EasyCruit og vælg et rekrutteringsprojekt.
 2.  Vælg fanen  Ansøgningshåndtering.  
@@ -34,7 +34,7 @@ Assessio er en af de udbydere, der leverer personlighedstests, der kan integrere
 3.  Vælg  MINT.  
     På siden  Rekrutteringsoplysning  ses en liste over kandidater, der har gennemført personlighedstesten MINT samt andre individuelle resultater for integritet, interpersonel orientering og arbejdsmæssig orientering.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning af resultaterne af problemløsende Matrigma-færdighedstest til rekrutteringsprojekt
+#### Visning af resultaterne af problemløsende Matrigma-færdighedstest til rekrutteringsprojekt
 
 1.  Log ind på EasyCruit og vælg et rekrutteringsprojekt.
 2.  Vælg fanen  Ansøgningshåndtering.  
@@ -42,11 +42,11 @@ Assessio er en af de udbydere, der leverer personlighedstests, der kan integrere
 3.  Vælg  Matrigma.  
     På siden  Rekrutteringsoplysning  ses en liste over kandidater, der har gennemført personlighedstesten Matrigma samt vedkommendes C:Score og links til to rapporter.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)SHL
+#### SHL
 
 SHL er en af de udbydere, der leverer personlighedstests, der kan integreres i EasyCruit.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning af resultaterne af SHL-personlighedstests til rekrutteringsprojekt.
+#### Visning af resultaterne af SHL-personlighedstests til rekrutteringsprojekt.
 
 1.  Log ind på EasyCruit og vælg et rekrutteringsprojekt.
 2.  Vælg fanen  Ansøgningshåndtering. Personlighedstestene vises neder til venstre på siden.
@@ -59,7 +59,7 @@ SHL er en af de udbydere, der leverer personlighedstests, der kan integreres i E
           
         På siden  Rekrutteringsoplysning  ses en liste over kandidater, der har gennemført testen sammen med hver persons råpoint og links til en eller flere rapporter.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)cut-e
+#### cut-e
 
 cut-e er en af de udbydere, der leverer personlighedstests, der kan integreres i EasyCruit.
 
@@ -72,7 +72,7 @@ Du kan sende flere tests eller din organisation kan have konfigureret en ”pakk
 3.  Vælg cut-e i dropdownlisten  Videre behandling.
 4.  Vælg testene eller pakkerne med tests, som du ønsker at sende til kandidaterne.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning af resultaterne af cut-e-tests
+#### Visning af resultaterne af cut-e-tests
 
 1.  Log ind på EasyCruit og vælg et rekrutteringsprojekt.
 2.  Vælg fanen  Ansøgningshåndtering.  
@@ -94,5 +94,5 @@ Du kan sende flere tests eller din organisation kan have konfigureret en ”pakk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTQ3MzI5Nl19
+eyJoaXN0b3J5IjpbMTE1MTA1NzYyXX0=
 -->
