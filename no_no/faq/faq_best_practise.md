@@ -402,7 +402,7 @@ Internet Explorer 6
 
 † Angir nyeste versjon av nettleseren på utviklingstidspunktet.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Annonsen vises i kanaler jeg ikke har publisert til
+#### Annonsen vises i kanaler jeg ikke har publisert til
 
 «Edderkopper» til søkemotorer og publiseringskanaler kan vise offentlig oppførte jobber på sine egne nettsteder. Denne artikkelen beskriver hvordan dette foregår, og hvordan du kan forhindre at det skjer.
 
@@ -528,5 +528,5 @@ Hvis du har spørsmål, må du mer enn gjerne kontakte kundestøtte.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjAyOTg4Ml19
+eyJoaXN0b3J5IjpbMTIyNzM2NTY0N119
 -->
