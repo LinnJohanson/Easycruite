@@ -7,7 +7,7 @@ Det er flere standard brukertyper som kan opprettes med forvalgte alternativer, 
 
 Følgende emner beskriver tilgjengelige tilgangsrettigheter.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Administratorinnstillinger
+#### Administratorinnstillinger
 
 -   Er administrator  – Aktiverer administrative funksjoner som man får tilgang til via siden Innstillinger. Når dette valget er deaktivert, kan bare brukeren se  Din brukerinformasjon,  Avdelinger  og  Retningslinjer. Det gjør det også mulig for en bruker å endre sin egen innstillinger for tilgangskontroll.
 -   Er avdelingsadministrator  – Har den samme funksjonen som en administrator, men bare for bestemte avdelinger.
@@ -71,5 +71,5 @@ Følgende emner beskriver tilgjengelige tilgangsrettigheter.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDI5ODczXX0=
+eyJoaXN0b3J5IjpbLTg4ODQwMjEyMl19
 -->
