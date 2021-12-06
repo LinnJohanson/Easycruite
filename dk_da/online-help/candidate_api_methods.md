@@ -310,13 +310,13 @@ xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.o
 
 < CandidateExport>
 
-<Language>no</Language><CandidateId>123456789</CandidateId>
+< Language>no< /Language>< CandidateId>123456789< /CandidateId>
 
-</CandidateExport>
+< /CandidateExport>
 
-</soap:Body>
+< /soap:Body>
 
-</soap:Envelope>
+< /soap:Envelope>
 
 RAW SOAP RESPONSE EXAMPLE
 
@@ -324,17 +324,17 @@ RAW SOAP RESPONSE EXAMPLE
 
 <soap:Envelope xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)">
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExportResponse >
+< CandidateExportResponse >
 
-<Candidate>DATA</Candidate>
+< Candidate>DATA</Candidate>
 
-</CandidateExportResponse>
+< /CandidateExportResponse>
 
-</soap:Body>
+< /soap:Body>
 
-</soap:Envelope>
+< /soap:Envelope>
 
 DATA til dette eksempel skal afkodes, og den resulterende XML er baseret på skemaet nedenfor:  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
@@ -700,5 +700,5 @@ Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Vejledning til administratorer - Rapporter](guide_for_administrators_reports.htm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MTcxMTk2XX0=
+eyJoaXN0b3J5IjpbMTI1NTkwNTgwMF19
 -->
