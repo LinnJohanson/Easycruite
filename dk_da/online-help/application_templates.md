@@ -6,7 +6,7 @@ Når man ser Opsætningssiden for en ansøgningsskabelon, er den opdelt i de for
 
 Når der vælges spørgsmål, er det vigtigt, at værdierne for spørgsmålene er blevet inkluderet for alle de sprog, der er tilgængelige i dit system.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Oprettelse af ny skabelon
+#### Oprettelse af ny skabelon
 
 1.  Fra  Værktøjslinjen  klikkes på  Indstillinger  for at vise siden  Indstillinger.
 2.  Klik på  Ansøgningsskabeloner  for at vise siden  Ansøgningsskabeloner.
@@ -15,12 +15,12 @@ Når der vælges spørgsmål, er det vigtigt, at værdierne for spørgsmålene e
     Marker-feltet skal vælges, før du kan gøre en mulighed obligatorisk. Hvis der kun er valgt  Obligatorisk, vises muligheden ikke. Valg af  Obligatorisk  for et afsnit som  Sprog, betyder ofte, at afsnittet ikke kan ignoreres i løbet af ansøgningsprocessen og at visse værdier skal indtastes, men ikke at hele afsnittet skal udfyldes.
 5.  Klik på  Gem  for at bekræfte de valgte muligheder.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Visning eller redigering af tilgængelige ansøgningsskabeloner
+#### Visning eller redigering af tilgængelige ansøgningsskabeloner
 
 1.  I  Værktøjslinjen  klikkes på  Indstillinger  og derefter  Ansøgningsskabeloner  for at vise siden  Ansøgningsskabeloner.
 2.  Klik på et blyantikon ved siden af den relevante skabelon for at se/redigere skabelonmulighederne og spørgsmålene.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Sletning af ansøgningsskabelon
+#### Sletning af ansøgningsskabelon
 
 1.  I  Værktøjslinjen  klikkes på  Indstillinger  og derefter  Ansøgningsskabeloner  for at vise siden  Ansøgningsskabeloner.
 2.  Klik på skraldespandsikonet for den relevante skabelon og klik derefter på OK, når du bliver bedt om at bekræfte sletningen.
@@ -35,5 +35,5 @@ Når der vælges spørgsmål, er det vigtigt, at værdierne for spørgsmålene e
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2OTYwMTldfQ==
+eyJoaXN0b3J5IjpbLTEzOTQ1ODEyNzZdfQ==
 -->
