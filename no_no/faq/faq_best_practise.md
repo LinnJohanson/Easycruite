@@ -155,7 +155,7 @@ Vanlige brukere må tilhøre avdelingen for at de skal vises i oversikten. Hvis 
 4.  Velg avdelingen som prosjektet er opprettet under, og klikk på knappen  Legg til avdeling
 5.  Lagre og gå tilbake til rekrutteringsoversikten for å endre tilgangskontrollen igjen.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Ingen søknadslink
+#### Ingen søknadslink
 
 ### Hvorfor kan ikke kandidater se linken Send søknad / Søknad?
 
@@ -180,7 +180,7 @@ En annen grunn til at  Send søknad-linken ikke vises, kan være at prosjektet e
 
 I så fall må kandidaten velge en avdeling før  Send søknad-linken vises.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Mislykket innlogging
+#### Mislykket innlogging
 
 Når du har prøvd å logge deg inn på EasyCruit tre ganger med feil innloggingsopplysninger, blir du bedt om å skrive inn en CAPTCHA-kode tilsvarende den nedenfor. Dette er for å beskytte EasyCruit mot ondsinnede angrep. CAPTCHA-koden skiller mellom små og store bokstaver.
 
@@ -194,7 +194,7 @@ Når du har skrevet inn koden og innloggingsopplysningene dine riktig, får du t
 
 Klikk her for mer informasjon om  [Tilgang til EasyCruit](../online-help/accessing_easycruit.htm).
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Finn.no – knapp for å søke mangler
+#### Finn.no – knapp for å søke mangler
 
 ### Det finnes ingen søknadsknapp i annonsen min på Finn.no.
 
@@ -234,7 +234,7 @@ Det må være konfigurert et søknadsskjema for prosjektet for at søknadsknappe
     -   Klikk på  Neste  og deretter på  Fullfør.
     -   Vent 20 minutter mens Finn.no oppdaterer annonsen.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Oppdateringer i rekrutteringsprosjektet
+#### Oppdateringer i rekrutteringsprosjektet
 
 ### Jeg har gjort endringer i rekrutteringsprosjektet mitt, men jeg kan ikke se dem i kanalene
 
@@ -272,7 +272,7 @@ Hvis du vil endre publiseringsdatoene, kan du gjøre følgende:
 
 Husk at enkelte leverandører vil regne dette som en ny annonse og belaste deg for en ytterligere annonsekreditt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Hvilke nettlesere støttes?
+#### Hvilke nettlesere støttes?
 
 ### EasyCruit-kompatible nettlesere
 
@@ -528,5 +528,5 @@ Hvis du har spørsmål, må du mer enn gjerne kontakte kundestøtte.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzM2NTY0N119
+eyJoaXN0b3J5IjpbMTkxNDE5MjQ4Ml19
 -->
