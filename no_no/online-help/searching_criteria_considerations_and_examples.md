@@ -7,11 +7,11 @@ Når du konfigurerer søkebetingelsene for søkemaler, er det flere hensyn som k
 
 Det er en rekke operatorer som kan inkluderes i søkekriteriene. Dette bidra til mer innsnevrede søk og består av det følgende:
 
-+
+.+
 
 Et plusstegn indikerer at det følgende ordet må være tilstede.
 
--
+.-
 
 Et minustegn indikerer at det følgende ordet ikke må være tilstede.
 
@@ -19,7 +19,7 @@ Et minustegn indikerer at det følgende ordet ikke må være tilstede.
 
 Parenteser gjør det mulig å gruppere ord sammen til underuttrykk.
 
-*
+.*
 
 Stjernen er et jokertegn som kan legges til på slutten av et søkeord.
 
@@ -64,5 +64,5 @@ Returnerer resultater som inneholder nøyaktig frasen «salg avd»
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NjA4MTMxXX0=
+eyJoaXN0b3J5IjpbMjExODY5NzkyMSwyNjk2MDgxMzFdfQ==
 -->
