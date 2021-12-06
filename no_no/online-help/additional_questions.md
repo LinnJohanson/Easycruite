@@ -11,7 +11,7 @@ Det er flere forskjellige kategorier med interne spørsmål, der enkelte data er
 -   Selvklassifisering – Ansattprofil  – Disse spørsmålene er knyttet til ansatte i virksomheten. Disse spørsmålene er bare tilgjengelige når registrerte medarbeidere logger seg inn på karrieresiden med sitt brukernavn og passord.
 -   HR klassifisering – Ansattprofil  – Disse spørsmålene er de samme som standard klassifiseringsspørsmål, men er knyttet til ansatte i virksomheten. Dette er en valgfri tilleggsfunksjon.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Opprette interne spørsmål
+#### Opprette interne spørsmål
 
 1.  Fra verktøylinjen velger du  Innstillinger  og deretter  Interne spørsmål  for å vise siden  Interne spørsmål.  
       
@@ -36,7 +36,7 @@ Det er flere forskjellige kategorier med interne spørsmål, der enkelte data er
     -   Søkbart  – Gjør spørsmålet søkbart. Det betyr at når du bruker  CV-søk-siden og kjører et avansert søk, blir spørsmålene tilgjengelige som søkekriterier.
 5.  Etter at du har konfigurert de ønskede spørsmålene, klikker du på  Lagre.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Vise og endre eksisterende interne spørsmål
+#### Vise og endre eksisterende interne spørsmål
 
 1.  Fra verktøylinjen velger du  Innstillinger  og deretter  Interne spørsmål  for å vise siden  Interne spørsmål.
 2.  Velg fanen som er nødvendig for å navigere til riktig interne spørsmål, og klikk deretter på blyantikonet.
@@ -56,5 +56,5 @@ Det er flere forskjellige kategorier med interne spørsmål, der enkelte data er
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDIwOTI4MF19
+eyJoaXN0b3J5IjpbLTYxMzAzOTIzNl19
 -->
