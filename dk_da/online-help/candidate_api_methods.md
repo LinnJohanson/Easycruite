@@ -292,23 +292,23 @@ RAW SOAP REQUEST EXAMPLE
 
 xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" >
 
-<soap:Header>
+< soap:Header>
 
-<AuthHeader>
+< AuthHeader>
 
-<Customer>customer</Customer>
+<  Customer>customer< /Customer>
 
-<Username>username</Username>
+< Username>username< /Username>
 
-<Password>password</Password>
+< Password>password< /Password>
 
-</AuthHeader>
+< /AuthHeader>
 
-</soap:Header>
+< /soap:Header>
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExport>
+< CandidateExport>
 
 <Language>no</Language><CandidateId>123456789</CandidateId>
 
@@ -700,5 +700,5 @@ Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Vejledning til administratorer - Rapporter](guide_for_administrators_reports.htm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NDAyMzZdfQ==
+eyJoaXN0b3J5IjpbNzQ0MTcxMTk2XX0=
 -->
