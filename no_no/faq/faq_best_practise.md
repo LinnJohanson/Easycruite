@@ -20,7 +20,7 @@ Hvis dere ikke har en samtykketekst, vil det bli implementert en personverngaran
 
 Ta en kikk på denne videoen, som forklarer hvordan virksomheter må forberede seg til den nye samtykkehåndteringen:
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Finn.no – publisering
+#### Finn.no – publisering
 
 ### Annonsen har ikke blitt publisert på Finn.no – hva kan jeg gjøre?
 
@@ -56,7 +56,7 @@ Av og til har søknadsdatoen feil måned eller år. Søknadsdatoen må også væ
 
 For at du skal kunne publisere annonser på Finn.no, må du ha en avtale med Finn.no AS. Hvis du har spørsmål om avtalen, forhører du deg med kontaktpersonen din på Finn.no. Du kan også ta kontakt med kundeservice. Kontaktopplysningene finner du her:  [https://hjelpesenter.finn.no](https://hjelpesenter.finn.no/)
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til en video i stillingsannonse
+#### Legge til en video i stillingsannonse
 
 Du kan legge til en video i annonsen i EasyCruit ved å bygge inn videokoden fra en videoleverandør som  [YouTube](https://www.youtube.com/)  eller  [Vimeo](https://vimeo.com/). I denne artikkelen skal vi vise deg hvordan du gjør det.
 
@@ -84,7 +84,7 @@ Alt etter hvor bred bedriftens hjemmeside er, må du kanskje endre høyde- og br
 -   Lim inn innebyggingskoden på ønsket plassering i HTML-koden.
 -   Klikk på  Oppdater  og deretter på  Lagre.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til søknadstekst
+#### Legge til søknadstekst
 
 ### En kandidat har glemt å legge til søknadstekst
 
@@ -117,7 +117,7 @@ Du kan eventuelt også be kandidatene om å søke på nytt. Dette er en god frem
 4.  Gå til startsiden. Åpne Slettede søknader. Velg kandidaten, bla ned til bunnen av siden, og velg Slett for alltid.
 5.  Fortell kandidaten at han kan søke på nytt og bruke de oppdaterte opplysningene.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Hvem har tilgang til et rekrutteringsprosjekt
+#### Hvem har tilgang til et rekrutteringsprosjekt
 
 Når du oppretter et rekrutteringsprosjekt i EasyCruit, er det en rekke brukere som automatisk får tilgang til rekrutteringsprosjektet:
 
@@ -528,5 +528,5 @@ Hvis du har spørsmål, må du mer enn gjerne kontakte kundestøtte.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDE5MjQ4Ml19
+eyJoaXN0b3J5IjpbLTI5MzI3NDE4NF19
 -->
