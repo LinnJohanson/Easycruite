@@ -114,33 +114,19 @@ Hjælp i WYSIWYG-redigeringen
 
 HTML-kodning Denne knap åbner et nyt vindue, hvor indholdet kan indtastes i redigeringen i HTML-kode. Når det gemmes og lukkes, opdateres indholdet i WYSIWYG-redigeringen, uden at koden vises.
 
-![](../Resources/Images/cut.jpg)
+![](../Resources/Images/cut.jpg) - Klip den fremhævede tekst (CTRL + C)
 
-Klip den fremhævede tekst (CTRL + C)
+![](../Resources/Images/copy.jpg) - Kopierer den fremhævede tekst (CTRL + C)
 
-![](../Resources/Images/copy.jpg)
+![](../Resources/Images/paste1.jpg) - Indsæt indholdet i redigeringsværktøjet sammen med dets formatering (CTRL + P)
 
-Kopierer den fremhævede tekst (CTRL + C)
+![](../Resources/Images/paste2.jpg) - Indsæt indholdet i redigeringsværktøjet som almindelig tekst og fjern al formatering
 
-![](../Resources/Images/paste1.jpg)
+![](../Resources/Images/replace.jpg) - Find og erstat-funktionen, der kan erstatte et enkelt tilfælde eller hvert tilfælde af et ord eller en frase i redigeringsværktøjet
 
-Indsæt indholdet i redigeringsværktøjet sammen med dets formatering (CTRL + P)
+![](../Resources/Images/remove.jpg) - Fjern formattering så som fed og farvet tekst
 
-![](../Resources/Images/paste2.jpg)
-
-Indsæt indholdet i redigeringsværktøjet som almindelig tekst og fjern al formatering
-
-![](../Resources/Images/replace.jpg)
-
-Find og erstat-funktionen, der kan erstatte et enkelt tilfælde eller hvert tilfælde af et ord eller en frase i redigeringsværktøjet
-
-![](../Resources/Images/remove.jpg)
-
-Fjern formattering så som fed og farvet tekst
-
-![](../Resources/Images/insert_table.jpg)
-
-Indsæt tabel. Valg af denne mulighed åbner et nyt vindue, hvor tabelparametrene kan konfigureres. Se WYSIWYG-redigeringens hjælp for yderligere oplysninger
+![](../Resources/Images/insert_table.jpg) - Indsæt tabel. Valg af denne mulighed åbner et nyt vindue, hvor tabelparametrene kan konfigureres. Se WYSIWYG-redigeringens hjælp for yderligere oplysninger
 
 ## Redigeringshandlinger
 
@@ -148,11 +134,11 @@ WYSIWYG-redigeringen inkluderer de almindelige redigeringsfunktioner, som man fo
 
 Når WYSIWYG-redigeringen anvendes med HTML-e-mails, er billederne i øjeblikket understøttet for e-mails men ikke for rekrutteringsprojekter.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Valg af tekst og grafik
+#### Valg af tekst og grafik
 
 Når du gerne vil flytte, slette eller erstatte indholdet i redigeringsværktøjet, skal du først vælge, hvad du gerne vil arbejde med. Dette kan du gøre ved hjælp af musen eller tastaturet.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Valg af indhold med musen
+#### Valg af indhold med musen
 
 Træk markøren henover det, du vil vælge eller brug en af de følgende genveje:
 
@@ -161,7 +147,7 @@ Træk markøren henover det, du vil vælge eller brug en af de følgende genveje
 -   Start et udsnit - klik på begyndelsen af udsnittet
 -   Afslut et udsnit - hold SHIFT nede og klik på udsnittets afslutning
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Valg af indhold med tastaturet
+#### Valg af indhold med tastaturet
 
 Brug en af følgende genveje:
 
@@ -173,7 +159,7 @@ Brug en af følgende genveje:
 -   Til linjens begyndelse - SHIFT + HOME
 -   All - CTRL + A
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Anvendelse af udklipsholderen
+#### Anvendelse af udklipsholderen
 
 Du kan kopiere, klippe og indsætte indhold ved hjælp af systemets udklipsholder. På den måde kan du nemt overføre indhold fra andre ansøgninger til WYSIWYG-redigeringen og i selve redigeringsværktøjet.
 
@@ -197,7 +183,7 @@ Indsæt indholdet fra udklipsholderen i WYSIWYG-redigeringen som almindelig teks
 
 Brug markøren til at angive, hvor indholdet skal placeres og klik på ikonet for at indsætte almindelig tekst.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Handlinger for at fortryde eller ændre
+#### Handlinger for at fortryde eller ændre
 
 Hvis der laves fejl, mens indholdet redigeres i redigeringsværktøjet, kan handlingen Fortryd anvendes til at fortryde handlingen og foretage den nødvendige rettelse. Hvis en handling fortrydes ved en fejl, kan muligheden Annullere sidste fortrudte handling anvendes til at foretage handlingen igen. Evnen til at fortryde eller Annullere sidste fortrudte handling er kun muligt i den aktuelle session, hvor du redigerer indhold. Når mulighederne  Gem  eller  Annuller  vælges, fjernes muligheden for at fortryde eller annullere sidste fortrudte handling, indtil mere indhold tilføjes.
 
@@ -223,5 +209,5 @@ Der kan foretages ændringer i teksten i WYSIWYG-redigeringen ved hjælp af funk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcxOTk3NTVdfQ==
+eyJoaXN0b3J5IjpbNDUyOTc2NDldfQ==
 -->
