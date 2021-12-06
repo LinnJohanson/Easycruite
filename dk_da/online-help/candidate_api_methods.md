@@ -328,7 +328,7 @@ RAW SOAP RESPONSE EXAMPLE
 
 < CandidateExportResponse >
 
-< Candidate>DATA</Candidate>
+< Candidate>DATA< /Candidate>
 
 < /CandidateExportResponse>
 
@@ -338,7 +338,7 @@ RAW SOAP RESPONSE EXAMPLE
 
 DATA til dette eksempel skal afkodes, og den resulterende XML er baseret på skemaet nedenfor:  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Import og eksport af rekrutteringsprojektdata](import_and_export_of_vacancy_data.htm)
 
@@ -700,5 +700,5 @@ Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Vejledning til administratorer - Rapporter](guide_for_administrators_reports.htm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTkwNTgwMF19
+eyJoaXN0b3J5IjpbMTgyOTIxMjc5MSwxMjU1OTA1ODAwXX0=
 -->
