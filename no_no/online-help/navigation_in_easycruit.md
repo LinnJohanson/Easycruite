@@ -4,32 +4,26 @@ EasyCruit har egenskaper og funksjonalitet som gjør det mulig for organisasjone
 
 EasyCruit-arbeidsflaten har samme konsekvente utforming, uavhengig av brukerens tilgangsnivå.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Verktøylinje
+#### Verktøylinje
 
 Verktøylinjen har hurtiglinker til de viktigste komponentene som brukeren trenger i det daglige. Hvilke alternativer som er tilgjengelige på verktøylinjen, avhenger av hvilken brukertype som er innlogget.
 
-Startside
-
+**Startside**
 Tar deg til startsiden med rekrutteringsaktiviteter.
 
-Ny rekruttering
-
+**Ny rekruttering**
 Tar deg til siden der du oppretter en  ny rekruttering.
 
-Rekrutteringsoversikt
-
+**Rekrutteringsoversikt**
 Tar deg til  rekrutteringsoversikten.
 
-Innstillinger
-
+**Innstillinger**
 Tar deg til Innstillinger-siden, der du kan endre systeminnstillingene.
 
-Logg ut
-
+**Logg ut**
 Logg ut.
 
-Hjelp/støtte
-
+**Hjelp/støtte**
 Ved å klikk på spørsmålstegnet tas du til hjelpesidene.
 
 #### Innholdspanel
@@ -50,21 +44,13 @@ Ikon - Beskrivelse
 
 ![](../Resources/Images/deleted_applications.jpg) - Slettede søknader
 
-![](../Resources/Images/reports.jpg)
+![](../Resources/Images/reports.jpg) - Rapporter
 
-Rapporter
+![](../Resources/Images/guidelines.jpg) - Retningslinjer
 
-![](../Resources/Images/guidelines.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Kandidater som skal slettes
 
-Retningslinjer
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Kandidater som skal slettes
-
-![](../Resources/Images/stored_applications.jpg)
-
-Lagrede søknader
+![](../Resources/Images/stored_applications.jpg) - Lagrede søknader
 
 Toppen av  innholdspanelet  viser tekstinformasjon som endrer seg etter hvilken oppgave brukeren utfører.
 
@@ -146,5 +132,5 @@ Hvis du vil vite mer om nivåer for brukertilgang, kan du se  [Alternativer for 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTk2MjE3XX0=
+eyJoaXN0b3J5IjpbLTQzMTQzMTU2XX0=
 -->
