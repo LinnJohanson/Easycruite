@@ -25,18 +25,15 @@ Når der vælges spørgsmål, er det vigtigt, at værdierne for spørgsmålene e
 1.  I  Værktøjslinjen  klikkes på  Indstillinger  og derefter  Ansøgningsskabeloner  for at vise siden  Ansøgningsskabeloner.
 2.  Klik på skraldespandsikonet for den relevante skabelon og klik derefter på OK, når du bliver bedt om at bekræfte sletningen.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Annonceskabeloner](vacancy_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Ansættelseskontrakter](employment_contacts.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Yderligere spørgsmål](additional_questions.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Svarmails](response_emails.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTEzOTI0NzhdfQ==
+eyJoaXN0b3J5IjpbNDE2OTYwMTldfQ==
 -->
