@@ -32,39 +32,23 @@ Hjelp/støtte
 
 Ved å klikk på spørsmålstegnet tas du til hjelpesidene.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Innholdspanel
+#### Innholdspanel
 
-Ikon
+Ikon - Beskrivelse
 
-Beskrivelse
+![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Rekrutteringsoversikt
 
-Ny rekruttering
+![](../Resources/Images/recruitment_calendar.jpg) - Rekrutteringskalender
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/employees.jpg) - Medarbeidere
 
-Rekrutteringsoversikt
+![](../Resources/Images/search.jpg) - Søk
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/add_candidate.jpg) - Legg til kandidat
 
-Rekrutteringskalender
-
-![](../Resources/Images/employees.jpg)
-
-Medarbeidere
-
-![](../Resources/Images/search.jpg)
-
-Søk
-
-![](../Resources/Images/add_candidate.jpg)
-
-Legg til kandidat
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Slettede søknader
+![](../Resources/Images/deleted_applications.jpg) - Slettede søknader
 
 ![](../Resources/Images/reports.jpg)
 
@@ -86,13 +70,13 @@ Toppen av  innholdspanelet  viser tekstinformasjon som endrer seg etter hvilken 
 
 På  startsiden  og siden  Innstillinger  klikker du på ikoner som tar deg til oversiktssiden for det aktuelle emnet. Hvilke ikoner som er tilgjengelig, avhenger av tilgangsnivået til brukeren.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Hurtigmenyer
+#### Hurtigmenyer
 
 Mine aktive prosjekter  viser en oversikt over de siste ti rekrutteringsprosjektene du har sett på.  Mine utgåtte prosjekter  viser en oversikt over de siste ti utgåtte rekrutteringsprosjektene. Nedenfor finnes det hurtiglinker for å finne en søker ved å søke på navnet eller kandidatens CV ID.  Mine dokumenter  har linker til forespurte dokumenter og søkemaler hvis du har brukt disse tidligere.
 
 Hvis du velger en av rekrutteringsprosjektene som vises i  Mine aktive prosjekter  eller  Mine utgåtte prosjekter, kommer du til siden  Søknadshåndtering  for rekrutteringsprosjektet.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Tilgang til arbeidsflaten
+#### Tilgang til arbeidsflaten
 
 Tilgangen til arbeidsflaten og funksjonene der er avhengig av nivået for brukerens tilgangsrettigheter. Objekter som er tilgjengelige på  startsiden  og på siden  Innstillinger, kan konfigureres med fire standard brukernivåer eller kan i stor grad tilpasses til organisasjonens behov.
 
@@ -100,21 +84,13 @@ Følgende eksempler for en standard bruker med full tilgang og en standard bruke
 
 #### Bruker med fullstendig tilgang
 
-Ikon
+Ikon - Beskrivelse
 
-Beskrivelse
+![](../Resources/Images/new_vacancy.jpg) - Ny rekruttering
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Rekrutteringsoversikt
 
-Ny rekruttering
-
-![](../Resources/Images/vacancy_list.jpg)
-
-Rekrutteringsoversikt
-
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Rekrutteringskalender
+![](../Resources/Images/recruitment_calendar.jpg) - Rekrutteringskalender
 
 ![](../Resources/Images/employees.jpg) - Medarbeidere
 
@@ -170,5 +146,5 @@ Hvis du vil vite mer om nivåer for brukertilgang, kan du se  [Alternativer for 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMzkyNTk0XX0=
+eyJoaXN0b3J5IjpbLTI2MTk2MjE3XX0=
 -->
