@@ -4,7 +4,7 @@ Der er flere personlighedstests fra Assessio,cut-e og SHL integreret i EasyCruit
 
 Testintegrationerne er kun tilgængelige for kunder, der har abonneret på denne funktion.
 
-![Lukket](../Skins/Default/Stylesheets/Images/transparent.gif)Anvendelse af tests
+#### Anvendelse af tests
 
 1.  Når du skal bruge tests til et rekrutteringsprojekt via hurtiglinket Ny rekruttering, vælges den ønskede test under  Diverse. Indstillinger.  
     Disse tests aktiveres efterfølgende til projektet.
@@ -94,5 +94,5 @@ Du kan sende flere tests eller din organisation kan have konfigureret en ”pakk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTA1NzYyXX0=
+eyJoaXN0b3J5IjpbLTE3OTUwMzI4ODFdfQ==
 -->
