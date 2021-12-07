@@ -292,31 +292,31 @@ RAW SOAP REQUEST-EKSEMPEL
 
 xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" >
 
-<soap:Header>
+< soap:Header>
 
-<AuthHeader>
+< AuthHeader>
 
-<Customer>kunde</Customer>
+< Customer>kunde< /Customer>
 
-<Username>brukernavn</Username>
+< Username>brukernavn< /Username>
 
-<Password>passord</Password>
+< Password>passord< /Password>
 
-</AuthHeader>
+< /AuthHeader>
 
-</soap:Header>
+< /soap:Header>
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExport>
+< CandidateExport>
 
-<Language>no</Language><CandidateId>123456789</CandidateId>
+< Language>no< /Language>< CandidateId>123456789< /CandidateId>
 
-</CandidateExport>
+< /CandidateExport>
 
-</soap:Body>
+< /soap:Body>
 
-</soap:Envelope>
+< /soap:Envelope>
 
 RAW SOAP RESPONSE-EKSEMPEL
 
@@ -349,5 +349,5 @@ DATA i dette eksempelet må dekodes, og den resulterende XML-filen er basert på
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzI5OTMxNSwtMTQwNTU5ODU3NF19
+eyJoaXN0b3J5IjpbMTUxMzk1OTE4OSwtMTQwNTU5ODU3NF19
 -->
