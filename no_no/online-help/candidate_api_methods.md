@@ -338,7 +338,7 @@ RAW SOAP RESPONSE-EKSEMPEL
 
 DATA i dette eksempelet må dekodes, og den resulterende XML-filen er basert på skjemaet nedenfor:  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Importere og eksportere annonsedata](import_and_export_of_vacancy_data.htm)
 ![](../Resources/Images/icon-document-link.png)  [XML annonsefeed](vacancy_xml_feed.htm)
@@ -349,5 +349,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU1OTg1NzRdfQ==
+eyJoaXN0b3J5IjpbMTczMjI1MTA5MywtMTQwNTU5ODU3NF19
 -->
