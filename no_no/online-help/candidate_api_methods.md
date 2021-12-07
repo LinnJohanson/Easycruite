@@ -324,17 +324,17 @@ RAW SOAP RESPONSE-EKSEMPEL
 
 <soap:Envelope xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)">
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExportResponse >
+< CandidateExportResponse >
 
-<Candidate>DATA</Candidate>
+< Candidate>DATA< /Candidate>
 
-</CandidateExportResponse>
+< /CandidateExportResponse>
 
-</soap:Body>
+< /soap:Body>
 
-</soap:Envelope>
+< /soap:Envelope>
 
 DATA i dette eksempelet må dekodes, og den resulterende XML-filen er basert på skjemaet nedenfor:  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
@@ -349,5 +349,5 @@ DATA i dette eksempelet må dekodes, og den resulterende XML-filen er basert på
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjI1MTA5MywtMTQwNTU5ODU3NF19
+eyJoaXN0b3J5IjpbMTI5NzI5OTMxNSwtMTQwNTU5ODU3NF19
 -->
