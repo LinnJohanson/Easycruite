@@ -260,49 +260,49 @@ XML-skjema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Vacan
 
 <!--Du kan angi de 13 følgende elementene i vilkårlig rekkefølge-->
 
-<ProjectTitle>?</ProjectTitle>
+< ProjectTitle>?</P rojectTitle>
 
-<refId>?</refId>
+< refId>?< /refId>
 
-<TitleHeading>?</TitleHeading>
+< TitleHeading>?< /TitleHeading>
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<CompanyName>?</CompanyName>
+< CompanyName >?</CompanyName>
 
-<Body>?</Body>
+< Body>?< /Body>
 
-<Deadline>?</Deadline>
+< Deadline>?< /Deadline>
 
-<Engagement>?</Engagement>
+< Engagement>?< /Engagement>
 
-<Location>?</Location>
+ < Location>?< /Location>
 
-<DailyHours>?</DailyHours>
+< DailyHours>?< /DailyHours>
 
-<Contacts>
+< Contacts>
 
-<!--Null eller flere repetisjoner:-->
+< !--Null eller flere repetisjoner:-->
 
-<Contact>
+< Contact>
 
-<!--Du kan angi de 5 følgende elementene i vilkårlig rekkefølge-->
+< !--Du kan angi de 5 følgende elementene i vilkårlig rekkefølge-->
 
-<Name>?</Name>
+< Name> ?< /Name>
 
-< EmailAddress>?</EmailAddress>
+< EmailAddress>?< /EmailAddress>
 
-< TelephoneOffice>?</TelephoneOffice>
+< TelephoneOffice>?< /TelephoneOffice>
 
-< TelephoneMobile>?</TelephoneMobile>
+< TelephoneMobile>?< /TelephoneMobile>
 
-< Department id="?">?</Department>
+< Department id="?">?< /Department>
 
 < /Contact>
 
 < /Contacts>
 
-< Questions>?</Questions>
+< Questions>?< /Questions>
 
 < CompanyInformation>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODcxODcwNDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjExNzMyNTBdfQ==
 -->
