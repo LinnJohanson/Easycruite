@@ -9,42 +9,33 @@ Det kan være nødvendig å endre et rekrutteringsprosjekt etter publisering. En
     Merk deg alternativene som kan endres når annonsen ikke er godkjent. Merk deg alternativene som kan endres når annonsen er godkjent.
 3.  Klikk på blyantikonet for å åpne alternativet som skal endres, og gjør de ønskede endringene som beskrevet nedenfor. Klikk på  Lagre  når du er ferdig.
 
-Prosjektalternativ
-
+**Prosjektalternativ**
 Beskrivelse
 
-Tittel og Fylke
-
+**Tittel og Fylke**
 Brukes til å endre rekrutteringstittel, referansenummer, tilgjengelige språk, geografisk beliggenhet og prosjekteier.
 
-Avdelinger og kontaktpersoner
-
+**Avdelinger og kontaktpersoner**
 Brukes til å endre avdelingene som annonsen gjelder, samt å endre hvilken bruker som skal være kontaktperson i annonsen og avsender av e-post.
 
-Prosjektprofil
-
+**Prosjektprofil**
 Svar på prosjektrelaterte spørsmål som brukes til å kunne klassifisere, kan legges til, fjernes eller endres her.
 
-Annonse
-
+**Annonse**
 Brukes til å endre annonseteksten, overskriften til annonsetittel/stillingstittel og tittelen som brukes på karrieresiden der annonsen er publisert. Datoene og arbeidsstedet som er oppgitt i annonsen, kan også endres her.
 
-Søknadsskjema
-
+**Søknadsskjema**
 Her kan du angi at det skal brukes nye søknadsskjemaer, og du kan endre eksisterende søknadsskjemaer.
 
-Screeningspørsmål
-
+**Screeningspørsmål**
 Her kan du legge til, fjerne og endre unike, prosjektspesifikke screeningspørsmål.
 
-Responsmail
-
+**Responsmail**
 Automatiserte e-postmeldinger som er knyttet til det bestemte rekrutteringsprosjektet, kan endres, aktiveres eller angis som ikke aktivert.
 
-Publish2board/Publish2Print ...
-
+**Publish2board/Publish2Print ...**
 - Dette alternativet brukes til å gjøre endringer på karrieresider og andre publiseringskanaler hvor annonsen vises.
-Hvis annonsen for øyeblikket ikke er godkjent, kan ikke dette alternativet endres.
+- Hvis annonsen for øyeblikket ikke er godkjent, kan ikke dette alternativet endres.
 
 **[Tilgangskontroll](../faq/who_has_access_to_a_vacancy.htm)**
 Brukes til å velge i hvilket system brukerne kan ha tilgang til rekrutteringsprosjektet. Listen over tilgjengelige brukere er delt inn i avdelinger. Du kan nå definere en brukers rettigheter for hver enkelt rekrutteringsprosjekt. Det finnes tre forskjellige tilgangsnivåer og omfatter følgende muligheter (denne listen ikke er fullstendig):
@@ -67,5 +58,5 @@ Hvis du vil ha mer informasjon om disse alternativene, kan du se  [Opprette et n
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkyODQ2MDcyXX0=
+eyJoaXN0b3J5IjpbLTk0NzIzMzMwN119
 -->
