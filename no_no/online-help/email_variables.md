@@ -1797,12 +1797,9 @@ Ikke i bruk (finnes ikke i kildekode)
 {vacancy-ref-number}
 
 Referansenummer for rekrutteringsprosjektet
-
 Manuelt avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
-Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
+Aslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Bekreftelse av brukernavn
 Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
@@ -1845,5 +1842,5 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg2NjMyNDUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
