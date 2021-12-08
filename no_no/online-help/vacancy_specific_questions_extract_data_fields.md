@@ -2,91 +2,70 @@
 
 Utdrag av spesielle spørsmål om rekrutteringsprosjekt inkluderer kandidatenes svar på spesifikke rekrutteringsspørsmål for en valgt ledig stilling. Følgende tabell beskriver hvert av feltene som brukes i utdraget av spesielle spørsmål om rekrutteringsprosjekt:
 
-Feltnavn
-
+**Feltnavn**
 Beskrivelse
 
-Kandidat-ID
-
+**Kandidat-ID**
 Unik ID for kandidaten, systemgenerert
 
-Prosjekt-ID
-
+**Prosjekt-ID**
 Unik ID for rekrutteringsprosjektet, systemgenerert
 
-Referansenummer
-
+**Referansenummer**
 Referansenummeret for rekrutteringsprosjektet, hvis dette er brukt
 
-Rekrutteringsprosjekt
-
+**Rekrutteringsprosjekt**
 Intern tittel på rekrutteringsprosjektet, kan endres når som helst. Dette er ikke tittelen som brukes i stillingsannonsen
 
-Avdelingsnavn
-
+**Avdelingsnavn**
 Navnet på avdelingen som avdelings-ID-en viser til
 
-AvdelingsID
-
+**AvdelingsID**
 Systemgenerert ID for avdelingen der kandidaten har søkt på en stilling. Denne kan brukes ved oppslag ved andre utdrag
 
-Søknadsdato
-
+**Søknadsdato**
 Datoen da søknaden ble sendt inn
 
-Søknad oppdatert
-
+**Søknad oppdatert**
 Siste dato da søknaden ble oppdatert enten av kandidaten eller av EasyCruit-brukeren, for eksempel ved behandling av en søknad (endring av status)
 
-Kjønn
-
+**Kjønn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Fødselsdato
-
+**Fødselsdato**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Intern kategorisering
-
+**Intern kategorisering**
 Kandidattypen, f.eks. CV-kandidat, Medarbeider osv.
 
 Fornavn
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Etternavn
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Postnummer
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Poststed
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Land
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Arbeidssted
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Kommune
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 Nasjonalitet
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 E-post
-
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Spesielt spørsmål om rekrutteringsprosjekt
+**Spesielt spørsmål om rekrutteringsprosjekt**
 Kandidatens svar på dette spørsmålet, hvis stilt
 Obs! Hvert  spesielle spørsmål om rekrutteringsprosjektet  vil vises i en egen kolonne.
 Obs! Overskriften vil endre seg etter tittelen på spørsmålet.
@@ -102,5 +81,5 @@ Obs! Overskriften vil endre seg etter tittelen på spørsmålet.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY2Njg0N119
+eyJoaXN0b3J5IjpbMjAwNTgyNTk1MV19
 -->
