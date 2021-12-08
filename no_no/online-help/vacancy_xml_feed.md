@@ -32,99 +32,99 @@ EasyCruit støtter mange publiseringsperioder som brukeren kan velge. Som standa
 
 <Engagement>Fritekstfelt med tiltredelse</Engagement>
 
-<Region>
+< Region>
 
-<Country id="xx" name="Sweden"> (landet tilknyttet stillingen)
+< Country id="xx" name="Sweden"> (landet tilknyttet stillingen)
 
-<County id="xxx">Fylke i det valgte landet</County>
+< County id="xxx">Fylke i det valgte landet< /County>
 
-</Country>
+< /Country>
 
-</Region>
+< /Region>
 
-<Categories>
+< Categories>
 
-<Item type="area-of-interest" id="xxx">Interesser</Item>
+< Item type="area-of-interest" id="xxx">Interesser< /Item>
 
-<Item type="position-type" id="xxx">Stillingstype</Item>
+< Item type="position-type" id="xxx">Stillingstype< /Item>
 
-<Item type="job-level" id="xxx">Stillingsnivå</Item>
+< Item type="job-level" id="xxx">Stillingsnivå< /Item>
 
-<Item type="duration" id="xxx">Varighet</Item>
+< Item type="duration" id="xxx">Varighet< /Item>
 
-<Item type="extent" id="xxx">Omfang</Item>
+< Item type="extent" id="xxx">Omfang< /Item>
 
-<Item type="operating-time" id="xxx">Driftstid</Item>
+< Item type="operating-time" id="xxx">Driftstid< /Item>
 
-</Categories>
+< /Categories>
 
-</Version>
+< /Version>
 
-</Versions>
+< /Versions>
 
-<Departments>
+< Departments>
 
-<Department id="xxx">
+< Department id="xxx">
 
-<Name>Avdelingens navn</Name>
+< Name>Avdelingens navn< /Name>
 
-<LogoURL>Fullstendig URL til opplastet logo</LogoURL>
+<LogoURL>Fullstendig URL til opplastet logo< /LogoURL>
 
-<VacancyURL>URL til annonse</VacancyURL>
+< VacancyURL>URL til annonse< /VacancyURL>
 
-<ApplicationURL>URL til søknadsskjema</ApplicationURL>
+ < ApplicationURL>URL til søknadsskjema< /ApplicationURL>
 
-</Department>
+< /Department>
 
-</Departments>
+< /Departments>
 
-</Vacancy>
+< /Vacancy>
 
 #### Annonse-XML
 
 I tillegg til variablene ovenfor er dette variablene for stillingsannonsen.
 
-<Description>Annonsetekst med HTML-formatering inkludert</Description>
+< Description>Annonsetekst med HTML-formatering inkludert< /Description>
 
-<About>Informasjon om avdelingen med HTML-formatering</About>
+< About>Informasjon om avdelingen med HTML-formatering</ About>
 
-<PrivacyPolicy>Avdelingens personverngaranti med HTML-formatering</PrivacyPolicy>
+< PrivacyPolicy>Avdelingens personverngaranti med HTML-formatering< /PrivacyPolicy>
 
-<Address type="postal">(avdelingens postadresse)
+< Address type="postal">(avdelingens postadresse)
 
-<Street>Gatenavn/nummer</Street>
+< Street>Gatenavn/nummer< /Street>
 
-<Area>Poststed</Area>
+< Area>Poststed< /Area>
 
-<AreaCode>Postnummer</AreaCode>
+< AreaCode>Postnummer< /AreaCode>
 
-</Address>
+< /Address>
 
-<Address type="office">(avdelingens besøksadresse)
+< Address type="office">(avdelingens besøksadresse)
 
-<Street>Gatenavn/nummer</Street>
+< Street>Gatenavn/nummer< /Street>
 
-<Area>Poststed</Area>
+< Area>Poststed< /Area>
 
-<AreaCode>Postnummer</AreaCode>
+< AreaCode>Postnummer< /AreaCode>
 
-</Address>
+< /Address>
 
-<Telephone type="office">Telefon</Telephone>
+< Telephone type="office">Telefon< /Telephone>
 
-<Telephone type="telefax">Faks</Telephone>
+< Telephone type="telefax">Faks< /Telephone>
 
-<ContactPersons>
+< ContactPersons>
 
-<ContactPerson>
+< ContactPerson>
 
-<CommonName>Kontaktpersonens navn</CommonName>
+< CommonName>Kontaktpersonens navn< /CommonName>
 
-<Email>Kontaktpersonens e-postadresse (hvis publisert)</Email>
+< Email>Kontaktpersonens e-postadresse (hvis publisert)< /Email>
 
-<Telephone type="office">Kontaktpersonens telefon</Telephone>
+< Telephone type="office">Kontaktpersonens telefon< /Telephone>
 
-<Telephone type="cellular">Kontaktpersonens mobiltelefon</Telephone>
+< Telephone type="cellular">Kontaktpersonens mobiltelefon< /Telephone>
 
 < /ContactPerson>
 
@@ -167,5 +167,5 @@ Annonse:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5NzMxMTc5XX0=
+eyJoaXN0b3J5IjpbLTIwODA2ODUxM119
 -->
