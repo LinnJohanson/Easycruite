@@ -2,61 +2,49 @@
 
 Utdrag av spørsmål om kandidatprofil inkluderer kandidatenes svar på spørsmål fra Selvklassifisering – kandidatprofil og fra HR-klassifisering – kandidatprofil. Følgende tabell beskriver hvert av feltene som brukes i utdrag av spørsmål om kandidatprofil.
 
-Feltnavn
-
+**Feltnavn**
 Beskrivelse
 
-Kandidat-ID
-
+**Kandidat-ID**
 Unik ID for kandidaten, systemgenerert
 
-Sist endret
-
+**Sist endret**
 Siste dato da kandidaten gjorde en endring i opplysningene i karrieresenteret
 
-Kjønn
-
+**Kjønn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Fødselsdato
-
+**Fødselsdato**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Intern kategorisering
-
+**Intern kategorisering**
 Kandidattypen, f.eks. CV-kandidat, Medarbeider osv.
 
-Fornavn
-
+**Fornavn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Etternavn
-
+**Etternavn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Postnummer
-
+**Postnummer**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Poststed
-
+**Poststed**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Land
-
+**Land**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Arbeidssted
-
+**Arbeidssted**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Kommune
+**Kommune**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Nasjonalitet
+**Nasjonalitet**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-E-post
+**E-post**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 **Selvklassifisering – kandidatprofil**
@@ -80,5 +68,5 @@ Kandidatens svar på dette spørsmålet, hvis stilt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjg4NTE3Nl19
+eyJoaXN0b3J5IjpbLTE0NzUzODUzMDhdfQ==
 -->
