@@ -14,23 +14,23 @@ EasyCruit støtter mange publiseringsperioder som brukeren kan velge. Som standa
 
 #### Oppførings-XML
 
-<Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
+< Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
 
-<Versions>
+< Versions>
 
-<Version language="en"> (annonsespråket, f.eks. da, sv, gb osv.)
+< Version language="en"> (annonsespråket, f.eks. da, sv, gb osv.)
 
-<Title>Obligatorisk tittel</Title>
+< Title>Obligatorisk tittel< /Title>
 
-<TitleHeading>Ikke obligatorisk undertittel</TitleHeading>
+< TitleHeading>Ikke obligatorisk undertittel< /TitleHeading>
 
-<AlternativeCompanyName>Virksomhetens navn</AlternativeCompanyName>
+< AlternativeCompanyName>Virksomhetens navn< /AlternativeCompanyName>
 
-<ApplicationDeadline>Fritekstfelt med søknadsfrist</ApplicationDeadline>
+< ApplicationDeadline>Fritekstfelt med søknadsfrist< /ApplicationDeadline>
 
-<Location>Fritekstfelt med arbeidssted</Location>
+< Location>Fritekstfelt med arbeidssted< /Location>
 
-<Engagement>Fritekstfelt med tiltredelse</Engagement>
+< Engagement>Fritekstfelt med tiltredelse< /Engagement>
 
 < Region>
 
@@ -167,5 +167,5 @@ Annonse:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA2ODUxM119
+eyJoaXN0b3J5IjpbMjE0Mjc0NDYzM119
 -->
