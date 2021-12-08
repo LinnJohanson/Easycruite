@@ -23,22 +23,22 @@ Kandidatens svar på dette spørsmålet, hvis stilt
 **Innstillinger for e-postvarsling**
 Innstillinger for hvor ofte du mottar jobbvarsler
 
-Kategori
+**Kategori**
 Dette er kategorien som kriteriene tilhører. Hvis for eksempel kandidaten velger kriteriet «Nord», kan det hende kategorien Nord tilhører Arbeidssted
 
-Kriterie
+**Kriterie**
 Kandidatens svar på dette spørsmålet, hvis stilt. Det bestemte kriteriet som kandidaten har valgt for varslingen hvis stillingene matcher
 
-Kriterie ID
+**Kriterie ID**
 ID for kriteriene
 
-Dato registrert
+**Dato registrert**
 Datoen da kandidaten registrerte seg på karrieresenteret
 
-Sist endret
+**Sist endret**
 Siste dato da kandidaten gjorde en endring i opplysningene i karrieresenteret
 
-Siste innlogging
+**Siste innlogging**
 Siste dato da kandidaten logget seg inn på karrieresenteret
 
 ##### Se også:
@@ -52,5 +52,5 @@ Siste dato da kandidaten logget seg inn på karrieresenteret
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzODYxMTgwXX0=
+eyJoaXN0b3J5IjpbLTgyMjM1MzY2OF19
 -->
