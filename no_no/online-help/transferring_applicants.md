@@ -2,7 +2,7 @@
 
 Søkere kan bli overført til andre rekrutteringsprosjekter eller lagt inn i CV-databasen. Når du overfører en søker til et annet rekrutteringsprosjekt, opprettes det en ny søknad for dette rekrutteringsprosjektet. Når du overfører en søker til databasen, gjøres søkeren tilgjengelig i talentpoolen, slik at rekrutterere kan søke på disse søkerne uten at de er knyttet til noe bestemt rekrutteringsprosjekt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Overføre en søker til et annet rekrutteringsprosjekt
+#### Overføre en søker til et annet rekrutteringsprosjekt
 
 1.  Fra siden  Alle søknader  velger du søkerne du vil overføre, og deretter fra listen  Videre fremdrift  velger du  Overføre til rekrutteringsprosjekt  og klikker på  Utfør,  
     – eller –  
@@ -19,7 +19,7 @@ Søkere kan bli overført til andre rekrutteringsprosjekter eller lagt inn i CV-
 4.  Klikk på  Overfør.
 5.  Gå til den overførte søkeren, og på siden  Søknad og CV  er verdien i kolonnen  Status for prosjektet  nå  Overført.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Overføre en søker til CV-databasen
+#### Overføre en søker til CV-databasen
 
 Hvis en jobbsøker ikke er egnet for en stilling, og det ikke er andre rekrutteringsprosjekter som søkeren kan overføres til, kan søkeren avslås. Når søkere har blitt avslått, kan de overføres til CV-databasen. Hvis du vil vite mer om overføring av søkere, kan du se Overføre jobbsøkere.
 
@@ -31,7 +31,7 @@ Hvis en jobbsøker ikke er egnet for en stilling, og det ikke er andre rekrutter
     
 4.  Siden  Søknadshåndtering  blir oppdatert for å vise at søkerne nå er  Lagrede søknader, og den enkelte søkerens status er endret til  Lagret.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Overføre jobbsøkere](#)
 ![](../Resources/Images/icon-document-link.png)  [Avslå og trekke en jobbsøker](rejecting_and_withdrawing_an_applicant.htm)
@@ -42,5 +42,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDkxMTkxMl19
+eyJoaXN0b3J5IjpbODc4MDExNzA1XX0=
 -->
