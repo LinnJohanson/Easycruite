@@ -80,30 +80,18 @@ Land
 
 Egendefinerte verdier
 
-Ett
-
-Nei
+EttNei
 
 Land dropdown multiple
-
 Egendefinerte verdier
-
-Flere enn ett
-
-Nei
+Flere enn ett - Nei
 
 Dato
-
 Egendefinerte verdier
-
-Ett
-
-Nei
+Ett -  Nei
 
 Overskrift
-
 Ingen
-
 – - Nei
 
 Filopplasting
@@ -243,5 +231,6 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwNDgxNDg4LC0xMzk5MjI3ODkzXX0=
+eyJoaXN0b3J5IjpbMTYwMDkwOTk4NCwyMjA0ODE0ODgsLTEzOT
+kyMjc4OTNdfQ==
 -->
