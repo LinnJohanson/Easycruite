@@ -1828,19 +1828,18 @@ Invitasjon til SHL og cut-e
 
 Tilpasset e-post
 
-{vacancy-title}
-Rekrutteringsprosjekt
-Mottatt søknad
-Kopi av søknad
-Manuelt avslag
-Automatisk avslag
-Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-Bkreftelse av brukernavn
-Videresend søknad og CV
-Invtasjon til MINT-, Matrigma- og Service-F-tester
-cut-erapport
-Arbedskontrakt
+**{vacancy-title} - Rekrutteringsprosjekt**
+- Mottatt søknad
+-Kopi av søknad-
+Manuelt avsla-g
+Automatisk a-vslag
+Invitasjon til i-nformasjonsmøte, intervju 1, intervju 2 og intervju 3
+Avslag etter i-nformasjonsmøte, intervju 1, intervju 2 og intervju 3
+Bkreftelse av- brukernavn
+Videresend s-øknad og CV
+Invtasjon til -MINT-, Matrigma- og Service-F-tester
+cut-erappor-t
+Arbedskont-rakt
 Tips en venn om annonse
 Portable CV
 Rangering av kandidat
@@ -1858,5 +1857,5 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjAyNDk3MF19
+eyJoaXN0b3J5IjpbMTY2NjU3ODM5XX0=
 -->
