@@ -1851,24 +1851,16 @@ Videresend søknad og CV
 Invitasjon til MINT-, Matrigma- og Service-F-tester
 
 cut-e-rapport
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Varsling om utløp av annonse
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
-####¤Se også: 
+##### Se også: 
 
 ![](../Resources/Images/icon-document-link.png)  [Standard responsmailtyper](standard_response_email_types.htm)
 ![](../Resources/Images/icon-document-link.png)  [Stoppe abonnement på jobbagent](unsubscribe_from_job_agent.htm)
@@ -1877,5 +1869,5 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTU4MDc4M119
+eyJoaXN0b3J5IjpbLTQ1OTQ4NzAyOF19
 -->
