@@ -48,20 +48,20 @@ Ett - Nei
 *Egendefinerte verdier*
 Flere enn ett - Nei
 
-Dato
-Egendefinerte verdier
+**Dato**
+*Egendefinerte verdier*
 Ett -  Nei
 
-Overskrift
-Ingen
+**Overskrift**
+*Ingen*
 – - Nei
 
-Filopplasting
-Opplasting
+**Filopplasting**
+*Opplasting*
 Ett - Nei
 
-Videospørsmål
-Ta opp live eller last opp
+**Videospørsmål**
+*Ta opp live eller last opp*
 Ett - Nei
 
 Spørsmålstype  – Dette er de forskjellige spørsmålstypene som er tilgjengelig. Med unntak av  HTML formattert tekst,  Overskrift,  Filopplasting  og  Videospørsmål, består de andre spørsmålstypene av standardformater som radioknapper, rullegardinlister og fritekstfelter.
@@ -193,6 +193,6 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMzODc4NiwyMjA0ODE0ODgsLTEzOT
-kyMjc4OTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjQwMTg5OTYsMjIwNDgxNDg4LC0xMz
+k5MjI3ODkzXX0=
 -->
