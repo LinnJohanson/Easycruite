@@ -29,58 +29,32 @@ Flere enn ett
 Nei
 
 Dropdown single
-
 Egendefinerte verdier
-
-Ett
-
-Ja
+Ett - Ja
 
 Dropdown multiple
-
 Egendefinerte verdier
-
-Flere enn ett
-
-Nei
+Flere enn ett - Nei
 
 Avdelingsalternativer
-
 Systemverdier
-
-Ett
-
-Nei
+Ett - Nei
 
 HTML formattert tekst
-
 Ingen
-
-–
-
-Nei
+– - Nei
 
 Textarea
-
 Fritekst
-
-Ett
-
-Nei
+Ett - Nei
 
 Textbox
-
 Fritekst
-
-Ett
-
-Nei
+Ett - Nei
 
 Land
-
 Egendefinerte verdier
-
-EttNei
+Ett - Nei
 
 Land dropdown multiple
 Egendefinerte verdier
@@ -231,6 +205,6 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDkwOTk4NCwyMjA0ODE0ODgsLTEzOT
-kyMjc4OTNdfQ==
+eyJoaXN0b3J5IjpbNDIzNDc4MzA1LDIyMDQ4MTQ4OCwtMTM5OT
+IyNzg5M119
 -->
