@@ -104,14 +104,10 @@ Overskrift
 
 Ingen
 
-–
-
-Nei
+– - Nei
 
 Filopplasting
-
 Opplasting
-
 Ett - Nei
 
 Videospørsmål
@@ -247,5 +243,5 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5NTM5NTA3LC0xMzk5MjI3ODkzXX0=
+eyJoaXN0b3J5IjpbMjIwNDgxNDg4LC0xMzk5MjI3ODkzXX0=
 -->
