@@ -38,31 +38,31 @@ Kandidatens svar på dette spørsmålet, hvis stilt
 **Intern kategorisering**
 Kandidattypen, f.eks. CV-kandidat, Medarbeider osv.
 
-Fornavn
+**Fornavn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Etternavn
+**Etternavn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Postnummer
+**Postnummer**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Poststed
+**Poststed**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Land
+**Land**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Arbeidssted
+**Arbeidssted**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Kommune
+**Kommune**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Nasjonalitet
+**Nasjonalitet**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-E-post
+**E-post**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 **Spesielt spørsmål om rekrutteringsprosjekt**
@@ -81,5 +81,5 @@ Obs! Overskriften vil endre seg etter tittelen på spørsmålet.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTgyNTk1MV19
+eyJoaXN0b3J5IjpbLTE2NzM3MTcwODldfQ==
 -->
