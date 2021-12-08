@@ -132,7 +132,7 @@ Valg  – Avhengig av spørsmålstypen kan svarene bestå av ett eller flere val
 
 Screening  – Disse spørsmålstypene kan brukes til å screene søkere under søknadshåndteringen. Når poengverdier er aktivert, kan de brukes på svarene for spørsmålene, og hvis søkeren ikke får nok poeng fra svarene sine, kan vedkommende bli screenet ut av søknadsprosessen.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til spørsmål med radioknapp
+#### Legge til spørsmål med radioknapp
 
 Denne typen spørsmål gjør det mulig for brukeren å velge ett svar fra en liste med alternativer.
 
@@ -144,7 +144,7 @@ Denne typen spørsmål gjør det mulig for brukeren å velge ett svar fra en lis
     Hvis du valgte  Poeng  i trinn 2, skriver du inn en numerisk verdi i feltet  Poeng. Hvis du valgte  Obligatorisk, velger du  Riktig  eller  Feil  for å konfigurere screeningkriteriene for spørsmålet (Riktig  = søkeren vil gå videre,  Feil  = søkeren blir screenet bort).
 6.  Gjenta trinn 4 og 5 for hvert svar, og klikk på  Legg til  når du er ferdig.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til spørsmål med avmerkingsfelt
+#### Legge til spørsmål med avmerkingsfelt
 
 Denne typen spørsmål gjør det mulig for brukeren å velge flere svar fra en liste med alternativer.
 
@@ -154,7 +154,7 @@ Denne typen spørsmål gjør det mulig for brukeren å velge flere svar fra en l
 4.  Skriv inn ønsket verdi på hvert språk, og klikk på  Legg til.
 5.  Gjenta trinn 3 og 4 for hvert svar, og klikk på  Legg til  når du er ferdig.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til spørsmål med Dropdown single
+#### Legge til spørsmål med Dropdown single
 
 Spørsmål med Dropdown single lar brukeren velge én verdi fra listen over tilgjengelige svar. Svarene kan også gis poengverdier som brukes til å screene jobbsøkere.
 
@@ -167,7 +167,7 @@ Spørsmål med Dropdown single lar brukeren velge én verdi fra listen over tilg
     Hvis du valgte  Poeng  i trinn 2, skriver du inn en numerisk verdi i feltet  Poeng. Hvis du valgte  Obligatorisk, velger du  Riktig  eller  Feil  for å konfigurere screeningkriteriene for spørsmålet (Riktig  = søkeren vil gå videre,  Feil  = søkeren blir screenet bort).
 6.  Gjenta trinn 4 og 5 for hvert svar, og klikk  Legg til  på siden  Legg til spørsmål  når du er ferdig.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til spørsmål med Dropdown multiple
+#### Legge til spørsmål med Dropdown multiple
 
 Spørsmål med Dropdown multiple gjør det mulig å velge flere verdier fra en liste.
 
@@ -177,7 +177,7 @@ Spørsmål med Dropdown multiple gjør det mulig å velge flere verdier fra en l
 4.  Skriv inn ønsket verdi på hvert språk, og klikk på  Legg til.
 5.  Gjenta trinn 3 og 4 for hvert svar, og klikk  Legg til  på siden  Legg til spørsmål  når du er ferdig.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til spørsmål med avdelingsalternativer
+#### Legge til spørsmål med avdelingsalternativer
 
 Dette spørsmålet inneholder en liste over alle avdelingene i en organisasjon.
 
@@ -253,5 +253,5 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDI1MzYzOF19
+eyJoaXN0b3J5IjpbLTEzOTkyMjc4OTNdfQ==
 -->
