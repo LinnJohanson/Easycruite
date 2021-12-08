@@ -2,46 +2,31 @@
 
 Etter hvert som bedriftens rekrutteringsprosess utvikler seg, vil EasyCruit holde følge. Vi har en rekke verktøy som gjør det enklere å kommunisere med og behandle kandidater og identifisere interne talenter.
 
-Utfordringen
-
-Konsekvensene
-
+**Utfordringen**
+*Konsekvensene*
 Løsningen
 
-Nå kandidater
-
-Forsinkelser i rekrutteringsprosessen fordi kandidater ikke ser e-postmeldinger
-
+**Nå kandidater**
+*Forsinkelser i rekrutteringsprosessen fordi kandidater ikke ser e-postmeldinger*
 1. SMS
-
 Send oppdateringer og påminnelser enkelt på SMS til en eller flere kandidater
 
-Kommunisere regelmessig med kandidatene på en konsekvent måte, i tråd med virksomhetens utvelgelsesprosess
-
-Ingen sentral sporing av alle trinnene
-
-Inkonsekvente meldinger til kandidatene
-
+**Kommunisere regelmessig med kandidatene på en konsekvent måte, i tråd med virksomhetens utvelgelsesprosess**
+*Ingen sentral sporing av alle trinnene
+Inkonsekvente meldinger til kandidatene*
 2. Tilpassede progresjonstrinn og -e-postmeldinger
+- Forbedret kommunikasjon med kandidatene gjennom tilpassede e-postmaler
+- Mer detaljert tilbakemelding fra virksomheten om kandidater
 
-Forbedret kommunikasjon med kandidatene gjennom tilpassede e-postmaler
-
-Mer detaljert tilbakemelding fra virksomheten om kandidater
-
-  
-
-Innhente tilbakemeldinger fra kollegaer om kandidater på en strukturert måte
-
-Lavere effektivitet og dårligere synlighet ved tilbakemelding
-
-Dårligere datagrunnlag ved ansettelser, økt risiko
-
+**Innhente tilbakemeldinger fra kollegaer om kandidater på en strukturert måte**
+*Lavere effektivitet og dårligere synlighet ved tilbakemelding
+Dårligere datagrunnlag ved ansettelser, økt risiko*
 3. Rangering
 - Be om, vis og sammenligne tilbakemeldinger om kandidater
-Reduser risikoen for å ansette feil kandidat
+- Reduser risikoen for å ansette feil kandidat
 
 **Holde styr på ad hoc-kommunikasjon med kandidater**
-Tap av historikk over dialog med kandidater
+*Tap av historikk over dialog med kandidater*
 4. Toveis e-post
 Integrasjon med bedriftens vanlige e-postverktøy
 
@@ -73,5 +58,5 @@ Automatisk varsling ved potensielle duplikater
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDQ3ODUwNF19
+eyJoaXN0b3J5IjpbMTUyNDg0MTQzN119
 -->
