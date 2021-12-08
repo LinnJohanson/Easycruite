@@ -5,64 +5,64 @@ Utdrag av søknadsspørsmål inkluderer alle spesifikke spørsmål og svar om s�
 **Feltnavn**
 Beskrivelse
 
-Kandidat-ID
+**Kandidat-ID**
 Unik ID for kandidaten, systemgenerert
 
-Prosjekt-ID
+**Prosjekt-ID**
 Unik ID for rekrutteringsprosjektet, systemgenerert
 
-Referansenummer
+**Referansenummer**
 Referansenummeret for rekrutteringsprosjektet, hvis dette er brukt
 
-Rekrutteringsprosjekt
+**Rekrutteringsprosjekt**
 Intern tittel på rekrutteringsprosjektet, kan endres når som helst. Dette er ikke tittelen som brukes i stillingsannonsen
 
-Avdelingsnavn
+**Avdelingsnavn**
 Navnet på avdelingen som avdelings-ID-en viser til
 
-AvdelingsID
+**AvdelingsID**
 Systemgenerert ID for avdelingen der kandidaten har søkt på en stilling. Denne kan brukes ved oppslag ved andre utdrag
 
-Søknadsdato
+**Søknadsdato**
 Datoen da søknaden ble sendt inn
 
-Søknad oppdatert
+**Søknad oppdatert**
 Siste dato da søknaden ble oppdatert enten av kandidaten eller av EasyCruit-brukeren, for eksempel ved behandling av en søknad (endring av status)
 
-Kjønn
+**Kjønn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Fødselsdato
+**Fødselsdato**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Intern kategorisering
+**Intern kategorisering**
 Kandidattypen, f.eks. CV-kandidat, Medarbeider osv.
 
-Fornavn
+**Fornavn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Etternavn
+**Etternavn**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Postnummer
+**Postnummer**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Poststed
+**Poststed**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Land
+**Land**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Arbeidssted
+**Arbeidssted**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Kommune
+**Kommune**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Nasjonalitet
+**Nasjonalitet**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-E-post
+**E-post**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
 **Søknadsprofil**
@@ -81,5 +81,5 @@ Kandidatens svar på dette spørsmålet, hvis stilt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ1Nzc5NjNdfQ==
+eyJoaXN0b3J5IjpbLTYyMTgyNTQ1MV19
 -->
