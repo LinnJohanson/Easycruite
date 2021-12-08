@@ -75,65 +75,65 @@ E-post blir manuelt sendt til kandidater med beskjed om at de ikke kommer videre
 Avslag intervju 3 (1)
 
 E-post blir manuelt sendt til kandidater med beskjed om at de ikke kommer videre i søknadsbehandlingen.
-
+***
 **Annet**
 Beskrivelse
 
-Lagre og send brukernavn
+**Lagre og send brukernavn**
 E-post sendt til kandidater som informerer dem om at opplysningene deres blir lagret i CV-basen, og at de kan logge inn med brukernavnet og passordet sitt og endre opplysningene.
 
-Overføring av ikke-ansatte kandidater til CV-base
+**Overføring av ikke-ansatte kandidater til CV-base**
 E-post sendt til kandidater som ikke lyktes med søknaden sin. Inneholder brukernavnet og passordet deres, og oppfordrer dem til å søke på andre stillinger.
 
-Invitere medarbeider til å legge inn sin CV
+**Invitere medarbeider til å legge inn sin CV**
 E-post sendt til interne medarbeidere som inviterer dem til å logge inn på virksomhetens kandidatside og kontrollere at opplysningene deres er oppdaterte.
 
-Videresend søknad og CV (1)
+**Videresend søknad og CV (1)**
 E-post videresendt til relevante kontakter som inneholder søkerens CV og søknad.
 
-Lagre og send brukernavn
+**Lagre og send brukernavn**
 E-post sendt til kandidater som informerer dem om at opplysningene deres blir lagret i CV-basen, og at de kan logge inn med brukernavnet og passordet sitt og endre opplysningene.
 
-Innkalling til Service-F
+**Innkalling til Service-F**
 E-postinvitasjon sendt til søkere for Service-F-testen.
 
-Invitasjon til Matrigma test
+**Invitasjon til Matrigma test**
 E-postinvitasjon sendt til søkere for Matrigma-testen.
 
-Cattell 16PF5
+**Cattell 16PF5**
 E-postinvitasjon sendt til søkere for 16PF-testen
 
-Invitasjon til MINT test
+**Invitasjon til MINT test**
 E-postinvitasjon sendt til søkere for MINT-testen.
 
-cut-e kandidatrapport
+**cut-e kandidatrapport**
 E-post sendt til en kandidat som har gjennomført en cut-e test.
 
-Jobbagent
+**Jobbagent**
 E-post sendt til en kandidat med informasjon om nåværende matchende jobber.
 
-Kundeinnstillinger – inaktiv kandidater med login
+**Kundeinnstillinger – inaktiv kandidater med login**
 E-post sendt til kandidater som ikke har oppdatert CV i løpet av en viss tid, og som oppfordrer dem til å logge inn på kandidatsiden og oppdatere opplysningene.
 
-Landinnstillinger – inaktiv kandidater med login
+**Landinnstillinger – inaktiv kandidater med login**
 E-post sendt til kandidater som ikke har vært innlogget i løpet av en viss tid.
 
-Inaktiv kandidater uten login
+**Inaktiv kandidater uten login**
 E-post sendt til kandidater som ikke har vært innlogget i løpet av en viss tid.
 
-Videre fremdriftsrapport (1)
+**Videre fremdriftsrapport (1)**
 E-post sendt til relevante kontakter som inneholder informasjon om kandidater som ikke har været aktive over en bestemt periode for et spesifikt rekrutteringsprosjekt.
 
-Samarbeidsrangering
+**Samarbeidsrangering**
 E-post sendt til relevante kontakter som ber dem om å gi tilbakemelding om kvaliteten på en kandidat. Dette omfatter en link til der de kan vurdere kandidaten.
 
-Informasjon til nye brukere
+**Informasjon til nye brukere**
 E-post sendt til nye brukere som inneholder brukernavn og passord for å logge inn på EasyCruit.
 
-Godkjenning av annonse
+**Godkjenning av annonse**
 E-post sendt for å sende en annonse til godkjenning. Denne e-posten blir sendt til brukere som er valgt til godkjennere for annonser.
 
-Varsel om at publiseringsperioden snart utgår (1, 2)
+**Varsel om at publiseringsperioden snart utgår (1, 2)**
 E-post sendt til rekrutterere et bestemt antall dager før et rekrutteringsprosjekt utløper. Dette gir rekrutterere tid til å forskyve utløpsdatoen hvis det er aktuelt.
 
 Glemt passord
@@ -205,5 +205,5 @@ Denne seksjonen må aktiveres av EasyCruit-konsulenten din. Når den er aktivert
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjgxMjEzOV19
+eyJoaXN0b3J5IjpbLTUwMTY5MjYxOV19
 -->
