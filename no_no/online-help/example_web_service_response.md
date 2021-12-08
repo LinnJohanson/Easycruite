@@ -4,11 +4,11 @@
 
 < PersonalDetails>
 
-< CurrentEmploymentStatus id="17">Engagement</CurrentEmploymentStatus>
+< CurrentEmploymentStatus id="17">Engagement< /CurrentEmploymentStatus>
 
-< Title id="1">Mr</Title>
+< Title id="1">Mr< /Title>
 
-< TitleGrade>Hr</TitleGrade>
+< TitleGrade>Hr< /TitleGrade>
 
 < FirstName>Fornavn< /FirstName>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk3OTIxNjZdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQwMDcyMTRdfQ==
 -->
