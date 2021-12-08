@@ -1,41 +1,33 @@
 # Standard responsmailtyper
 
-Mottatt søknad
-
+**Mottatt søknad**
 Beskrivelse
 
-Mottatt søknad (1, 2)
-
+**Mottatt søknad (1, 2)**
 E-post sendt til kandidater for å bekrefte at søknaden deres er mottatt.
 
-CV registrert (1)
-
+**CV registrert (1)**
 E-post sendt til kandidater for å bekrefte at CV-en deres er registrert.
 
-Send kandidaten en kopi av søknaden
-
+**Send kandIdaten en kopi av søknaden**
 E-post sendt til kandidater som ber om at en kopi av søknaden videresendes til dem. For at denne funksjonaliteten skal være tilgjengelig, må søknadsskjemaet inneholde feltene for e-post i seksjonen for personalia.
 
-Søknad lagret (1, 2)
-
+**Søknad lagret (1, 2)**
 Personlig e-post som blir sendt til en kandidat, som bekrefter at søknaden er blitt lagret.
-
-Avslag søknad
-
+***
+**Avslag søknad**
 Beskrivelse
 
-Manuelt avslag (1)
-
+**Manuelt avslag (1)**
 E-post sendt til kandidater som informerer om at de ikke er egnet for stillingen.
 
-Automatisk avslag (1, 2)
-
+**Automatisk avslag (1, 2)**
 E-post sendt til kandidater som ikke oppnår tilstrekkelig resultat fra screeningspørsmålene for en stilling.
-
-Tidsbestemt avslag
+***
+**Tidsbestemt avslag**
 Beskrivelse
 
-Tidsbestemt avslag (1, 2)
+**Tidsbestemt avslag (1, 2)**
 E-post sendt til kandidater som informerer dem om at søknaden deres ikke går til videre behandling. Den sendes basert på manglende fremdrift i løpet av en bestemt periode (uker).
 ***
 **Møteinnkalling / -avslag**
@@ -194,5 +186,5 @@ Denne seksjonen må aktiveres av EasyCruit-konsulenten din. Når den er aktivert
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5ODg5MzMzXX0=
+eyJoaXN0b3J5IjpbLTExODcwOTgwOTldfQ==
 -->
