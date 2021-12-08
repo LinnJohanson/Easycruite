@@ -7,26 +7,16 @@ Tabellen nedenfor gir et sammendrag av hver spørsmålstype.
 Spørsmålstype
 
 Tilgjengelig svar
-
 Valg
-
 Screening
 
 Radiobuttons
-
 Egendefinerte verdier
-
-Ett
-
-Ja
+Ett - Ja
 
 Checkboxes
-
 Egendefinerte verdier
-
-Flere enn ett
-
-Nei
+Flere enn ett - Nei
 
 Dropdown single
 Egendefinerte verdier
@@ -205,6 +195,6 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNDc4MzA1LDIyMDQ4MTQ4OCwtMTM5OT
-IyNzg5M119
+eyJoaXN0b3J5IjpbLTE2MDA5NzM3NDMsMjIwNDgxNDg4LC0xMz
+k5MjI3ODkzXX0=
 -->
