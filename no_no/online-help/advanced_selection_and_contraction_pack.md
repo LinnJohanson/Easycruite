@@ -62,20 +62,13 @@ Identifisere interne talenter som er gode kandidater til ledige stillinger
 
 Høyere rekrutteringskostnader
 
-Lengre tid på ansettelser
-
-Lengre tid på å oppnå produktivitet
-
+Lengre tid på ansettelser - Lengre tid på å oppnå produktivitet:
 6. Klassifisering av medarbeidere
-
 Søk på interne talenter basert på dine kriterier
 
-Dobbelthåndtering av duplikatsøknader
-
-Tid brukt på vurdering av en kandidat mer enn én gang
-
+**Dobbelthåndtering av duplikatsøknader**
+*Tid brukt på vurdering av en kandidat mer enn én gang*
 7. Kontroll av duplikatkandidater
-
 Automatisk varsling ved potensielle duplikater
 
 ##### Se også:
@@ -89,5 +82,5 @@ Automatisk varsling ved potensielle duplikater
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjkyMTY5M119
+eyJoaXN0b3J5IjpbLTk5ODYwMzgyXX0=
 -->
