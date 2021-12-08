@@ -4,7 +4,7 @@ Utdrag av spesielle spørsmål om rekrutteringsprosjekt inkluderer kandidatenes 
 
 **Feltnavn**
 Beskrivelse
-
+***
 **Kandidat-ID**
 Unik ID for kandidaten, systemgenerert
 
@@ -81,5 +81,5 @@ Obs! Overskriften vil endre seg etter tittelen på spørsmålet.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzM3MTcwODldfQ==
+eyJoaXN0b3J5IjpbMzc3OTEzMjkzXX0=
 -->
