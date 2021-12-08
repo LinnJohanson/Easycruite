@@ -69,63 +69,63 @@ XML-skjema for VacancyList response:  [https://www.easycruit.com/wsdl/ws/Vacancy
 
 <soapenv:Body>
 
-<urn:VacancyList>
+< urn:VacancyList>
 
-<urn:Vacancy language="?" department="?"/>
+< urn:Vacancy language="?" department="?"/>
 
-</urn:VacancyList>
+< /urn:VacancyList>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### VacancyList SOAP response-eksempel
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyListResponse>
+< urn:VacancyListResponse>
 
-<VacancyList ContentLanguage="?">
+< VacancyList ContentLanguage="?">
 
-<!--Null eller flere repetisjoner:-->
+< !--Null eller flere repetisjoner:-->
 
-<Vacancy id="?">
+< Vacancy id="?">
 
-<!--Du kan angi de 4 følgende elementene i vilkårlig rekkefølge-->
+< !--Du kan angi de 4 følgende elementene i vilkårlig rekkefølge-->
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<RefId>?</RefId>
+< RefId>?< /RefId>
 
-<Departments>
+< Departments>
 
-<!--1 eller flere repetisjoner:-->
+ < !--1 eller flere repetisjoner:-->
 
-<Department id="?">?</Department>
+< Department id="?">?< /Department>
 
-</Departments>
+< /Departments>
 
-<Languages>
+< Languages>
 
-<!--1 eller flere repetisjoner:-->
+< !--1 eller flere repetisjoner:-->
 
-<Language iso="?">?</Language>
+< Language iso="?">?< /Language>
 
-</Languages>
+< /Languages>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyListResponse>
+< /urn:VacancyListResponse>
+ 
+< /soapenv:Body>
 
-</soapenv:Body>
-
-</soapenv:Envelope>
+</ soapenv:Envelope>
 
 .NET C#-eksempel
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDkyODcwMl19
+eyJoaXN0b3J5IjpbMTk3NDYxMzM5NF19
 -->
