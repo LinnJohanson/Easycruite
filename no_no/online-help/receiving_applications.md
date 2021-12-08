@@ -4,7 +4,7 @@ Søknader fra kandidater kan legges inn i EasyCruit på forskjellige måter. Den
 
 Så snart en ledig stilling er tilgjengelig på en karriereside, har kandidater mulighet til å søke og EasyCruit begynner å motta disse søknadene.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Bruke virksomhetens nettsted
+#### Bruke virksomhetens nettsted
 
 Virksomhetens nettsted som er valgt som publiseringskanal under opprettelsen av rekrutteringsprosjektet, er hovedkilden til søknader i EasyCruit. Søknader som kommer inn via nettstedet, blir automatisk knyttet til det aktuelle rekrutteringsprosjektet og er lett tilgjengelige via fanen  Søknadshåndtering  i rekrutteringsprosjektet.
 
@@ -37,5 +37,5 @@ Søknader som sendes inn manuelt, for eksempel via e-post utenom EasyCruit, må 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA5NDk0NzRdfQ==
+eyJoaXN0b3J5IjpbMTk1NDI0NzYwM119
 -->
