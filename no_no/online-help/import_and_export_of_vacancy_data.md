@@ -290,47 +290,47 @@ XML-skjema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Vacan
 
 <Name>?</Name>
 
-<EmailAddress>?</EmailAddress>
+< EmailAddress>?</EmailAddress>
 
-<TelephoneOffice>?</TelephoneOffice>
+< TelephoneOffice>?</TelephoneOffice>
 
-<TelephoneMobile>?</TelephoneMobile>
+< TelephoneMobile>?</TelephoneMobile>
 
-<Department id="?">?</Department>
+< Department id="?">?</Department>
 
-</Contact>
+< /Contact>
 
-</Contacts>
+< /Contacts>
 
-<Questions>?</Questions>
+< Questions>?</Questions>
 
-<CompanyInformation>
+< CompanyInformation>
 
-<!--Null eller flere repetisjoner:-->
+< !--Null eller flere repetisjoner:-->
 
-<Company>
+< Company>
 
-<!--Du kan angi de 3 følgende elementene i vilkårlig rekkefølge-->
+ < !--Du kan angi de 3 følgende elementene i vilkårlig rekkefølge-->
 
-<Department>?</Department>
+< Department>?< /Department>
 
-<About>?</About>
+< About>?</ About>
 
-<Homepage>?</Homepage>
+ < Homepage>?< /Homepage>
 
-</Company>
+< /Company>
 
-</CompanyInformation>
+< /CompanyInformation>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyExportResponse>
+< /urn:VacancyExportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C#-eksempel:
 
@@ -420,61 +420,61 @@ XML-skjema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Vacan
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Valgfritt:-->
+< !--Valgfritt:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImport>
+< urn:VacancyImport>
 
-<!--1 eller flere repetisjoner:-->
+< !--1 eller flere repetisjoner:-->
+ 
+< urn:Vacancy RefId="?">
 
-<urn:Vacancy RefId="?">
+ < !--1 eller flere repetisjoner:-->
 
-<!--1 eller flere repetisjoner:-->
+ < urn:Version Language="?">
 
-<urn:Version Language="?">
+< --Du kan angi de 8 følgende elementene i vilkårlig rekkefølge-->
 
-<!--Du kan angi de 8 følgende elementene i vilkårlig rekkefølge-->
+< urn:Title>? /urn:Title>
 
-<urn:Title>?</urn:Title>
+< !--Valgfritt:-->
 
-<!--Valgfritt:-->
+< urn:TitleHeading>?< /urn:TitleHeading>
 
-<urn:TitleHeading>?</urn:TitleHeading>
+< !--Valgfritt:-->
 
-<!--Valgfritt:-->
+ < urn:Body>? </ urn:Body>
 
-<urn:Body>?</urn:Body>
+< !--Valgfritt:-->
 
-<!--Valgfritt:-->
+< urn:Deadline>?< /urn:Deadline>
 
-<urn:Deadline>?</urn:Deadline>
+< !--Valgfritt:-->
 
-<!--Valgfritt:-->
+< urn:Engagement>?< /urn:Engagement>
 
-<urn:Engagement>?</urn:Engagement>
-
-<!--Valgfritt:-->
+< !--Valgfritt:-->
 
 < urn:Location>?< /urn:Location>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDM5Njc3XX0=
+eyJoaXN0b3J5IjpbLTEzODcxODcwNDRdfQ==
 -->
