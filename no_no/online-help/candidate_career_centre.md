@@ -27,7 +27,7 @@ Kandidater som logger seg inn via karrieresenteret, sparer tid når de skal søk
 
 Kandidater kan oppdatere profilen sin, slik at du alltid har oppdaterte opplysninger om dem.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Lagre søknader i karrieresenteret](save_applications_in_candidate_career_centre.htm)
 
@@ -40,5 +40,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjIzNTIwMl19
+eyJoaXN0b3J5IjpbMTg1NzM1OTcwN119
 -->
