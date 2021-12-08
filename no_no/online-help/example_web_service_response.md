@@ -66,93 +66,93 @@
 
 <PositionTitle>Test</PositionTitle>
 
-<PositionDescription>Beskrivelse</PositionDescription>
+< PositionDescription>Beskrivelse</PositionDescription>
 
-<Sector id="35"/>
+< Sector id="35"/>
 
-<JobCategory id="35">Call Centre</JobCategory>
+< JobCategory id="35">Call Centre</JobCategory>
 
-<SubCategory id="357">Team Leader</SubCategory>
+< SubCategory id="357">Team Leader</SubCategory>
 
-<WorkRole id="6">Kundansvarig</WorkRole>
+< WorkRole id="6">Kundansvarig</WorkRole>
 
-<StartDate>01.04.2010</StartDate>
+< StartDate>01.04.2010</StartDate>
 
-<EndDate>01.03.2013</EndDate>
+< EndDate>01.03.2013</EndDate>
 
-</Employment>
+< /Employment>
 
-</EmploymentHistory>
+< /EmploymentHistory>
 
-<EducationHistory>
+< EducationHistory>
 
-<Education current="1" id="20060247">
+< Education current="1" id="20060247">
 
-<InstituteType id="3">College</InstituteType>
+< InstituteType id="3">College< /InstituteType>
 
-<InstituteName>Skole</InstituteName>
+< InstituteName>Skole</ InstituteName>
 
-<AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
+< AreaOfEducation id="98">Aerospace Engineering< /AreaOfEducation>
 
-<Degree id="91">Architect</Degree>
+< Degree id="91">Architect< /Degree>
 
-<StartDate>01.03.2010</StartDate>
+< StartDate>01.03.2010< /StartDate>
 
-<EndDate>01.04.2014</EndDate>
+< EndDate>01.04.2014< /EndDate>
 
-<AverageGrade>Karakterer</AverageGrade>
+< AverageGrade>Karakterer< /AverageGrade>
 
-<ResultPoints>544</ResultPoints>
+< ResultPoints>544</ ResultPoints>
 
-<Country iso="SE" id="14">Sweden</Country>
+< Country iso="SE" id="14">Sweden</ Country>
 
-<Comments>Spesialisering</Comments>
+< Comments>Spesialisering< /Comments>
 
-</Education>
+< /Education>
 
-</EducationHistory>
+< /EducationHistory>
 
-<Certifications>
+< Certifications>
 
-<Certification id="5101959">
+< Certification id="5101959">
 
-<Name>Kurs</Name>
+< Name>Kurs< /Name>
 
-<Description>Beskr.</Description>
+< Description>Beskr.< /Description>
 
-<StartDate>01.04.2010</StartDate>
+< StartDate>01.04.2010< /StartDate>
 
-<EndDate>01.04.2014</EndDate>
+< EndDate>01.04.2014< /EndDate>
 
-<Duration type="hours">100</Duration>
+< Duration type="hours">100< /Duration>
 
-</Certification>
+< /Certification>
 
-</Certifications>
+< /Certifications>
 
-<References>
+< References>
 
-<Reference id="3686853">
+< Reference id="3686853">
 
-<CompanyName>Virksomhet</CompanyName>
+< CompanyName>Virksomhet< /CompanyName>
 
-<PersonName>Navn</PersonName>
+< PersonName>Navn< /PersonName>
 
-<ContactInfo>123456</ContactInfo>
+< ContactInfo>123456< /ContactInfo>
 
-</Reference>
+< /Reference>
 
-</References>
+< /References>
+ 
+< Competencies name="IT Knowledge">
 
-<Competencies name="IT Knowledge">
+< Competency id="12018913">
 
-<Competency id="12018913">
+< Name>Office< /Name>
 
-<Name>Office</Name>
+< Level id="3">2. Advanced student< /Level>
 
-<Level id="3">2. Advanced student</Level>
-
-</Competency>
+< /Competency>
 
 < /Competencies>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDIyNjc4MF19
+eyJoaXN0b3J5IjpbLTkzNTYwMjgzOF19
 -->
