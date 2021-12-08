@@ -37,32 +37,23 @@ Lavere effektivitet og dårligere synlighet ved tilbakemelding
 Dårligere datagrunnlag ved ansettelser, økt risiko
 
 3. Rangering
-
-Be om, vis og sammenligne tilbakemeldinger om kandidater
-
+- Be om, vis og sammenligne tilbakemeldinger om kandidater
 Reduser risikoen for å ansette feil kandidat
 
-Holde styr på ad hoc-kommunikasjon med kandidater
-
+**Holde styr på ad hoc-kommunikasjon med kandidater**
 Tap av historikk over dialog med kandidater
-
 4. Toveis e-post
-
 Integrasjon med bedriftens vanlige e-postverktøy
 
-Inkonsekvente avtaler
-
-Tid til å utarbeide avtaler
-
+**Inkonsekvente avtaler**
+*Tid til å utarbeide avtaler*
 5. Avtalemal
-
 Utskriftsfletting for å lage tilpassede avtaler for nye ansettelser
 
-Identifisere interne talenter som er gode kandidater til ledige stillinger
-
-Høyere rekrutteringskostnader
-
-Lengre tid på ansettelser - Lengre tid på å oppnå produktivitet:
+**Identifisere interne talenter som er gode kandidater til ledige stillinger**
+*Høyere rekrutteringskostnader
+Lengre tid på ansettelser
+Lengre tid på å oppnå produktivitet*
 6. Klassifisering av medarbeidere
 Søk på interne talenter basert på dine kriterier
 
@@ -82,5 +73,5 @@ Automatisk varsling ved potensielle duplikater
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODYwMzgyXX0=
+eyJoaXN0b3J5IjpbLTMyMDQ3ODUwNF19
 -->
