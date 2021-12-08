@@ -23,40 +23,40 @@ Tidligste dato da den ledige stillingen ble publisert
 **Lukket dato**
 Dette er datoen da den ledige stillingen ble avsluttet/fylt i EasyCruit, ikke da den sist ble publisert
 
-Status for prosjektet
+**Status for prosjektet**
 Nye og aktive / Utgåtte / Avsluttede
 
-Prosjekteier
+**Prosjekteier**
 Unik system-ID på personen som ble tilordnet da rekrutteringsprosjektet ble opprettet
 
-Navn
+**Navn**
 Navnet på personen som ble tilordnet da rekrutteringsprosjektet ble opprettet
 
-Nåværende godkjenningsstatus
+**Nåværende godkjenningsstatus**
 j = godkjent, n = ikke godkjent, Avventer = godkjenningsforespørsel sendt, men ennå ikke godkjent, tomt = godkjenningsforespørsel ikke sendt
 
-Godkjent av
+**Godkjent av**
 Navnet på personen som godkjente annonsen, hvis godkjenning blir brukt
 
-Godkjent dato
+**Godkjent dato**
 Datoen da annonsen ble godkjent, hvis godkjenning blir brukt
 
-Avdelingsnavn
+**Avdelingsnavn**
 Navnet på avdelingen som rekrutteringsprosjektet er knyttet til. Hvis det er knyttet til mer enn én avdeling, vises alle avdelingene, atskilt med et skilletegn
 
-AvdelingsID
+**AvdelingsID**
 Systemgenerert ID for avdelingen som rekrutteringsprosjektet er knyttet til. Hvis det er knyttet til mer enn én avdeling, vises alle avdelingene, atskilt med et skilletegn
 
-Kontaktpersoner
+**Kontaktpersoner**
 Navnet på kontaktpersonene som er lagt til i rekrutteringsprosjektet
 
-Land
+**Land**
 Landet valgt for rekrutteringsprosjektet
 
-Arbeidssted
+**Arbeidssted**
 Arbeidsstedene valgt for rekrutteringsprosjektet
 
-Prosjektprofilspørsmål
+**Prosjektprofilspørsmål**
 - Informasjon som er oppgitt for stillingen i seksjonen Prosjektprofil hvis det er kommet inn spørsmål om stillingen.
 - Obs! Hvert spørsmål fra Klassifisering – Prosjekt profil vil vises i en egen kolonne.
 - Obs! Overskriften vil endre seg etter tittelen på spørsmålet.
@@ -72,5 +72,5 @@ Prosjektprofilspørsmål
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3MjQ5NjUzXX0=
+eyJoaXN0b3J5IjpbLTIyNzUzODA1OSw2MzcyNDk2NTNdfQ==
 -->
