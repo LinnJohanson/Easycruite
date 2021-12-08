@@ -208,57 +208,57 @@ XML-skjema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Vacan
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Valgfritt:-->
+ < !--Valgfritt:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExport>
+ < urn:VacancyExport>
 
-<urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
+< urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
 
-</urn:VacancyExport>
+< /urn:VacancyExport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 ## VacancyExport SOAP response-eksempel
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExportResponse>
+< urn:VacancyExportResponse>
 
-<VacancyList>
+< VacancyList>
 
-<!--Null eller flere repetisjoner:-->
+< !--Null eller flere repetisjoner:-->
 
-<Vacancy id="?" language="?">
+< Vacancy id="?" language="?">
 
-<!--Du kan angi de 13 følgende elementene i vilkårlig rekkefølge-->
+< !--Du kan angi de 13 følgende elementene i vilkårlig rekkefølge-->
 
 < ProjectTitle>?</P rojectTitle>
 
@@ -268,7 +268,7 @@ XML-skjema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Vacan
 
 < Title>?< /Title>
 
-< CompanyName >?</CompanyName>
+< CompanyName >?< /CompanyName>
 
 < Body>?< /Body>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjExNzMyNTBdfQ==
+eyJoaXN0b3J5IjpbLTgwNDkyODcwMl19
 -->
