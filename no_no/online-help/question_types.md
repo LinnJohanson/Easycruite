@@ -4,50 +4,48 @@ Systemet har flere forskjellige spørsmålstyper for å ta hensyn til ulike rekr
 
 Tabellen nedenfor gir et sammendrag av hver spørsmålstype.
 
-Spørsmålstype
+**Spørsmålstype**
+*Tilgjengelig svar*
+Valg - Screening
 
-Tilgjengelig svar
-Valg
-Screening
-
-Radiobuttons
-Egendefinerte verdier
+**Radiobuttons**
+*Egendefinerte verdier*
 Ett - Ja
 
-Checkboxes
-Egendefinerte verdier
+**Checkboxes**
+*Egendefinerte verdier*
 Flere enn ett - Nei
 
-Dropdown single
-Egendefinerte verdier
+**Dropdown single**
+*Egendefinerte verdier*
 Ett - Ja
 
-Dropdown multiple
-Egendefinerte verdier
+**Dropdown multiple**
+*Egendefinerte verdier*
 Flere enn ett - Nei
 
-Avdelingsalternativer
-Systemverdier
+**Avdelingsalternativer**
+*Systemverdier*
 Ett - Nei
 
-HTML formattert tekst
-Ingen
+**HTML formattert tekst**
+*Ingen*
 – - Nei
 
-Textarea
-Fritekst
+**Textarea**
+*Fritekst*
 Ett - Nei
 
-Textbox
-Fritekst
+**Textbox**
+*Fritekst*
 Ett - Nei
 
-Land
-Egendefinerte verdier
+**Land**
+*Egendefinerte verdier*
 Ett - Nei
 
-Land dropdown multiple
-Egendefinerte verdier
+**Land dropdown multiple**
+*Egendefinerte verdier*
 Flere enn ett - Nei
 
 Dato
@@ -195,6 +193,6 @@ Denne typen spørsmål gjør det mulig for en kandidat å svare på spørsmålet
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA5NzM3NDMsMjIwNDgxNDg4LC0xMz
-k5MjI3ODkzXX0=
+eyJoaXN0b3J5IjpbLTE5MTMzODc4NiwyMjA0ODE0ODgsLTEzOT
+kyMjc4OTNdfQ==
 -->
