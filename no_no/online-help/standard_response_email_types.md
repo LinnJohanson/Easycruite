@@ -33,47 +33,36 @@ Automatisk avslag (1, 2)
 E-post sendt til kandidater som ikke oppnår tilstrekkelig resultat fra screeningspørsmålene for en stilling.
 
 Tidsbestemt avslag
-
 Beskrivelse
 
 Tidsbestemt avslag (1, 2)
-
 E-post sendt til kandidater som informerer dem om at søknaden deres ikke går til videre behandling. Den sendes basert på manglende fremdrift i løpet av en bestemt periode (uker).
-
-Møteinnkalling / -avslag
-
+***
+**Møteinnkalling / -avslag**
 Beskrivelse
 
-Informasjonsmøte (1)
-
+**Informasjonsmøte (1)**
 E-post sendt til kandidater for et informasjonsmøte/telefonintervju.
 
-Intervju 1 (1)
-
+**Intervju 1 (1)**
 E-post sendt til kandidater for innkalling til intervju 1.
 
-Intervju 2 (1)
-
+**Intervju 2 (1)**
 E-post sendt til kandidater for innkalling til intervju 2.
 
-Intervju 3 (1)
-
+**Intervju 3 (1)**
 E-post sendt til kandidater for innkalling til intervju 3.
 
-Avslag informasjonsmøte (1)
-
+**Avslag informasjonsmøte (1)**
 E-post blir manuelt sendt til kandidater med beskjed om at de ikke kommer videre i søknadsbehandlingen.
 
-Avslag intervju 1 (1)
-
+**Avslag intervju 1 (1)**
 E-post blir manuelt sendt til kandidater med beskjed om at de ikke kommer videre i søknadsbehandlingen.
 
-Avslag intervju 2 (1)
-
+**Avslag intervju 2 (1)**
 E-post blir manuelt sendt til kandidater med beskjed om at de ikke kommer videre i søknadsbehandlingen.
 
-Avslag intervju 3 (1)
-
+**Avslag intervju 3 (1)**
 E-post blir manuelt sendt til kandidater med beskjed om at de ikke kommer videre i søknadsbehandlingen.
 ***
 **Annet**
@@ -136,25 +125,25 @@ E-post sendt for å sende en annonse til godkjenning. Denne e-posten blir sendt 
 **Varsel om at publiseringsperioden snart utgår (1, 2)**
 E-post sendt til rekrutterere et bestemt antall dager før et rekrutteringsprosjekt utløper. Dette gir rekrutterere tid til å forskyve utløpsdatoen hvis det er aktuelt.
 
-Glemt passord
+**Glemt passord**
 E-post sendt til brukere som har sendt forespørsel om passord.
 
-Arbeidskontrakt e-post
+**Arbeidskontrakt e-post**
 E-post sendt til kandidater som er tilbudt arbeidskontrakt.
 
-Tips en venn
+**Tips en venn**
 E-post brukt til å gi kandidater mulighet til å tipse vennene sine.
 
-Portable CV
+**Portable CV**
 E-post brukt til å sende en Portable CV.
 
-Automatisk oppdater til lagret
+**Automatisk oppdater til lagret**
 Automatisk oppdater kandidatens kategori fra Kandidat til Lagret.
 
-Send epost for rangering av kandidater
+**Send epost for rangering av kandidater**
 E-post til deltakere i samarbeidsrangering, med forespørsel om å rangere og/eller kommentere.
 
-Send epostbekreftelse til rekrutterer med bekreftelse på fullført rangering
+**Send epostbekreftelse til rekrutterer med bekreftelse på fullført rangering**
 E-post som sendes prosjektansvarlig for hver fullførte rangering.
 ***
 **Brevpost**
@@ -205,5 +194,5 @@ Denne seksjonen må aktiveres av EasyCruit-konsulenten din. Når den er aktivert
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTY5MjYxOV19
+eyJoaXN0b3J5IjpbMjQ5ODg5MzMzXX0=
 -->
