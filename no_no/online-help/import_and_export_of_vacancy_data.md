@@ -45,29 +45,29 @@ XML-skjema for VacancyList response:  [https://www.easycruit.com/wsdl/ws/Vacancy
 
 <soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Valgfritt:-->
+< !--Valgfritt:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+</ soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
 < urn:VacancyList>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NDYxMzM5NF19
+eyJoaXN0b3J5IjpbNTkwMzc4NDY4XX0=
 -->
