@@ -1829,29 +1829,18 @@ Invitasjon til SHL og cut-e
 Tilpasset e-post
 
 {vacancy-title}
-
 Rekrutteringsprosjekt
-
 Mottatt søknad
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
-Bekreftelse av brukernavn
-
+Bkreftelse av brukernavn
 Videresend søknad og CV
-
-Invitasjon til MINT-, Matrigma- og Service-F-tester
-
-cut-e-rapport
-Arbeidskontrakt
+Invtasjon til MINT-, Matrigma- og Service-F-tester
+cut-erapport
+Arbedskontrakt
 Tips en venn om annonse
 Portable CV
 Rangering av kandidat
@@ -1869,5 +1858,5 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTQ4NzAyOF19
+eyJoaXN0b3J5IjpbMTM5NjAyNDk3MF19
 -->
