@@ -1562,58 +1562,40 @@ Varsling om utløp av annonse
 
 {surname}
 
-Etternavn
+Etteravn
 
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
+Opplysnnger overført til CV-database
+Invitasjontil å sende/oppdatere CV-medarbeider
+Videesnd søknad og CV
 
-Opplysninger overført til CV-database
+cut-e-apport
+Ny epost for bruker
+Jobagent-varsling
+Ranerin
+Invitsjon til SHL og cut-e
+Tilpsset e-post
 
-Invitasjon til å sende/oppdatere CV-medarbeider
-
-Videresend søknad og CV
-
-cut-e-rapport
-
-Ny e-post for bruker
-
-Jobbagent-varsling
-
-Rangering av kandidat
-
-Invitasjon til SHL og cut-e
-
-Tilpasset e-post
-
-{test-code}
-
+{testcode}
 Referansekode for test
+Ivitasjon til MINT-, Matrigma- og Service-F-tester
 
-Invitasjon til MINT-, Matrigma- og Service-F-tester
-
-{test-link}
+{tst-link}
 
 Link til online-test
 
-Invitasjon til MINT-, Matrigma- og Service-F-tester
+Invtasjon til MINT-, Matrigma- og Service-F-tester
 
-{test-password}
+{tet-password}
 
 Passord for tilgang til 16PF-test
-
 16PF-e-poster
-
 {test-username}
-
 Brukernavn for tilgang til 16PF-test
-
 16PF-e-poster
 
 {title}
@@ -1764,7 +1746,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc3NzM1MzEsMTk3MTc4NjkwNywtND
-I1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1
-NTUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00Mj
+U3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1
+NSwxNjY2NTc4MzldfQ==
 -->
