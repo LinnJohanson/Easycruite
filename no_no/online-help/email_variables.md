@@ -1011,55 +1011,32 @@ Invitasjon til SHL-personlighetstest
 Tilpasset e-post
 
 {first-name}
-
 Kandidatens fornavn som er oppgitt i den lagrede søknaden
-
 Søknad lagret
 
 {gender-specific male="Mr" female="Miss / Mrs" unknown=""}
-
 Tittel / Prefiks
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Tidsbestemt avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Videresend søknad og CV
-
 E-postsignaturer
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Portable CV
-
 Invitasjon til SHL-personlighetstest
-
 Tilpasset e-post
 
 {gender-specific male="Mr" female="Miss / Mrs" unknown=""}
-
 Tittel/prefiks som er oppgitt i den lagrede søknaden
-
 Søknad lagret
 
 {given-name}
@@ -1518,7 +1495,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOT
-cxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2
-MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
+cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
+MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
