@@ -557,197 +557,111 @@ Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
 
 Videresend søknad og CV
-
 Ny e-post for bruker
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 Arbeidskontrakt
-
 Brev med søknad mottatt/avslått
-
 Portable CV
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 {contact-person}
-
 Kontaktperson (for dette prosjektet)
-
 Mottatt søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 Ny e-post for bruker
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 {contact-person-cellular-telephone}
-
 Kontaktpersonens mobilnummer
-
 E-postkanal for publisering
 
 {contact-person-email}
-
 Kontaktpersonens e-postadresse
-
 E-postkanal for publisering
 
 {contact-person-name}
-
 Kontaktpersonens navn
-
 Mottatt søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Ny e-post for bruker
-
 Invitasjon til MINT-, Matrigma- og Service-F-test
-
 Arbeidskontrakt
-
 Brev med søknad mottatt/avslått
-
 Portable CV
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 {contact-person-office-telephone}
-
 Kontaktpersonens kontortelefonnummer
-
 E-postkanal for publisering
 
 {contact-persons}
-
 Kontaktperson(er)
-
 E-postkanal for publisering
 
 {customer-name}
-
 Kundens navn
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Ny e-post for bruker
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
-Jobbagent-varsling
-
+Jobbagent-  arsling
 Forespørsel om annonsegodkjenning
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
-
 E-postsignaturer
 
 {cv}
-
 Legger ved CV
-
 Rangering av kandidater
-
 Kopi av søknad
 
 {date}
-
 Dato da annonsen utløper
-
 Varsling om utløp av annonse
-
 {days}
-
-Antall dager du vil bli varslet i forveien
-
+Anall dager du vil bli varslet i forveien
 Varsling om utløp av annonse
 
 {department-disclaimer}
-
 Avdelingens tekst for ansvarsfraskrivelse
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
 Manuelt avslag
 Automatisk avslag
@@ -1375,8 +1289,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc0MTA1NzYsLTQ1MjEwMjgwMSwtMT
-M0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0
-ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LD
-E2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbNzgxMzM1MzUwLC00NTIxMDI4MDEsLTEzND
+kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
+MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
+Y2NTc4MzldfQ==
 -->
