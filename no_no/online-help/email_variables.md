@@ -1703,23 +1703,16 @@ Brukerens mobilnummer
 E-postkanal for publisering
 
 {user-family-name}
-
 Brukerens etternavn
-
 E-postkanal for publisering
 
 {user-given-name}
-
 Brukerens fornavn
-
 E-postkanal for publisering
 
 {username}
-
 Kandidatens fornavn
-
 Mottatt søknad
-
 Mottatt registrering 
 Kopi av søknad
 Automatisk avslag
@@ -1808,6 +1801,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
-g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbMTg1Nzc4NTQ4NSwtNDI1NzQ4MDAxLDM0Mj
+c3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5
+XX0=
 -->
