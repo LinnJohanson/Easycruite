@@ -959,55 +959,31 @@ Invitasjon til SHL og cut-e
 Tilpasset e-post
 
 {family-name}
-
 Kandidatens etternavn som er oppgitt i den lagrede søknaden
-
 Søknad lagret
 
 {first-name}
-
 Fornavn
-
 Mottatt søknad
-
 Kopi av søknad
-
 Mottatt registrering
-
 Manuelt avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
-Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
+Aslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Bekreftelse av brukernavn
-
 Automatisk avslag
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
-Invitasjon til MINT-, Matrigma- og Service-F-tester
-
+Inviasjon til MINT-, Matrigma- og Service-F-tester
 cut-e-rapport
-
 Ny e-post for bruker
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL-personlighetstest
-
 Tilpasset e-post
 
 {first-name}
@@ -1495,7 +1471,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
-cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
-MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbOTk3NzY3MDksLTQ1MjEwMjgwMSwtMTM0OT
+E5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAw
+MSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2Nj
+Y1NzgzOV19
 -->
