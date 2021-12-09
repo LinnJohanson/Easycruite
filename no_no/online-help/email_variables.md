@@ -1684,22 +1684,17 @@ Jobbagent-varsling
 
 Gir link til tekst for tekst for avregistrering
 
-Jobbagent-varsling
+Jobbaent-varsling
 
 {url}
-
 URL for gjenoppretting av passord
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
 
 {user-cellular-telephone}
 
 Brukerens mobilnummer
-
 E-postkanal for publisering
 
 {user-family-name}
@@ -1801,7 +1796,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Nzc4NTQ4NSwtNDI1NzQ4MDAxLDM0Mj
-c3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5
-XX0=
+eyJoaXN0b3J5IjpbLTExMTIzODkxMDYsLTQyNTc0ODAwMSwzND
+I3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1Nzgz
+OV19
 -->
