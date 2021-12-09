@@ -1656,7 +1656,7 @@ Videresend søknad og CV
 Arbeidskontrakt
 Portable C
 Brev med søknad mottatt/avslått
-nvitasjon til SHL og cut-e
+iinvitasjon til SHL og cut-e
 
 {unsubscribe-click-here}
 Gir tekst for avregistrering
@@ -1775,7 +1775,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzI1OTI1OSwtNDI1NzQ4MDAxLDM0Mj
+eyJoaXN0b3J5IjpbMTk3MTc4NjkwNywtNDI1NzQ4MDAxLDM0Mj
 c3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5
 XX0=
 -->
