@@ -1063,315 +1063,173 @@ Tittel/prefiks som er oppgitt i den lagrede søknaden
 Søknad lagret
 
 {given-name}
-
 Fornavn
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 {interviewdate}
-
 Dato for intervju
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {interviewer} {interviewers}
-
 Intervjuere som vil være tilstede
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {interviewtime}
-
 Tidspunkt for intervju
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {job}
-
 Jobb
-
 Mottatt søknad
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Varsling om utløp av annonse
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 {job-position}
-
 Stilling
-
 Mottatt søknad
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Varsling om utløp av annonse
-
 Tilpasset e-post
 
 {last-name}
-
 Etternavn
-
 Mottatt søknad
-
 Kopi av søknad
-
 Mottatt registrering
-
 Manuelt avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Automatisk avslag
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-test
-
 cut-e-rapport
-
 Ny e-post for bruker
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL-personlighetstest
-
 Tilpasset e-post
 
 {link}
-
 Link til gjenoppretting av passord
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Søknad lagret
 
 {matches}
-
 Setter inn alle matchende jobber som kandidaten kan være interessert i
-
 Jobbagent
 
 {middle-name}
-
 Mellomnavn
-
 Mottatt søknad
-
 Kopi av søknad
-
 Mottatt registrering
-
 Manuelt avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Automatisk avslag
-
-Opplysninger overført til CV-database
-
+Oplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Portable CV
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL-personlighetstest
-
 Tilpasset e-post
 
 {middle-name}
-
 Kandidatens mellomnavn som er oppgitt i den lagrede søknaden
-
 Søknad lagret
 
 {name}
-
 Kandidatens fornavn
-
 Mottatt søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
-
 E-postsignaturer
-
 Søknad lagret
 
 {new-applicants}
-
 Tagg som brukes til å starte rapport på nye søkere, tagg som brukes til å avslutte rapport på nye søkere
-
 Videre fremdriftsrapport
 
 {number-of-applicants}
-
 Antall søkere som er sendt til rangering
-
 Rangering av kandidat
 
 {password}
@@ -1660,7 +1518,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjkwMzQ0OSwxMTcxMjk0MzIzLDE5Nz
-E3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYy
-MywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOT
+cxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2
+MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
