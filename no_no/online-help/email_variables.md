@@ -1641,38 +1641,24 @@ Invitasjon til å sende/oppdatere CV-medarbeider
 Videresend søknad og CV
 
 {title-grade}
-
 Grad for jobbtittel
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
 Arbeidskontrakt
-
 Portable C
 Brev med søknad mottatt/avslått
-
 nvitasjon til SHL og cut-e
 
-{unsbscribe-click-here}
+{unsubscribe-click-here}
 Gir tekst for avregistrering
 Jobbgent-varsling
 
@@ -1687,7 +1673,6 @@ Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
 
 {user-cellular-telephone}
-
 Brukerens mobilnummer
 E-postkanal for publisering
 
@@ -1790,7 +1775,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1MzA5Nzg0LC00MjU3NDgwMDEsMzQyNz
-c4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4Mzld
-fQ==
+eyJoaXN0b3J5IjpbMTU2MzI1OTI1OSwtNDI1NzQ4MDAxLDM0Mj
+c3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5
+XX0=
 -->
