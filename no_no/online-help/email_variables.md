@@ -1544,26 +1544,19 @@ Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {sender-name}
 
-Søkerens navn
+Søkrens navn
 
-Mottatt søknad
-
-Mottatt registrering
-
+Motttt søknad
+Motttt registrering
 Kopi av søknad
-
 Tips en venn om annonse
 
-{site}
-
-Navn på kanal der jobben er postet
-
-Varsling om utløp av annonse
+{site}n
+Navn å kanal der jobben er postet
+Varsling m utløp av annonse
 
 {surname}
-
 Etteravn
-
 Manuelt avslag
 Automatisk avslag
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
@@ -1572,7 +1565,6 @@ Bekreftelse av brukernavn
 Opplysnnger overført til CV-database
 Invitasjontil å sende/oppdatere CV-medarbeider
 Videesnd søknad og CV
-
 cut-e-apport
 Ny epost for bruker
 Jobagent-varsling
@@ -1585,13 +1577,10 @@ Referansekode for test
 Ivitasjon til MINT-, Matrigma- og Service-F-tester
 
 {tst-link}
-
-Link til online-test
-
+Link tilonline-test
 Invtasjon til MINT-, Matrigma- og Service-F-tester
 
 {tet-password}
-
 Passord for tilgang til 16PF-test
 16PF-e-poster
 {test-username}
@@ -1746,7 +1735,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00Mj
-U3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1
-NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMjA1NTk3MDYwNywxMTcxMjk0MzIzLDE5Nz
+E3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYy
+MywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
