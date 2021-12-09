@@ -428,7 +428,8 @@ Rangering av kandidat
 
 Virksomhetens navn
 
-ottatt søknad
+o
+ttatt søknad
 
 Mottatt registrering
 Kopi av søknad
@@ -1230,8 +1231,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODI1NDU0MywtNDUyMTAyODAxLC0xMz
-Q5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4NjkwNywtNDI1NzQ4
-MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMT
-Y2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbNTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzND
+kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
+MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
+Y2NTc4MzldfQ==
 -->
