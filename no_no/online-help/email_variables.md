@@ -907,21 +907,16 @@ Om arbeidsgiveren
 E-postkanal for publisering
 
 {employer-name}
-
 Arbeidsgivers navn
 E-postkanal for publisering
 {family-name}
 Ettrnavn
-
 Motatt søknad
-
 Mottatt registrering
 Kopi av søknad
 Manuelt avslag
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Bekreftelse av brukernavn
 Opplysninger overført til CV-database
@@ -1451,8 +1446,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NDE2ODUwLC00NTIxMDI4MDEsLTEzND
-kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
-MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
-Y2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMTg1MDgxMTcxMiwtNDUyMTAyODAxLC0xMz
+Q5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4NjkwNywtNDI1NzQ4
+MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMT
+Y2NjU3ODM5XX0=
 -->
