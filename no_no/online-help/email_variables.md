@@ -428,134 +428,75 @@ Rangering av kandidat
 
 Virksomhetens navn
 
-Mottatt søknad
+ottatt søknad
 
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
 
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Forespørsel om annonsegodkjenning
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
-
 E-postsignaturer
-
 Søknad lagret
 
 {company-name}
-
 Virksomhetens navn
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Ny e-post for bruker
-
 Forespørsel om annonsegodkjenning
-
 Forespørsel om brukerpassord
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
-
 E-postsignaturer
 
 {confirmlink}
-
 Link for å bekrefte dato
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {contact-name}
-
 Mottatt søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
 Ny e-post for bruker
 Invitasjon til MINT-, Matrigma- og Service-F-tester
@@ -1289,8 +1230,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMzM1MzUwLC00NTIxMDI4MDEsLTEzND
-kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
-MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
-Y2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMTI4ODI1NDU0MywtNDUyMTAyODAxLC0xMz
+Q5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4NjkwNywtNDI1NzQ4
+MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMT
+Y2NjU3ODM5XX0=
 -->
