@@ -1721,38 +1721,24 @@ Kandidatens fornavn
 Mottatt søknad
 
 Mottatt registrering
-
 Kopi av søknad
-
 Automatisk avslag
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
-cut-e-rapport
-
+cut-e
 Ny e-post for bruker
-
 Innlogging
-
 Søknad lagret
 
 {user-office-telephone}
-
 Brukerens kontortelefonnummer
-
 E-postkanal for publisering
 
 {vacancy}
 Mottatt søknad
-
 Kpi av søknad
 Manuelt avslag
 Automatisk avslag
@@ -1822,6 +1808,6 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQxODgyNTQsLTkzNjg4MjYyMywxMT
-YyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2Mj
+UyMTU1NSwxNjY2NTc4MzldfQ==
 -->
