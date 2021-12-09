@@ -749,161 +749,90 @@ Mottatt søknad
 Mottatt registrering
 
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Forespørsel om annonsegodkjenning
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Tilpasset e-post
-
 E-postsignaturer
-
 Søknad lagret
 
 {department}
-
 Avdelingsnavn
-
 Mottatt søknad
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Forespørsel om annonsegodkjenning
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
-
 E-postsignaturer
-
 Søknad lagret
 
 {department-address}
-
 Avdelingens adresse
-
 E-postkanal for publisering
 
 {department-name}
-
 Avdelingsnavn
-
 Mottatt søknad
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Ny e-post for bruker
-
 Forespørsel om annonsegodkjenning
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
-Tilpasset e-post
-
-E-postsignaturer
+Tillasset e-post
+E/postsignaturer
 
 {departments}
-
 Avdeling(er)
-
 E-postkanal for publisering
 
 {duration}
-
 Intervjuets varighet
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {email}
-
 Angir brukerens e-postadresse i e-posten
-
 Ny e-post for bruker
 
 {employer-about}
-
 Om arbeidsgiveren
-
 E-postkanal for publisering
 
 {employer-name}
@@ -1446,8 +1375,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDgxMTcxMiwtNDUyMTAyODAxLC0xMz
-Q5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4NjkwNywtNDI1NzQ4
-MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMT
-Y2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbLTE3NTc0MTA1NzYsLTQ1MjEwMjgwMSwtMT
+M0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0
+ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LD
+E2NjY1NzgzOV19
 -->
