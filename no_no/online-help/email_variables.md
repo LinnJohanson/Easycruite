@@ -1453,101 +1453,63 @@ Prefiks (Hr., Frk., Fru osv.)
 Mottatt søknad
 
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Arbeidskontrakt
-
 Brev med søknad mottatt/avslått
-
 Tilpasset e-post
 
 {processed-applicants]
-
 Tagg som brukes til å starte rapport på behandlede søkere, tagg som brukes til å avslutte rapport på behandlede søkere
-
 Videre fremdriftsrapport
 
 {project}
-
-Prosjekt
-
+Prsjekt
 Forespørsel om annonsegodkjenning
-
-Rangering av kandidat
-
+Rngering av kandidat
 Varsling om utløp av annonse
-
 {project-period-end}
-
 Dato når prosjekt ble avsluttet
-
 Videre fremdriftsrapport
 
 {project-period-start}
-
 Dato når prosjekt startet
-
 Videre fremdriftsrapport
 
 {project-title}
-
 Prosjekttittel
-
 Forespørsel om annonsegodkjenning
-
 Varsling om utløp av annonse
 
 {publication-channel}
-
 Publiseringskanal
-
 Rangering av kandidat
 
 {recruiter-name}
-
 Rekrutterers navn
-
 Videre fremdriftsrapport
-
 Sender e-postbekreftelse til rekrutterer med bekreftelse på fullført rangering
 
 {reference-number}
-
 Referansenummer
-
 Videre fremdriftsrapport
 
 {route}
-
 Veibeskrivelse
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {sender-name}
-
-Søkrens navn
-
-Motttt søknad
-Motttt registrering
+Søkerens navn
+Mottatt søknad
+Mottatt registrering
 Kopi av søknad
 Tips en venn om annonse
 
@@ -1735,7 +1697,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTk3MDYwNywxMTcxMjk0MzIzLDE5Nz
+eyJoaXN0b3J5IjpbLTU0Nzk1MTAyNiwxMTcxMjk0MzIzLDE5Nz
 E3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYy
 MywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
