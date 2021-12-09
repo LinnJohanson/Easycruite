@@ -1388,10 +1388,9 @@ Automatisk avslag
 
 Bekreftelse av brukernavn
 
-Opplysninger overført til CV-database
+Oplysninger overført til CV-database
 
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
 
 Invitasjon til MINT-, Matrigma- og Service-F-tester
@@ -1403,55 +1402,31 @@ Forespørsel om brukerpassord
 Innlogging
 
 {position}
-
 Tittel på stillingen som det søkes på
-
 Mottatt søknad
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 Jobbagent-varsling
-
 cut-e-rapport
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Varsling om utløp av annonse
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
-
 Søknad lagret
 
 {prefix}
-
 Prefiks (Hr., Frk., Fru osv.)
-
 Mottatt søknad
-
 Mottatt registrering
 Kopi av søknad
 Manuelt avslag
@@ -1697,7 +1672,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Nzk1MTAyNiwxMTcxMjk0MzIzLDE5Nz
-E3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYy
-MywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbNDkzNTAyMTg4LDExNzEyOTQzMjMsMTk3MT
+c4NjkwNywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIz
+LDExNjI1MjE1NTUsMTY2NjU3ODM5XX0=
 -->
