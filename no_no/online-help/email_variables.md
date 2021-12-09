@@ -1375,15 +1375,10 @@ Antall søkere som er sendt til rangering
 Rangering av kandidat
 
 {password}
-
 Kandidatens passord
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kpi av søknad
-
 Automatisk avslag
 Bekreftelse av brukernavn
 Oplysninger overført til CV-database
@@ -1665,7 +1660,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzQxNjkwMywxMTcxMjk0MzIzLDE5Nz
+eyJoaXN0b3J5IjpbLTYxMjkwMzQ0OSwxMTcxMjk0MzIzLDE5Nz
 E3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYy
 MywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
