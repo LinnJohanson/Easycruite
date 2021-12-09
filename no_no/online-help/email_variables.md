@@ -1789,13 +1789,10 @@ Tilpasset e-post
 Varsling om utløp av annonse
 
 {vacancy-link}
-
 Link til annonse
-
 Ikke i bruk (finnes ikke i kildekode)
 
 {vacancy-ref-number}
-
 Referansenummer for rekrutteringsprosjektet
 Manuelt avslag
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
@@ -1842,6 +1839,6 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTAyODA0OSwxMTYyNTIxNTU1LDE2Nj
+eyJoaXN0b3J5IjpbLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2Nj
 Y1NzgzOV19
 -->
