@@ -909,53 +909,33 @@ E-postkanal for publisering
 {employer-name}
 
 Arbeidsgivers navn
-
 E-postkanal for publisering
-
 {family-name}
+Ettrnavn
 
-Etternavn
-
-Mottatt søknad
+Motatt søknad
 
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
 
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 {family-name}
@@ -1471,8 +1451,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3NzY3MDksLTQ1MjEwMjgwMSwtMTM0OT
-E5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAw
-MSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2Nj
-Y1NzgzOV19
+eyJoaXN0b3J5IjpbNjk1NDE2ODUwLC00NTIxMDI4MDEsLTEzND
+kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
+MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
+Y2NTc4MzldfQ==
 -->
