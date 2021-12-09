@@ -1617,27 +1617,16 @@ Brukernavn for tilgang til 16PF-test
 16PF-e-poster
 
 {title}
-
 Stillingstittel
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
 
 {title-grade}
@@ -1775,7 +1764,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTc4NjkwNywtNDI1NzQ4MDAxLDM0Mj
-c3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5
-XX0=
+eyJoaXN0b3J5IjpbLTEzMjc3NzM1MzEsMTk3MTc4NjkwNywtND
+I1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1
+NTUsMTY2NjU3ODM5XX0=
 -->
