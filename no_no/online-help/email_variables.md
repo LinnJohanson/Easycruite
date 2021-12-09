@@ -1665,28 +1665,22 @@ Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
 
 Videresend søknad og CV
-
 Arbeidskontrakt
 
-Portable CV
-
+Portable C
 Brev med søknad mottatt/avslått
 
-Invitasjon til SHL og cut-e
+nvitasjon til SHL og cut-e
 
-{unsubscribe-click-here}
-
+{unsbscribe-click-here}
 Gir tekst for avregistrering
-
-Jobbagent-varsling
+Jobbgent-varsling
 
 {unsubscribe-link}
-
 Gir link til tekst for tekst for avregistrering
+Jobbent-varsling
 
-Jobbaent-varsling
-
-{url}
+{url} 
 URL for gjenoppretting av passord
 Bekreftelse av brukernavn
 Opplysninger overført til CV-database
@@ -1796,7 +1790,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIzODkxMDYsLTQyNTc0ODAwMSwzND
-I3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1Nzgz
-OV19
+eyJoaXN0b3J5IjpbNTg1MzA5Nzg0LC00MjU3NDgwMDEsMzQyNz
+c4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4Mzld
+fQ==
 -->
