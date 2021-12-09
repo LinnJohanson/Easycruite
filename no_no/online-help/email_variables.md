@@ -1751,25 +1751,16 @@ Brukerens kontortelefonnummer
 E-postkanal for publisering
 
 {vacancy}
-
 Mottatt søknad
 
-Kopi av søknad
-
+Kpi av søknad
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
 Arbeidskontrakt
 Tips en venn om annonse
@@ -1831,6 +1822,6 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM3OTcwODMsLTkzNjg4MjYyMywxMT
+eyJoaXN0b3J5IjpbLTEwNjQxODgyNTQsLTkzNjg4MjYyMywxMT
 YyNTIxNTU1LDE2NjY1NzgzOV19
 -->
