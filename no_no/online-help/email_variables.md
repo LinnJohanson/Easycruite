@@ -1720,7 +1720,7 @@ Kandidatens fornavn
 
 Mottatt søknad
 
-Mottatt registrering
+Mottatt registrering 
 Kopi av søknad
 Automatisk avslag
 Bekreftelse av brukernavn
@@ -1808,6 +1808,6 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2Mj
-UyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
+g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
