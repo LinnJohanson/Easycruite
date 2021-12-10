@@ -366,12 +366,9 @@ Tilpasset e-post
 
 E-postsignaturer
 
-{client-name}
-
+**{client-name}**
 Klientnavn (bare for bemanningsbyrå)
-
 Mottatt søknad
-
 Mottatt registrering
 
 Kopi av søknad
@@ -415,7 +412,6 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL og cut-e
 
 Tilpasset e-post
-
 E-postsignaturer
 
 **{collaborative-link-url}**
@@ -1226,8 +1222,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDMzMTIzNywzNjU5MTE4MjQsNTA2OD
-I3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMy
-MywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05Mz
-Y4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbODI2MDMxNDA1LDM2NTkxMTgyNCw1MDY4Mj
+c0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIz
+LDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
+g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
