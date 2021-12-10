@@ -95,47 +95,26 @@ Link for rangering av kandidater
 Rangering av kandidater
 
 {candidate-family-name}
-
 Etternavn
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Ny e-post for bruker
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Portable CV
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 **{candidate-given-name}**
@@ -1093,10 +1072,9 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTUzNTg1NzcsMTIwMzcyMzA3NywtND
-Y4NzkyMzY5LDY5NjIzNjcwMywtMjAxODYwOTA3NSwzNjU5MTE4
-MjQsNTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMT
-E3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4
-NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ
-==
+eyJoaXN0b3J5IjpbMjMyMjQxODksMTIwMzcyMzA3NywtNDY4Nz
+kyMzY5LDY5NjIzNjcwMywtMjAxODYwOTA3NSwzNjU5MTE4MjQs
+NTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MT
+I5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3
+LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
