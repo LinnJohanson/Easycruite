@@ -1051,7 +1051,7 @@ Tips en venn om annonse
 Navn å kanal der jobben er postet
 Varsling m utløp av annonse
 
-{surname}
+**{surname}**
 Etteravn
 Manuelt avslag
 Automatisk avslag
@@ -1068,22 +1068,22 @@ Ranerin
 Invitsjon til SHL og cut-e
 Tilpsset e-post
 
-{testcode}
+**{testcode}**
 Referansekode for test
 Ivitasjon til MINT-, Matrigma- og Service-F-tester
 
-{tst-link}
+**{tst-link}**
 Link tilonline-test
 Invtasjon til MINT-, Matrigma- og Service-F-tester
 
-{tet-password}
+**{tet-password}**
 Passord for tilgang til 16PF-test
 16PF-e-poster
 {test-username}
 Brukernavn for tilgang til 16PF-test
 16PF-e-poster
 
-{title}
+**{title}**
 Stillingstittel
 Mottatt søknad
 Mottatt registrering
@@ -1096,7 +1096,7 @@ Bekreftelse av brukernavn
 Invitasjon til å sende/oppdatere CV-medarbeider
 Videresend søknad og CV
 
-{title-grade}
+**{title-grade}**
 Grad for jobbtittel
 Mottatt søknad
 Mottatt registrering
@@ -1114,15 +1114,15 @@ Portable C
 Brev med søknad mottatt/avslått
 iinvitasjon til SHL og cut-e
 
-{unsubscribe-click-here}
+**{unsubscribe-click-here}**
 Gir tekst for avregistrering
 Jobbgent-varsling
 
-{unsubscribe-link}
+**{unsubscribe-link}**
 Gir link til tekst for tekst for avregistrering
 Jobbent-varsling
 
-{url} 
+**{url}** 
 URL for gjenoppretting av passord
 Bekreftelse av brukernavn
 Opplysninger overført til CV-database
@@ -1231,7 +1231,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ2MjIwMjg1LDUwNjgyNzQ1MywtNDUyMT
+eyJoaXN0b3J5IjpbNTEyNjYxMDUzLDUwNjgyNzQ1MywtNDUyMT
 AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
 NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
 I1MjE1NTUsMTY2NjU3ODM5XX0=
