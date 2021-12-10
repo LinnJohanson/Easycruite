@@ -771,11 +771,11 @@ Portable CV
 Invitasjon til SHL-personlighetstest
 Tilpasset e-post
 
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""}
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""}**
 Tittel/prefiks som er oppgitt i den lagrede søknaden
 Søknad lagret
 
-{given-name}
+**{given-name}**
 Fornavn
 Mottatt søknad
 Mottatt registrering
@@ -799,19 +799,19 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL og cut-e
 Tilpasset e-post
 
-{interviewdate}
+**{interviewdate}**
 Dato for intervju
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{interviewer} {interviewers}
+**{interviewer} {interviewers}**
 Intervjuere som vil være tilstede
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{interviewtime}
+**{interviewtime}**
 Tidspunkt for intervju
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{job}
+**{job}**
 Jobb
 Mottatt søknad
 Kopi av søknad
@@ -832,7 +832,7 @@ Varsling om utløp av annonse
 Invitasjon til SHL og cut-e
 Tilpasset e-post
 
-{job-position}
+**{job-position}**
 Stilling
 Mottatt søknad
 Kopi av søknad
@@ -1231,8 +1231,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjYzNjI1MTYsNTA2ODI3NDUzLC00NT
-IxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2
-OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMT
-E2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMTMzMzcxMjMwMCw1MDY4Mjc0NTMsLTQ1Mj
+EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
+MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
+YyNTIxNTU1LDE2NjY1NzgzOV19
 -->
