@@ -457,7 +457,7 @@ Tilpasset e-post
 E-postsignaturer
 Søknad lagret
 
-{company-name}
+**{company-name}**
 Virksomhetens navn
 Mottatt søknad
 Mottatt registrering
@@ -489,7 +489,7 @@ E-postsignaturer
 Link for å bekrefte dato
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{contact-name}
+**{contact-name}**
 Mottatt søknad
 Manuelt avslag
 Automatisk avslag
@@ -1233,7 +1233,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MjYxNzM2MCwzNjU5MTE4MjQsNTA2OD
+eyJoaXN0b3J5IjpbLTUyMzYzMzcxMiwzNjU5MTE4MjQsNTA2OD
 I3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMy
 MywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05Mz
 Y4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
