@@ -534,7 +534,7 @@ E-postkanal for publisering
 Kontaktpersonens e-postadresse
 E-postkanal for publisering
 
-{contact-person-name}
+**{contact-person-name}**
 Kontaktpersonens navn
 Mottatt søknad
 Manuelt avslag
@@ -553,7 +553,7 @@ Portable CV
 Invitasjon til SHL og cut-e
 Tilpasset e-post
 
-{contact-person-office-telephone}
+**{contact-person-office-telephone}**
 Kontaktpersonens kontortelefonnummer
 E-postkanal for publisering
 
@@ -1233,7 +1233,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNzUzODA4LDM2NTkxMTgyNCw1MDY4Mj
+eyJoaXN0b3J5IjpbNjQ3MjIxNTg0LDM2NTkxMTgyNCw1MDY4Mj
 c0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIz
 LDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
 g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
