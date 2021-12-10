@@ -64,7 +64,7 @@ Avdelingen som søkeren er forbundet med
 
 Videre fremdriftsrapport
 
-{applicant-id}
+**{applicant-id}**
 Søkerens ID-nummer
 Videre fremdriftsrapport
 
@@ -1062,7 +1062,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQxMzAyMywxMjAzNzIzMDc3LC00Nj
+eyJoaXN0b3J5IjpbMTc5NTI0NjY4OSwxMjAzNzIzMDc3LC00Nj
 g3OTIzNjksNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NTkxMTgy
 NCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
 cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
