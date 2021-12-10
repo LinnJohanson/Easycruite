@@ -937,15 +937,15 @@ Tilpasset e-post
 E-postsignaturer
 Søknad lagret
 
-{new-applicants}
+**{new-applicants}**
 Tagg som brukes til å starte rapport på nye søkere, tagg som brukes til å avslutte rapport på nye søkere
 Videre fremdriftsrapport
 
-{number-of-applicants}
+**{number-of-applicants}**
 Antall søkere som er sendt til rangering
 Rangering av kandidat
 
-{password}
+**{password}**
 Kandidatens passord
 Mottatt søknad
 Mottatt registrering
@@ -960,7 +960,7 @@ cut-e-rapport
 Forespørsel om brukerpassord
 Innlogging
 
-{position}
+**{position}**
 Tittel på stillingen som det søkes på
 Mottatt søknad
 Kopi av søknad
@@ -983,7 +983,7 @@ Invitasjon til SHL og cut-e
 Tilpasset e-post
 Søknad lagret
 
-{prefix}
+**{prefix}**
 Prefiks (Hr., Frk., Fru osv.)
 Mottatt søknad
 Mottatt registrering
@@ -1001,12 +1001,12 @@ Arbeidskontrakt
 Brev med søknad mottatt/avslått
 Tilpasset e-post
 
-{processed-applicants]
+**{processed-applicants]**
 Tagg som brukes til å starte rapport på behandlede søkere, tagg som brukes til å avslutte rapport på behandlede søkere
 Videre fremdriftsrapport
 
-{project}
-Prsjekt
+**{project}**
+Prosjekt
 Forespørsel om annonsegodkjenning
 Rngering av kandidat
 Varsling om utløp av annonse
@@ -1014,11 +1014,11 @@ Varsling om utløp av annonse
 Dato når prosjekt ble avsluttet
 Videre fremdriftsrapport
 
-{project-period-start}
+**{project-period-start}**
 Dato når prosjekt startet
 Videre fremdriftsrapport
 
-{project-title}
+**{project-title}**
 Prosjekttittel
 Forespørsel om annonsegodkjenning
 Varsling om utløp av annonse
@@ -1231,7 +1231,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MzEzNDA1LDUwNjgyNzQ1MywtNDUyMT
+eyJoaXN0b3J5IjpbNzY2Mjg4NzQ4LDUwNjgyNzQ1MywtNDUyMT
 AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
 NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
 I1MjE1NTUsMTY2NjU3ODM5XX0=
