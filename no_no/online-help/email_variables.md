@@ -369,27 +369,16 @@ Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
 Videresend søknad og CV
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Forespørsel om annonsegodkjenning
-
 Ny e-post for bruker
-
 Arbeidskontrakt
-
 Tips en venn om annonse
-
 Portable CV
-
 Rangering av kandidat
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 E-postsignaturer
 
@@ -1201,7 +1190,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc5MzkxMzcsMzY1OTExODI0LDUwNj
+eyJoaXN0b3J5IjpbLTEwMTQ5NzY2ODcsMzY1OTExODI0LDUwNj
 gyNzQ1MywtNDUyMTAyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQz
 MjMsMTk3MTc4NjkwNywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOT
 M2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5XX0=
