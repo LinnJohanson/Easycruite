@@ -248,20 +248,13 @@ Invitasjon til MINT-, Matrigma- og Service-F-tester
 
 cut-e-rapport
 
-{candidate-salutation}
-
+**{candidate-salutation}**
 Kandidatens tittel
-
 Mottatt søknad
-
 Kopi av søknad
-
 Mottatt registrering
-
 Manuelt avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Bkreftelse av brukernavn
 Automatisk avslag
@@ -1152,9 +1145,9 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMzcyMzA3NywtNDY4NzkyMzY5LDY5Nj
-IzNjcwMywtMjAxODYwOTA3NSwzNjU5MTE4MjQsNTA2ODI3NDUz
-LC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOT
-cxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2
-MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMTA2NzUzNjkyNywxMjAzNzIzMDc3LC00Nj
+g3OTIzNjksNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NTkxMTgy
+NCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
+cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
+MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
