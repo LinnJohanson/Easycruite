@@ -648,11 +648,11 @@ Tilpasset e-post
 E-postsignaturer
 Søknad lagret
 
-{department-address}
+**{department-address}**
 Avdelingens adresse
 E-postkanal for publisering
 
-{department-name}
+**{department-name}**
 Avdelingsnavn
 Mottatt søknad
 Kopi av søknad
@@ -1232,8 +1232,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg4NzUzMzAsNTA2ODI3NDUzLC00NT
-IxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2
-OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMT
-E2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbLTgzOTQ5NzczMCw1MDY4Mjc0NTMsLTQ1Mj
+EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
+MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
+YyNTIxNTU1LDE2NjY1NzgzOV19
 -->
