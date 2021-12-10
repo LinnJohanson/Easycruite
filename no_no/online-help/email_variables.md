@@ -65,27 +65,19 @@ Avdelingen som søkeren er forbundet med
 Videre fremdriftsrapport
 
 {applicant-id}
-
 Søkerens ID-nummer
-
 Videre fremdriftsrapport
 
-{applicant-name}
-
+**{applicant-name}**
 Søkerens navn
-
 Videre fremdriftsrapport
 
-{approval-link}
-
+**{approval-link}**
 Setter inn godkjenningslinken
-
 Forespørsel om annonsegodkjenning
 
-{assessment-test-name-link-group}
-
+**{assessment-test-name-link-group}**
 cut-e testnavn + URL
-
 Invitasjon til cut-e
 
 **{ballot-link}**
@@ -1070,9 +1062,9 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODc4MzY5LDEyMDM3MjMwNzcsLTQ2OD
-c5MjM2OSw2OTYyMzY3MDMsLTIwMTg2MDkwNzUsMzY1OTExODI0
-LDUwNjgyNzQ1MywtNDUyMTAyODAxLC0xMzQ5MTk5ODQzLDExNz
-EyOTQzMjMsMTk3MTc4NjkwNywtNDI1NzQ4MDAxLDM0Mjc3ODYz
-NywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbLTIxOTQxMzAyMywxMjAzNzIzMDc3LC00Nj
+g3OTIzNjksNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NTkxMTgy
+NCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
+cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
+MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
