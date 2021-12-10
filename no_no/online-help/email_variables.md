@@ -507,7 +507,7 @@ Portable CV
 Invitasjon til SHL og cut-e
 Tilpasset e-post
 
-{contact-person}
+**{contact-person}**
 Kontaktperson (for dette prosjektet)
 Mottatt søknad
 Manuelt avslag
@@ -526,11 +526,11 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL og cut-e
 Tilpasset e-post
 
-{contact-person-cellular-telephone}
+**{contact-person-cellular-telephone}**
 Kontaktpersonens mobilnummer
 E-postkanal for publisering
 
-{contact-person-email}
+**{contact-person-email}**
 Kontaktpersonens e-postadresse
 E-postkanal for publisering
 
@@ -1233,8 +1233,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MjIxNTg0LDM2NTkxMTgyNCw1MDY4Mj
-c0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIz
-LDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
-g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbMTk4MjYxNzM2MCwzNjU5MTE4MjQsNTA2OD
+I3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMy
+MywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05Mz
+Y4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
