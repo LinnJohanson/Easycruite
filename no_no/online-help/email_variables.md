@@ -424,13 +424,9 @@ URL-adresse til der brukerne gjør rangeringer
 
 Rangering av kandidat
 
-{company}
-
+**{company}**
 Virksomhetens navn
-
-o
-ttatt søknad
-
+Mottatt søknad
 Mottatt registrering
 Kopi av søknad
 Manuelt avslag
@@ -439,7 +435,6 @@ Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Bekreftelse av brukernavn
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
 Videresend søknad og CV
 Invitasjon til MINT-, Matrigma- og Service-F-tester
@@ -1233,7 +1228,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzYzMzcxMiwzNjU5MTE4MjQsNTA2OD
+eyJoaXN0b3J5IjpbMjA5MDA5MDI3NywzNjU5MTE4MjQsNTA2OD
 I3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMy
 MywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05Mz
 Y4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
