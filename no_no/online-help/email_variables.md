@@ -332,7 +332,6 @@ Invitasjon til å sende/oppdatere CV-medarbeider
 Videresend søknad og CV
 
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
 Jobbagent-varsling
 Forespørsel om annonsegodkjenning
@@ -1181,7 +1180,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4MjMxNDc5LDM2NTkxMTgyNCw1MDY4Mj
+eyJoaXN0b3J5IjpbNDkyODcxNzgxLDM2NTkxMTgyNCw1MDY4Mj
 c0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIz
 LDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
 g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
