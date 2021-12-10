@@ -718,11 +718,11 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL og cut-e
 Tilpasset e-post
 
-{family-name}
+**{family-name}**
 Kandidatens etternavn som er oppgitt i den lagrede søknaden
 Søknad lagret
 
-{first-name}
+**{first-name}**
 Fornavn
 Mottatt søknad
 Kopi av søknad
@@ -750,7 +750,7 @@ Tilpasset e-post
 Kandidatens fornavn som er oppgitt i den lagrede søknaden
 Søknad lagret
 
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""}
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""}**
 Tittel / Prefiks
 Mottatt søknad
 Mottatt registrering
@@ -1231,7 +1231,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzEyNjYxMiw1MDY4Mjc0NTMsLTQ1Mj
+eyJoaXN0b3J5IjpbMTQ3MzgyMTYxMiw1MDY4Mjc0NTMsLTQ1Mj
 EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
 MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
 YyNTIxNTU1LDE2NjY1NzgzOV19
