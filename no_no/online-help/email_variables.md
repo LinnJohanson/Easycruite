@@ -910,11 +910,11 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL-personlighetstest
 Tilpasset e-post
 
-{middle-name}
+**{middle-name}**
 Kandidatens mellomnavn som er oppgitt i den lagrede søknaden
 Søknad lagret
 
-{name}
+**{name}**
 Kandidatens fornavn
 Mottatt søknad
 Manuelt avslag
@@ -1231,8 +1231,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2Mjg4NzQ4LDUwNjgyNzQ1MywtNDUyMT
-AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
-NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
-I1MjE1NTUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbMTg0NzY3ODQ0NCw1MDY4Mjc0NTMsLTQ1Mj
+EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
+MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
+YyNTIxNTU1LDE2NjY1NzgzOV19
 -->
