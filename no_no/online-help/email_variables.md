@@ -269,7 +269,7 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL-personlighetstest
 Tilpasset e-post
 
-{candidate-username}
+**{candidate-username}**
 Kandidatens brukernavn
 Mottatt søknad
 Mottatt registrering
@@ -1145,7 +1145,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzUzNjkyNywxMjAzNzIzMDc3LC00Nj
+eyJoaXN0b3J5IjpbLTg0NzMxNDI3MywxMjAzNzIzMDc3LC00Nj
 g3OTIzNjksNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NTkxMTgy
 NCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
 cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
