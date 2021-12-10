@@ -675,26 +675,27 @@ Invitasjon til SHL og cut-e
 Tillasset e-post
 E/postsignaturer
 
-{departments}
+**{departments}**
 Avdeling(er)
 E-postkanal for publisering
 
-{duration}
+**{duration}**
 Intervjuets varighet
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{email}
+**{email}**
 Angir brukerens e-postadresse i e-posten
 Ny e-post for bruker
 
-{employer-about}
+**{employer-about}**
 Om arbeidsgiveren
 E-postkanal for publisering
 
-{employer-name}
+**{employer-name}**
 Arbeidsgivers navn
 E-postkanal for publisering
-{family-name}
+
+**{family-name}**
 Ettrnavn
 Motatt søknad
 Mottatt registrering
@@ -1231,8 +1232,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzgyMTYxMiw1MDY4Mjc0NTMsLTQ1Mj
-EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
-MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
-YyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbLTE5Mzg4NzUzMzAsNTA2ODI3NDUzLC00NT
+IxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2
+OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMT
+E2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
