@@ -263,9 +263,7 @@ Manuelt avslag
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bkreftelse av brukernavn
-
 Automatisk avslag
 Invitasjon til å sende/oppdatere CV-medarbeider
 Videresend søknad og CV
@@ -274,7 +272,6 @@ cut-e-rapport
 Jobbagent-varsling
 Arbeidskontrakt
 Portble CV
-
 Brev med søknad mottatt/avslått
 Invitasjon til SHL-personlighetstest
 Tilpasset e-post
@@ -1155,9 +1152,9 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODc5MjM2OSw2OTYyMzY3MDMsLTIwMT
-g2MDkwNzUsMzY1OTExODI0LDUwNjgyNzQ1MywtNDUyMTAyODAx
-LC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4NjkwNywtND
-I1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1
-NTUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbMTIwMzcyMzA3NywtNDY4NzkyMzY5LDY5Nj
+IzNjcwMywtMjAxODYwOTA3NSwzNjU5MTE4MjQsNTA2ODI3NDUz
+LC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOT
+cxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2
+MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
