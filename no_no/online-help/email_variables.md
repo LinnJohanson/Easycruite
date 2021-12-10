@@ -853,7 +853,7 @@ Invitasjon til SHL og cut-e
 Varsling om utløp av annonse
 Tilpasset e-post
 
-{last-name}
+**{last-name}**
 Etternavn
 Mottatt søknad
 Kopi av søknad
@@ -877,18 +877,18 @@ Brev med søknad mottatt/avslått
 Invitasjon til SHL-personlighetstest
 Tilpasset e-post
 
-{link}
+**{link}**
 Link til gjenoppretting av passord
 Bekreftelse av brukernavn
 Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
 Søknad lagret
 
-{matches}
+**{matches}**
 Setter inn alle matchende jobber som kandidaten kan være interessert i
 Jobbagent
 
-{middle-name}
+**{middle-name}**
 Mellomnavn
 Mottatt søknad
 Kopi av søknad
@@ -1231,8 +1231,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzY3ODQ0NCw1MDY4Mjc0NTMsLTQ1Mj
-EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
-MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
-YyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbLTEwMjYzNjI1MTYsNTA2ODI3NDUzLC00NT
+IxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2
+OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMT
+E2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
