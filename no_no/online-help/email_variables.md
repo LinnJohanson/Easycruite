@@ -1023,31 +1023,31 @@ Prosjekttittel
 Forespørsel om annonsegodkjenning
 Varsling om utløp av annonse
 
-{publication-channel}
+**{publication-channel}**
 Publiseringskanal
 Rangering av kandidat
 
-{recruiter-name}
+**{recruiter-name}**
 Rekrutterers navn
 Videre fremdriftsrapport
 Sender e-postbekreftelse til rekrutterer med bekreftelse på fullført rangering
 
-{reference-number}
+**{reference-number}**
 Referansenummer
 Videre fremdriftsrapport
 
-{route}
+**{route}**
 Veibeskrivelse
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{sender-name}
+**{sender-name}**
 Søkerens navn
 Mottatt søknad
 Mottatt registrering
 Kopi av søknad
 Tips en venn om annonse
 
-{site}n
+**{site}n**
 Navn å kanal der jobben er postet
 Varsling m utløp av annonse
 
@@ -1231,7 +1231,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNjYxMDUzLDUwNjgyNzQ1MywtNDUyMT
+eyJoaXN0b3J5IjpbMzc3MzEzNDA1LDUwNjgyNzQ1MywtNDUyMT
 AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
 NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
 I1MjE1NTUsMTY2NjU3ODM5XX0=
