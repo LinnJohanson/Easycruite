@@ -557,7 +557,7 @@ Tilpasset e-post
 Kontaktpersonens kontortelefonnummer
 E-postkanal for publisering
 
-{contact-persons}
+**{contact-persons}**
 Kontaktperson(er)
 E-postkanal for publisering
 
@@ -1233,8 +1233,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1OTExODI0LDUwNjgyNzQ1MywtNDUyMT
-AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
-NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
-I1MjE1NTUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbNTUxNzUzODA4LDM2NTkxMTgyNCw1MDY4Mj
+c0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIz
+LDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
+g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
 -->
