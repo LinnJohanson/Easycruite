@@ -264,40 +264,26 @@ Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-Bekreftelse av brukernavn
+Bkreftelse av brukernavn
 
 Automatisk avslag
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
-Portable CV
+Portble CV
 
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL-personlighetstest
-
 Tilpasset e-post
 
 {candidate-username}
-
 Kandidatens brukernavn
-
 Mottatt søknad
-
 Mottatt registrering
-
 Kopi av søknad
-
 Automatisk avslag
 Bekreftelse av brukernavn
 Oplysninger overført til CV-database
@@ -1169,9 +1155,9 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NT
-kxMTgyNCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0
-MywxMTcxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzND
-I3Nzg2MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1Nzgz
-OV19
+eyJoaXN0b3J5IjpbLTQ2ODc5MjM2OSw2OTYyMzY3MDMsLTIwMT
+g2MDkwNzUsMzY1OTExODI0LDUwNjgyNzQ1MywtNDUyMTAyODAx
+LC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4NjkwNywtND
+I1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNjI1MjE1
+NTUsMTY2NjU3ODM5XX0=
 -->
