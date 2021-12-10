@@ -561,7 +561,7 @@ E-postkanal for publisering
 Kontaktperson(er)
 E-postkanal for publisering
 
-{customer-name}
+**{customer-name}**
 Kundens navn
 Mottatt søknad
 Mottatt registrering
@@ -588,19 +588,20 @@ Invitasjon til SHL og cut-e
 Tilpasset e-post
 E-postsignaturer
 
-{cv}
+**{cv}**
 Legger ved CV
 Rangering av kandidater
 Kopi av søknad
 
-{date}
+**{date}**
 Dato da annonsen utløper
 Varsling om utløp av annonse
-{days}
+
+**{days}**
 Anall dager du vil bli varslet i forveien
 Varsling om utløp av annonse
 
-{department-disclaimer}
+**{department-disclaimer}**
 Avdelingens tekst for ansvarsfraskrivelse
 Mottatt søknad
 Mottatt registrering
@@ -623,7 +624,7 @@ Tilpasset e-post
 E-postsignaturer
 Søknad lagret
 
-{department}
+**{department}**
 Avdelingsnavn
 Mottatt søknad
 Kopi av søknad
@@ -1232,8 +1233,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzOTQ5NzczMCw1MDY4Mjc0NTMsLTQ1Mj
-EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
-MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
-YyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbMzY1OTExODI0LDUwNjgyNzQ1MywtNDUyMT
+AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
+NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
+I1MjE1NTUsMTY2NjU3ODM5XX0=
 -->
