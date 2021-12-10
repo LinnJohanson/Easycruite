@@ -1128,19 +1128,19 @@ Bekreftelse av brukernavn
 Opplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
 
-{user-cellular-telephone}
+**{user-cellular-telephone}**
 Brukerens mobilnummer
 E-postkanal for publisering
 
-{user-family-name}
+**{user-family-name}**
 Brukerens etternavn
 E-postkanal for publisering
 
-{user-given-name}
+**{user-given-name}**
 Brukerens fornavn
 E-postkanal for publisering
 
-{username}
+**{username}**
 Kandidatens fornavn
 Mottatt søknad
 Mottatt registrering 
@@ -1156,7 +1156,7 @@ Ny e-post for bruker
 Innlogging
 Søknad lagret
 
-{user-office-telephone}
+**{user-office-telephone}**
 Brukerens kontortelefonnummer
 E-postkanal for publisering
 
@@ -1231,8 +1231,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI5MTI0NTEsNTA2ODI3NDUzLC00NT
-IxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2
-OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMT
-E2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMzQ2MjIwMjg1LDUwNjgyNzQ1MywtNDUyMT
+AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
+NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
+I1MjE1NTUsMTY2NjU3ODM5XX0=
 -->
