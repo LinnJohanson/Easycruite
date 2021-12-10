@@ -189,39 +189,22 @@ Mellomnavn
 Mottatt søknad
 
 Mottatt registrering
-
 Kopi av søknad
-
 Manuelt avslag
-
 Automatisk avslag
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
-
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Jobbagent-varsling
-
 Arbeidskontrakt
-
 Portable CV
-
 Brev med søknad mottatt/avslått
-
 Invitasjon til SHL og cut-e
-
 Tilpasset e-post
 
 **{candidate-password}**
@@ -1134,7 +1117,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzIzODU2OSwxMjAzNzIzMDc3LC00Nj
+eyJoaXN0b3J5IjpbMTk2MDAxNjU5OSwxMjAzNzIzMDc3LC00Nj
 g3OTIzNjksNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NTkxMTgy
 NCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
 cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
