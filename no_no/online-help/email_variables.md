@@ -1160,7 +1160,7 @@ Søknad lagret
 Brukerens kontortelefonnummer
 E-postkanal for publisering
 
-{vacancy}
+**{vacancy}**
 Mottatt søknad
 Kpi av søknad
 Manuelt avslag
@@ -1180,11 +1180,11 @@ Invitasjon til SHL og cut-e
 Tilpasset e-post
 Varsling om utløp av annonse
 
-{vacancy-link}
+**{vacancy-link}**
 Link til annonse
 Ikke i bruk (finnes ikke i kildekode)
 
-{vacancy-ref-number}
+**{vacancy-ref-number}**
 Referansenummer for rekrutteringsprosjektet
 Manuelt avslag
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
@@ -1231,8 +1231,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzND
-kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
-MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
-Y2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbLTE2NzI5MTI0NTEsNTA2ODI3NDUzLC00NT
+IxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2
+OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMT
+E2MjUyMTU1NSwxNjY2NTc4MzldfQ==
 -->
