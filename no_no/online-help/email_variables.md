@@ -301,20 +301,14 @@ Kopi av søknad
 Automatisk avslag
 
 Bekreftelse av brukernavn
-
-Opplysninger overført til CV-database
-
+Oplysninger overført til CV-database
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
-
 cut-e-rapport
-
 Ny e-post for bruker
 
-{client}
+**{client}**
 Klient (bare for bemanningsbyrå)
 Mottatt søknad
 Mottatt registrering
@@ -324,13 +318,9 @@ Automatisk avslag
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Avslag etter informasjonsmøte, intervju 1, intervju 2 og intervju 3
 Bekreftelse av brukernavn
-
 Opplysninger overført til CV-database
-
 Invitasjon til å sende/oppdatere CV-medarbeider
-
 Videresend søknad og CV
-
 Invitasjon til MINT-, Matrigma- og Service-F-tester
 cut-e-rapport
 Jobbagent-varsling
@@ -1180,8 +1170,8 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyODcxNzgxLDM2NTkxMTgyNCw1MDY4Mj
-c0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIz
-LDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNj
-g4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbLTIwMTg2MDkwNzUsMzY1OTExODI0LDUwNj
+gyNzQ1MywtNDUyMTAyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQz
+MjMsMTk3MTc4NjkwNywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOT
+M2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5XX0=
 -->
