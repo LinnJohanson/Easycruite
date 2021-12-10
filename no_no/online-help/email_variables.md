@@ -59,9 +59,7 @@ Annonsens sammendragstekst
 E-postkanal for publisering
 
 {applicant-department}
-
 Avdelingen som søkeren er forbundet med
-
 Videre fremdriftsrapport
 
 **{applicant-id}**
@@ -1062,9 +1060,10 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTI0NjY4OSwxMjAzNzIzMDc3LC00Nj
-g3OTIzNjksNjk2MjM2NzAzLC0yMDE4NjA5MDc1LDM2NTkxMTgy
-NCw1MDY4Mjc0NTMsLTQ1MjEwMjgwMSwtMTM0OTE5OTg0MywxMT
-cxMjk0MzIzLDE5NzE3ODY5MDcsLTQyNTc0ODAwMSwzNDI3Nzg2
-MzcsLTkzNjg4MjYyMywxMTYyNTIxNTU1LDE2NjY1NzgzOV19
+eyJoaXN0b3J5IjpbNzkxNDE4MTQ1LDE3OTUyNDY2ODksMTIwMz
+cyMzA3NywtNDY4NzkyMzY5LDY5NjIzNjcwMywtMjAxODYwOTA3
+NSwzNjU5MTE4MjQsNTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzND
+kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
+MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
+Y2NTc4MzldfQ==
 -->
