@@ -88,13 +88,11 @@ cut-e testnavn + URL
 
 Invitasjon til cut-e
 
-{ballot-link}
-
+**{ballot-link}**
 Link for rangering av kandidater
-
 Rangering av kandidater
 
-{candidate-family-name}
+**{candidate-family-name}**
 Etternavn
 Mottatt søknad
 Mottatt registrering
@@ -1072,9 +1070,9 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMjQxODksMTIwMzcyMzA3NywtNDY4Nz
-kyMzY5LDY5NjIzNjcwMywtMjAxODYwOTA3NSwzNjU5MTE4MjQs
-NTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzNDkxOTk4NDMsMTE3MT
-I5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgwMDEsMzQyNzc4NjM3
-LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNjY2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbMTcxODc4MzY5LDEyMDM3MjMwNzcsLTQ2OD
+c5MjM2OSw2OTYyMzY3MDMsLTIwMTg2MDkwNzUsMzY1OTExODI0
+LDUwNjgyNzQ1MywtNDUyMTAyODAxLC0xMzQ5MTk5ODQzLDExNz
+EyOTQzMjMsMTk3MTc4NjkwNywtNDI1NzQ4MDAxLDM0Mjc3ODYz
+NywtOTM2ODgyNjIzLDExNjI1MjE1NTUsMTY2NjU3ODM5XX0=
 -->
