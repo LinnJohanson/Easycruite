@@ -8,7 +8,7 @@ De optie Afdelingen kan ook gebruikt worden voor het beheer van de gebruikerstoe
 
 Wijs het vraagteken aan in de kolom  Afdelingsadmin  om te zien wie de administrator van een afdeling is.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aanmaken van een nieuwe afdeling
+#### Aanmaken van een nieuwe afdeling
 
 1.  Selecteer in de  Taakbalk  de optie  Instellingen  en vervolgens  Afdelingen  om de pagina  Afdelingen  weer te geven.
 2.  Klik op  Nieuwe afdeling  om het tabblad  Organisatie-informatie  weer te geven.
@@ -37,5 +37,5 @@ Wijs het vraagteken aan in de kolom  Afdelingsadmin  om te zien wie de administr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTQyMTQ0MV19
+eyJoaXN0b3J5IjpbMTY5NzA2ODYzMV19
 -->
