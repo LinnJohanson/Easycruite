@@ -43,35 +43,24 @@ Eenvoudig opvragen, bekijken en vergelijken van feedback over kandidaten
 Minder risico op aannemen van een ongeschikte kandidaat
 
 Bijhouden van de ad-hoccommunicatie met kandidaten
-
 Geen geschiedenis van de gesprekken met kandidaten
-
 4. E-mailhistorie
-
 Integratie met uw gebruikelijke e-mailtool
 
-Inconsistentie in de contracten
-
-Tijdverlies voor opstellen van contracten
-
+**Inconsistentie in de contracten**
+*Tijdverlies voor opstellen van contracten*
 5. Contracttemplate
-
 Samenvoegfunctionaliteit om contracten in eigen huisstijl op te stellen voor nieuwe medewerkers
 
-Identificeren van intern talent dat geschikt is voor vacatures
-
-Hogere wervingskosten
-
+**Identificeren van intern talent dat geschikt is voor vacatures**
+*Hogere wervingskosten
 Langzamer invullen van vacatures
-
-Meer tijd tot functionering
-
+Meer tijd tot functionering*
 6. Classificeren van werknemers
-
 Gemakkelijk zoeken naar intern talent op basis van uw criteria
 
-Dubbele verwerking van dubbele sollicitaties
-Tijdverlies door meerdere keren beoordelen van kandidaten
+**Dubbele verwerking van dubbele sollicitaties**
+*Tijdverlies door meerdere keren beoordelen van kandidaten*
 7. Controleren op dubbele kandidaten
 Automatisch bericht bij potentiële duplicaten
 
@@ -86,5 +75,5 @@ Automatisch bericht bij potentiële duplicaten
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzgzMTU1Nl19
+eyJoaXN0b3J5IjpbLTE1ODg3Mzc3ODBdfQ==
 -->
