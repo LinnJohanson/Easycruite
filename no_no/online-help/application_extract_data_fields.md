@@ -95,37 +95,37 @@ Kandidatens svar på dette spørsmålet, hvis stilt
 **Arbeidsgiver**
 Kandidatens svar på dette spørsmålet, hvis stilt
 
-Dato for telefonintervju
+**Dato for telefonintervju**
 Siste dato da dette intervjuet skulle finne sted
 
-Dato for første intervju
+**Dato for første intervju**
 Siste dato da dette intervjuet skulle finne sted
 
-Dato for andre intervju
+**Dato for andre intervju**
 Siste dato da dette intervjuet skulle finne sted
 
-Dato for tredje intervju
+**Dato for tredje intervju**
 Siste dato da dette intervjuet skulle finne sted
 
-Invitasjonsdato for telefonintervju
+**Invitasjonsdato for telefonintervju**
 Siste dato da søknadsstatusen ble satt til «Intervju»
 
-Invitasjonsdato for første intervju
+**Invitasjonsdato for første intervju**
 Siste dato da søknadsstatusen ble satt til «Intervju»
 
-Invitasjonsdato for andre intervju
+**Invitasjonsdato for andre intervju**
 Siste dato da søknadsstatusen ble satt til «Intervju»
 
-Invitasjonsdato for tredje intervju
+**Invitasjonsdato for tredje intervju**
 Siste dato da søknadsstatusen ble satt til «Intervju»
 
-Dato for samarbeidsrangering
+**Dato for samarbeidsrangering**
 Siste dato da søknadsstatusen ble satt til «Rangering»
 
-Dato for jobbtilbud
+**Dato for jobbtilbud**
 Siste dato da søknadsstatusen ble satt til «Jobbtilbud»
 
-Dato
+**Dato**
 Siste dato da søknadsstatusen ble satt til egendefinert status 1 (Obs! Overskriften vil endre seg etter navnet på den egendefinerte statusen kunden har)
 
 ##### Se også:
@@ -139,5 +139,5 @@ Siste dato da søknadsstatusen ble satt til egendefinert status 1 (Obs! Overskri
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU4MTQ3MzJdfQ==
+eyJoaXN0b3J5IjpbNzc5MjcyMDUyXX0=
 -->
