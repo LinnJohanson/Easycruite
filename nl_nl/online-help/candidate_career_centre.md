@@ -27,18 +27,15 @@ Kandidaten die ingelogd zijn via het Career Center besparen tijd bij het sollici
 
 De kandidaten kunnen hun profiel bijwerken, zodat u altijd over de meest recente informatie beschikt over de kandidaat.
 
-Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Sollicitaties opslaan in het Candidate Career Center](save_applications_in_candidate_career_centre.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Cv-parsering](cv_parsing.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Sollicitatieformulier](application_form.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Ontvangen van sollicitaties](receiving_applications.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk2NDg3MjVdfQ==
+eyJoaXN0b3J5IjpbNjMxNjM4NDAwXX0=
 -->
