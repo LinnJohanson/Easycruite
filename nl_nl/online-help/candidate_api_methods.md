@@ -22,9 +22,9 @@ CandidateSearch levert een lijst met kandidaten aan binnen de opgegeven zoekpara
 
 XSD-bestanden:
 
-CandidateSearchRequest.xsd –  [https://www.easycruit.com/wsdl/ws/CandidateSearchRequest.xsd](https://www.easycruit.com/wsdl/ws/Ca...rchRequest.xsd)
+CandidateSearchRequest.xsd –  [https://www.easycruit.com/wsdl/ws/CandidateSearchRequest.xsd] (https://www.easycruit.com/wsdl/ws/Ca...rchRequest.xsd)
 
-CandidateSearchResponse.xsd –  [https://www.easycruit.com/wsdl/ws/CandidateSearchResponse.xsd](https://www.easycruit.com/wsdl/ws/Ca...chResponse.xsd)
+CandidateSearchResponse.xsd –  [https://www.easycruit.com/wsdl/ws/CandidateSearchResponse.xsd] (https://www.easycruit.com/wsdl/ws/Ca...chResponse.xsd)
 
 Parameters:
 
@@ -44,11 +44,11 @@ CandidateExport retourneert een tekenreeks die een tekeneenheidsgecodeerd XML-do
 
 XSD-bestanden:
 
-CandidateExportRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd](https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd)
+CandidateExportRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd] (https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd)
 
-CandidateExportResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd](https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd)
+CandidateExportResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd] (https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd)
 
-Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
+Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd] (https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
 Parameters:
 
@@ -64,11 +64,11 @@ Verdere beschrijving van de XML staat in Candidate.xsd
 
 XSD-bestanden:
 
-CandidateImportRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd](https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd)
+CandidateImportRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd] (https://www.easycruit.com/wsdl/ws/Ca...ortRequest.xsd)
 
-CandidateImportResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd](https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd)
+CandidateImportResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd] (https://www.easycruit.com/wsdl/ws/Ca...rtResponse.xsd)
 
-Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
+Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd] (https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
 Parameters:
 
@@ -349,5 +349,5 @@ De DATA voor dit voorbeeld moeten gedecodeerd worden en de daaruit resulterende 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTExNjQ3Ml19
+eyJoaXN0b3J5IjpbLTE2MjI2NzU4MzZdfQ==
 -->
