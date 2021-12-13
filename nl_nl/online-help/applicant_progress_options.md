@@ -37,16 +37,16 @@ Met deze optie kan de sollicitant verplaatst worden naar een andere vacature. Al
 **[Aanbod versturen](making_an_offer_to_an_applicant.htm)**
 Als een sollicitant doorgestuurd wordt naar deze fase, dan wordt zijn/haar  Status sollicitatie  gewijzigd in  Aanbod ontvangen.
 
-Aannemen
+**Aannemen**
 Deze optie verplaatst de sollicitanten naar het gedeelte Werknemers in het systeem, waar ze gekoppeld worden aan een positie en een afdeling en niet langer als kandidaat gezien worden. Voor meer informatie, zie  [Werknemers](guide_for_users_employees.htm).
 
-Arbeidsovereenkomst opmaken & verzenden
+**Arbeidsovereenkomst opmaken & verzenden**
 Met deze optie wordt een PDF-document verstuurd naar de sollicitant met hun specifieke arbeidsovereenkomstinformatie.
 
-Brief verzenden
+**Brief verzenden**
 Hiermee kan de recruiter een brief schrijven aan de sollicitant. Momenteel is deze optie beperkt tot brieftemplates voor ontvangen en afgewezen sollicitaties. Andere brieven moeten nog steeds handmatig afgedrukt worden en handmatig naar de sollicitant verstuurd worden via de normale post.
 
-[Versturen voor groepsbeoordeling](collaborative_rating_panel_review.htm)
+**[Versturen voor groepsbeoordeling](collaborative_rating_panel_review.htm)**
 Hiermee kan de recruiter een e-mail verzenden aan interne / externe personen met een link om de kandidaten te beoordelen en een score van 1 tot 7 sterren en een eventuele opmerking toe te voegen. (zie  [Groepsbeoordeling](collaborative_rating_panel_review.htm))
 
 ##### Zie ook:
@@ -60,5 +60,5 @@ Hiermee kan de recruiter een e-mail verzenden aan interne / externe personen met
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDU1ODM4N119
+eyJoaXN0b3J5IjpbMTgxOTk3NDI1OV19
 -->
