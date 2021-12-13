@@ -183,9 +183,8 @@ E-mail aan beoordelaars met het verzoek om een kandidaat te beoordelen.
 Stuurt e-mail terug bij afgeronde beoordeling
 
 Melding aan de recruiter bij elke voltooide groepsbeoordeling.
-
-Brief
-
+***
+**Brief**
 Beschrijving
 
 Sollicitatie ontvangen
@@ -195,9 +194,8 @@ Brief gebruikt om te bevestigen dat een sollicitatie voor een vacature ontvangen
 Kandidaat afgewezen
 
 Brief gebruikt om een sollicitatie voor een vacature af te wijzen.
-
-E-mail standaard publicatie kanaal
-
+***
+**E-mail standaard publicatie kanaal**
 Beschrijving
 
 Start publicatie e-mail
@@ -207,9 +205,8 @@ E-mail verstuurd naar een publicatiekanaal om te informeren over de plaatsing va
 Stop publicatie e-mail
 
 E-mailbericht om de plaatsing van een vacature te beëindigen.
-
-Assessmenttest e-mails
-
+***
+**Assessmenttest e-mails**
 Beschrijving
 
 SHL assessment uitnodiging
@@ -223,9 +220,8 @@ E-mail verstuurd naar kandidaten om hen uit te nodigen voor een Master Managemen
 cut-e assessment uitnodiging
 
 E-mail verstuurd naar kandidaten om hen uit te nodigen voor een cut-e assessment.
-
-Organisatiespecifieke e-mailtemplates
-
+***
+**Organisatiespecifieke e-mailtemplates**
 Beschrijving
 
 Bevat speciaal voor de gebruiker aangemaakte e-mails.
@@ -244,5 +240,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIwMTk4MzRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDkyOTQ0NTYsLTE0NDIwMTk4MzRdfQ
+==
 -->
