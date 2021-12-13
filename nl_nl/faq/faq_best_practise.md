@@ -427,7 +427,7 @@ Soms krijgt een bedrijf een nieuwe naam. Neem om de naam van uw bedrijf te wijzi
 
 1.  U kunt controleren wat uw huidige bedrijfsnaam is via  Instellingen  >  Bedrijf.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Logo / afbeelding wijzigen
+####   Logo / afbeelding wijzigen
 
 ### Hoe kan men het logo / de afdelingsafbeelding wijzigen?
 
@@ -441,7 +441,7 @@ Voor alle andere afdelingen kan dit gedaan worden door een administrator of afde
 
 Als er geen afbeelding geüpload is, dan wordt de afbeelding van de bovenliggende afdeling of het bovenliggende bedrijf overgenomen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Open sollicitaties
+####  Open sollicitaties
 
 ### Best practice voor het verwerken van open sollicitaties
 
@@ -468,7 +468,7 @@ De voordelen van deze manier zijn:
 
 [![](../Resources/Images/vacancies_thumb_120_0.jpg)](../Resources/Images/vacancies.jpg)
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Uitloggen
+####  Uitloggen
 
 ### Waarom word ik uitgelogd uit het systeem?
 
@@ -488,7 +488,7 @@ Opmerking: Het bewerken van een tekstvak telt niet als activiteit en daardoor ku
 
 Dit kan zijn omdat uw IP-adres verandert. Dit kan voorkomen als u een VPN gebruikt of als een sessiecookie verwijderd wordt om een bepaalde reden. U kunt het beste contact opnemen met uw interne IT-afdeling als u regelmatig uitgelogd wordt omdat dit te maken kan hebben met uw internetinstellingen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Welke functies zijn geactiveerd voor mijn EasyCruit?
+####  Welke functies zijn geactiveerd voor mijn EasyCruit?
 
 EasyCruit-administrators kunnen zien welke functies aangeschaft en geactiveerd zijn.
 
@@ -497,13 +497,13 @@ EasyCruit-administrators kunnen zien welke functies aangeschaft en geactiveerd z
     Het getal naast het pakket geeft aan hoeveel functies geactiveerd zijn. Als bij het pakket een groen vinkje staat, dan zijn alle functies geactiveerd.
 3.  Selecteer de naam van een pakket om het uit te vouwen en de lijst met functies weer te geven.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)E-mails aan meerdere ontvangers; zijn de ontvangers zichtbaar voor elkaar?
+####  E-mails aan meerdere ontvangers; zijn de ontvangers zichtbaar voor elkaar?
 
 ### Ik verstuur een e-mail naar meerdere ontvangers. Kunnen zij elkaars e-mailadres zien?
 
 Nee, u hoeft zich geen zorgen te maken. Als u e-mails verstuurt aan meerdere kandidaten tegelijk in EasyCruit, dan bent u ervan verzekerd dat EasyCruit een aparte e-mail verstuurt naar elk van de e-mailadressen in de lijst. Het systeem verstuurt ze niet als CC of BCC, maar als aparte e-mails.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Afmelden van een administrator voor ongewenste e-mails van EasyCruit
+####  Afmelden van een administrator voor ongewenste e-mails van EasyCruit
 
 Ontvangt u e-mails over systeemupdates, maar heeft u deze niet meer nodig omdat u overgestapt bent naar een andere positie of organisatie?
 
@@ -528,5 +528,5 @@ Mocht u vragen hebben, neem dan gerust contact op met ons supportteam.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ4NDE3MjZdfQ==
+eyJoaXN0b3J5IjpbLTUzMjc2MjU0OF19
 -->
