@@ -10,7 +10,7 @@ Nadat een sollicitant verwijderd is van een sollicitatie, kan hij/zij verder beh
 
 Als een verwijderde sollicitant gekoppeld is aan een verwijderde vacature, dan kan deze sollicitant niet hersteld worden.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Herstellen van een verwijderde sollicitant
+#### Herstellen van een verwijderde sollicitant
 
 1.  Selecteer op de  Startpagina  de optie  Verwijderde sollicitaties.
 2.  Gebruik de opties  Wervingsproject selecteren  en  Periode selecteren  om de lijst met verwijderde sollicitanten te verfijnen.
@@ -18,7 +18,7 @@ Als een verwijderde sollicitant gekoppeld is aan een verwijderde vacature, dan k
 4.  Klik op  Herstellen  en klik vervolgens op  OK  wanneer gevraagd wordt om te bevestigen.
 5.  Ga naar de vacature waaraan de sollicitant gekoppeld was. De  Status  van de sollicitant is nu  Hersteld.
 
-####Definitief verwijderen van een sollicitatie uit het systeem
+#### Definitief verwijderen van een sollicitatie uit het systeem
 
 1.  Selecteer op de  Startpagina  de optie  Verwijderde sollicitaties.
 2.  Filter de lijst naar wens en selecteer de selectievakjes naast de betreffende sollicitanten.
@@ -38,5 +38,5 @@ Als een verwijderde sollicitant gekoppeld is aan een verwijderde vacature, dan k
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODQ4MTY1MV19
+eyJoaXN0b3J5IjpbLTE5OTAxMzE4MDddfQ==
 -->
