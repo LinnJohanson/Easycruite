@@ -33,7 +33,7 @@ Automatische afwijzing (1, 2)
 E-mail verstuurd naar de kandidaten met een ontoereikend resultaat van de screeningsvragen voor de vacature.
 
 Tijdgebonden afwijzing
-
+ 
 Beschrijving
 
 Tijdgebonden afwijzing (1, 2)
@@ -196,6 +196,7 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM1MDkyMDAsMjgyNjYzNzA0LC02NT
-Q4ODg4NDIsLTQ4MzA4NDM4MCwtMTQ0MjAxOTgzNF19
+eyJoaXN0b3J5IjpbODY3MDUyNzc2LC0xODYzNTA5MjAwLDI4Mj
+Y2MzcwNCwtNjU0ODg4ODQyLC00ODMwODQzODAsLTE0NDIwMTk4
+MzRdfQ==
 -->
