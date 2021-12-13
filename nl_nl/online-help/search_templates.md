@@ -6,7 +6,7 @@ In het gedeelte  Werkervaring  van de zoektemplates bijvoorbeeld, kan de gebruik
 
 Voor meer informatie over zoeken, zie  [Zoeken naar kandidaten](../getting-started/searching_for_candidates.htm).
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aanmaken van een zoektemplate
+#### Aanmaken van een zoektemplate
 
 1.  Klik in de  Taakbalk  op de optie  Instellingen  en vervolgens op  Talentpoolzoektemplates.
 2.  Om een volledig nieuwe zoektemplate te maken, moet de lijst  Selecteer standaardzoekopdracht  ingesteld zijn op  Selecteer.  
@@ -18,7 +18,7 @@ Voor meer informatie over zoeken, zie  [Zoeken naar kandidaten](../getting-start
     Bij elk gedeelte waarin zoekparameters geselecteerd zijn, wordt een rood sterretje geplaatst aan het einde van de regel met de titel.
 6.  Klik op  Opslaan  om de nieuwe template op te slaan.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Bewerken van een bestaande zoektemplate
+#### Bewerken van een bestaande zoektemplate
 
 1.  Klik in de  Taakbalk  op de optie  Instellingen  en vervolgens op  Talentpoolzoektemplates.
 2.  Selecteer de template die bewerkt moet worden in de lijst  Selecteer standaardzoekopdracht.
@@ -27,20 +27,20 @@ Voor meer informatie over zoeken, zie  [Zoeken naar kandidaten](../getting-start
 4.  Selecteer de gewenste waarden voor de zoekparameters.
 5.  Klik op  Update template  om de wijzigingen op te slaan.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Verwijderen van een zoektemplate
+#### Verwijderen van een zoektemplate
 
 1.  Klik in de  Taakbalk  op de optie  Instellingen  en vervolgens op  Talentpoolzoektemplates.
 2.  Selecteer de template die verwijderd moet worden in de lijst  Selecteer standaardzoekopdracht.
 3.  Klik op  Verwijder zoektemplate  en klik vervolgens op  OK  wanneer gevraagd wordt om te bevestigen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Gebruik van links naar zoektemplate
+#### Gebruik van links naar zoektemplate
 
 1.  Vouw op de  Startpagina  de optie  Links naar zoektemplate  uit.
 2.  Klik op het gewenste zoekitem in de lijst met  Zoektemplates  of  Opgeslagen zoekopdrachten  om de pagina  Talentpool  voor geavanceerd zoeken weer te geven.
 3.  Voltooi het zoeken naar behoefte.  
     De optie Links naar zoektemplate is niet standaard beschikbaar en moet ingeschakeld worden in uw systeem.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aandachtspunten voor zoekcriteria en voorbeelden
+#### Aandachtspunten voor zoekcriteria en voorbeelden
 
 Bij het configureren van zoektermen voor zoektemplates, zijn er een paar aandachtspunten die de resultaten beïnvloeden. Als de verwachte zoekresultaten niet verschijnen, dan kan dit om een van de volgende redenen zijn:
 
@@ -50,13 +50,9 @@ Zoektermen moeten minimaal drie tekens bevatten en speciale tekens zoals ‘+’
 
 Er is een aantal operators die toegevoegd kunnen worden aan de zoekcriteria. Deze volgende operators helpen om gerichter te zoeken:
 
-+
+.+ - Een plusteken geeft aan dat het volgende woord aanwezig moet zijn
 
-Een plusteken geeft aan dat het volgende woord aanwezig moet zijn
-
--
-
-Een minteken geeft aan dat het volgende woord niet aanwezig mag zijn
+.- - Een minteken geeft aan dat het volgende woord niet aanwezig mag zijn
 
 () - Met haakjes kunnen woorden gegroepeerd worden in subexpressies
 
@@ -92,5 +88,5 @@ De volgende voorbeelden laten zien hoe verschillende zoekopdrachten verschillend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTk0OTgzMF19
+eyJoaXN0b3J5IjpbLTEzNTIxNDIwNTRdfQ==
 -->
