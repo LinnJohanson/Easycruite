@@ -1,6 +1,6 @@
 # Afwijzen en terugtrekken van een sollicitant
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Afwijzen van een sollicitant
+#### Afwijzen van een sollicitant
 
 Als een sollicitant niet geschikt is voor een vacature en er zijn geen andere vacatures waarnaar de sollicitant verplaatst kan worden, dan kan hij/zij afgewezen worden. Als ze eenmaal afgewezen zijn, dan kunnen ze verplaatst worden naar de cv-database. Voor meer informatie over het verplaatsen van sollicitanten, zie  [Verplaatsen van sollicitanten](transferring_applicants.htm).
 
@@ -15,7 +15,7 @@ Als een sollicitant niet geschikt is voor een vacature en er zijn geen andere va
 
 De pagina  Kandidatenoverzicht  van de vacature is ook bijgewerkt en geeft aan dat de sollicitant afgewezen is en in welke fase de afwijzing plaatsgevonden heeft.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Terugtrekken van een sollicitant
+#### Terugtrekken van een sollicitant
 
 1.  Selecteer op de pagina  Sollicitatie & cv  van de sollicitant de optie  Teruggetrokken  in de lijst  Wervingsactie  en klik vervolgens op  Uitvoeren. De  Status sollicitatie  van de sollicitant wordt gewijzigd in  Teruggetrokken.
 
@@ -38,5 +38,5 @@ Voor meer informatie over het verplaatsen van een sollicitant naar een andere va
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUxNTY3NThdfQ==
+eyJoaXN0b3J5IjpbNDU2NDMyMDU0XX0=
 -->
