@@ -70,47 +70,27 @@ Bakgrunnsfarge. Hvis du klikker på rullegardinpilene, får du frem en fargevelg
 
 Sortert liste / nummerert liste
 
-![](../Resources/Images/numbered_list.jpg)
+![](../Resources/Images/numbered_list.jpg) - Usortert liste / punktliste
 
-Usortert liste / punktliste
+![](../Resources/Images/decrease.jpg) - Reduser innrykk
 
-![](../Resources/Images/decrease.jpg)
+![](../Resources/Images/increase.jpg) - Øk innrykk
 
-Reduser innrykk
+![](../Resources/Images/undo.jpg) - Angre siste handling (CTRL + Z)
 
-![](../Resources/Images/increase.jpg)
+![](../Resources/Images/redo.jpg) - Gjør om siste handling (CTRL + Y)
 
-Øk innrykk
+![](../Resources/Images/insert_link.jpg) - Sett inn en ny lenke. Klikk på denne knappen for å åpne en ny dialogboks, hvor du kan skrive inn URL-adresse for en lenke. Du kan også velge om lenken skal åpnes i et nytt vindu eller det gjeldende vinduet
 
-![](../Resources/Images/undo.jpg)
+![](../Resources/Images/remove_link.jpg) - Fjern valgte lenke. Marker en lenke med markøren, og klikk på denne knappen for å fjerne lenken
 
-Angre siste handling (CTRL + Z)
+![](../Resources/Images/anchor.jpg) - Sett inn et nytt anker. Når du klikker på denne knappen, åpnes en ny dialogboks, der du kan sette inn et ankernavn på det punktet på siden der markøren er aktiv. Dette gjør at en ny lenke kan inkluderes, som lenker til den delen av siden.
 
-![](../Resources/Images/redo.jpg)
+![](../Resources/Images/clean_up.jpg) - Rens ukurant kode. Fjerner uønsket formatering. Denne funksjonen er nyttig når du kopierer forhåndsformatert tekst fra Word.
 
-Gjør om siste handling (CTRL + Y)
+![](../Resources/Images/help.jpg) - Hjelp for WYSIWYG-editor
 
-![](../Resources/Images/insert_link.jpg)
-
-Sett inn en ny lenke. Klikk på denne knappen for å åpne en ny dialogboks, hvor du kan skrive inn URL-adresse for en lenke. Du kan også velge om lenken skal åpnes i et nytt vindu eller det gjeldende vinduet
-
-![](../Resources/Images/remove_link.jpg)
-
-Fjern valgte lenke. Marker en lenke med markøren, og klikk på denne knappen for å fjerne lenken
-
-![](../Resources/Images/anchor.jpg)
-
-Sett inn et nytt anker. Når du klikker på denne knappen, åpnes en ny dialogboks, der du kan sette inn et ankernavn på det punktet på siden der markøren er aktiv. Dette gjør at en ny lenke kan inkluderes, som lenker til den delen av siden.
-
-![](../Resources/Images/clean_up.jpg)
-
-Rens ukurant kode. Fjerner uønsket formatering. Denne funksjonen er nyttig når du kopierer forhåndsformatert tekst fra Word.
-
-![](../Resources/Images/help.jpg)
-
-Hjelp for WYSIWYG-editor - ![](../Resources/Images/html.jpg)
-
-HTML-koding. Denne knappen åpner et nytt vindu, hvor du kan skrive inn innhold i editoren i HTML-kode. Når innholdet lagres og lukkes, blir det oppdatert i WYSIWYG-editoren uten at koden vises
+![](../Resources/Images/html.jpg) - HTML-koding. Denne knappen åpner et nytt vindu, hvor du kan skrive inn innhold i editoren i HTML-kode. Når innholdet lagres og lukkes, blir det oppdatert i WYSIWYG-editoren uten at koden vises
 
 ![](../Resources/Images/cut.jpg) - Klipper ut markert tekst (CTRL + X)
 
@@ -202,5 +182,5 @@ Du kan gjøre endringer i teksten i WYSIWYG-editoren med funksjonen Søk og erst
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MjQ3NDA4XX0=
+eyJoaXN0b3J5IjpbMTQyNTEzMzM5NF19
 -->
