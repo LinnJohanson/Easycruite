@@ -23,7 +23,7 @@ In de volgende tabel staan de verschillende fases beschreven:
 
 **Wervingsactie**
 Beschrijving
-
+*** 
 [Teruggetrokken](rejecting_and_withdrawing_an_applicant.htm)
 De kandidaat heeft beslist zich terug te trekken uit het sollicitatieproces. Dit kan zijn als een sollicitant gereageerd heeft op een uitnodiging voor een interview of in andere fasen van het proces. De  Status sollicitatie  van de sollicitant is gewijzigd in  Teruggetrokken.
 
@@ -77,5 +77,5 @@ Hiermee kan de recruiter een e-mail verzenden aan interne / externe personen met
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAyMDM2M119
+eyJoaXN0b3J5IjpbMjE0Mjk3MTc1NV19
 -->
