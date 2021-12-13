@@ -72,7 +72,7 @@ Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www
 
 Parameters:
 
-Candidate – tekenreeks (zie  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)  voor details) [verplicht]
+Candidate – tekenreeks (zie  [https://www.easycruit.com/wsdl/ws/Candidate.xsd] (https://www.easycruit.com/wsdl/ws/Candidate.xsd)  voor details) [verplicht]
 
 7 / 14
 
@@ -82,15 +82,15 @@ Zelfde als CandidateImport, maar de kandidaat-id is verplicht in het XML-documen
 
 XSD-bestanden:
 
-CandidateUpdateRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...ateRequest.xsd](https://www.easycruit.com/wsdl/ws/Ca...ateRequest.xsd)
+CandidateUpdateRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...ateRequest.xsd] (https://www.easycruit.com/wsdl/ws/Ca...ateRequest.xsd)
 
-CandidateUpdateResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...teResponse.xsd](https://www.easycruit.com/wsdl/ws/Ca...teResponse.xsd)
+CandidateUpdateResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Ca...teResponse.xsd] (https://www.easycruit.com/wsdl/ws/Ca...teResponse.xsd)
 
-Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
+Candidate.xsd –  [https://www.easycruit.com/wsdl/ws/Candidate.xsd] (https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
 Parameters:
 
-Candidate – tekenreeks (zie  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)  voor details) [verplicht]
+Candidate – tekenreeks (zie  [https://www.easycruit.com/wsdl/ws/Candidate.xsd] (https://www.easycruit.com/wsdl/ws/Candidate.xsd)  voor details) [verplicht]
 
 #### AddCandidateToRecruitingProject
 
@@ -98,11 +98,11 @@ XSD-bestanden:
 
 AddCandidateToRecruitingProjectRequest –
 
-[https://www.easycruit.com/wsdl/ws/Ad...ectRequest.xsd](https://www.easycruit.com/wsdl/ws/Ad...ectRequest.xsd)
+[https://www.easycruit.com/wsdl/ws/Ad...ectRequest.xsd] (https://www.easycruit.com/wsdl/ws/Ad...ectRequest.xsd)
 
 AddCandidateToRecruitingProjectResponse –
 
-[https://www.easycruit.com/wsdl/ws/Ad...ctResponse.xsd](https://www.easycruit.com/wsdl/ws/Ad...ctResponse.xsd)
+[https://www.easycruit.com/wsdl/ws/Ad...ctResponse.xsd] (https://www.easycruit.com/wsdl/ws/Ad...ctResponse.xsd)
 
 Parameters:
 
@@ -126,9 +126,9 @@ jpg, jpeg, png, tif, tiff, gif, bmp
 
 XSD-bestanden:
 
-DocumentUploadRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd](https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd)
+DocumentUploadRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd] (https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd)
 
-DocumentUplaodResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd](https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd)
+DocumentUplaodResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd] (https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd)
 
 Parameters:
 
@@ -144,9 +144,9 @@ Document – tekenreeks (MIME Base64-gecodeerde versie van het document) [verpli
 
 XSD-bestanden:
 
-DocumentDownloadRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd](https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd)
+DocumentDownloadRequest.xsd –  [https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd] (https://www.easycruit.com/wsdl/ws/Do...oadRequest.xsd)
 
-DocumentDownloadResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Do...adResponse.xsd](https://www.easycruit.com/wsdl/ws/Do...adResponse.xsd)
+DocumentDownloadResponse.xsd –  [https://www.easycruit.com/wsdl/ws/Do...adResponse.xsd] (https://www.easycruit.com/wsdl/ws/Do...adResponse.xsd)
 
 Parameters:
 
@@ -162,11 +162,11 @@ XSD-bestanden:
 
 CandidateValidateUsernameRequest.xsd –
 
-[https://www.easycruit.com/wsdl/ws/Ca...ameRequest.xsd](https://www.easycruit.com/wsdl/ws/Ca...ameRequest.xsd)
+[https://www.easycruit.com/wsdl/ws/Ca...ameRequest.xsd] (https://www.easycruit.com/wsdl/ws/Ca...ameRequest.xsd)
 
 CandidateValidateUsernameResponse.xsd –
 
-[https://www.easycruit.com/wsdl/ws/Ca...meResponse.xsd](https://www.easycruit.com/wsdl/ws/Ca...meResponse.xsd)
+[https://www.easycruit.com/wsdl/ws/Ca...meResponse.xsd] (https://www.easycruit.com/wsdl/ws/Ca...meResponse.xsd)
 
 Parameters:
 
@@ -180,9 +180,9 @@ Klantspecifieke vraag
 
 XSD-bestanden:
 
-CVSetupRequest.xsd –  [https://www.easycruit.com/wsdl/ws/CVSetupRequest.xsd](https://www.easycruit.com/wsdl/ws/CVSetupRequest.xsd)
+CVSetupRequest.xsd –  [https://www.easycruit.com/wsdl/ws/CVSetupRequest.xsd] (https://www.easycruit.com/wsdl/ws/CVSetupRequest.xsd)
 
-CVSetupResponse.xsd –  [https://www.easycruit.com/wsdl/ws/CVSetupResponse.xsd](https://www.easycruit.com/wsdl/ws/CVSetupResponse.xsd)
+CVSetupResponse.xsd –  [https://www.easycruit.com/wsdl/ws/CVSetupResponse.xsd] (https://www.easycruit.com/wsdl/ws/CVSetupResponse.xsd)
 
 Parameters:
 
@@ -194,9 +194,9 @@ Events retourneert beschikbare gebeurtenissen op basis van de opgegeven paramete
 
 XSD-bestanden:
 
-EventsRequest.xsd –  [https://www.easycruit.com/wsdl/ws/EventsRequest.xsd](https://www.easycruit.com/wsdl/ws/EventsRequest.xsd)
+EventsRequest.xsd –  [https://www.easycruit.com/wsdl/ws/EventsRequest.xsd] (https://www.easycruit.com/wsdl/ws/EventsRequest.xsd)
 
-EventsResponse.xsd –  [https://www.easycruit.com/wsdl/ws/EventsResponse.xsd](https://www.easycruit.com/wsdl/ws/EventsResponse.xsd)
+EventsResponse.xsd –  [https://www.easycruit.com/wsdl/ws/EventsResponse.xsd] (https://www.easycruit.com/wsdl/ws/EventsResponse.xsd)
 
 Parameters:
 
@@ -250,7 +250,7 @@ Console.WriteLine(CandidateResponse.Candidate);
 
 }
 
-Om het bovenstaande voorbeeld te compileren, moet u het WSDL-bestand downloaden vanaf EasyCruit en het compileren. WSDL-URL:  [https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl](https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl)
+Om het bovenstaande voorbeeld te compileren, moet u het WSDL-bestand downloaden vanaf EasyCruit en het compileren. WSDL-URL:  [https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl] (https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl)
 
 Voorbeeld van opdrachtregel van compilatie
 
@@ -262,7 +262,7 @@ mcs /r:EasyCruit.dll ec_soap.cs
 
 PERL SOAP::LITE EXAMPLE
 
-my $service = SOAP::Lite>service('[https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl](https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl)');
+my $service = SOAP::Lite>service('[https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl] (https://www.easycruit.com/wsdl/ws/EasyCruit.wsdl)');
 
 my $candidate = $service>CandidateExport(SOAP::Data>name('ec:CandidateId',123456789),SOAP::Data>name('ec:Language','gb'),
 
@@ -288,11 +288,11 @@ VOORBEELD RAW SOAP REQUEST
 
 <?xml version="1.0" encoding="UTF8"?>
 
-<soap:Envelope xmlns:xsd="[http://www.w3.org/2001/XMLSchema](http://www.w3.org/2001/XMLSchema)" xmlns:xsi="[http://www.w3.org/2001/XMLSchemainstance](http://www.w3.org/2001/XMLSchemainstance)"
+<soap:Envelope xmlns:xsd="[http://www.w3.org/2001/XMLSchema] (http://www.w3.org/2001/XMLSchema)" xmlns:xsi="[http://www.w3.org/2001/XMLSchemainstance] (http://www.w3.org/2001/XMLSchemainstance)"
 
-xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" >
+xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" >
 
-<soap:Header>
+< soap:Header>
 
 < AuthHeader>
 
@@ -349,5 +349,5 @@ De DATA voor dit voorbeeld moeten gedecodeerd worden en de daaruit resulterende 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTI4OTg3NF19
+eyJoaXN0b3J5IjpbMTY4MTExNjQ3Ml19
 -->
