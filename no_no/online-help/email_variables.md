@@ -53,12 +53,10 @@ Arbeidssted
 E-postkanal for publisering
 
 {appetizer-text}
-
 Annonsens sammendragstekst
-
 E-postkanal for publisering
 
-{applicant-department}
+**{applicant-department}**
 Avdelingen som søkeren er forbundet med
 Videre fremdriftsrapport
 
@@ -1060,10 +1058,10 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxNDE4MTQ1LDE3OTUyNDY2ODksMTIwMz
-cyMzA3NywtNDY4NzkyMzY5LDY5NjIzNjcwMywtMjAxODYwOTA3
-NSwzNjU5MTE4MjQsNTA2ODI3NDUzLC00NTIxMDI4MDEsLTEzND
-kxOTk4NDMsMTE3MTI5NDMyMywxOTcxNzg2OTA3LC00MjU3NDgw
-MDEsMzQyNzc4NjM3LC05MzY4ODI2MjMsMTE2MjUyMTU1NSwxNj
-Y2NTc4MzldfQ==
+eyJoaXN0b3J5IjpbNDI1NzU0NjI5LDc5MTQxODE0NSwxNzk1Mj
+Q2Njg5LDEyMDM3MjMwNzcsLTQ2ODc5MjM2OSw2OTYyMzY3MDMs
+LTIwMTg2MDkwNzUsMzY1OTExODI0LDUwNjgyNzQ1MywtNDUyMT
+AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
+NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
+I1MjE1NTUsMTY2NjU3ODM5XX0=
 -->
