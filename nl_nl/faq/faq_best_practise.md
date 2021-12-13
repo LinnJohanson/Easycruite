@@ -101,8 +101,7 @@ Volg hiervoor de volgende stappen:
 1.  Vraag de kandidaat om de informatie of bijlagen naar u toe te mailen.
 2.  Open de kandidaat in EasyCruit. Klik op  Kies verder bewerken. Selecteer  Opslaan. Klik op de knop  Uitvoeren.  
       
-      
-      
+          
     Na het opslaan van de kandidaat verschijnt een nieuwe knop aan de rechterkant. Klik op de knop  Bewerk kandidaatgegevens.
 3.  Er verschijnen meerdere tabbladen. Het tabblad  Sollicitatie  bevat de motivatiebrief. Klik op het tabblad en voeg de benodigde informatie toe.
 4.  Klik op  Opslaan en ga naar vacature.
@@ -117,7 +116,7 @@ Indien gewenst kunt u ook aan de kandidaten vragen om opnieuw te solliciteren. V
 4.  Ga naar de Startpagina. Open de Verwijderde sollicitaties. Selecteer de kandidaat, scroll naar beneden en selecteer Definitief verwijderen.
 5.  Laat de kandidaat weten dat hij/zij opnieuw kan solliciteren met de bijgewerkte informatie.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Wie heeft toegang tot een vacature?
+####  Wie heeft toegang tot een vacature?
 
 Als u een vacature aanmaakt in EasyCruit, dan krijgen bepaalde gebruikersgroepen automatisch toegang tot de vacature:
 
@@ -528,5 +527,5 @@ Mocht u vragen hebben, neem dan gerust contact op met ons supportteam.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUzMTkzODIsLTUzMjc2MjU0OF19
+eyJoaXN0b3J5IjpbLTEyMTIxNDg4NzAsLTUzMjc2MjU0OF19
 -->
