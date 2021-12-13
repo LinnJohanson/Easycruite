@@ -203,7 +203,6 @@ Start publicatie e-mail
 E-mail verstuurd naar een publicatiekanaal om te informeren over de plaatsing van een nieuwe vacature. Deze e-mail kan gebruik maken van de tag <department-about-inherited /> om ervoor te zorgen de introductie-, privacy- en disclaimerinformatie met betrekking tot een vacature weergegeven wordt op een vacaturesite en toegevoegd wordt aan e-mails. Als de tag gebruikt wordt, dan wordt de introductie-, privacy- en disclaimerinformatie voor de afdeling die gekoppeld is aan de vacature weergegeven indien beschikbaar. Indien niet beschikbaar, dan wordt gezocht in de bovenliggende afdelingen tot de informatie voor in de e-mail gevonden wordt.
 
 Stop publicatie e-mail
-
 E-mailbericht om de plaatsing van een vacature te beëindigen.
 ***
 **Assessmenttest e-mails**
@@ -236,5 +235,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzA4NDM4MCwtMTQ0MjAxOTgzNF19
+eyJoaXN0b3J5IjpbLTczNjM5MDk1OCwtNDgzMDg0MzgwLC0xND
+QyMDE5ODM0XX0=
 -->
