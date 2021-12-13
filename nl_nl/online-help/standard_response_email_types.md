@@ -149,60 +149,48 @@ Bericht nieuwe user
 E-mail verstuurd naar nieuwe gebruikers met een gebruikersnaam en wachtwoord om in te loggen op EasyCruit.
 
 Goedkeuring vacature
-
 E-mail verstuurd om een vacature te laten goedkeuren. Deze e-mail wordt verstuurd naar de gebruikers die aangewezen zijn als goedkeurders voor een vacature.
 
 Waarschuwing bij vervallen vacature (1 , 2)
-
 E-mail verstuurd naar recruiters een bepaald aantal dagen voor een vacature verloopt. Zo heeft de recruiter tijd om de sluitingsdatum naar achteren te verplaatsen.
 
 Wachtwoord opvragen e-mail
-
 E-mail verstuurd naar gebruikers die een wachtwoord aangevraagd hebben.
 
 Arbeidsovereenkomst e-mail
-
 E-mail verstuurd naar kandidaten aan wie een contract aangeboden wordt.
 
 Tip een vriend(in)-mail
-
 E-mail gebruikt om kandidaten in staat te stellen vacatures door te mailen naar hun vrienden.
 
 Portable CV
-
 E-mail gebruikt om een Portable CV te versturen.
 
 Automatisch updaten naar opgeslagen
-
 Updates het kandidaattype automatisch naar Opgeslagen.
 
 Stuurt e-mail om kandidaten te beoordelen
-
 E-mail aan beoordelaars met het verzoek om een kandidaat te beoordelen.
 
 Stuurt e-mail terug bij afgeronde beoordeling
-
 Melding aan de recruiter bij elke voltooide groepsbeoordeling.
 ***
 **Brief**
 Beschrijving
 
-Sollicitatie ontvangen
-
+**Sollicitatie ontvangen**
 Brief gebruikt om te bevestigen dat een sollicitatie voor een vacature ontvangen is.
 
-Kandidaat afgewezen
-
+**Kandidaat afgewezen**
 Brief gebruikt om een sollicitatie voor een vacature af te wijzen.
 ***
 **E-mail standaard publicatie kanaal**
 Beschrijving
 
-Start publicatie e-mail
-
+**Start publicatie e-mail**
 E-mail verstuurd naar een publicatiekanaal om te informeren over de plaatsing van een nieuwe vacature. Deze e-mail kan gebruik maken van de tag <department-about-inherited /> om ervoor te zorgen de introductie-, privacy- en disclaimerinformatie met betrekking tot een vacature weergegeven wordt op een vacaturesite en toegevoegd wordt aan e-mails. Als de tag gebruikt wordt, dan wordt de introductie-, privacy- en disclaimerinformatie voor de afdeling die gekoppeld is aan de vacature weergegeven indien beschikbaar. Indien niet beschikbaar, dan wordt gezocht in de bovenliggende afdelingen tot de informatie voor in de e-mail gevonden wordt.
 
-Stop publicatie e-mail
+**Stop publicatie e-mail**
 E-mailbericht om de plaatsing van een vacature te beëindigen.
 ***
 **Assessmenttest e-mails**
@@ -235,6 +223,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjM5MDk1OCwtNDgzMDg0MzgwLC0xND
+eyJoaXN0b3J5IjpbLTY1NDg4ODg0MiwtNDgzMDg0MzgwLC0xND
 QyMDE5ODM0XX0=
 -->
