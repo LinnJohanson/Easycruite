@@ -15,19 +15,19 @@ Geeft een overzicht van de websites (vacaturewebsites, jobboards en die die hand
 **Diversiteit**
 Geeft informatie over het geslacht en de leeftijd van de personen die op de vacatures op de websites solliciteren.
 
-Vacatures
+**Vacatures**
 Geeft informatie over de verschillende fases die de sollicitanten voor specifieke vacatures bereikt hebben, zoals Uitgenodigd voor interview, Afgewezen, Tijd tot aanbod, Aanbod verzonden en Aangenomen.
 
-Diversiteit aangenomen
+**Diversiteit aangenomen**
 Geeft informatie over het geslacht en de leeftijd van de sollicitanten voor elke vacature.
 
-Redenen voor afwijzing
+**Redenen voor afwijzing**
 Geeft details over de redenen waarom een sollicitant afgewezen is voor een vacature.
 
-CBS-rapport
+**CBS-rapport**
 Het Centraal Bureau voor de Statistiek (CBS)-rapport is een driemaandelijks rapport dat opgesteld moet worden door alle bedrijven in Nederland. Het rapport bevat het aantal open vacatures, vervulde vacatures, aangemaakte vacatures en gesloten (maar niet ingevulde) vacatures van het betreffende kwartaal.
 
-[Data-extract](data_extract.htm)
+**[Data-extract](data_extract.htm)**
 Deze add-onfunctie exporteert EasyCruit-data in een Excel-spreadsheet. Deze data kunnen gekopieerd en in een aantal voorgeconfigureerde Excel-grafieken geplakt worden om u inzicht te geven in uw wervingsactiviteiten. Er zijn bijvoorbeeld grafieken met de kandidaten per wervingskanaal en vacatures en kandidaten per afdeling.
 
 ##### Zie ook:
@@ -41,5 +41,5 @@ Deze add-onfunctie exporteert EasyCruit-data in een Excel-spreadsheet. Deze data
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzIxNjU3N119
+eyJoaXN0b3J5IjpbMTI0OTI2MTUwNV19
 -->
