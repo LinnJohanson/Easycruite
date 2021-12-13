@@ -10,109 +10,57 @@ De taakbalk geeft toegang tot de meeste van de editorfuncties en -opdrachten. De
 
 De taakbalk bevat de volgende opties:
 
-Knop
+Knop - Beschrijving
 
-Beschrijving
+![](../Resources/Images/bold.jpg) - Vet (CTRL + B)
 
-![](../Resources/Images/bold.jpg)
+![](../Resources/Images/italic.jpg) - Cursief (CTRL + I)
 
-Vet (CTRL + B)
+![](../Resources/Images/underlined.jpg) - Onderstrepen (CTRL + U)
 
-![](../Resources/Images/italic.jpg)
+![](../Resources/Images/strike.jpg) - Doorhalen
 
-Cursief (CTRL + I)
+![](../Resources/Images/align_left.jpg) - Links uitlijnen
 
-![](../Resources/Images/underlined.jpg)
+![](../Resources/Images/align_centre2.jpg) - Centreren
 
-Onderstrepen (CTRL + U)
+![](../Resources/Images/align_right.jpg) - Rechts uitlijnen
 
-![](../Resources/Images/strike.jpg)
+![](../Resources/Images/align_centre.jpg) - Uitvullen
 
-Doorhalen
+![](../Resources/Images/format.jpg) - Vervolgkeuzelijst Opmaak. Bevat een lijst met vooraf opgemaakte opmaakstijlen
 
-![](../Resources/Images/align_left.jpg)
+![](../Resources/Images/font_family.jpg) - Vervolgkeuzelijst Lettertype. Bevat een aantal verschillende lettertypes, inclusief die om dubbelbyte talen, zoals Vereenvoudigd Chinees, correct weer te geven
 
-Links uitlijnen
+![](../Resources/Images/font_size.jpg) - Vervolgkeuzelijst Lettergrootte
 
-![](../Resources/Images/align_centre2.jpg)
+![](../Resources/Images/font_color.jpg) - Tekstkleur. Door op het pijltje te klikken wordt een kleurenpalet geopend waarin een kleur geselecteerd kan worden; u kunt ook een eigen kleur selecteren
 
-Centreren
+![](../Resources/Images/background_color.jpg) - Tekstmarkeringskleur. Door op het pijltje te klikken wordt een kleurenpalet geopend waarin een kleur geselecteerd kan worden; u kunt ook een eigen kleur selecteren
 
-![](../Resources/Images/align_right.jpg)
+![](../Resources/Images/bullet_list.jpg) - Opsommingstekens / lijst met opsommingstekens
 
-Rechts uitlijnen
+![](../Resources/Images/numbered_list.jpg) - Nummering / genummerde lijst
 
-![](../Resources/Images/align_centre.jpg)
+![](../Resources/Images/decrease.jpg) - Inspringing verkleinen
 
-Uitvullen
+![](../Resources/Images/increase.jpg) - Inspringing vergroten
 
-![](../Resources/Images/format.jpg)
+![](../Resources/Images/undo.jpg) - Laatste bewerking ongedaan maken (CTRL + Z)
 
-Vervolgkeuzelijst Opmaak. Bevat een lijst met vooraf opgemaakte opmaakstijlen
+![](../Resources/Images/redo.jpg) - Laatste bewerking herhalen (CTRL + Y)
 
-![](../Resources/Images/font_family.jpg)
+![](../Resources/Images/insert_link.jpg) - Link invoegen/bewerken. Door te klikken wordt een nieuw dialoogvenster geopend, waarin de URL ingevoerd kan worden en aangegeven kan worden of deze in een nieuw venster of in dit venster geopend moet worden
 
-Vervolgkeuzelijst Lettertype. Bevat een aantal verschillende lettertypes, inclusief die om dubbelbyte talen, zoals Vereenvoudigd Chinees, correct weer te geven
+![](../Resources/Images/remove_link.jpg) - Link verwijderen. Markeer een link met de cursor en klik op deze knop om de link te verwijderen
 
-![](../Resources/Images/font_size.jpg)
+![](../Resources/Images/anchor.jpg) - Anker invoegen/bewerken. Door deze knop te selecteren wordt een nieuw dialoogvenster geopend, waarin een ankernaam ingevoerd kan worden voor het punt op de pagina waar de cursor actief is. Zo kan een nieuwe link naar die plek op de pagina ingevoerd worden.
 
-Vervolgkeuzelijst Lettergrootte
+![](../Resources/Images/clean_up.jpg) - Code opruimen. Verwijdert ongewenste opmaak. Deze functie is handig als vooraf opgemaakt tekst uit Word gekopieerd wordt.
 
-![](../Resources/Images/font_color.jpg)
+![](../Resources/Images/help.jpg) - Help-functie voor WYSIWYG-editor
 
-Tekstkleur. Door op het pijltje te klikken wordt een kleurenpalet geopend waarin een kleur geselecteerd kan worden; u kunt ook een eigen kleur selecteren
-
-![](../Resources/Images/background_color.jpg)
-
-Tekstmarkeringskleur. Door op het pijltje te klikken wordt een kleurenpalet geopend waarin een kleur geselecteerd kan worden; u kunt ook een eigen kleur selecteren
-
-![](../Resources/Images/bullet_list.jpg)
-
-Opsommingstekens / lijst met opsommingstekens
-
-![](../Resources/Images/numbered_list.jpg)
-
-Nummering / genummerde lijst
-
-![](../Resources/Images/decrease.jpg)
-
-Inspringing verkleinen
-
-![](../Resources/Images/increase.jpg)
-
-Inspringing vergroten
-
-![](../Resources/Images/undo.jpg)
-
-Laatste bewerking ongedaan maken (CTRL + Z)
-
-![](../Resources/Images/redo.jpg)
-
-Laatste bewerking herhalen (CTRL + Y)
-
-![](../Resources/Images/insert_link.jpg)
-
-Link invoegen/bewerken. Door te klikken wordt een nieuw dialoogvenster geopend, waarin de URL ingevoerd kan worden en aangegeven kan worden of deze in een nieuw venster of in dit venster geopend moet worden
-
-![](../Resources/Images/remove_link.jpg)
-
-Link verwijderen. Markeer een link met de cursor en klik op deze knop om de link te verwijderen
-
-![](../Resources/Images/anchor.jpg)
-
-Anker invoegen/bewerken. Door deze knop te selecteren wordt een nieuw dialoogvenster geopend, waarin een ankernaam ingevoerd kan worden voor het punt op de pagina waar de cursor actief is. Zo kan een nieuwe link naar die plek op de pagina ingevoerd worden.
-
-![](../Resources/Images/clean_up.jpg)
-
-Code opruimen. Verwijdert ongewenste opmaak. Deze functie is handig als vooraf opgemaakt tekst uit Word gekopieerd wordt.
-
-![](../Resources/Images/help.jpg)
-
-Help-functie voor WYSIWYG-editor
-
-![](../Resources/Images/html.jpg)
-
-HTML-bron bewerken. Deze knop opent een nieuw venster waarin inhoud ingevoerd kan worden in de editor in HTML-code. Als het opgeslagen en gesloten wordt, dan wordt de inhoud bijgewerkt in de WYSIWYG-editor zonder dat de code wordt weergegeven
+![](../Resources/Images/html.jpg) - HTML-bron bewerken. Deze knop opent een nieuw venster waarin inhoud ingevoerd kan worden in de editor in HTML-code. Als het opgeslagen en gesloten wordt, dan wordt de inhoud bijgewerkt in de WYSIWYG-editor zonder dat de code wordt weergegeven
 
 ![](../Resources/Images/cut.jpg) - Knippen van de geselecteerde tekst (CTRL + X)
 
@@ -204,5 +152,5 @@ U kunt wijzigingen aanbrengen aan de tekst in de WYSIWYG-editor met behulp van d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTU2MzE2MV19
+eyJoaXN0b3J5IjpbMTQwMjI3MjczNV19
 -->
