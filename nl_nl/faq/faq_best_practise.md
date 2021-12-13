@@ -20,7 +20,7 @@ Als u nog geen toestemmingstekst heeft, dan zal een privacybeleidstekst geïmple
 
 In de video wordt uitgelegd hoe u zich moet voorbereiden op de nieuwe toestemmingsverwerking:
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Publiceren op Finn.no
+#### Publiceren op Finn.no
 
 ### De advertentie is niet gepubliceerd op Finn.no. Wat kan ik doen?
 
@@ -527,5 +527,5 @@ Mocht u vragen hebben, neem dan gerust contact op met ons supportteam.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQxMTg0NzAsLTUzMjc2MjU0OF19
+eyJoaXN0b3J5IjpbMTk3NDI0MDEwLC01MzI3NjI1NDhdfQ==
 -->
