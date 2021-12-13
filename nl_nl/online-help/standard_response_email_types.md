@@ -18,17 +18,16 @@ Gepersonaliseerde e-mail die verstuurd wordt naar de kandidaten om te bevestigen
 **Kandidaat afwijzen**
 Beschrijving
 
-Handmatige afwijzing (1)
+**Handmatige afwijzing (1)**
 E-mail verstuurd naar de kandidaten om te laten weten dat ze niet geschikt zijn voor de positie.
 
-Automatische afwijzing (1, 2)
+**Automatische afwijzing (1, 2)**
 E-mail verstuurd naar de kandidaten met een ontoereikend resultaat van de screeningsvragen voor de vacature.
-
-Tijdgebonden afwijzing
+***
+**Tijdgebonden afwijzing**
  Beschrijving
 
-Tijdgebonden afwijzing (1, 2)
-
+**Tijdgebonden afwijzing (1, 2)**
 E-mail verstuurd naar de kandidaten om te laten weten dat hun sollicitatie niet verder doorgaat. Deze wordt verstuurd op basis van te weinig voortgang gedurende een bepaalde tijdsperiode (weken).
 ***
 **Uitnodiging / afwijzing gesprek**
@@ -187,7 +186,7 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3MTY0NTk4LDg2NzA1Mjc3NiwtMTg2Mz
+eyJoaXN0b3J5IjpbMzEzNDUwOTAyLDg2NzA1Mjc3NiwtMTg2Mz
 UwOTIwMCwyODI2NjM3MDQsLTY1NDg4ODg0MiwtNDgzMDg0Mzgw
 LC0xNDQyMDE5ODM0XX0=
 -->
