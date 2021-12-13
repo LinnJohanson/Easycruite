@@ -38,105 +38,105 @@
 
 <PostalAddress>
 
-<Country iso="SE" id="204">Sweden</Country>
+< Country iso="SE" id="204">Sweden</Country>
 
-<PostalCode>12345</PostalCode>
+< PostalCode>12345</PostalCode>
 
-<PostalArea>Plaats</PostalArea>
+< PostalArea>Plaats</PostalArea>
 
-<Municipality id="543">Malmö stad</Municipality>
+< Municipality id="543">Malmö stad</Municipality>
 
-<County id="46">Skåne</County>
+< County id="46">Skåne</County>
 
-<Address>Straatnaam</Address>
+< Address>Straatnaam</Address>
 
-</PostalAddress>
+< /PostalAddress>
 
-<PhotoFileName>Untitled-1.gif</PhotoFileName>
+< PhotoFileName>Untitled-1.gif</PhotoFileName>
 
-<CVFileName>cv.docx</CVFileName>
+< CVFileName>cv.docx</CVFileName>
 
-</PersonalDetails>
+< /PersonalDetails>
 
-<EmploymentHistory>
+< EmploymentHistory>
 
-<Employment current="1" id="29980191">
+< Employment current="1" id="29980191">
 
-<EmployerName>Test AB</EmployerName>
+< EmployerName>Test AB< /EmployerName>
 
-<PositionTitle>Test</PositionTitle>
+< PositionTitle>Test< /PositionTitle>
 
-<PositionDescription>Beschrijving</PositionDescription>
+< PositionDescription>Beschrijving< /PositionDescription>
 
-<Sector id="35"/>
+< Sector id="35"/>
 
-<JobCategory id="35">Call Centre</JobCategory>
+< JobCategory id="35">Call Centre< /JobCategory>
 
-<SubCategory id="357">Team Leader</SubCategory>
+< SubCategory id="357">Team Leader< /SubCategory>
 
-<WorkRole id="6">Kundansvarig</WorkRole>
+< WorkRole id="6">Kundansvarig< /WorkRole>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2013-03-01</EndDate>
+< EndDate>2013-03-01< /EndDate>
 
-</Employment>
+< /Employment>
 
-</EmploymentHistory>
+< /EmploymentHistory>
 
-<EducationHistory>
+< EducationHistory>
 
-<Education current="1" id="20060247">
+< Education current="1" id="20060247">
 
-<InstituteType id="3">College</InstituteType>
+< InstituteType id="3">College< /InstituteType>
 
-<InstituteName>School</InstituteName>
+< InstituteName>School< /InstituteName>
 
-<AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
+< AreaOfEducation id="98">Aerospace Engineering< /AreaOfEducation>
 
-<Degree id="91">Architect</Degree>
+< Degree id="91">Architect< /Degree>
 
-<StartDate>1-3-2010</StartDate>
+< StartDate>1-3-2010< /StartDate>
 
-<EndDate>1-4-2014</EndDate>
+< EndDate>1-4-2014< /EndDate>
 
-<AverageGrade>Cijfer</AverageGrade>
+< AverageGrade>Cijfer< /AverageGrade>
 
-<ResultPoints>544</ResultPoints>
+< ResultPoints>544< /ResultPoints>
 
-<Country iso="SE" id="14">Sweden</Country>
+< Country iso="SE" id="14">Sweden< /Country>
 
-<Comments>Specialisatie</Comments>
+< Comments>Specialisatie< /Comments>
 
-</Education>
+< /Education>
 
-</EducationHistory>
+< /EducationHistory>
 
-<Certifications>
+< Certifications>
 
-<Certification id="5101959">
+< Certification id="5101959">
 
-<Name>Cursus</Name>
+< Name>Cursus< /Name>
 
-<Description>Beschr.</Description>
+< Description>Beschr.< /Description>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>1-4-2014</EndDate>
+< EndDate>1-4-2014< /EndDate>
 
-<Duration type="hours">100</Duration>
+< Duration type="hours">100< /Duration>
 
-</Certification>
+< /Certification>
 
-</Certifications>
+< /Certifications>
 
 < References>
 
 < Reference id="3686853">
 
-< CompanyName>Bedrijf</CompanyName>
+< CompanyName>Bedrijf< /CompanyName>
 
-< PersonName>Naam</PersonName>
+< PersonName>Naam< /PersonName>
 
 < ContactInfo>123456< /ContactInfo>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTY3MTNdfQ==
+eyJoaXN0b3J5IjpbMTYxMjE4MzE2N119
 -->
