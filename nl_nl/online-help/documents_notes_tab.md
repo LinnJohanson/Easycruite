@@ -2,7 +2,7 @@
 
 Dit tabblad bevat de ranking en commentaar, opmerkingen en geüploade documenten met betrekking tot de kandidaat. Bij de naam van het tabblad staat het aantal documenten en opmerkingen op het tabblad weergegeven.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Uploaden van een document of toevoegen van een opmerking
+#### Uploaden van een document of toevoegen van een opmerking
 
 1.  Selecteer de gewenste vacature en selecteer vervolgens  Alle kandidaten  om de lijst met kandidaten weer te geven.
 2.  Selecteer de  Naam  van de kandidaat en selecteer vervolgens het tabblad  Documenten & opmerkingen.
@@ -40,5 +40,5 @@ U kunt de lijst met documenten en opmerkingen bij een kandidaat ook zien direct 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY4MDgyMzVdfQ==
+eyJoaXN0b3J5IjpbMzc5MjMwODE5XX0=
 -->
