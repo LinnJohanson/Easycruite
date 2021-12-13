@@ -15,20 +15,16 @@ Als een positie eenmaal aangemaakt en opgeslagen is, dan moet deze nog geactivee
 
 Als de vacature gepubliceerd wordt op een extern kanaal, dan is de optie  HTML-format behouden  standaard ingeschakeld.
 
-Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Aanmaken van een nieuwe vacature](creating_a_new_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Goedkeuren van vacatures](vacancy_approvals.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Bewerken van een vacature](editing_a_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Verwijderen van een vacature](deleting_a_vacancy.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Afsluiten van een vacature](closing_a_vacancy.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzA3OTk3Nl19
+eyJoaXN0b3J5IjpbNjQwODkzODVdfQ==
 -->
