@@ -6,7 +6,7 @@ De criteria waaruit gekozen kan worden, worden geconfigureerd tijdens de initië
 
 Standaard worden  Voornaam  en  Achternaam  altijd gebruikt als matchcriteria voor het controleren op duplicaten.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aanmaken van een categorie-item
+#### Aanmaken van een categorie-item
 
 1.  Klik in de  Taakbalk  op de optie  Instellingen  en vervolgens op  Duplicatenmatching.
 2.  Selecteer de opties (inclusief de vragen) die u wilt gebruiken om te controleren op duplicaten en als matchcriteria.
@@ -24,5 +24,5 @@ Standaard worden  Voornaam  en  Achternaam  altijd gebruikt als matchcriteria vo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NzM3NjU0XX0=
+eyJoaXN0b3J5IjpbMjQ4ODE0MzU4XX0=
 -->
