@@ -114,33 +114,19 @@ Help-functie voor WYSIWYG-editor
 
 HTML-bron bewerken. Deze knop opent een nieuw venster waarin inhoud ingevoerd kan worden in de editor in HTML-code. Als het opgeslagen en gesloten wordt, dan wordt de inhoud bijgewerkt in de WYSIWYG-editor zonder dat de code wordt weergegeven
 
-![](../Resources/Images/cut.jpg)
+![](../Resources/Images/cut.jpg) - Knippen van de geselecteerde tekst (CTRL + X)
 
-Knippen van de geselecteerde tekst (CTRL + X)
+![](../Resources/Images/copy.jpg) - Kopiëren van de geselecteerde tekst (CTRL + C)
 
-![](../Resources/Images/copy.jpg)
+![](../Resources/Images/paste1.jpg) - Plakken van inhoud in de editor inclusief de opmaak (CTRL + P)
 
-Kopiëren van de geselecteerde tekst (CTRL + C)
+![](../Resources/Images/paste2.jpg) - Plakken van inhoud in de editor als platte tekst zonder opmaak
 
-![](../Resources/Images/paste1.jpg)
+![](../Resources/Images/replace.jpg) - Zoeken/Vervangen-functie waarmee een woord of woordgroep in de editor één keer of overal vervangen kan worden
 
-Plakken van inhoud in de editor inclusief de opmaak (CTRL + P)
+![](../Resources/Images/remove.jpg) - Opmaak verwijderen, bijvoorbeeld vet gemaakte of gekleurde tekst
 
-![](../Resources/Images/paste2.jpg)
-
-Plakken van inhoud in de editor als platte tekst zonder opmaak
-
-![](../Resources/Images/replace.jpg)
-
-Zoeken/Vervangen-functie waarmee een woord of woordgroep in de editor één keer of overal vervangen kan worden
-
-![](../Resources/Images/remove.jpg)
-
-Opmaak verwijderen, bijvoorbeeld vet gemaakte of gekleurde tekst
-
-![](../Resources/Images/insert_table.jpg)
-
-Tabel invoegen/bewerken. Door deze optie te selecteren wordt een nieuw venster geopend waarin de tabeleigenschappen geconfigureerd kunnen worden. Zie de Help-functie voor de WYSIWYG-editor voor meer details
+![](../Resources/Images/insert_table.jpg) - Tabel invoegen/bewerken. Door deze optie te selecteren wordt een nieuw venster geopend waarin de tabeleigenschappen geconfigureerd kunnen worden. Zie de Help-functie voor de WYSIWYG-editor voor meer details
 
 ## Bewerkingen in de editor
 
@@ -177,24 +163,19 @@ Gebruik een van de volgende sneltoetsen:
 
 U kunt inhoud kopiëren, knippen en plakken met behulp van het klembord. Dit is een snelle manier om inhoud te verplaatsen van de WYSIWYG-editor naar andere applicaties of binnen de editor zelf.
 
-Voor deze bewerking ...
-
+**Voor deze bewerking ...**
 Moet u dit doen
 
-Kopiëren van geselecteerde inhoud in de WYSIWYG-editor naar het klembord.
-
+**Kopiëren van geselecteerde inhoud in de WYSIWYG-editor naar het klembord.**
 Selecteer de inhoud en klik op het pictogram voor kopiëren of druk op CTRL + C.
 
-Verplaatsen (kopiëren en verwijderen) van inhoud in de WYSIWYG-editor naar het klembord.
-
+**Verplaatsen (kopiëren en verwijderen) van inhoud in de WYSIWYG-editor naar het klembord.**
 Selecteer de inhoud en klik op het pictogram voor knippen of druk op CTRL + X.
 
-Plakken van inhoud van het klembord in de WYSIWYG-editor.
-
+**Plakken van inhoud van het klembord in de WYSIWYG-editor.**
 Gebruik de cursor om aan te geven waar de inhoud geplaatst moet worden en klik op het pictogram voor plakken of druk op CTRL + V.
 
-Plakken van het inhoud van het klembord in de WYSIWYG-editor als platte tekst zonder opmaak.
-
+**Plakken van het inhoud van het klembord in de WYSIWYG-editor als platte tekst zonder opmaak.**
 Gebruik de cursor om aan te geven waar de inhoud geplaatst moet worden en klik op het pictogram voor plakken als platte tekst.
 
 #### Herhalen en ongedaan maken van bewerkingen
@@ -223,5 +204,5 @@ U kunt wijzigingen aanbrengen aan de tekst in de WYSIWYG-editor met behulp van d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTk3MDU2OTZdfQ==
+eyJoaXN0b3J5IjpbLTc4MTU2MzE2MV19
 -->
