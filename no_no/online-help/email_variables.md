@@ -2,19 +2,19 @@
 
 [Standard responsmailer](standard_response_email_types.htm)  kan inneholde følgende variabler (flettefelter):
 
-Variabel
+**Variabel**
 Beskrivelse
 Brukt i
 
-{address}
+**{address}**
 Sted for intervju
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
-{advertisement-active-from-date}
+**{advertisement-active-from-date}**
 Startdato for annonse
 E-postkanal for publisering
 
-{advertisement-active-to-date}
+**{advertisement-active-to-date}**
 Sluttdato for publisering av annonse
 E-postkanal for publisering
 Søknad lagret
@@ -1041,7 +1041,7 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTkwOTc0NSw3OTE0MTgxNDUsMTc5NT
+eyJoaXN0b3J5IjpbMTk3MDc5MzgwNyw3OTE0MTgxNDUsMTc5NT
 I0NjY4OSwxMjAzNzIzMDc3LC00Njg3OTIzNjksNjk2MjM2NzAz
 LC0yMDE4NjA5MDc1LDM2NTkxMTgyNCw1MDY4Mjc0NTMsLTQ1Mj
 EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
