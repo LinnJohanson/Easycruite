@@ -79,65 +79,55 @@ E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze
 **Overige**
 Beschrijving
 
-Opslaan en verstuur gebruikersnaam
+**Opslaan en verstuur gebruikersnaam**
 E-mail verstuurd naar kandidaten met de melding dat hun gegevens opgeslagen zijn in de database en dat ze kunnen inloggen met hun gebruikersnaam en wachtwoord en hun gegevens kunnen wijzigen.
 
-Verplaats overige kandidaten
+**Verplaats overige kandidaten**
 E-mail verzonden naar de kandidaten voor wie de sollicitatie geen succes was. Bevat hun gebruikersnaam en wachtwoord en nodigt hen uit om te solliciteren op andere posities.
 
-Werknemer uitnodigen cv te uploaden
+**Werknemer uitnodigen cv te uploaden**
 E-mail verstuurd naar interne werknemers om hen uit te nodigen om in te loggen op de vacaturewebsite van de organisatie en hun gegevens bij te werken.
 
-Cv forwarden naar e-mail
+**Cv forwarden naar e-mail**
 E-mail doorgestuurd naar relevante contactpersonen met het cv en de sollicitatie van een kandidaat.
 
-Opslaan en verstuur gebruikersnaam
+**Opslaan en verstuur gebruikersnaam**
 E-mail verstuurd naar kandidaten met de melding dat hun gegevens opgeslagen zijn in de database en dat ze kunnen inloggen met hun gebruikersnaam en wachtwoord en hun gegevens kunnen wijzigen.
 
-Uitnodiging voor Service-F
+**Uitnodiging voor Service-F**
 E-mail verstuurd naar kandidaten om uit te nodigen voor de Service-F test.
 
-Uitnodiging voor Matrigma test
+**Uitnodiging voor Matrigma test**
 E-mail verstuurd naar kandidaten om uit te nodigen voor de Matrigma test.
 
-Uitnodiging voor 16PF test
-
+**Uitnodiging voor 16PF test**
 E-mail verstuurd naar kandidaten om uit te nodigen voor de 16PF test.
 
-Uitnodiging voor de MINT test
-
+**Uitnodiging voor de MINT test**
 E-mail verstuurd naar kandidaten om uit te nodigen voor de MINT test.
 
-cut-e candidate report (cut-e kandidaatrapport)
-
+**cut-e candidate report (cut-e kandidaatrapport)**
 E-mail verstuurd naar een kandidaat die de cut-e assessmenttest voltooid heeft.
 
-Job-alert
-
+**Job-alert**
 E-mail verstuurd naar een kandidaat met informatie over huidige passende functies.
 
-Bericht niet-geüpdatete kandidaten
-
+**Bericht niet-geüpdatete kandidaten**
 E-mail verstuurd naar kandidaten die hun cv niet bijgewerkt hebben gedurende een bepaalde tijdsperiode om hen uit te nodigen om in te loggen op de vacaturewebsite en hun gegevens bij te werken.
 
-Bericht aan kandidaten die worden verwijderd en aanmeldgegevens hebben
-
+**Bericht aan kandidaten die worden verwijderd en aanmeldgegevens hebben**
 E-mail verstuurd naar kandidaten met aanmeldgegevens die niet actief geweest zijn gedurende een bepaalde tijdsperiode.
 
-Bericht aan kandidaten die worden verwijderd en geen aanmeldgegevens hebben
-
+**Bericht aan kandidaten die worden verwijderd en geen aanmeldgegevens hebben**
 E-mail verstuurd naar kandidaten met aanmeldgegevens die niet actief geweest zijn gedurende een bepaalde tijdsperiode.
 
-Rapport kandidatenstatus
-
+**Rapport kandidatenstatus**
 E-mail verstuurd naar relevante contactpersonen met daarin gegevens van kandidaten die niet actief geweest zijn gedurende een bepaalde tijdsperiode voor een bepaalde vacature.
 
-Groepsbeoordeling
-
+**Groepsbeoordeling**
 E-mail verstuurd naar relevante contactpersonen om hen te vragen hun feedback te geven over de kwaliteit van een kandidaat. De mail bevat een link om de kandidaat te beoordelen.
 
-Bericht nieuwe user
-
+**Bericht nieuwe user**
 E-mail verstuurd naar nieuwe gebruikers met een gebruikersnaam en wachtwoord om in te loggen op EasyCruit.
 
 Goedkeuring vacature
@@ -215,6 +205,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjY2ODQzMCwyODI2NjM3MDQsLTY1ND
+eyJoaXN0b3J5IjpbMTM4NjA3NDQzMCwyODI2NjM3MDQsLTY1ND
 g4ODg0MiwtNDgzMDg0MzgwLC0xNDQyMDE5ODM0XX0=
 -->
