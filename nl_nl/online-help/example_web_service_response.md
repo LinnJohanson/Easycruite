@@ -130,97 +130,97 @@
 
 </Certifications>
 
-<References>
+< References>
 
-<Reference id="3686853">
+< Reference id="3686853">
 
-<CompanyName>Bedrijf</CompanyName>
+< CompanyName>Bedrijf</CompanyName>
 
-<PersonName>Naam</PersonName>
+< PersonName>Naam</PersonName>
 
-<ContactInfo>123456</ContactInfo>
+< ContactInfo>123456< /ContactInfo>
 
-</Reference>
+< /Reference>
 
-</References>
+< /References>
 
-<Competencies name="IT Knowledge">
+< Competencies name="IT Knowledge">
 
-<Competency id="12018913">
+< Competency id="12018913">
 
-<Name>Kantoor</Name>
+< Name>Kantoor< /Name>
 
-<Level id="3">2. Gevorderde student</Level>
+< Level id="3">2. Gevorderde student< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Language">
+< Competencies name="Language">
 
-<Competency id="21575765">
+< Competency id="21575765">
 
-<Name iso="SE" id="204">Swedish</Name>
+< Name iso="SE" id="204">Swedish< /Name>
 
-<Level type="speaking" id="3">Native speaker</Level>
+< Level type="speaking" id="3">Native speaker< /Level>
 
-<Level type="reading" id="3">Native speaker</Level>
+< Level type="reading" id="3">Native speaker< /Level>
 
-<Level type="writing" id="3">Native speaker</Level>
+< Level type="writing" id="3">Native speaker< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Driverlicense">
+< Competencies name="Driverlicense">
 
-<Competency id="6315595"><Name id="1">Car/Van</Name>
+< Competency id="6315595">< Name id="1">Car/Van< /Name>
 
-<Level type="date">1995</Level>
+< Level type="date">1995< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Personality>
+< Personality>
 
-<Trait id="22"/><Trait id="31"/><Trait id="1"/><Trait id="4"/>
+< Trait id="22"/>< Trait id="31"/>< Trait id="1"/>< Trait id="4"/>
 
-</Personality>
+< /Personality>
 
-<InternalDocuments/>
+< InternalDocuments/>
 
-<Applications>
+< Applications>
 
-<Application id="1029513">
+< Application id="1029513">
 
-<ProjectTitle>Lumesse test 2</ProjectTitle>
+< ProjectTitle>Lumesse test 2< /ProjectTitle>
 
-<VacancyTitle>Lumesse test 2</VacancyTitle>
+< VacancyTitle>Lumesse test 2< /VacancyTitle>
 
-<DepartmentID>2109</DepartmentID>
+ < DepartmentID>2109< /DepartmentID>
 
-<CoverText/>
+< CoverText/>
 
-<CoverLetterFile/>
+< CoverLetterFile/>
 
-<InternalNotes/>
+< InternalNotes/>
 
-</Application>
+< /Application>
 
-</Applications>
+< /Applications>
 
-<Hires>
+< Hires>
 
-< DateHired>2014-01-01</DateHired>
+< DateHired>2014-01-01< /DateHired>
 
-< DateAppointed>2014-01-01</DateAppointed>
+< DateAppointed>2014-01-01< /DateAppointed>
 
-< DateAvailable>2014-01-01</DateAvailable>
+< DateAvailable>2014-01-01< /DateAvailable>
 
-< DepartmentId>2109</DepartmentId>
+< DepartmentId>2109< /DepartmentId>
 
-< DepartmentName>[TEST] ABC123</DepartmentName>
+< DepartmentName>[TEST] ABC123< /DepartmentName>
 
 < /Hires>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDY4Mzk4MV19
+eyJoaXN0b3J5IjpbMjk5NTY3MTNdfQ==
 -->
