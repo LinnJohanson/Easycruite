@@ -402,7 +402,7 @@ Internet Explorer 6
 
 † Geeft de laatste versie van de browser aan op het moment van ontwikkeling.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)De vacature staat op kanalen waarop ik niet gepubliceerd heb
+####  De vacature staat op kanalen waarop ik niet gepubliceerd heb
 
 ‘Spiders’ van zoekmachines en vacaturesites kunnen openbare vacatures op hun eigen sites weergeven. We leggen uit hoe dit gebeurt en hoe u dit kunt voorkomen.
 
@@ -419,7 +419,7 @@ Als u vacatures heeft die uitsluitend intern zijn en niet bedoeld zijn voor exte
 1.  IP-beperking - alleen personen die verbonden zijn met een specifiek IP-adres, bv. over een VPN of een intern netwerk, hebben toegang tot de site en dus de vacatures.
 2.  Inloggen - er is een gebruikersnaam en een wachtwoord is vereist voor toegang tot de interne vacaturesite. Dit kan ook gebruikt worden om de toegang te beperken voor wervingsbureaus, zodat een bureau de vacatures kan bekijken waarvoor u wilt dat ze werven en zelf kandidaten kan invoeren.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Kan ik de bedrijfsnaam wijzigen?
+####  Kan ik de bedrijfsnaam wijzigen?
 
 ### Is het mogelijk om de naam van een bedrijf te wijzigen?
 
@@ -528,5 +528,5 @@ Mocht u vragen hebben, neem dan gerust contact op met ons supportteam.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjc2MjU0OF19
+eyJoaXN0b3J5IjpbMTk3ODc3NDI4MCwtNTMyNzYyNTQ4XX0=
 -->
