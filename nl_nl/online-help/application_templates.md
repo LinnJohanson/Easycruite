@@ -6,7 +6,7 @@ De pagina Instelling voor een sollicitatieformuliertemplate bestaat uit verschil
 
 Voor het selecteren van extra vragen is het van belang dat de waarden voor de vragen toegevoegd zijn voor alle talen die beschikbaar zijn in uw systeem.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aanmaken van een nieuwe sollicitatieformuliertemplate
+#### Aanmaken van een nieuwe sollicitatieformuliertemplate
 
 1.  Klik in de  Taakbalk  op  Instellingen  om de pagina  Instellingen  weer te geven.
 2.  Klik op  Sollicitatieformuliertemplates  om de pagina  Sollicitatieformuliertemplates  weer te geven.
@@ -15,28 +15,25 @@ Voor het selecteren van extra vragen is het van belang dat de waarden voor de vr
     Het vakje onder  Weergeven  moet geselecteerd zijn alvorens de betreffende optie verplicht gemaakt kan worden. Als alleen  Verplicht  geselecteerd is, dan wordt de optie niet weergegeven. Als  Verplicht  geselecteerd wordt voor een volledig gedeelte, bijvoorbeeld  Taal, dan betekent dit alleen dat het gedeelte niet genegeerd kan worden tijdens het sollicitatieproces en dat bepaalde waarden ingevoerd moeten worden, niet dat het hele gedeelte ingevuld moet worden.
 5.  Klik op  Opslaan  om de geselecteerde opties te bevestigen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Weergeven en bewerken van de beschikbare sollicitatieformuliertemplates
+#### Weergeven en bewerken van de beschikbare sollicitatieformuliertemplates
 
 1.  Klik in de  Taakbalk  op  Instellingen  en vervolgens op  Sollicitatieformuliertemplates  om de pagina  Sollicitatieformuliertemplates  weer te geven.
 2.  Klik op het potlood naast de gewenste template om de opties en vragen van de template weer te geven en te bewerken.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Verwijderen van een sollicitatieformuliertemplate
+#### Verwijderen van een sollicitatieformuliertemplate
 
 1.  Klik in de  Taakbalk  op  Instellingen  en vervolgens op  Sollicitatieformuliertemplates  om de pagina  Sollicitatieformuliertemplates  weer te geven.
 2.  Klik op de prullenbak naast de gewenste template en klik vervolgens op OK als gevraagd wordt om het verwijderen te bevestigen.
 
-Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Vacaturetemplates](vacancy_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Contract-/aanbodtemplates](employment_contacts.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Extra vragen](additional_questions.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [E-mailtemplates](response_emails.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcxNzMxNzldfQ==
+eyJoaXN0b3J5IjpbLTI3OTY5NTM3MF19
 -->
