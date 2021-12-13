@@ -34,13 +34,9 @@ Met het vraagteken gaat u naar de Help-pagina's.
 
 ![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Inhoudsvenster
 
-Pictogram
+Pictogram - Beschrijving
 
-Beschrijving
-
-![](../Resources/Images/new_vacancy.jpg)
-
-Nieuwe vacature
+![](../Resources/Images/new_vacancy.jpg) Nieuwe vacature
 
 ![](../Resources/Images/vacancy_list.jpg)
 
@@ -86,13 +82,13 @@ Aan de bovenkant van het  inhoudsvenster  wordt wisselende informatietekst weerg
 
 Als u op de  Startpagina  en de  pagina Instellingen  de pictogrammen selecteert, dan gaat u naar de overzichtspagina van het betreffende onderwerp. De beschikbare pictogrammen zijn afhankelijk van het toegangsniveau van de gebruiker.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Snelkoppelingsmenu's
+#### Snelkoppelingsmenu's
 
 Mijn vacatures online  toont een lijst met de laatste tien vacatures die u bekeken heeft.  Mijn vacatures offline  toont een lijst met uw laatste tien verlopen vacatures. Eronder staan zoeklinks om een sollicitant te vinden door te zoeken op kandidaatnaam of op kandidaat-ID.  Opgevraagde documenten  geeft links naar opgevraagde documenten en zoektemplates als u deze eerder gebruikt heeft.
 
 Door een van de vacatures te selecteren bij  Mijn vacatures online  of  Mijn vacatures offline  gaat de gebruiker naar de pagina  Kandidatenoverzicht  van de betreffende vacature.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toegang tot de werkruimte
+#### Toegang tot de werkruimte
 
 De toegang tot de werkruimte en de bijbehorende functies is afhankelijk van het toegangsrechtenniveau van de gebruiker. De objecten die beschikbaar zijn op de  Startpagina  en op de  pagina Instellingen  kunnen worden geconfigureerd aan de hand van de vier standaardgebruikersniveaus of kunnen zoveel worden aangepast als nodig is voor de organisatie.
 
@@ -100,77 +96,43 @@ De volgende voorbeelden voor een standaard admingebruiker en een standaard beper
 
 #### Admingebruiker
 
-Pictogram
+Pictogram - Beschrijving
 
-Beschrijving
+![](../Resources/Images/new_vacancy.jpg) - Nieuwe vacature
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vacaturelijst
 
-Nieuwe vacature
+![](../Resources/Images/recruitment_calendar.jpg) - Interviews
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/employees.jpg) - Werknemers
 
-Vacaturelijst
+![](../Resources/Images/search.jpg) - Zoeken / Talentpool
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/add_candidate.jpg) - Kandidaat toevoegen
 
-Interviews
+![](../Resources/Images/deleted_applications.jpg) - Verwijderde sollicitaties
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/reports.jpg) - Rapportages
 
-Werknemers
+![](../Resources/Images/guidelines.jpg) - Richtlijnen
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Te verwijderen kandidaten
 
-Zoeken / Talentpool
-
-![](../Resources/Images/add_candidate.jpg)
-
-Kandidaat toevoegen
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Verwijderde sollicitaties
-
-![](../Resources/Images/reports.jpg)
-
-Rapportages
-
-![](../Resources/Images/guidelines.jpg)
-
-Richtlijnen
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Te verwijderen kandidaten
-
-![](../Resources/Images/stored_applications.jpg)
-
-Opgeslagen sollicitaties
+![](../Resources/Images/stored_applications.jpg) - Opgeslagen sollicitaties
 
 #### Beperkte gebruiker
 
-Pictogram
+Pictogram - Beschrijving
 
-Beschrijving
+![](../Resources/Images/new_vacancy.jpg) - Nieuwe vacature
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vacaturelijst
 
-Nieuwe vacature
+![](../Resources/Images/recruitment_calendar.jpg) - Interviews
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/add_candidate.jpg) - Kandidaat toevoegen
 
-Vacaturelijst
-
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Interviews
-
-![](../Resources/Images/add_candidate.jpg)
-
-Kandidaat toevoegen
-
-![](../Resources/Images/deleted_applications.jpg)Verwijderde sollicitaties
+![](../Resources/Images/deleted_applications.jpg) - Verwijderde sollicitaties
 
 ![](../Resources/Images/guidelines.jpg) - Richtlijnen
 
@@ -196,5 +158,5 @@ Voor meer over de gebruikerstoegangsniveaus, zie de opties bij  [Toegangsbeheer]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA3NDUzNjVdfQ==
+eyJoaXN0b3J5IjpbLTg4MDA4NDk0Nl19
 -->
