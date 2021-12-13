@@ -8,51 +8,51 @@ Beschrijving
 **Kandidaat-ID**
 Unieke ID van de kandidaat, systeemgegenereerd
 
-Laatste wijziging
+**Laatste wijziging**
 Laatste datum waarop de kandidaat informatie gewijzigd heeft in het Candidate Career Center
 
-Geslacht
+**Geslacht**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Geboortedatum
+**Geboortedatum**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Type kandidaat
+**Type kandidaat**
 Kandidaattype bv. Career-center, Werknemer enz.
 
-Voornaam
+**Voornaam**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Achternaam
+**Achternaam**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Postcode
+**Postcode**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Plaats
+**Plaats**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Land
+**Land**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Regio
+**Regio**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Gemeente
+**Gemeente**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Nationaliteit
+**Nationaliteit**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-E-mail
+**E-mail**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Kandidaat: profielvraag
+**Kandidaat: profielvraag**
 Antwoord van de kandidaat op deze vraag indien gesteld
 NB: Elke vraag bij  Kandidaat:  profielvragen  wordt weergegeven in een aparte kolom.
 NB: De kolomkop wijzigt op basis van de titel van de vraag.
 
-Vraag bij Recruiter: kandidaatclassificatie
+**Vraag bij Recruiter: kandidaatclassificatie**
 Antwoord van de kandidaat op deze vraag indien gesteld
 NB: Elke vraag bij  Kandidaat:  profielvragen  wordt weergegeven in een aparte kolom.
 NB: De kolomkop wijzigt op basis van de titel van de vraag.
@@ -68,5 +68,5 @@ NB: De kolomkop wijzigt op basis van de titel van de vraag.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODA1NjExMl19
+eyJoaXN0b3J5IjpbLTM3MDM2MTc2XX0=
 -->
