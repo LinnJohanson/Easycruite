@@ -4,79 +4,53 @@ EasyCruit biedt de functies en functionaliteit waarmee uw organisatie het wervin
 
 De EasyCruit-werkruimte is ongeacht het toegangsniveau van de gebruiker op dezelfde consistente manier ingedeeld.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Werkbalk
+#### Werkbalk
 
 De werkbalk bestaat uit snelkoppelingen naar de belangrijkste onderdelen die een gebruiker dagelijks nodig heeft. De opties die beschikbaar zijn in de werkbalk zijn afhankelijk van het type gebruiker dat ingelogd is.
 
-Startpagina
-
+**Startpagina**
 Om naar de startpagina met de wervingsactiviteiten te gaan.
 
-Nieuwe vacature
-
+**Nieuwe vacature**
 Om naar de pagina te gaan waar een  nieuwe vacature  aangemaakt kan worden.
 
-Vacaturelijst
-
+**Vacaturelijst**
 Om naar de  Vacaturelijst  te gaan.
 
-Instellingen
-
+**Instellingen**
 Om naar de pagina Instellingen te gaan, waar u de instellingen van het systeem kunt wijzigen.
 
-Uitloggen
-
+**Uitloggen**
 Om af te melden.
 
-Help / Support
-
+**Help / Support**
 Met het vraagteken gaat u naar de Help-pagina's.
 
 ![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Inhoudsvenster
 
 Pictogram - Beschrijving
 
-![](../Resources/Images/new_vacancy.jpg) Nieuwe vacature
+![](../Resources/Images/new_vacancy.jpg) - Nieuwe vacature
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vacaturelijst
 
-Vacaturelijst
+![](../Resources/Images/recruitment_calendar.jpg) - Interviews
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/employees.jpg) - Werknemers
 
-Interviews
+![](../Resources/Images/search.jpg) - Zoeken / Talentpool
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/add_candidate.jpg) - Kandidaat toevoegen
 
-Werknemers
+![](../Resources/Images/deleted_applications.jpg) - Verwijderde sollicitaties
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/reports.jpg) - Rapportages
 
-Zoeken / Talentpool
+![](../Resources/Images/guidelines.jpg) - Richtlijnen
 
-![](../Resources/Images/add_candidate.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Te verwijderen kandidaten
 
-Kandidaat toevoegen
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Verwijderde sollicitaties
-
-![](../Resources/Images/reports.jpg)
-
-Rapportages
-
-![](../Resources/Images/guidelines.jpg)
-
-Richtlijnen
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Te verwijderen kandidaten
-
-![](../Resources/Images/stored_applications.jpg)
-
-Opgeslagen sollicitaties
+![](../Resources/Images/stored_applications.jpg) - Opgeslagen sollicitaties
 
 Aan de bovenkant van het  inhoudsvenster  wordt wisselende informatietekst weergegeven afhankelijk van de taak die de gebruiker uitvoert.
 
@@ -158,5 +132,5 @@ Voor meer over de gebruikerstoegangsniveaus, zie de opties bij  [Toegangsbeheer]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MDA4NDk0Nl19
+eyJoaXN0b3J5IjpbMTUzNTgyMzM2MV19
 -->
