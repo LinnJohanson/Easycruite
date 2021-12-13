@@ -29,49 +29,27 @@ Meerdere
 Nee
 
 Dropdown enkelvoudig
-
 Aangepaste waarden
+Eén - Ja
 
-Eén
-
-Ja
-
-Dropdown meervoudig
-
+**Dropdown meervoudig**
 Aangepaste waarden
+Meerdere - Nee
 
-Meerdere
-
-Nee
-
-Afdelingsvraag
-
+**Afdelingsvraag**
 Systeemwaarden
+Eén - Nee
 
-Eén
-
-Nee
-
-HTML-tekst
-
+**HTML-tekst**
 Geen
+N.v.t. - Nee
 
-N.v.t.
-
-Nee
-
-Tekstruimte
-
+**Tekstruimte**
 Vrije tekst
+Eén - Nee
 
-Eén
-
-Nee
-
-Tekstregel
-
+**Tekstregel**
 Vrije tekst
-
 Eén - Nee
 
 **Land**
@@ -227,5 +205,5 @@ Met dit type vraag kan een kandidaat een vraag beantwoorden door een live video 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3ODkzMjYwXX0=
+eyJoaXN0b3J5IjpbLTEwMTkwOTg5NTVdfQ==
 -->
