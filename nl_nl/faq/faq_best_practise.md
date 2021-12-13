@@ -155,7 +155,7 @@ Normale gebruikers moeten tot de afdeling behoren om zichtbaar te zijn in de lij
 4.  Selecteer de afdeling waarin het project aangemaakt is en klik op de knop  Afdeling toevoegen.
 5.  Sla op en keer terug naar de vacaturelijst om het toegangsbeheer opnieuw te bewerken.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Geen link om te solliciteren
+####  Geen link om te solliciteren
 
 ### Waarom kunnen kandidaten de link om een sollicitatie te versturen / om te solliciteren niet zien?
 
@@ -180,7 +180,7 @@ Een andere reden waarom de link  Sollicitatie versturen  niet zichtbaar is, is o
 
 In dit geval moet de kandidaat een afdeling selecteren om de link  Sollicitatie versturen  te laten verschijnen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Login onsuccesvol
+####  Login onsuccesvol
 
 Als u 3 keer geprobeerd heeft om in de loggen in EasyCruit met onjuiste inloggegevens, dan wordt u gevraagd om een CAPTCHA-code zoals hieronder in te voeren. Dit is om EasyCruit te beschermen tegen schadelijke aanvallen. De CAPTCHA-code is hoofdlettergevoelig.
 
@@ -194,7 +194,7 @@ Als u de code en de juiste inloggegevens ingevoerd heeft, dan komt u binnen in E
 
 Klik hier voor verdere ondersteuning bij  [Toegang tot EasyCruit](../online-help/accessing_easycruit.htm).
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Geen sollicitatieknop op Finn.no
+####  Geen sollicitatieknop op Finn.no
 
 ### Er is geen sollicitatieknop in mijn advertentie op Finn.no.
 
@@ -234,7 +234,7 @@ Er moet een sollicitatieformulier geconfigureerd zijn voor het project om de sol
     -   Klik op  Volgende  en vervolgens op  Voltooien.
     -   Wacht 20 minuten tot Finn.no de advertentie geüpdatet heeft.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Bijwerken van een vacature
+####  Bijwerken van een vacature
 
 ### Ik heb een wijziging aangebracht aan mijn vacature, maar ik zie deze niet op de websites
 
@@ -272,7 +272,7 @@ Om de publicatiedatums te wijzigen, kunt u de volgende stappen volgen:
 
 Denk erom dat bepaalde providers dit als een nieuwe plaatsing zullen beschouwen en kosten in rekening zullen brengen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Welke browsers worden ondersteund?
+####  Welke browsers worden ondersteund?
 
 ### Browsercompatibiliteit voor EasyCruit
 
@@ -528,5 +528,5 @@ Mocht u vragen hebben, neem dan gerust contact op met ons supportteam.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODc3NDI4MCwtNTMyNzYyNTQ4XX0=
+eyJoaXN0b3J5IjpbLTE4MDUzMTkzODIsLTUzMjc2MjU0OF19
 -->
