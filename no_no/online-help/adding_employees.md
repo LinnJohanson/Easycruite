@@ -2,7 +2,7 @@
 
 Fra siden  Medarbeidere  kan individuelle medarbeidere eller flere medarbeidere legges til i systemet ved å bruke importfunksjonen.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Legge til en medarbeider
+#### Legge til en medarbeider
 
 1.  Velg  Medarbeidere  på  startsiden.
 2.  Fra listen  Videre fremdrift  velger du  Legg til ny medarbeider  og klikker deretter på  Utfør.
@@ -15,7 +15,7 @@ Fra siden  Medarbeidere  kan individuelle medarbeidere eller flere medarbeidere 
 4.  Merk av for alternativet  Send epost med brukernavn og passord  for å gi medarbeideren tilgang til systemet.
 5.  På e-postsiden skriver du inn de nødvendige opplysningene og klikker på  Send. Medarbeideren er lagt inn i systemet.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Importere en liste over medarbeidere
+#### Importere en liste over medarbeidere
 
 1.  Velg  Medarbeidere  på  startsiden.
 2.  Fra listen  Videre fremdrift  velger du Importer liste over medarbeidere og klikker deretter på  Utfør.
@@ -26,20 +26,17 @@ Fra siden  Medarbeidere  kan individuelle medarbeidere eller flere medarbeidere 
 7.  Klikk på  Neste  for å fullføre importprosessen.  
     Excel-arkene må ha opplysningene i hver kolonne i samme rekkefølge som i EasyCruit for at dataene skal bli importert riktig. Dette virker ikke med den nyeste versjonen av Microsoft® Excel. Hvis du vil bruke den versjonen, må du først lagre filen som en Excel-fil i 1997–2003-format.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Endre, slette og sende e-post til en medarbeider](edit_delete_and_email_an_employee.htm)
-
 ![](../Resources/Images/icon-document-link.png)  Adding Employees
-
 ![](../Resources/Images/icon-document-link.png)  [Brukerveiledning – Rekrutteringsprosjekter](guide_for_users_vacancies.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Brukerveiledning – Håndtere kandidatsøknader](guide_for_users_handling_candidate_applications.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Brukerveiledning – Rapporter](guide_for_users_reports.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDM2NTM1NzhdfQ==
+eyJoaXN0b3J5IjpbLTEyNTc5Nzk4MjUsLTE3MDM2NTM1NzhdfQ
+==
 -->
