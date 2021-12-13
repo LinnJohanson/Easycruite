@@ -39,41 +39,32 @@ Beschrijving
 Tijdgebonden afwijzing (1, 2)
 
 E-mail verstuurd naar de kandidaten om te laten weten dat hun sollicitatie niet verder doorgaat. Deze wordt verstuurd op basis van te weinig voortgang gedurende een bepaalde tijdsperiode (weken).
-
-Uitnodiging / afwijzing gesprek
-
+***
+**Uitnodiging / afwijzing gesprek**
 Beschrijving
 
-Informatief gesprek (1)
-
+**Informatief gesprek (1)**
 E-mail verstuurd om uit te nodigen voor een informatief gesprek.
 
-1ste interview (1)
-
+**1ste interview (1)**
 E-mail verstuurd om uit te nodigen voor een eerste interview.
 
-2de interview (1)
-
+**2de interview (1)**
 E-mail verstuurd om uit te nodigen voor een tweede interview.
 
-3de interview (1)
-
+**3de interview (1)**
 E-mail verstuurd om uit te nodigen voor een derde interview.
 
-Afwijzing na informatief gesprek (1)
-
+**Afwijzing na informatief gesprek (1)**
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 
 Afwijzing na 1ste interview (1)
-
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 
 Afwijzing na 2de interview (1)
-
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 
 Afwijzing na 3de interview (1)
-
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 ***
 **Overige**
@@ -130,31 +121,31 @@ E-mail verstuurd naar relevante contactpersonen om hen te vragen hun feedback te
 **Bericht nieuwe user**
 E-mail verstuurd naar nieuwe gebruikers met een gebruikersnaam en wachtwoord om in te loggen op EasyCruit.
 
-Goedkeuring vacature
+**Goedkeuring vacature**
 E-mail verstuurd om een vacature te laten goedkeuren. Deze e-mail wordt verstuurd naar de gebruikers die aangewezen zijn als goedkeurders voor een vacature.
 
-Waarschuwing bij vervallen vacature (1 , 2)
+**Waarschuwing bij vervallen vacature (1 , 2)**
 E-mail verstuurd naar recruiters een bepaald aantal dagen voor een vacature verloopt. Zo heeft de recruiter tijd om de sluitingsdatum naar achteren te verplaatsen.
 
-Wachtwoord opvragen e-mail
+**Wachtwoord opvragen e-mail**
 E-mail verstuurd naar gebruikers die een wachtwoord aangevraagd hebben.
 
-Arbeidsovereenkomst e-mail
+**Arbeidsovereenkomst e-mail**
 E-mail verstuurd naar kandidaten aan wie een contract aangeboden wordt.
 
-Tip een vriend(in)-mail
+**Tip een vriend(in)-mail**
 E-mail gebruikt om kandidaten in staat te stellen vacatures door te mailen naar hun vrienden.
 
-Portable CV
+**Portable CV**
 E-mail gebruikt om een Portable CV te versturen.
 
-Automatisch updaten naar opgeslagen
+**Automatisch updaten naar opgeslagen**
 Updates het kandidaattype automatisch naar Opgeslagen.
 
-Stuurt e-mail om kandidaten te beoordelen
+**Stuurt e-mail om kandidaten te beoordelen**
 E-mail aan beoordelaars met het verzoek om een kandidaat te beoordelen.
 
-Stuurt e-mail terug bij afgeronde beoordeling
+**Stuurt e-mail terug bij afgeronde beoordeling**
 Melding aan de recruiter bij elke voltooide groepsbeoordeling.
 ***
 **Brief**
@@ -205,6 +196,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjA3NDQzMCwyODI2NjM3MDQsLTY1ND
+eyJoaXN0b3J5IjpbMTA3MDQwMTM5MiwyODI2NjM3MDQsLTY1ND
 g4ODg0MiwtNDgzMDg0MzgwLC0xNDQyMDE5ODM0XX0=
 -->
