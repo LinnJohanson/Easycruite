@@ -3,56 +3,39 @@
 [Standard responsmailer](standard_response_email_types.htm)  kan inneholde følgende variabler (flettefelter):
 
 Variabel
-
 Beskrivelse
-
 Brukt i
 
 {address}
-
 Sted for intervju
-
 Invitasjon til informasjonsmøte, intervju 1, intervju 2 og intervju 3
 
 {advertisement-active-from-date}
-
 Startdato for annonse
-
 E-postkanal for publisering
 
 {advertisement-active-to-date}
-
 Sluttdato for publisering av annonse
-
 E-postkanal for publisering
-
 Søknad lagret
 
-{advertisement-body}
-
+**{advertisement-body}**
 Annonsetekst
-
 E-postkanal for publisering
 
-{advertisement-heading}
-
+**{advertisement-heading}**
 Annonseoverskrift
-
 E-postkanal for publisering
 
-{advertisement-title}
-
+**{advertisement-title}**
 Annonsetittel
-
 E-postkanal for publisering
 
-{advertisement-work-place}
-
+**{advertisement-work-place}**
 Arbeidssted
-
 E-postkanal for publisering
 
-{appetizer-text}
+**{appetizer-text}**
 Annonsens sammendragstekst
 E-postkanal for publisering
 
@@ -1058,10 +1041,10 @@ Tilpasset e-post
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NzU0NjI5LDc5MTQxODE0NSwxNzk1Mj
-Q2Njg5LDEyMDM3MjMwNzcsLTQ2ODc5MjM2OSw2OTYyMzY3MDMs
-LTIwMTg2MDkwNzUsMzY1OTExODI0LDUwNjgyNzQ1MywtNDUyMT
-AyODAxLC0xMzQ5MTk5ODQzLDExNzEyOTQzMjMsMTk3MTc4Njkw
-NywtNDI1NzQ4MDAxLDM0Mjc3ODYzNywtOTM2ODgyNjIzLDExNj
-I1MjE1NTUsMTY2NjU3ODM5XX0=
+eyJoaXN0b3J5IjpbLTM4OTkwOTc0NSw3OTE0MTgxNDUsMTc5NT
+I0NjY4OSwxMjAzNzIzMDc3LC00Njg3OTIzNjksNjk2MjM2NzAz
+LC0yMDE4NjA5MDc1LDM2NTkxMTgyNCw1MDY4Mjc0NTMsLTQ1Mj
+EwMjgwMSwtMTM0OTE5OTg0MywxMTcxMjk0MzIzLDE5NzE3ODY5
+MDcsLTQyNTc0ODAwMSwzNDI3Nzg2MzcsLTkzNjg4MjYyMywxMT
+YyNTIxNTU1LDE2NjY1NzgzOV19
 -->
