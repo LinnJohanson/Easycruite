@@ -154,7 +154,7 @@ Bij dit vraagtype kan de gebruiker meerdere opties selecteren uit een keuzelijst
 4.  Voer voor elke taal de benodigde waarde in en klik vervolgens op  Toevoegen.
 5.  Herhaal de stappen 3 en 4 voor elk antwoord en klik vervolgens op  Toevoegen  als u klaar bent
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Dropdown enkelvoudig
+#### Toevoegen van een vraag van het type Dropdown enkelvoudig
 
 Bij het vraagtype Dropdown enkelvoudig kan de gebruiker een waarde selecteren uit de lijst met beschikbare antwoorden. Er kan ook een puntenwaarde toegekend worden aan de antwoorden die gebruikt wordt voor het screenen van de sollicitanten.
 
@@ -167,7 +167,7 @@ Bij het vraagtype Dropdown enkelvoudig kan de gebruiker een waarde selecteren ui
     Als  Punten  geselecteerd is bij stap 2, voer dan een numerieke waarde in in het veld  Punten. Als  Verplicht  geselecteerd is, selecteer dan  True  of  False  om het screeningscriterium in te stellen voor de vraag (True  = de sollicitant gaat door;  False  = de sollicitant wordt uitgesloten).
 6.  Herhaal de stappen 4 en 5 voor elk antwoord en klik vervolgens op  Toevoegen  op de pagina  Vraag toevoegen  als u klaar bent.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Dropdown meervoudig
+#### Toevoegen van een vraag van het type Dropdown meervoudig
 
 Bij het vraagtype Dropdown meervoudig kan de gebruiker meerdere waarden selecteren uit een lijst.
 
@@ -177,7 +177,7 @@ Bij het vraagtype Dropdown meervoudig kan de gebruiker meerdere waarden selecter
 4.  Voer voor elke taal de benodigde waarde in en klik vervolgens op  Toevoegen.
 5.  Herhaal de stappen 3 en 4 voor elk antwoord en klik vervolgens op  Toevoegen  op de pagina  Vraag toevoegen  als u klaar bent.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Afdelingsvraag
+#### Toevoegen van een vraag van het type Afdelingsvraag
 
 Dit vraagtype bevat een lijst met alle afdelingen binnen een organisatie.
 
@@ -185,7 +185,7 @@ Dit vraagtype bevat een lijst met alle afdelingen binnen een organisatie.
 2.  Voer voor elke taal de tekst voor de vraag in.
 3.  Klik op  Toevoegen  en de vraag wordt opgeslagen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type HTML-tekst
+#### Toevoegen van een vraag van het type HTML-tekst
 
 Bij dit vraagtype kan er inhoud in HTML-opmaak aan een vacatureadvertentie toegevoegd worden en het kan gebruikt worden samen met andere vraagtypes voor meer formele vragen in eigen huisstijl.
 
@@ -193,7 +193,7 @@ Bij dit vraagtype kan er inhoud in HTML-opmaak aan een vacatureadvertentie toege
 2.  Voer voor elke taal de benodigde inhoud in in de  [WYSIWYG-editor](wysiwyg_text_editor.htm).
 3.  Klik op  Toevoegen  en de vraag wordt opgeslagen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Tekstruimte en Tekstregel
+#### Toevoegen van een vraag van het type Tekstruimte en Tekstregel
 
 Dit vraagtype voorziet in een eenvoudig tekstveld/-vak voor het invoeren van tekst zonder opmaak en kan gebruikt worden als de WYSIWYG-editor niet nodig is.
 
@@ -201,7 +201,7 @@ Dit vraagtype voorziet in een eenvoudig tekstveld/-vak voor het invoeren van tek
 2.  Voer voor elke taal de benodigde tekst in.
 3.  Klik op  Toevoegen  en de vraag wordt opgeslagen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Land en Landen meervoudig
+#### Toevoegen van een vraag van het type Land en Landen meervoudig
 
 Bij het vraagtype Land en Landen meervoudig kan de sollicitant afhankelijk van het gebruikte type één of meerdere landen selecteren uit een lijst.
 
@@ -209,7 +209,7 @@ Bij het vraagtype Land en Landen meervoudig kan de sollicitant afhankelijk van h
 2.  Voer voor elke taal de benodigde tekst in.
 3.  Klik op  Toevoegen  en de vraag wordt opgeslagen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Datum
+#### Toevoegen van een vraag van het type Datum
 
 Bij dit vraagtype kan met behulp van een datumkiezer een datum ingevoerd worden als antwoord. Dit is handig om sollicitanten naar een mogelijke startdatum te vragen.
 
@@ -217,7 +217,7 @@ Bij dit vraagtype kan met behulp van een datumkiezer een datum ingevoerd worden 
 2.  Voer voor elke taal de benodigde tekst in.
 3.  Klik op  Toevoegen  en de vraag wordt opgeslagen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Kop
+#### Toevoegen van een vraag van het type Kop
 
 Dit vraagtype lijkt op de teksttypes, behalve dat de tekst opgemaakt is met een kop als deze zichtbaar is voor de kandidaat in de vacatureadvertentie.
 
@@ -225,7 +225,7 @@ Dit vraagtype lijkt op de teksttypes, behalve dat de tekst opgemaakt is met een 
 2.  Voer voor elke taal de benodigde tekst in.
 3.  Klik op  Toevoegen  en de vraag wordt opgeslagen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type File upload
+#### Toevoegen van een vraag van het type File upload
 
 Het vraagtype File upload is handig om sollicitanten in staat te stellen referenties, cv's, voorbeelden van hun werk en andere relevante documenten te uploaden.
 
@@ -253,5 +253,5 @@ Met dit type vraag kan een kandidaat een vraag beantwoorden door een live video 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxMDc1MzFdfQ==
+eyJoaXN0b3J5IjpbLTQzMzgyMzY1N119
 -->
