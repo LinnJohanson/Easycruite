@@ -4,31 +4,21 @@ Er zijn een aantal verschillende vraagtypes beschikbaar in het systeem voor de v
 
 In de onderstaande tabel wordt een korte uitleg gegeven over elk van de vraagtypes.
 
-Vraagtype
-
+**Vraagtype**
 Beschikbaar antwoord
 
-Keuzes
-
+**Keuzes**
 Screening
 
-Keuzevragen
-
+**Keuzevragen**
 Aangepaste waarden
+Eén - Ja
 
-Eén
-
-Ja
-
-Aanvinkbox
-
+**Aanvinkbox**
 Aangepaste waarden
+Meerdere - Nee
 
-Meerdere
-
-Nee
-
-Dropdown enkelvoudig
+**Dropdown enkelvoudig**
 Aangepaste waarden
 Eén - Ja
 
@@ -205,5 +195,5 @@ Met dit type vraag kan een kandidaat een vraag beantwoorden door een live video 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTkwOTg5NTVdfQ==
+eyJoaXN0b3J5IjpbMTI3NDAxMTc2NV19
 -->
