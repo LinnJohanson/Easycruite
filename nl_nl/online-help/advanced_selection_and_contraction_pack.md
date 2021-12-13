@@ -2,53 +2,40 @@
 
 Naarmate uw wervingsproces groeit, groeit ook EasyCruit. We hebben verschillende tools die u kunnen helpen om het communiceren met en verwerken van kandidaten en het herkennen van intern talent naar een volgend niveau te tillen.
 
-De uitdaging
-
-De impact voor de organisatie
-
+**De uitdaging**
+*De impact voor de organisatie*
 De oplossing
 
-De kandidaten bereiken
-
-Vertragingen in het wervingsproces doordat kandidaten e-mails niet zien
-
+**De kandidaten bereiken**
+*Vertragingen in het wervingsproces doordat kandidaten e-mails niet zien*
 1. Sms
-
 Gemakkelijk te versturen tekstberichten met updates en herinneringen naar één of meerdere kandidaten
 
-Regelmatig communiceren met kandidaten, op een gecontroleerde manier, overeenkomstig het selectieproces van de organisatie
-
-Geen centrale tracering van alle stappen
-
-Inconsistente berichten aan kandidaten
+**Regelmatig communiceren met kandidaten, op een gecontroleerde manier, overeenkomstig het selectieproces van de organisatie**
+*Geen centrale tracering van alle stappen
+Inconsistente berichten aan kandidaten*
 
 2. Aangepaste wervingsacties en e-mails
-
 Betere communicatie met kandidaten via op maat aangepaste e-mailtemplates
-
 Gedetailleerdere feedback van de organisatie over kandidaten
 
-  
-
-Verzamelen van feedback van collega's over kandidaten op een gestructureerde manier
-
-Inefficiënte en niet goed zichtbare feedback
-
-Minder goed onderbouwde wervingsbeslissingen, meer risico
+**Verzamelen van feedback van collega's over kandidaten op een gestructureerde manier**
+*Inefficiënte en niet goed zichtbare feedback
+Minder goed onderbouwde wervingsbeslissingen, meer risico*
 
 3. Groepsbeoordeling
-
 Eenvoudig opvragen, bekijken en vergelijken van feedback over kandidaten
-
 Minder risico op aannemen van een ongeschikte kandidaat
 
-Bijhouden van de ad-hoccommunicatie met kandidaten
-Geen geschiedenis van de gesprekken met kandidaten
+**Bijhouden van de ad-hoccommunicatie met kandidaten**
+*Geen geschiedenis van de gesprekken met kandidaten*
+
 4. E-mailhistorie
 Integratie met uw gebruikelijke e-mailtool
 
 **Inconsistentie in de contracten**
 *Tijdverlies voor opstellen van contracten*
+
 5. Contracttemplate
 Samenvoegfunctionaliteit om contracten in eigen huisstijl op te stellen voor nieuwe medewerkers
 
@@ -56,11 +43,13 @@ Samenvoegfunctionaliteit om contracten in eigen huisstijl op te stellen voor nie
 *Hogere wervingskosten
 Langzamer invullen van vacatures
 Meer tijd tot functionering*
+
 6. Classificeren van werknemers
 Gemakkelijk zoeken naar intern talent op basis van uw criteria
 
 **Dubbele verwerking van dubbele sollicitaties**
 *Tijdverlies door meerdere keren beoordelen van kandidaten*
+
 7. Controleren op dubbele kandidaten
 Automatisch bericht bij potentiële duplicaten
 
@@ -75,5 +64,5 @@ Automatisch bericht bij potentiële duplicaten
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODg3Mzc3ODBdfQ==
+eyJoaXN0b3J5IjpbLTc4OTY3MTQ1Ml19
 -->
