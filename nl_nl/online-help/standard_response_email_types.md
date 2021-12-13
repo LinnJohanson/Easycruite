@@ -58,13 +58,13 @@ E-mail verstuurd om uit te nodigen voor een derde interview.
 **Afwijzing na informatief gesprek (1)**
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 
-Afwijzing na 1ste interview (1)
+**Afwijzing na 1ste interview (1)**
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 
-Afwijzing na 2de interview (1)
+**Afwijzing na 2de interview (1)**
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 
-Afwijzing na 3de interview (1)
+**Afwijzing na 3de interview (1)**
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
 ***
 **Overige**
@@ -196,6 +196,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDQwMTM5MiwyODI2NjM3MDQsLTY1ND
-g4ODg0MiwtNDgzMDg0MzgwLC0xNDQyMDE5ODM0XX0=
+eyJoaXN0b3J5IjpbLTE4NjM1MDkyMDAsMjgyNjYzNzA0LC02NT
+Q4ODg4NDIsLTQ4MzA4NDM4MCwtMTQ0MjAxOTgzNF19
 -->
