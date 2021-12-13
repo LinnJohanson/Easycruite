@@ -63,25 +63,15 @@ Als een sollicitant uitgenodigd is voor een interview, dan moet deze reageren op
 
 Wanneer de sollicitanten op de interviewbevestigingslink klikken, dan worden ze doorgeleid naar een webpagina waar ze kunnen reageren; hiermee wordt hun status in EasyCruit bijgewerkt. In de volgende tabel staat aangegeven wat het resultaat is van de verschillende bevestigingsopties. De status staat weergegeven bij  Afspraak bevestigd  op de pagina  Interviews  en bij  Uitnodiging voor afspraak bewerken  op de pagina  Sollicitatie & cv  van de kandidaat.
 
-Bevestigingsoptie
+Bevestigingsoptie - Afspraak bevestigd / Uitnodiging voor afspraak bewerken
 
-Afspraak bevestigd / Uitnodiging voor afspraak bewerken
+Ja, ik zal aanwezig zijn - Geaccepteerd
 
-Ja, ik zal aanwezig zijn
+Nee, ik kan helaas niet - Niet geaccepteerd
 
-Geaccepteerd
+Plan nieuwe afspraak - Neem contact op voor een nieuwe afspraak
 
-Nee, ik kan helaas niet
-
-Niet geaccepteerd
-
-Plan nieuwe afspraak
-
-Neem contact op voor een nieuwe afspraak
-
-Sollicitatie intrekken
-
-Niet van toepassing. De  Status sollicitatie  van de kandidaat wordt gewijzigd in  Teruggetrokken.
+Sollicitatie intrekken - Niet van toepassing. De  Status sollicitatie  van de kandidaat wordt gewijzigd in  Teruggetrokken.
 
 Afhankelijk van het antwoord van de sollicitant, kan het interview plaatsvinden en kan zijn/haar status bijgewerkt worden na het interview.
 
@@ -98,5 +88,5 @@ Voor meer informatie over het weergeven van de interviews en de status van uitno
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDc1MzExODJdfQ==
+eyJoaXN0b3J5IjpbMTUwNDM4Nzk0OV19
 -->
