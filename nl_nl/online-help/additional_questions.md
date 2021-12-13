@@ -11,7 +11,7 @@ Er zijn verschillende categorieën voor de extra vragen. Bij bepaalde hebben de 
 -   Werknemer: profielvragen  - Deze vragen hebben betrekking op werknemers. Deze vragen zijn enkel beschikbaar wanneer geregistreerde collega's inloggen via de vacaturewebsite met hun eigen gebruikersnaam en wachtwoord.
 -   Recruiter: werknemersclassificatie  - Deze vragen zijn dezelfde als de standaardclassificatievragen, maar hebben betrekking op werknemers. Dit is een optionele add-onfunctie.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aanmaken van extra vragen
+#### Aanmaken van extra vragen
 
 1.  Selecteer in de Taakbalk de optie  Instellingen  en vervolgens  Extra vragen  om de pagina  Extra vragen  weer te geven.  
       
@@ -36,17 +36,17 @@ Er zijn verschillende categorieën voor de extra vragen. Bij bepaalde hebben de 
     -   Doorzoekbaar in Talentpool  - Maakt de vraag opzoekbaar. Dit betekent dat bij geavanceerd zoeken naar kandidaten via de pagina  Zoeken  de vragen beschikbaar zijn als zoekcriteria.
 5.  Klik na het configureren van de benodigde vragen op  Opslaan.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Weergeven en bewerken van bestaande extra vragen
+#### Weergeven en bewerken van bestaande extra vragen
 
 1.  Selecteer in de Taakbalk de optie  Instellingen  en vervolgens  Extra vragen  om de pagina  Extra vragen  weer te geven.
 2.  Selecteer het juiste tabblad om naar de gewenste extra vraag te gaan en klik vervolgens op het potlood.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Verwijderen van een extra vraag
+#### Verwijderen van een extra vraag
 
 1.  Selecteer in de Taakbalk de optie  Instellingen  en vervolgens  Extra vragen  om de pagina  Extra vragen  weer te geven.
 2.  Selecteer het juiste tabblad om naar de gewenste extra vraag te gaan en klik vervolgens op het potlood.
 
-###Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Vraagtypes](question_types.htm)
 ![](../Resources/Images/icon-document-link.png)  [Sollicitatieformuliertemplates](application_templates.htm)
@@ -56,5 +56,5 @@ Er zijn verschillende categorieën voor de extra vragen. Bij bepaalde hebben de 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjczNjA0NV19
+eyJoaXN0b3J5IjpbLTE2MDk1MzE4MTVdfQ==
 -->
