@@ -108,39 +108,23 @@ Rens ukurant kode. Fjerner uønsket formatering. Denne funksjonen er nyttig når
 
 ![](../Resources/Images/help.jpg)
 
-Hjelp for WYSIWYG-editor
-
-![](../Resources/Images/html.jpg)
+Hjelp for WYSIWYG-editor - ![](../Resources/Images/html.jpg)
 
 HTML-koding. Denne knappen åpner et nytt vindu, hvor du kan skrive inn innhold i editoren i HTML-kode. Når innholdet lagres og lukkes, blir det oppdatert i WYSIWYG-editoren uten at koden vises
 
-![](../Resources/Images/cut.jpg)
+![](../Resources/Images/cut.jpg) - Klipper ut markert tekst (CTRL + X)
 
-Klipper ut markert tekst (CTRL + X)
+![](../Resources/Images/copy.jpg) - Kopierer markert tekst (CTRL + C)
 
-![](../Resources/Images/copy.jpg)
+![](../Resources/Images/paste1.jpg) - Limer inn innhold, inkludert formatering, i editoren (CTRL + P)
 
-Kopierer markert tekst (CTRL + C)
+![](../Resources/Images/paste2.jpg) - Limer inn innhold i editoren som ren tekst, fjerner all formatering
 
-![](../Resources/Images/paste1.jpg)
+![](../Resources/Images/replace.jpg) - Søk og erstatt-funksjon som kan erstatte en enkelt forekomst eller alle forekomster av et ord eller en frase i editoren
 
-Limer inn innhold, inkludert formatering, i editoren (CTRL + P)
+![](../Resources/Images/remove.jpg) - Fjerner formatering som fet og farget tekst
 
-![](../Resources/Images/paste2.jpg)
-
-Limer inn innhold i editoren som ren tekst, fjerner all formatering
-
-![](../Resources/Images/replace.jpg)
-
-Søk og erstatt-funksjon som kan erstatte en enkelt forekomst eller alle forekomster av et ord eller en frase i editoren
-
-![](../Resources/Images/remove.jpg)
-
-Fjerner formatering som fet og farget tekst
-
-![](../Resources/Images/insert_table.jpg)
-
-Sett inn tabell. Når du velger dette alternativet, åpnes et nytt vindu, hvor tabellparametrene kan konfigureres. Se hjelp for WYSIWYG-editor for mer informasjon
+![](../Resources/Images/insert_table.jpg) - Sett inn tabell. Når du velger dette alternativet, åpnes et nytt vindu, hvor tabellparametrene kan konfigureres. Se hjelp for WYSIWYG-editor for mer informasjon
 
 ## Editor-operasjoner
 
@@ -148,11 +132,11 @@ WYSIWYG-editoren har de vanlige redigeringsfunksjonene du forventer å kunne utf
 
 Når du bruker WYSIWYG-editoren med HTML e-post, støttes for tiden bilder for e-post, men ikke for annonser.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Velge tekst og grafikk
+#### Velge tekst og grafikk
 
 Når du vil flytte, slette eller erstatte innhold i editoren, må du først velge hva du vil arbeide med. Du kan gjøre dette med musen eller tastaturet.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Velge innhold med musen
+#### Velge innhold med musen
 
 Dra markøren over det du vil velge, eller bruk en av følgende snarveier:
 
@@ -161,7 +145,7 @@ Dra markøren over det du vil velge, eller bruk en av følgende snarveier:
 -   Start et utvalg – Klikk på starten av utvalget
 -   Slutte et utvalg – Hold nede SHIFT og klikk på slutten av utvalget
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Velge innhold med tastaturet
+#### Velge innhold med tastaturet
 
 Bruk en av disse hurtigtastkombinasjonene:
 
@@ -173,7 +157,7 @@ Bruk en av disse hurtigtastkombinasjonene:
 -   Til starten av linjen – SHIFT + HOME
 -   Alt – CTRL + A
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Bruke utklippstavlen
+#### Bruke utklippstavlen
 
 Du kan kopiere, klippe og lime innhold med systemets utklippstavle. Dette er en rask måte for å overføre innhold fra andre programmer til WYSIWYG-editoren og innenfor selve editoren.
 
@@ -218,5 +202,5 @@ Du kan gjøre endringer i teksten i WYSIWYG-editoren med funksjonen Søk og erst
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNzQ4MDcwXX0=
+eyJoaXN0b3J5IjpbMjU3MjQ3NDA4XX0=
 -->
