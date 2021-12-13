@@ -2,53 +2,52 @@
 
 In de volgende tabel staan de velden beschreven die gebruikt worden in de Data-extractie plaatsingen.
 
-Veldnaam
-
+**Veldnaam**
 Beschrijving
-
-Kanaal
+***
+**Kanaal**
 Naam van het kanaal waarop de vacature geplaatst is
 
-Vacancy ID (Vacature-ID)
+**Vacancy ID (Vacature-ID)**
 Unieke ID van het project / de vacature, systeemgegenereerd
 
-Referentienummer
+**Referentienummer**
 Referentienummer van de vacature indien gebruikt
 
-Vacaturetitel & Projecteigenaar
+**Vacaturetitel & Projecteigenaar**
 Interne vacaturetitel, die op elk gewenst moment gewijzigd kan worden. Niet de titel zoals in de vacatureadvertentie
 
-Number of Applicants (Aantal sollicitanten)
+**Number of Applicants (Aantal sollicitanten)**
 Totaal aantal sollicitanten via het kanaal van de vacature
 
-Aangenomen
+**Aangenomen**
 Totaal aantal aangenomen kandidaten via het kanaal van de vacature
 
-Cost of Publication (Kosten voor plaatsing)
+**Cost of Publication (Kosten voor plaatsing)**
 Kosten voor het plaatsen indien opgegeven voor het kanaal
 
-First Date Published (Eerste plaatsingsdatum)
+**First Date Published (Eerste plaatsingsdatum)**
 Laatste datum vanaf wanneer de vacature geplaatst was op het kanaal
 
-Last Date Published (Laatste plaatsingsdatum)
+**Last Date Published (Laatste plaatsingsdatum)**
 Laatste datum tot wanneer de vacature geplaatst was op het kanaal
 
-Type dienstverband
+**Type dienstverband**
 Criteria geselecteerd bij plaatsen van de vacature
 
-Werkdagen
+**Werkdagen**
 Criteria geselecteerd bij plaatsen van de vacature
 
-Werkuren
+**Werkuren**
 Criteria geselecteerd bij plaatsen van de vacature
 
-Vacaturetype
+**Vacaturetype**
 Criteria geselecteerd bij plaatsen van de vacature
 
-Vacatureniveau
+**Vacatureniveau**
 Criteria geselecteerd bij plaatsen van de vacature
 
-Secties
+**Secties**
 Criteria geselecteerd bij plaatsen van de vacature
 
 ##### Zie ook:
@@ -62,5 +61,5 @@ Criteria geselecteerd bij plaatsen van de vacature
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUxNTA2MjNdfQ==
+eyJoaXN0b3J5IjpbLTc3MjI3NzAwM119
 -->
