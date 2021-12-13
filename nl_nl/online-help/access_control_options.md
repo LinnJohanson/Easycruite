@@ -7,12 +7,12 @@ Er zijn een aantal standaardgebruikerstypes die aangemaakt kunnen worden met voo
 
 De volgende punten beschrijven de beschikbare toegangsrechten.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Administratorinstellingen
+#### Administratorinstellingen
 
 -   Is admingebruiker  - Schakelt de beheerfuncties in die bereikt kunnen worden vanaf de pagina Instellingen. Als deze functie uitgeschakeld is, dan zien de gebruikers enkel de opties  Persoonlijke gegevens,  Afdelingen  en  Richtlijnen. Het stelt gebruikers ook in staat hun eigen toegangsbeheerinstellingen te wijzigen.
 -   Is afdelingsadmingebruiker  - Biedt dezelfde functionaliteit als bij een administrator, maar enkel voor specifieke afdelingen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Sollicitatie & cv
+#### Sollicitatie & cv
 
 -   Module: Talentpool  - Geeft toegang tot de functie  [Zoeken / Talentpool](searching_for_candidates.htm)  op de  Startpagina. Dit is inclusief zoeken naar de types Kandidaat, Career-center, Prospect en Opgeslagen.
 -   Tabblad Wervingsacties in dossier van kandidaat  - Schakelt het tabblad  [Wervingsacties](recruitment_activities_list_tab.htm)  in.
@@ -20,7 +20,7 @@ De volgende punten beschrijven de beschikbare toegangsrechten.
 -   Module: Verwijderde kandidaten  - Geeft toegang tot de functie  [Verwijderde sollicitaties](deleting_an_applicant.htm)  op de  Startpagina.
 -   Mag GEEN sollicitatieformulieren bewerken  - Voorkomt dat de gebruiker een sollicitatieformulier kan bewerken. De standaardsollicitatieformulieren in het systeem kunnen door de gebruiker gekoppeld worden aan een vacature, maar kunnen niet gewijzigd worden.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Wervingsactiviteiten
+#### Wervingsactiviteiten
 
 -   Module: Kandidaat toevoegen  - Schakelt de functie  [Kandidaat toevoegen](adding_candidates.htm)  op de Startpagina in om handmatig kandidaten toe te voegen.
 -   Versturen van uitnodigingen voor een informatief gesprek  - Stelt de gebruiker in staat de lijst  Wervingsactie  en  Soort interview  te gebruiken om een kandidaat uit te nodigen voor een informatief gesprek.
@@ -32,20 +32,20 @@ De volgende punten beschrijven de beschikbare toegangsrechten.
 -   Verwijderen van kandidaten  - Stelt de gebruiker in staat om de lijst  Wervingsactie  te gebruiken voor het  [verwijderen](deleting_an_applicant.htm)  van de sollicitatie van de kandidaat en hen toe te voegen aan de  Verwijderde sollicitaties.
 -   Toegang tot aanmaken  - Stelt de gebruiker in staat om sollicitanten intern te  [classificeren](classification_tab.htm)  en de klassen te gebruiken voor rapportage.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Publicatie
+#### Publicatie
 
 -   Aanmaken, publiceren & bewerken van vacatures  - Stelt de gebruiker in staat om vacatures te publiceren en te bewerken. Als deze optie uitgeschakeld is, dan zijn alle op het tabblad  [Vacature](edit_a_vacancy.htm)  beschikbare instellingen niet meer toegankelijk.
 -   Afsluiten & verwijderen van vacatures  - Stelt de gebruiker in staat om een vacature  [af te sluiten](closing_a_vacancy.htm)  en deze te  [verwijderen](deleting_a_vacancy.htm).
 -   Bewerken van e-mails op vacatureniveau  - Stelt de gebruiker in staat om de e-mails voor een specifieke vacature aan te passen.
 -   Vacature-editor  - Voegt de taakbalk van de  [WYSIWYG-editor](wysiwyg_text_editor.htm)  toe tijdens het aanmaken van een vacature. Hiermee kan de vacatureadvertentie opgemaakt worden.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Communicatie
+#### Communicatie
 
 -   Verzenden van e-mails aan kandidaten  - Schakelt de optie  E-mail verzenden  in de lijst  [Wervingsactie](applicant_progress_options.htm)  in zodat de gebruiker een ad-hocmail naar de kandidaat kan versturen zonder dat hij/zij de status van de kandidaat moet wijzigen of in de wervingsworkflow moet werken.
 -   Verzenden van sms-berichten aan kandidaten  - Stelt een interne gebruiker in staat om een sms-bericht te versturen naar een kandidaat met een geldig mobiel telefoonnummer. Voor een correcte werking van deze functie, is bepaalde initiële configuratie door een EasyCruit-vertegenwoordiger vereist.
 -   Toegang tot e-mailhistorie  - Schakelt het tabblad  [E-mailhistorie](two_way_email_tab.htm)  in, dat bereikbaar is via de pagina  Sollicitatie & cv  van de kandidaat.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Overige
+#### Overige
 
 -   Module: Rapportage  - Schakelt de functie  Rapportages  in op de  Startpagina.
 -   Toegang tot CBS-rapporten  - Schakelt het gebruik van het CBS (Centraal Bureau voor de Statistiek)-rapport in, dat ontworpen is om te voldoen aan de regelgevingen in Nederland.
@@ -58,7 +58,7 @@ De volgende punten beschrijven de beschikbare toegangsrechten.
 -   Module: Werknemers  - Schakelt de functie  [Werknemers](guide_for_users_employees.htm)  in op de Startpagina.
 -   Deactiveren van de mogelijkheid om te zien op de overzichtspagina dat een kandidaat is doorgestuurd  - Voorkomt dat gebruikers de geschiedenis van doorgestuurde kandidaten kunnen zien.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Gebruikersinterface
+#### Gebruikersinterface
 
 -   Gebruik eenvoudige grafische gebruikersinterface  - Dit is een overbodige functie die niet ingeschakeld hoeft te worden.
 -   Gebruikerswachtwoord moet verschillen bij wijziging hiervan  - Zorgt ervoor dat de gebruiker voor vijf wachtwoordwijzigingen unieke wachtwoorden moet invoeren alvorens een eerder wachtwoord opnieuw gebruikt kan worden.
@@ -71,5 +71,5 @@ De volgende punten beschrijven de beschikbare toegangsrechten.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzIwNjgyXX0=
+eyJoaXN0b3J5IjpbOTgzNDE2MDQwLDIwMjcyMDY4Ml19
 -->
