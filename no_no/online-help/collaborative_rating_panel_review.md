@@ -11,7 +11,7 @@ Rangeringen kan brukes på ulike måter:
 
 Etter at samarbeidsrangering er aktivert for et rekrutteringsprosjekt, kan rekrutterere velge bestemte brukere som skal motta en e-post hver gang en ny kandidat søker, slik at disse brukerne kan rangere kandidatene. Dette er nyttig for spesialiserte stillinger og anbefales ikke for stillinger med et stort antall kandidater, da brukerne vil motta mange e-postmeldinger.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Rangering
+#### Rangering
 
 Slik sender du kandidater på kortliste til rangering hos bestemte interne eller eksterne personer:
 
@@ -50,19 +50,19 @@ Brukere kan klikke på kandidatens navn for å se en oversikt over kandidatens p
 
 Dette markerer rangeringen som gjennomført i kandidatens  prosessliste, og personen som sendte forespørsel om rangering, mottar en e-post om at rangeringen er gjennomført, hvis alternativet for dette er valgt.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Vise rangeringer
+#### Vise rangeringer
 
 1.  Fra rekrutteringsoversikten kan du se at kandidatene når er i seksjonen  Samarbeidsrangering.
 2.  Hvis du klikker på dette elementet, vises en liste over kandidater som er sendt til rangering, og du kan se gjennomsnittsrangeringen for hver av kandidatene.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Konfigurere samarbeidsrangering
+#### Konfigurere samarbeidsrangering
 
 1.  På den første siden når du oppretter/redigerer et rekrutteringsprosjekt, merker du av for alternativet  Bruk samarbeidsrangering for dette prosjektet. Dette gjør at alle brukere som har tilgang til prosjektet og søkerne, kan gi en 1–7-rangering av kandidatene.
 2.  Hvis du vil sende e-post til bestemte brukere om å rangere en ny kandidat som har sendt inn en søknad, velger du  Samarbeidsrangering  på Endre prosjektet-siden. Velg deretter rekruttererne.
 3.  Merk av for  Inkludér kandidatens personalia og vedlegg  for å sende jobbsøkerens detaljer til brukerne som deltar i rangeringen.
 4.  Klikk på  Lagre  når du er ferdig.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Bruke samarbeidsrangering
+#### Bruke samarbeidsrangering
 
 Forsikre deg om at den foregående prosedyren er fullført for det ønskede rekrutteringsprosjektet.
 
@@ -81,7 +81,7 @@ I kolonnen  Rangering  vises søkernes gjennomsnittsverdi.
 
 Hvis du klikker på søkerens  navn  og deretter på fanen  Samarbeidsrangering, vises alle rangeringene og kommentarene som er gitt av ulike brukere.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Fanen Samarbeidsrangering](collaborative_rating_tab.htm)
 
@@ -96,5 +96,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDk4NjA3MV19
+eyJoaXN0b3J5IjpbLTQ0MzgyMzkzOF19
 -->
