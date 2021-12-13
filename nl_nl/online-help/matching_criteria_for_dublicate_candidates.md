@@ -13,7 +13,7 @@ Standaard worden  Voornaam  en  Achternaam  altijd gebruikt als matchcriteria vo
 3.  Klik op  Opslaan.  
     
 
-#### Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Weergeven van alle sollicitaties van een kandidaat](viewing_a_candidates_multiple_applications.htm)
 ![](../Resources/Images/icon-document-link.png)  [E-mailtemplates](response_emails.htm)
@@ -24,5 +24,5 @@ Standaard worden  Voornaam  en  Achternaam  altijd gebruikt als matchcriteria vo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4ODE0MzU4XX0=
+eyJoaXN0b3J5IjpbMjEwNDUyODU4N119
 -->
