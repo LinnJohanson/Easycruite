@@ -9,38 +9,31 @@ Nadat een vacature gepubliceerd is, kan deze bewerkt moeten worden. Wijzigingen 
     Er zijn opties die bewerkt kunnen worden als de vacature niet goedgekeurd is.
 3.  Klik op het potlood om naar de optie te gaan die bewerkt moet worden en breng de gewenste wijzigingen aan zoals hieronder beschreven. Klik op  Opslaan  als u klaar bent.
 
-Vacatureoptie
+**Vacatureoptie**
 Beschrijving
 ***
 Titel, land & regio
 Om de vacaturetitel, het referentienummer, de beschikbare talen, de geografische locatie en de projecteigenaar te bewerken.
 
-Afdeling & contactpersonen
-
+**Afdeling & contactpersonen**
 Om de afdeling waarvoor de vacature is te wijzigen en om de gebruiker die als contactpersoon gebruikt wordt in de vacatureadvertentie en de standaardafzender van e-mails te wijzigen.
 
-Projectprofiel
-
+**Projectprofiel**
 Om antwoorden op projectgerelateerde vragen die gebruikt worden om te classificeren toe te voegen, te verwijderen en te bewerken.
 
-Vacature
-
+**Vacature**
 Om de vacaturetekst, de oneliner en de vacaturetitel voor op de vacaturewebsite te wijzigen. De datums en de locatie in de vacatureadvertentie kunnen ook gewijzigd worden.
 
-Sollicitatieformulier
-
+**Sollicitatieformulier**
 Om nieuwe sollicitatieformulieren die gebruikt moeten worden te selecteren of het bestaande sollicitatieformulier te wijzigen.
 
-Extra (screening)vragen
-
+**Extra (screening)vragen**
 Om unieke, vacaturespecifieke screeningsvragen toe te voegen, te verwijderen of te bewerken.
 
-E-mails
-
+**E-mails**
 Om de automatische mails die gekoppeld zijn aan de specifieke vacature te bewerken en te activeren of uit te schakelen.
 
-Websites
-
+**Websites**
 Om de vacaturewebsites en andere plaatsingskanalen waarop de vacature moet verschijnen te wijzigen.
 
 Als de vacature nog niet goedgekeurd is, dan kan deze optie bewerkt worden.
@@ -60,5 +53,5 @@ Voor meer informatie over deze opties, zie  [Aanmaken van een nieuwe vacature](.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTA0MjMwOF19
+eyJoaXN0b3J5IjpbMTQyODQ5MTMwXX0=
 -->
