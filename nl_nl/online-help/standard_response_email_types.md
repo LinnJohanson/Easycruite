@@ -80,31 +80,24 @@ E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze
 Beschrijving
 
 Opslaan en verstuur gebruikersnaam
-
 E-mail verstuurd naar kandidaten met de melding dat hun gegevens opgeslagen zijn in de database en dat ze kunnen inloggen met hun gebruikersnaam en wachtwoord en hun gegevens kunnen wijzigen.
 
 Verplaats overige kandidaten
-
 E-mail verzonden naar de kandidaten voor wie de sollicitatie geen succes was. Bevat hun gebruikersnaam en wachtwoord en nodigt hen uit om te solliciteren op andere posities.
 
 Werknemer uitnodigen cv te uploaden
-
 E-mail verstuurd naar interne werknemers om hen uit te nodigen om in te loggen op de vacaturewebsite van de organisatie en hun gegevens bij te werken.
 
 Cv forwarden naar e-mail
-
 E-mail doorgestuurd naar relevante contactpersonen met het cv en de sollicitatie van een kandidaat.
 
 Opslaan en verstuur gebruikersnaam
-
 E-mail verstuurd naar kandidaten met de melding dat hun gegevens opgeslagen zijn in de database en dat ze kunnen inloggen met hun gebruikersnaam en wachtwoord en hun gegevens kunnen wijzigen.
 
 Uitnodiging voor Service-F
-
 E-mail verstuurd naar kandidaten om uit te nodigen voor de Service-F test.
 
 Uitnodiging voor Matrigma test
-
 E-mail verstuurd naar kandidaten om uit te nodigen voor de Matrigma test.
 
 Uitnodiging voor 16PF test
@@ -222,6 +215,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyNjYzNzA0LC02NTQ4ODg4NDIsLTQ4Mz
-A4NDM4MCwtMTQ0MjAxOTgzNF19
+eyJoaXN0b3J5IjpbMTI5NjY2ODQzMCwyODI2NjM3MDQsLTY1ND
+g4ODg0MiwtNDgzMDg0MzgwLC0xNDQyMDE5ODM0XX0=
 -->
