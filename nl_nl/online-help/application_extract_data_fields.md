@@ -14,52 +14,52 @@ Unieke ID van het project / de vacature, systeemgegenereerd
 **Referentienummer**
 Referentienummer van de vacature indien gebruikt
 
-Vacaturetitel & Projecteigenaar
+**Vacaturetitel & Projecteigenaar**
 Interne vacaturetitel, die op elk gewenst moment gewijzigd kan worden. Niet de titel zoals in de vacatureadvertentie
 
-Department ID (Afdelings-ID)
+**Department ID (Afdelings-ID)**
 Systeemgegenereerde ID van de afdeling waar de kandidaat gesolliciteerd heeft. Kan gebruikt worden voor opzoeken in andere extracties
 
-Afdelingsnaam
+**Afdelingsnaam**
 Naam van de afdeling waarnaar verwezen in de afdelings-ID
 
-Status sollicitatie
+**Status sollicitatie**
 Status van de sollicitatie van de kandidaat bv. 1ste Interview, Opgeslagen, Verplaatst, Afgewezen
 
-Application Updated (Sollicitatie bijgewerkt)
+**Application Updated (Sollicitatie bijgewerkt)**
 Laatste datum waarop de sollicitatie bijwerkt is door de kandidaat of EasyCruit-gebruiker bv. bij het verwerken van een sollicitatie (wijzigen van de status)
 
-Beoordeling
+**Beoordeling**
 Klasse 1, 2 of 3 indien beschikbaar
 
-Gemiddelde beoordeling
+**Gemiddelde beoordeling**
 Gemiddelde score van de groepsbeoordeling indien beschikbaar
 
-Referentie
+**Referentie**
 Op basis van de opties in de vervolgkeuzelijst in EasyCruit bv. Positief, Negatief
 
-Datum van sollicitatie
+**Datum van sollicitatie**
 Datum waarop gesolliciteerd is
 
-Hired Date (Datum aangenomen)
+**Hired Date (Datum aangenomen)**
 Datum waarop de sollicitatie verplaatst is naar de status 'Aangenomen'
 
-Startdatum
+**Startdatum**
 Datum opgegeven als een kandidaat aangenomen is
 
-Afwijzingsreden
+**Afwijzingsreden**
 Reden voor afwijzing op basis van de beschikbare vervolgkeuzelijst
 
-Wervingskanaal
+**Wervingskanaal**
 Kanaal van waar de sollicitatie ontvangen is
 
-Geslacht
+**Geslacht**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Geboortedatum
+**Geboortedatum**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Type kandidaat
+**Type kandidaat**
 Kandidaattype bv. Career-center, Werknemer enz.
 
 Voornaam
@@ -139,5 +139,5 @@ Laatste datum waarop de sollicitatiestatus gewijzigd is in de aangepaste status 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTE0MjczNV19
+eyJoaXN0b3J5IjpbMTI3NTg2OTE5OV19
 -->
