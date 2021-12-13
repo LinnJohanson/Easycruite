@@ -38,89 +38,89 @@ EasyCruit ondersteunt meerdere plaatsingsperiodes die gekozen kunnen worden door
 
 <County id="xxx">Region in selected country</County>
 
-</Country>
+< /Country>
 
-</Region>
+< /Region>
 
-<Categories>
+< Categories>
 
-<Item type="area-of-interest" id="xxx">Area of interest</Item>
+< Item type="area-of-interest" id="xxx">Area of interest< /Item>
 
-<Item type="position-type" id="xxx">Position type</Item>
+< Item type="position-type" id="xxx">Position type< /Item>
 
-<Item type="job-level" id="xxx">Job level</Item>
+< Item type="job-level" id="xxx">Job level< /Item>
 
-<Item type="duration" id="xxx">Duration</Item>
+< Item type="duration" id="xxx">Duration< /Item>
 
-<Item type="extent" id="xxx">Extent</Item>
+< Item type="extent" id="xxx">Extent< /Item>
 
-<Item type="operating-time" id="xxx">Operation time</Item>
+< Item type="operating-time" id="xxx">Operation time< /Item>
 
-</Categories>
+< /Categories>
 
-</Version>
+< /Version>
 
-</Versions>
+< /Versions>
 
-<Departments>
+< Departments>
 
-<Department id="xxx">
+< Department id="xxx">
 
-<Name>Afdelingsnaam</Name>
+< Name>Afdelingsnaam< /Name>
 
-<LogoURL>Volledige URL naar geüpload logo</LogoURL>
+< LogoURL>Volledige URL naar geüpload logo< /LogoURL>
 
-<VacancyURL>URL naar vacature</VacancyURL>
+< VacancyURL>URL naar vacature< /VacancyURL>
 
-<ApplicationURL>URL naar sollicitatieformulier</ApplicationURL>
+< ApplicationURL>URL naar sollicitatieformulier< /ApplicationURL>
 
-</Department>
+< /Department>
 
-</Departments>
+< /Departments>
 
-</Vacancy>
+< /Vacancy>
 
 #### Vacature-XML
 
 Naast de bovenstaande variabelen zijn er deze variabelen voor de vacatureadvertentie.
 
-<Description>Vacaturetekst inclusief html-opmaak</Description>
+< Description>Vacaturetekst inclusief html-opmaak< /Description>
 
-<About>Introductietekst over afdeling met html-opmaak</About>
+< About>Introductietekst over afdeling met html-opmaak< /About>
 
-<PrivacyPolicy>Privacybeleid van afdeling met html-opmaak</PrivacyPolicy>
+< PrivacyPolicy>Privacybeleid van afdeling met html-opmaak< /PrivacyPolicy>
 
-<Address type="postal">(postcode afdeling)
+< Address type="postal">(postcode afdeling)
 
-<Street>Straatnaam / nummer</Street>
+< Street>Straatnaam / nummer< /Street>
 
-<Area>Plaats</Area>
+< Area>Plaats< /Area>
 
-<AreaCode>Postcode</AreaCode>
-
-</Address>
-
-<Address type="office">(bezoekadres afdeling)
-
-< Street>Straatnaam / nummer</Street>
-
-< Area>Plaats</Area>
-
-< AreaCode>Postcode</AreaCode>
+< AreaCode>Postcode< /AreaCode>
 
 < /Address>
 
-< Telephone type="office">Phone</Telephone>
+< Address type="office">(bezoekadres afdeling)
 
-< Telephone type="telefax">Fax</Telephone>
+< Street>Straatnaam / nummer< /Street>
+
+< Area>Plaats< /Area>
+
+< AreaCode>Postcode< /AreaCode>
+
+< /Address>
+
+< Telephone type="office">Phone< /Telephone>
+
+< Telephone type="telefax">Fax< /Telephone>
 
 < ContactPersons>
 
 < ContactPerson>
 
-< CommonName>Naam contactpersoon</CommonName>
+< CommonName>Naam contactpersoon< /CommonName>
 
-< Email>E-mail contactpersoon indien weergegeven</Email>
+< Email>E-mail contactpersoon indien weergegeven< /Email>
 
 < Telephone type="office">Contact person phone number< /Telephone>
 
@@ -167,5 +167,5 @@ Vacature:  [https://www.easycruit.com/dtd/vacancy.xsd] (https://www.easycruit.co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU0MTE0NDJdfQ==
+eyJoaXN0b3J5IjpbNjE2ODg3Mjk2XX0=
 -->
