@@ -72,57 +72,31 @@ Tekstregel
 
 Vrije tekst
 
-Eén
+Eén - Nee
 
-Nee
-
-Land
-
+**Land**
 Aangepaste waarden
+Eén - Nee
 
-Eén
-
-Nee
-
-Landen meervoudig
-
+**Landen meervoudig**
 Aangepaste waarden
+Meerdere - Nee
 
-Meerdere
-
-Nee
-
-Datum
-
+**Datum**
 Aangepaste waarden
+Eén - Nee
 
-Eén
-
-Nee
-
-Kop
-
+**Kop**
 Geen
+N.v.t. - Nee
 
-N.v.t.
-
-Nee
-
-File upload
-
+**File upload**
 Uploaden
+Eén - Nee
 
-Eén
-
-Nee
-
-Video solicitatievraag
-
+**Video solicitatievraag**
 Video opnemen of uploaden
-
-Eén
-
-Nee
+Eén - Nee
 
 Vraagtype  - Er zijn verschillende vraagtypes beschikbaar. Met uitzondering van  HTML-geformatteerde tekst,  Koptekst,  Bestandsupload  en  Videovragen, omvatten de andere vraagtypen standaardindelingen, zoals keuzerondjes, vervolgkeuzelijsten en vrije tekstvelden.
 
@@ -132,7 +106,7 @@ Keuzes  - Afhankelijk van het vraagtype kunnen antwoorden uit één of meerdere 
 
 Screening  - Deze vraagtypes kunnen gebruikt worden voor het screenen van sollicitanten tijdens het sollicitatieproces. Wanneer ingeschakeld, kunnen puntenwaarden toegekend worden aan de antwoorden op de vragen. Als sollicitanten dan onvoldoende punten hebben voor hun antwoorden, dan kunnen ze uitgesloten worden van het sollicitatieproces.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Keuzevragen
+#### Toevoegen van een vraag van het type Keuzevragen
 
 Bij dit vraagtype kan de gebruiker slechts één antwoord selecteren uit een keuzelijst.
 
@@ -144,7 +118,7 @@ Bij dit vraagtype kan de gebruiker slechts één antwoord selecteren uit een keu
     Als  Punten  geselecteerd is bij stap 2, voer dan een numerieke waarde in in het veld  Punten. Als  Verplicht  geselecteerd is, selecteer dan  True  of  False  om het screeningscriterium in te stellen voor de vraag (True  = de sollicitant gaat door;  False  = de sollicitant wordt uitgesloten).
 6.  Herhaal de stappen 4 en 5 voor elk antwoord en klik vervolgens op  Toevoegen  als u klaar bent.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een vraag van het type Aanvinkbox
+#### Toevoegen van een vraag van het type Aanvinkbox
 
 Bij dit vraagtype kan de gebruiker meerdere opties selecteren uit een keuzelijst.
 
@@ -253,5 +227,5 @@ Met dit type vraag kan een kandidaat een vraag beantwoorden door een live video 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzgyMzY1N119
+eyJoaXN0b3J5IjpbODU3ODkzMjYwXX0=
 -->
