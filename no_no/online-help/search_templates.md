@@ -58,19 +58,14 @@ Det er en rekke operatorer som kan inkluderes i søkekriteriene. Dette bidra til
 
 For å illustrere det foregående viser de følgende eksemplene hvordan forskjellige søkebetingelser returnerer forskjellige resultater:
 
-salg avd - Returnerer resultater hvor minst ett av de to ordene finnes
-
-+salg +avd - Returnerer resultater hvor begge ordene finnes
-
-+salg avd - Returnerer resultater hvor «salg» finnes, men rangerer resultater som inneholder «avd», høyere
-
-+salg -avd - Returnerer resultater hvor «salg» finnes, men ikke «avd»
-
-+salg ~avd - Returnerer resultater hvor «salg» finnes, men rangerer resultater som inneholder «avd», lavere
-
-+salg +(>avd <sjef) - Returnerer resultater som inneholder «salg» og «avd» eller «salg» og «sjef», i alle rekkefølger, «salg avd» vil imidlertid rangeres høyere enn «salg sjef»
-salg* - Returnerer resultater som inneholder ord som «salgs», «salgssjef» eller «salgsrepresentant»
-"salg avd" - Returnerer resultater som inneholder nøyaktig frasen «salg avd»
+**salg avd** - Returnerer resultater hvor minst ett av de to ordene finnes
+**+salg +avd** - Returnerer resultater hvor begge ordene finnes
+**+salg avd** - Returnerer resultater hvor «salg» finnes, men rangerer resultater som inneholder «avd», høyere
+**+salg -avd** - Returnerer resultater hvor «salg» finnes, men ikke «avd»
+**+salg ~avd** - Returnerer resultater hvor «salg» finnes, men rangerer resultater som inneholder «avd», lavere
+**+salg +(>avd <sjef)** - Returnerer resultater som inneholder «salg» og «avd» eller «salg» og «sjef», i alle rekkefølger, «salg avd» vil imidlertid rangeres høyere enn «salg sjef»
+**salg*** - Returnerer resultater som inneholder ord som «salgs», «salgssjef» eller «salgsrepresentant»
+**"salg avd"** - Returnerer resultater som inneholder nøyaktig frasen «salg avd»
 
 ##### Se også:
 
@@ -82,5 +77,5 @@ salg* - Returnerer resultater som inneholder ord som «salgs», «salgssjef» el
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTc0OTk2Ml19
+eyJoaXN0b3J5IjpbMTU0MDQ3OTA2OF19
 -->
