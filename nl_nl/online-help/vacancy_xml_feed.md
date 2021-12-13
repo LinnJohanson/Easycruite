@@ -14,29 +14,29 @@ EasyCruit ondersteunt meerdere plaatsingsperiodes die gekozen kunnen worden door
 
 #### Lijst-XML
 
-<Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
+< Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
 
-<Versions>
+< Versions>
 
-<Version language="en"> (vacaturetaal bv. da, sv, gb enz.)
+< Version language="en"> (vacaturetaal bv. da, sv, gb enz.)
 
-<Title>Verplichte titel</Title>
+< Title>Verplichte titel< /Title>
 
-<TitleHeading>Niet-verplichte subtitel</TitleHeading>
+< TitleHeading>Niet-verplichte subtitel< /TitleHeading>
 
-<AlternativeCompanyName>Bedrijfsnaam</AlternativeCompanyName>
+< AlternativeCompanyName>Bedrijfsnaam< /AlternativeCompanyName>
 
-<ApplicationDeadline>Vrije tekst met sluitingsdatum voor sollicitaties</ApplicationDeadline>
+< ApplicationDeadline>Vrije tekst met sluitingsdatum voor sollicitaties< /ApplicationDeadline>
 
-<Location>Vrije tekst met locatie van de functie</Location>
+< Location>Vrije tekst met locatie van de functie< /Location>
 
-<Engagement>Vrije tekst m.b.t. dienstverband</Engagement>
+< Engagement>Vrije tekst m.b.t. dienstverband< /Engagement>
 
-<Region>
+< Region>
 
-<Country id="xx" name="Sweden"> (land van de vacature)
+< Country id="xx" name="Sweden"> (land van de vacature)
 
-<County id="xxx">Region in selected country</County>
+< County id="xxx">Region in selected country< /County>
 
 < /Country>
 
@@ -167,5 +167,5 @@ Vacature:  [https://www.easycruit.com/dtd/vacancy.xsd] (https://www.easycruit.co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2ODg3Mjk2XX0=
+eyJoaXN0b3J5IjpbMTg0OTc1Nzk2MF19
 -->
