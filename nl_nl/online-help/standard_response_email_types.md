@@ -209,23 +209,19 @@ E-mailbericht om de plaatsing van een vacature te beëindigen.
 **Assessmenttest e-mails**
 Beschrijving
 
-SHL assessment uitnodiging
-
+**SHL assessment uitnodiging**
 E-mail verstuurd naar kandidaten om hen uit te nodigen voor een SHL assessment.
 
-Master Management assessment uitnodiging
-
+**Master Management assessment uitnodiging**
 E-mail verstuurd naar kandidaten om hen uit te nodigen voor een Master Management assessment.
 
-cut-e assessment uitnodiging
-
+**cut-e assessment uitnodiging**
 E-mail verstuurd naar kandidaten om hen uit te nodigen voor een cut-e assessment.
 ***
 **Organisatiespecifieke e-mailtemplates**
 Beschrijving
 
-Bevat speciaal voor de gebruiker aangemaakte e-mails.
-
+**Bevat speciaal voor de gebruiker aangemaakte e-mails.**
 Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geactiveerd is, is het zichtbaar zelfs als er nog geen templates bestaan.
 
 1.  Er kan een vertraging geconfigureerd worden bij deze e-mails. Deze optie is nuttig om onmiddellijke automatische antwoorden aan de kandidaten te voorkomen.
@@ -240,6 +236,5 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkyOTQ0NTYsLTE0NDIwMTk4MzRdfQ
-==
+eyJoaXN0b3J5IjpbLTQ4MzA4NDM4MCwtMTQ0MjAxOTgzNF19
 -->
