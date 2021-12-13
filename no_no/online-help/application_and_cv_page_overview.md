@@ -9,24 +9,23 @@ Søknad og CV-siden får du tilgang til ved å velge en kandidatsøknad for rekr
 -   [Toveis e-post](two_way_email_tab.htm)  – Inkluderer en oversikt over alle toveis e-postmeldinger fra rekruttereren, startet fra EasyCruit, til kandidaten.
 -   [Samarbeidsrangering](collaborative_rating_tab.htm)  – Herfra kan interne brukere rangere kandidaten og legge til kommentarer / svare på andre brukeres kommentarer.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Rangere kandidater
+#### Rangere kandidater
 
 Jobbsøkere kan rangeres manuelt av rekrutterere. De kan rangeres på en skala fra én til tre, og rangeringen kan endres når rekrutterer måtte ønske det. Det kan være flere jobbsøkere for hvert rangeringsnummer. Det er nyttig å rangere kandidater med tanke på fremtidig gruppebehandling: Alle kandidater med for eksempel rangering 3 kan velges eller avvises samtidig.
 
 1.  Velg søkeren for å vise siden  Søknad og CV.
 2.  Fra listen  Rangering velger du  Rangering 1,  Rangering 2,  Rangering 3  eller  Ingen rangering  og klikker på  Utfør.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Referansesjekk
+#### Referansesjekk
 
 Denne spørsmålstypen likner på teksttypene, bortsett fra at teksten blir formatert i en overskriftstil når den fremstilles for jobbsøkeren i jobbannonsen.
 
 1.  Velg søkeren for å vise siden  Søknad og CV.
 2.  Fra listen  Referansesjekk  velger du  Ingen gjennomført,  Positiv,  Negativ  eller  Ingen  og klikker på  Utfør.
 
-Se også:
+##### Se også:
 
 ![](../Resources/Images/icon-document-link.png)  [Fanen Klassifisering](classification_tab.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Fanen Samarbeidsrangering](collaborative_rating_tab.htm)
 ![](../Resources/Images/icon-document-link.png)  [Samarbeidsrangering/Rangering](collaborative_rating_panel_review.htm)
 ![](../Resources/Images/icon-document-link.png)  [Motta søknader](receiving_applications.htm)
@@ -35,5 +34,5 @@ Se også:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA5MzAxMDVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTA1MDAwOF19
 -->
