@@ -9,7 +9,7 @@ Het goedkeuren van vacatures werkt op twee verschillende niveaus in EasyCruit:
 
 Wij adviseren om processen te implementeren binnen uw organisatie om de gebruiker die verantwoordelijk is voor het publiceren van de vacature te informeren over de goedkeuringsstatus na het versturen voor goedkeuring. Ongeacht of dergelijke processen aanwezig zijn, worden e-mailberichten verstuurd als een vacature goedgekeurd is.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Goedkeuren van een vacature via e-mail
+#### Goedkeuren van een vacature via e-mail
 
 1.  Ga naar de pagina  Goedkeuring vacature  van de vacature als onderdeel van de laatste stap voor het aanmaken van een vacature.  
     - of -  
@@ -20,14 +20,14 @@ Wij adviseren om processen te implementeren binnen uw organisatie om de gebruike
 4.  De goedkeurder moet op de EasyCruit-link klikken in de e-mail  Goedkeuring vacature...  om naar EasyCruit te gaan.
 5.  De goedkeurder kan dan de vacature bekijken en goedkeuren, zodat deze gepubliceerd kan worden.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Handmatig goedkeuren van een vacature
+#### Handmatig goedkeuren van een vacature
 
 1.  Klik nadat een vacature aangemaakt is op het tabblad  Vacature  op het potlood bij de optie  Bewerken status goedkeuring.
 2.  Selecteer  Ja  om de vacature goed te keuren. Typ de gewenste opmerking in en klik vervolgens op  Opslaan.
 
 Bij de vacature staat nu een groen vinkje dat aangeeft dat de vacature goedgekeurd is.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Bekijken van de goedkeuringsstatus en -historie van een vacature
+#### Bekijken van de goedkeuringsstatus en -historie van een vacature
 
 1.  Selecteer een vacature en selecteer vervolgens het tabblad  Vacature.
 2.  Klik op het groene vinkje bij de optie  Goedkeuring vacature  om de goedkeuringshistorie weer te geven.
@@ -47,5 +47,5 @@ De mogelijkheid om de goedkeuring van een vacature op te heffen is afhankelijk v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjY0Mzg3N119
+eyJoaXN0b3J5IjpbLTE4MDYzNzg3MDVdfQ==
 -->
