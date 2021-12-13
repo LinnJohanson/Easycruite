@@ -1,40 +1,31 @@
 # E-mailtypes
 
-Sollicitatie ontvangen
-
+**Sollicitatie ontvangen**
 Beschrijving
 
-Sollicitatie ontvangen (1, 2)
-
+**Sollicitatie ontvangen (1, 2)**
 E-mail verstuurd naar de kandidaten om te bevestigen dat hun sollicitatie ontvangen is.
 
-Cv / account geregistreerd (1)
-
+**Cv / account geregistreerd (1)**
 E-mail verstuurd naar de kandidaten om te bevestigen dat hun cv geregistreerd is
 
-Kopie van sollicitatie
-
+**Kopie van sollicitatie**
 E-mail verstuurd naar de kandidaten die aangegeven hebben een kopie van hun sollicitatie te willen ontvangen. Om deze functie in te schakelen, moet het sollicitatieformulier de e-mailvelden bevatten in het gedeelte Persoonlijke gegevens.
 
-Sollicitatie opgeslagen (1, 2)
-
+**Sollicitatie opgeslagen (1, 2)**
 Gepersonaliseerde e-mail die verstuurd wordt naar de kandidaten om te bevestigen dat hun sollicitatie opgeslagen is.
-
-Kandidaat afwijzen
-
+***
+**Kandidaat afwijzen**
 Beschrijving
 
 Handmatige afwijzing (1)
-
 E-mail verstuurd naar de kandidaten om te laten weten dat ze niet geschikt zijn voor de positie.
 
 Automatische afwijzing (1, 2)
-
 E-mail verstuurd naar de kandidaten met een ontoereikend resultaat van de screeningsvragen voor de vacature.
 
 Tijdgebonden afwijzing
- 
-Beschrijving
+ Beschrijving
 
 Tijdgebonden afwijzing (1, 2)
 
@@ -196,7 +187,7 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MDUyNzc2LC0xODYzNTA5MjAwLDI4Mj
-Y2MzcwNCwtNjU0ODg4ODQyLC00ODMwODQzODAsLTE0NDIwMTk4
-MzRdfQ==
+eyJoaXN0b3J5IjpbODk3MTY0NTk4LDg2NzA1Mjc3NiwtMTg2Mz
+UwOTIwMCwyODI2NjM3MDQsLTY1NDg4ODg0MiwtNDgzMDg0Mzgw
+LC0xNDQyMDE5ODM0XX0=
 -->
