@@ -22,23 +22,18 @@ Om een kandidatenlijst te versturen naar specifieke interne of externe personen 
 5.  Wijzig naar wens het onderwerp en de inhoud van de e-mail. Het onderwerp en de inhoud van de e-mail zijn standaard die van de template die aangemaakt is door uw administrator (geconfigureerd onder  Instellingen  >  E-mailtemplates  >  Overige). De samenvoegtags in de mail zijn onder meer de projecttitel, het aantal sollicitanten dat naar de beoordelaar gestuurd wordt voor beoordeling en de URL waar de beoordelaars hun beoordeling kunnen opgeven (beoordelaars hoeven niet in te loggen in EasyCruit voor de beoordeling).
 6.  Selecteer de gewenste selectievakjes. De volgende selectievakjes zijn beschikbaar onder aan de editor:
 
-Selectievakje
-
+**Selectievakje**
 Beschrijving
 
-Beoordeling niet toestaan
-
+**Beoordeling niet toestaan**
 Als dit vakje geselecteerd is, kunnen de beoordelaars geen score van 1 tot 7 geven aan een kandidaat.
 
-Opmerkingen niet toestaan
-
+**Opmerkingen niet toestaan**
 Als dit vakje geselecteerd is, dan kunnen de beoordelaars enkel een cijferscore geven en kunnen ze geen opmerking invoeren met betrekking tot de kandidaat.
 
-E-mail mij telkens wanneer een beoordeling is afgerond
-
-Als dit vakje geselecteerd is, dan ontvangt u als de ingelogde gebruiker een e-mail als een beoordelaar klaar is met de beoordeling van de kandidaten. Als u bijvoorbeeld kandidaten verstuurt naar vijf beoordelaars, dan krijgt u vijf e-mails terug.
-
-Wij wijzen u erop dat dit tot heel veel e-mails kan leiden als u regelmatig aan veel personen om een beoordeling vraagt van veel kandidaten!
+**E-mail mij telkens wanneer een beoordeling is afgerond**
+- Als dit vakje geselecteerd is, dan ontvangt u als de ingelogde gebruiker een e-mail als een beoordelaar klaar is met de beoordeling van de kandidaten. Als u bijvoorbeeld kandidaten verstuurt naar vijf beoordelaars, dan krijgt u vijf e-mails terug.
+- Wij wijzen u erop dat dit tot heel veel e-mails kan leiden als u regelmatig aan veel personen om een beoordeling vraagt van veel kandidaten!
 
 8.  Klik op  Verzenden.
 
@@ -92,5 +87,5 @@ Als u de  Naam  van de sollicitant selecteert en vervolgens  Groepsbeoordeling, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODEwMTkzXX0=
+eyJoaXN0b3J5IjpbLTM1MzA4OTk1XX0=
 -->
