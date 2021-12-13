@@ -62,70 +62,70 @@ Antwoord van de kandidaat op deze vraag indien gesteld
 **Type kandidaat**
 Kandidaattype bv. Career-center, Werknemer enz.
 
-Voornaam
+**Voornaam**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Achternaam
+**Achternaam**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Postcode
+**Postcode**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Land
+**Land**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Regio
+**Regio**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Gemeente
+**Gemeente**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Plaats
+**Plaats**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Nationaliteit
+**Nationaliteit**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Aanbieding ontvangen
+**Aanbieding ontvangen**
 Datum waarop de status van de sollicitatie gewijzigd is in ‘Aanbod’
 
-Huidige functie
+**Huidige functie**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Werkgever
+**Werkgever**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Date Telephone Interview (Datum telefonisch interview)
+**Date Telephone Interview (Datum telefonisch interview)**
 Laatste datum waarop dit interview gepland stond
 
-Date First Interview (Datum eerste interview)
+**Date First Interview (Datum eerste interview)**
 Laatste datum waarop dit interview gepland stond
 
-Date Second Interview (Datum tweede interview)
+**Date Second Interview (Datum tweede interview)**
 Laatste datum waarop dit interview gepland stond
 
-Date Third Interview (datum derde interview)
+**Date Third Interview (datum derde interview)**
 Laatste datum waarop dit interview gepland stond
 
-Date Phone Interview Invite (Datum uitnodiging telefonisch interview)
+**Date Phone Interview Invite (Datum uitnodiging telefonisch interview)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in ‘Interview’
 
-Date First Interview Invite (Datum uitnodiging eerste interview)
+**Date First Interview Invite (Datum uitnodiging eerste interview)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in ‘Interview’
 
-Date Second Interview Invite (Datum uitnodiging tweede interview)
+**Date Second Interview Invite (Datum uitnodiging tweede interview)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in ‘Interview’
 
-Date Third Interview Invite (Datum uitnodiging derde interview)
+**Date Third Interview Invite (Datum uitnodiging derde interview)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in ‘Interview’
 
-Date Panel Review (Datum groepsbeoordeling)
+**Date Panel Review (Datum groepsbeoordeling)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in ‘Groepsbeoordeling’
 
-Date of Job Offer (Datum aanbieding)
+**Date of Job Offer (Datum aanbieding)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in ‘Aanbod’
 
-Date (Datum)
+**Date (Datum)**
 Laatste datum waarop de sollicitatiestatus gewijzigd is in de aangepaste status 1 (NB: De kolomkop wijzigt op basis van de naam van de aangepaste status van de klant)
 
 ##### Zie ook:
@@ -139,5 +139,5 @@ Laatste datum waarop de sollicitatiestatus gewijzigd is in de aangepaste status 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTg2OTE5OV19
+eyJoaXN0b3J5IjpbLTIwMTY1OTc4NzNdfQ==
 -->
