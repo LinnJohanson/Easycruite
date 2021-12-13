@@ -4,7 +4,7 @@ EasyCruit har en ytterligere integreringspartner for stillingsdistribusjon som g
 
 ## Publisere annonser
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Publisere annonser
+#### Publisere annonser
 
 1.  Under oppretting av et rekrutteringsprosjekt og etter aktivering av responsmailer vises siden for  valg av publiseringskanaler. Merk av for kanalene du vil publisere til, og språk. Hvis du vil publisere til mer enn én avdeling, må du velge kanaler for hver enkelt avdeling fra listen over kanaler som er tilgjengelige for den aktuelle avdelingen. Klikk deretter på  Neste.
 2.  Angi fra- og til-datoen for stillingsannonsen for hver enkelt avdeling, og klikk på  Neste.
@@ -33,7 +33,7 @@ EasyCruit har en ytterligere integreringspartner for stillingsdistribusjon som g
     Siden  Endre prosjektet  vises. Du kan komme tilbake til denne siden og endre publiseringskanalene på et senere tidspunkt hvis du trenger det.  
     Bemerk at du ikke kan endre datoene etter at prosjektet har blitt publisert til  Multiposting-kanalene.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Vise publiseringsdetaljer og -status
+#### Vise publiseringsdetaljer og -status
 
 Det opprettes en publiseringsgruppe for hver av avdelingene. Start- og sluttdato for publiseringen samt publiseringsstatus vises for hver enkelt kanal fra gruppen.
 
@@ -84,5 +84,5 @@ Under implementeringen velger du hvilke kanaler som skal gjøres tilgjengelige f
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE0OTQ4NTBdfQ==
+eyJoaXN0b3J5IjpbLTMzNDk2MzI3MF19
 -->
