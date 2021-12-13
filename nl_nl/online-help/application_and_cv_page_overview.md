@@ -9,21 +9,21 @@ U gaat naar de pagina  Sollicitatie & cv  door de sollicitatie van een kandidaat
 -   [E-mailhistorie](two_way_email_tab.htm)  - Bevat een record van alle e-mails verstuurd door de recruiter, geïnitieerd door EasyCruit, naar de kandidaat.
 -   [Groepsbeoordeling](collaborative_rating_tab.htm)  - Hier kunnen interne gebruikers de kandidaat beoordelen en commentaar / reacties toevoegen aan opmerkingen van andere gebruikers.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Classificeren van kandidaten
+#### Classificeren van kandidaten
 
 De sollicitanten kunnen handmatig geclassificeerd worden door de recruiters. Ze kunnen in een klasse ingedeeld worden van 1 tot 3 en deze kan gewijzigd worden als de recruiter dit wil. Er zijn in elke klasse meerdere sollicitanten. Het is gebruikelijk om de kandidaten te classificeren voor toekomstige bulkverwerking; dan kunnen bijvoorbeeld alle kandidaten in klasse 3 tegelijk geselecteerd en afgewezen worden.
 
 1.  Selecteer de sollicitant om de pagina  Sollicitatie & cv  weer te geven.
 2.  Selecteer in de lijst  Klasse  Klasse 1,  Klasse 2,  Klasse 3  of  - Geen -  en klik vervolgens op  Uitvoeren.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Referentie
+#### Referentie
 
 Dit vraagtype lijkt op de teksttypes, behalve dat de tekst opgemaakt is met een kop als deze zichtbaar is voor de kandidaat in de vacatureadvertentie.
 
 1.  Selecteer de sollicitant om de pagina  Sollicitatie & cv  weer te geven.
 2.  Selecteer in de lijst  Referentie  - Geen -,  Positief,  Negatief  or  Geen  en klik vervolgens op  Uitvoeren.
 
-Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Tabblad Classificatie](classification_tab.htm)
 ![](../Resources/Images/icon-document-link.png)  [Tabblad Groepsbeoordeling](collaborative_rating_tab.htm)
@@ -34,5 +34,5 @@ Zie ook:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY0MDIxODk3XX0=
+eyJoaXN0b3J5IjpbLTkzNTQyMDMyOF19
 -->
