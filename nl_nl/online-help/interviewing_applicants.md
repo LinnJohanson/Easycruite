@@ -2,7 +2,7 @@
 
 Na het doornemen van de sollicitaties, kunnen de personen met de vereiste vaardigheden uitgenodigd worden voor een interview. Dit kan een telefonisch interview, een persoonlijk interview of een groepsinterview zijn en het kan de eerste stap zijn naar het selecteren van een bepaalde kandidaat voor de vacature.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Uitnodigen van sollicitanten voor een interview
+####Uitnodigen van sollicitanten voor een interview
 
 1.  Selecteer de snelkoppeling  Vacaturelijst  om de pagina  Vacaturelijst  weer te geven.
 2.  Selecteer de  Vacaturetitel  van de vacature waarvoor u een interview wilt plannen om de pagina  Kandidatenoverzicht  weer te geven.
@@ -13,7 +13,7 @@ Na het doornemen van de sollicitaties, kunnen de personen met de vereiste vaardi
     Zorg ervoor dat de optie  Actie  ingesteld is op  E-mail verzenden  zodat de sollicitanten een e-mailbericht ontvangen voor hun interview. U kunt ook een link bijvoegen zodat de sollicitant kan reageren.
 7.  U keert terug naar de pagina  Alle kandidaten  en de status van de sollicitant is bijgewerkt en geeft aan dat hij/zij uitgenodigd is voor een interview.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Invoegen van een bevestigingslink
+#### Invoegen van een bevestigingslink
 
 Door een  {confirmlink}-tag in te voegen in een e-mail kan de kandidaat reageren op een uitnodiging voor een interview.
 
@@ -29,7 +29,7 @@ De e-mail wordt verstuurd naar meerdere kandidaten die verschillende talen sprek
 -   Als het gedeelte  Inhoud  van de e-mail in elke taalvariant  {confirmlink}  bevat, dan wordt de optie niet geselecteerd.
 -   Als het gedeelte  Inhoud  van de e-mail voor elke taal niet  {confirmlink}  bevat, dan wordt de optie standaard geselecteerd.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Versturen van een herinnering voor een interview
+#### Versturen van een herinnering voor een interview
 
 Herinneringen voor een interview kunnen geconfigureerd worden op dezelfde pagina als voor het verzenden van een uitnodiging voor een interview aan een kandidaat.
 
@@ -57,7 +57,7 @@ Herinneringen voor een interview kunnen geconfigureerd worden op dezelfde pagina
 10.  Klik op  Verzenden.  
     Als u een herinnering per sms probeert te versturen aan een kandidaat die geen mobiel telefoonnummer opgegeven heeft, dan verschijnt er een waarschuwing.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Sollicitanten en het interviewproces
+#### Sollicitanten en het interviewproces
 
 Als een sollicitant uitgenodigd is voor een interview, dan moet deze reageren op de uitnodigingsmail zodat het systeem overeenkomstig bijgewerkt kan worden. In de e-mail die de sollicitant ontvangt, staan de benodigde details; deze zijn automatisch ingevoegd in de hoofdtekst van de e-mail ter vervanging van de variabelen in de e-mailtemplate.
 
@@ -98,5 +98,5 @@ Voor meer informatie over het weergeven van de interviews en de status van uitno
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODIwMTI0NF19
+eyJoaXN0b3J5IjpbLTEyMDc1MzExODJdfQ==
 -->
