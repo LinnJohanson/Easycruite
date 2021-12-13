@@ -4,7 +4,7 @@ Wervingsobjecten worden aangemaakt door EasyCruit-administrators voor gebruik bi
 
 Zie de volgende hoofdstukken voor meer informatie:
 
-##Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [E-mailtemplates](response_emails.htm)
 ![](../Resources/Images/icon-document-link.png)  [Handleiding voor administrators - Instellingen](guide_for_administrators_settings.htm)
@@ -15,5 +15,5 @@ Zie de volgende hoofdstukken voor meer informatie:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDgxNzA1MzddfQ==
+eyJoaXN0b3J5IjpbLTI4Mjg2ODI5NF19
 -->
