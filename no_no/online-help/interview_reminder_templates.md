@@ -7,7 +7,7 @@ Påminnelser til intervju kan konfigureres for følgende fire responsmailer:
 -   Intervju 2
 -   Intervju 3
 
-####Konfigurere standardmaler for påminnelse til intervju
+#### Konfigurere standardmaler for påminnelse til intervju
 
 Slik konfigurerer du standard ordlyd og innstillinger for maler for påminnelse til intervju:
 
@@ -42,5 +42,5 @@ Slik konfigurerer du standard ordlyd og innstillinger for maler for påminnelse 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAyNDk5MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTg4MzA3NzRdfQ==
 -->
