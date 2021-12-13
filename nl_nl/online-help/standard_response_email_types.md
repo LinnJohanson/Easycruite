@@ -75,9 +75,8 @@ E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze
 Afwijzing na 3de interview (1)
 
 E-mail die handmatig verstuurd wordt naar de kandidaten om te laten weten dat ze niet verder doorgaan in het sollicitatieproces.
-
-Overige
-
+***
+**Overige**
 Beschrijving
 
 Opslaan en verstuur gebruikersnaam
@@ -223,6 +222,6 @@ Dit gedeelte moet geactiveerd worden door uw EasyCruit-adviseur. Nadat het geact
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDg4ODg0MiwtNDgzMDg0MzgwLC0xND
-QyMDE5ODM0XX0=
+eyJoaXN0b3J5IjpbMjgyNjYzNzA0LC02NTQ4ODg4NDIsLTQ4Mz
+A4NDM4MCwtMTQ0MjAxOTgzNF19
 -->
