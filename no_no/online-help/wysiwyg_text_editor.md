@@ -10,65 +10,35 @@ Verktøylinjen gir tilgang til de fleste editorfunksjonene og -kommandoene. Knap
 
 Alternativene på verktøylinjen er som følger:
 
-Knapp
+Knapp - Beskrivelse
+***
+![](../Resources/Images/bold.jpg) - Fet tekst (CTRL + B)
 
-Beskrivelse
+![](../Resources/Images/italic.jpg) - Tekst i kursiv (CTRL + I)
 
-![](../Resources/Images/bold.jpg)
+![](../Resources/Images/underlined.jpg) - Understreket tekst (CTRL + U)
 
-Fet tekst (CTRL + B)
+![](../Resources/Images/strike.jpg) - Gjennomstreket tekst
 
-![](../Resources/Images/italic.jpg)
+![](../Resources/Images/align_left.jpg) - Venstrejuster
 
-Tekst i kursiv (CTRL + I)
+![](../Resources/Images/align_centre2.jpg) - Midtstill
 
-![](../Resources/Images/underlined.jpg)
+![](../Resources/Images/align_right.jpg) - Høyrejuster
 
-Understreket tekst (CTRL + U)
+![](../Resources/Images/align_centre.jpg) - Blokkjuster
 
-![](../Resources/Images/strike.jpg)
+![](../Resources/Images/format.jpg) - Formatliste. Inneholder en liste over forhåndsformaterte skrifttyper
 
-Gjennomstreket tekst
+![](../Resources/Images/font_family.jpg) - Skriftfamilie. Inneholder en liste over ulike skrifttyper, inklusive skrifttyper som gjør det mulig å vise språk med dobbeltbyte-tegn, slik som forenklet kinesisk, på rett måte
 
-![](../Resources/Images/align_left.jpg)
+![](../Resources/Images/font_size.jpg) - Liste over skriftstørrelse
 
-Venstrejuster
+![](../Resources/Images/font_color.jpg) - Skriftfarge. Hvis du klikker på rullegardinpilene, får du frem en fargevelger, der du kan velge farger eller definere farger selv
 
-![](../Resources/Images/align_centre2.jpg)
+![](../Resources/Images/background_color.jpg) - Bakgrunnsfarge. Hvis du klikker på rullegardinpilene, får du frem en fargevelger, der du kan velge farger eller definere farger selv
 
-Midtstill
-
-![](../Resources/Images/align_right.jpg)
-
-Høyrejuster
-
-![](../Resources/Images/align_centre.jpg)
-
-Blokkjuster
-
-![](../Resources/Images/format.jpg)
-
-Formatliste. Inneholder en liste over forhåndsformaterte skrifttyper
-
-![](../Resources/Images/font_family.jpg)
-
-Skriftfamilie. Inneholder en liste over ulike skrifttyper, inklusive skrifttyper som gjør det mulig å vise språk med dobbeltbyte-tegn, slik som forenklet kinesisk, på rett måte
-
-![](../Resources/Images/font_size.jpg)
-
-Liste over skriftstørrelse
-
-![](../Resources/Images/font_color.jpg)
-
-Skriftfarge. Hvis du klikker på rullegardinpilene, får du frem en fargevelger, der du kan velge farger eller definere farger selv
-
-![](../Resources/Images/background_color.jpg)
-
-Bakgrunnsfarge. Hvis du klikker på rullegardinpilene, får du frem en fargevelger, der du kan velge farger eller definere farger selv
-
-![](../Resources/Images/bullet_list.jpg)
-
-Sortert liste / nummerert liste
+![](../Resources/Images/bullet_list.jpg) - Sortert liste / nummerert liste
 
 ![](../Resources/Images/numbered_list.jpg) - Usortert liste / punktliste
 
@@ -182,5 +152,5 @@ Du kan gjøre endringer i teksten i WYSIWYG-editoren med funksjonen Søk og erst
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTEzMzM5NF19
+eyJoaXN0b3J5IjpbLTE1NTgxMTIyNDddfQ==
 -->
