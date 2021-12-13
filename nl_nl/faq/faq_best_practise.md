@@ -56,7 +56,7 @@ Soms is de sollicitatiedatum in de verkeerde maand of het verkeerde jaar. De sol
 
 Om te kunnen publiceren op Finn.no moet er een contract met Finn.no AS zijn. Mocht u vragen hebben over uw contract, neem dan contact op met uw contactpersoon bij Finn.no. U kunt ook contact opnemen met hun supportafdeling. De contactgegevens vindt u op:  [https://hjelpesenter.finn.no](https://hjelpesenter.finn.no/)
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van een video aan een vacatureadvertentie
+####  Toevoegen van een video aan een vacatureadvertentie
 
 Het is mogelijk om een video toe te voegen aan uw advertentie in EasyCruit door de videocode van een onlinevideoprovider zoals  [YouTube](https://www.youtube.com/)  of  [Vimeo](https://vimeo.com/)  in te sluiten. In dit gedeelte leggen we uit hoe u dit kunt doen.
 
@@ -84,7 +84,7 @@ Afhankelijk van de breedte van uw bedrijfsstartpagina kunt u indien nodig de hoo
 -   Plak de invoegcode op de gewenste plek in de HTML-code.
 -   Klik op  Bijwerken  en vervolgens op  Opslaan.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Bijvoegen van een motivatiebrief
+####  Bijvoegen van een motivatiebrief
 
 ### Kandidaat is vergeten de motivatiebrief bij te voegen
 
@@ -527,5 +527,5 @@ Mocht u vragen hebben, neem dan gerust contact op met ons supportteam.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIxNDg4NzAsLTUzMjc2MjU0OF19
+eyJoaXN0b3J5IjpbLTEwNjQxMTg0NzAsLTUzMjc2MjU0OF19
 -->
