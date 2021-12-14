@@ -416,14 +416,39 @@ Notificatie verlopen vacature
 - E-mailhandtekeningen
 - Sollicitatie opgeslagen
 
-{department-address}- Adres afdeling
+**{department-address}- Adres afdeling**
 E-mail plaatsingskanaal
 
-{department-name}
+**{department-name} - Naam afdeling**
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Bericht nieuwe gebruiker
+- Verzoek om goedkeuring vacature
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
 
-Naam afdeling
+
+
+
+
+
+
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDk3MTI1OCwxNDUwNDYwNjU5LDg2NT
+eyJoaXN0b3J5IjpbLTg1NjA3MDQzMSwxNDUwNDYwNjU5LDg2NT
 k0MDUwOSwtODI2MTUyODAzXX0=
 -->
