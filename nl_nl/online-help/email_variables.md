@@ -456,7 +456,7 @@ E-mail plaatsingskanaal
 **{employer-name} - Naam werkgever**
 E-mail plaatsingskanaal
 
-{family-name} - Achternaam
+**{family-name} - Achternaam**
 - Sollicitatie ontvangen
 - Registratie ontvangen
 - Kopie van sollicitatie
@@ -479,8 +479,56 @@ E-mail plaatsingskanaal
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
+**{family-name} - Achternaam kandidaat opgegeven voor de opgeslagen sollicitatie**
+Sollicitatie opgeslagen
+
+{first-name}
+
+Voornaam
+
+Sollicitatie ontvangen
+
+Kopie van sollicitatie
+
+Registratie ontvangen
+
+Handmatige afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Automatische afwijzing
+
+Gegevens verplaatst naar cv-database
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden
+
+Uitnodiging voor MINT, Matrigma en Service-F tests
+
+cut-e kandidaatrapport
+
+Bericht nieuwe gebruiker
+
+Job-alert
+
+Arbeidsovereenkomst
+
+Portable CV
+
+Beoordeling van kandidaat
+
+Brief sollicitatie ontvangen / afgewezen
+
+SHL assessment uitnodiging
+
+Organisatiespecifieke e-mails
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTE5ODQ3NDQsMTQ1MDQ2MDY1OSw4Nj
+eyJoaXN0b3J5IjpbLTExMDEwMTQ4MjksMTQ1MDQ2MDY1OSw4Nj
 U5NDA1MDksLTgyNjE1MjgwM119
 -->
