@@ -9,21 +9,21 @@ Het merendeel van de opties en velden op de pagina is voor standaardwaarden. Daa
 -   Activiteit  - Dit is de interviewfase waarin de sollicitant zich bevindt en waarop de recruiter moet reageren.
 -   Afspraak bevestigd  - Hier staat aangegeven of de sollicitant al dan niet gereageerd heeft op de uitnodiging voor een interview en zo ja, wat de reactie was.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Weergeven van de pagina Interviews
+#### Weergeven van de pagina Interviews
 
 1.  Selecteer op de  Startpagina  de optie  Interviews.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Filteren van de activiteitenlijst
+#### Filteren van de activiteitenlijst
 
 1.  Selecteer op de  Startpagina  de optie  Interviews.
 2.  Selecteer in de lijst bij  Activiteit selecteren  welke soort interview weergegeven moet worden.
 3.  Voer de gewenste  Startdatum  en  Einddatum  in en klik op  Zoeken  om de lijst te filteren.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Weergeven van de gegevens van een sollicitant
+#### Weergeven van de gegevens van een sollicitant
 
 1.  Klik op de pagina  Interviews  op de  Naam  van de sollicitant.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Versturen van een e-mail naar een sollicitant
+#### Versturen van een e-mail naar een sollicitant
 
 1.  Selecteer op de pagina  Interviews  de sollicitanten aan wie u een e-mail wilt versturen.
 2.  Selecteer in de lijst  Wervingsactie  de optie  E-mail verzenden  en klik op  Uitvoeren.
@@ -40,5 +40,5 @@ Zie ook:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjM4NzYxNl19
+eyJoaXN0b3J5IjpbMTQ2NzE5NTE4XX0=
 -->
