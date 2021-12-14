@@ -328,15 +328,51 @@ E-mail plaatsingskanaal
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
-{contact-person-office-telephone} - Zakelijk telefoonnummer contactpersoon
+**{contact-person-office-telephone} - Zakelijk telefoonnummer contactpersoon**
 E-mail plaatsingskanaal
 
-{contact-persons}
-
-Contactpersonen
-
+**{contact-persons} - Contactpersonen**
 E-mail plaatsingskanaal
+
+{customer-name} - Naam klant
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Bericht nieuwe gebruiker
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Verzoek om goedkeuring vacature
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
+
+{cv} - Voegt cv toe
+Groepsbeoordeling
+Kopie van sollicitatie
+
+{date} - Datum waarop vacature verloopt
+Notificatie verlopen vacature
+
+{days}
+
+Aantal dagen van tevoren dat gewaarschuwd moet worden
+
+Notificatie verlopen vacature
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NjA2NzA5XX0=
+eyJoaXN0b3J5IjpbLTI2NjU4NDgwNF19
 -->
