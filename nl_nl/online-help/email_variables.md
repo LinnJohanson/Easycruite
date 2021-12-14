@@ -742,9 +742,25 @@ Beoordeling van kandidaat
 
 **{processed-applicants] - Tag gebruikt om rapport over verwerkte sollicitanten te starten; Tag gebruikt om rapport over verwerkte sollicitanten te stoppen**
 Rapport kandidatenstatus
+
+**{project} - Project**
+- Verzoek om goedkeuring vacature
+- Beoordeling van kandidaat
+- Notificatie verlopen vacature
+
+**{project-period-end} - Einddatum project**
+Rapport kandidatenstatus
+
+**{project-period-start} - Startdatum project**
+Rapport kandidatenstatus
+
+**{project-title} - Titel project**
+- Verzoek om goedkeuring vacature
+- Notificatie verlopen vacature
+
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2ODQzOTYzLDExNTY2MDQ2OTcsLTE1ND
+eyJoaXN0b3J5IjpbNDkyNjA0NTE0LDExNTY2MDQ2OTcsLTE1ND
 M0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDks
 LTgyNjE1MjgwM119
 -->
