@@ -605,48 +605,39 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 
 **{last-name} - Achternaam**
 - Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Registratie ontvangen
+- Handmatige afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Automatische afwijzing
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F test
+- cut-e kandidaatrapport
+- Bericht nieuwe gebruiker
+- Job-alert
+- Arbeidsovereenkomst
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL assessment uitnodiging
+- Organisatiespecifieke e-mails
 
-Kopie van sollicitatie
+**{link} - Link voor herstellen wachtwoord**
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie opgeslagen
 
-Registratie ontvangen
+**{matches} - Voegt alle passende vacatures in waarin de kandidaat interesse zou kunnen hebben**
+Job Agent
 
-Handmatige afwijzing
 
-Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
-
-Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-
-Bevestiging van gebruikersnaam
-
-Automatische afwijzing
-
-Gegevens verplaatst naar cv-database
-
-Werknemer uitnodigen om cv te uploaden / bij te werken
-
-Sollicitatie forwarden
-
-Uitnodiging voor MINT, Matrigma en Service-F test
-
-cut-e kandidaatrapport
-
-Bericht nieuwe gebruiker
-
-Job-alert
-
-Arbeidsovereenkomst
-
-Portable CV
-
-Beoordeling van kandidaat
-
-Brief sollicitatie ontvangen / afgewezen
-
-SHL assessment uitnodiging
-
-Organisatiespecifieke e-mails
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDQwODg1NCwyMjg5ODk0NjUsMTQ1MD
-Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbLTE4NDQ0OTY4MzQsMjI4OTg5NDY1LDE0NT
+A0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
 -->
