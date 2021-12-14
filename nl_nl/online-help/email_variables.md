@@ -392,7 +392,7 @@ Notificatie verlopen vacature
 - E-mailhandtekeningen
 - Sollicitatie opgeslagen
 
-{department} - Naam afdeling
+**{department} - Naam afdeling**
 - Sollicitatie ontvangen
 - Kopie van sollicitatie
 - Handmatige afwijzing
@@ -406,26 +406,24 @@ Notificatie verlopen vacature
 - cut-e kandidaatrapport
 - Job-alert
 - Verzoek om goedkeuring vacature
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
+- Sollicitatie opgeslagen
 
-Bericht nieuwe gebruiker
+{department-address}- Adres afdeling
+E-mail plaatsingskanaal
 
-Arbeidsovereenkomst
+{department-name}
 
-Tip een vriend(in)-mail
-
-Portable CV
-
-Brief sollicitatie ontvangen / afgewezen
-
-SHL en cut-e assessment uitnodiging
-
-Organisatiespecifieke e-mails
-
-E-mailhandtekeningen
-
-Sollicitatie opgeslagen
+Naam afdeling
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDIwNDE0LDE0NTA0NjA2NTksODY1OT
-QwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbMTk1MDk3MTI1OCwxNDUwNDYwNjU5LDg2NT
+k0MDUwOSwtODI2MTUyODAzXX0=
 -->
