@@ -802,20 +802,36 @@ Uitnodiging voor MINT, Matrigma en Service-F tests
 **{test-link} - Link naar de onlinetest**
 Uitnodiging voor MINT, Matrigma en Service-F tests
 
-{test-password}
-
-Wachtwoord voor toegang tot 16PF test
-
+**{test-password} - Wachtwoord voor toegang tot 16PF test**
 16PF-mails
 
-{test-username}
-
-Gebruikersnaam voor toegang tot 16PF test
-
+**{test-username} - Gebruikersnaam voor toegang tot 16PF test**
 16PF-mails
+
+{title} - Vacaturetitel
+
+Sollicitatie ontvangen
+
+Registratie ontvangen
+
+Kopie van sollicitatie
+
+Handmatige afwijzing
+
+Automatische afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMxOTM2NTksLTE3Mjc4Mjc1MywxNT
-c3NDczNzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMxNiwyMjg5ODk0
-NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbLTM5ODE5MDc1NCwtMTcyNzgyNzUzLDE1Nz
+c0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyODk4OTQ2
+NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
 -->
