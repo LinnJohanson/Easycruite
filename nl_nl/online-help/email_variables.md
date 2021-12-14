@@ -714,29 +714,51 @@ Beoordeling van kandidaat
 - Job-alert
 - cut-e kandidaatrapport
 - Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- Notificatie verlopen vacature
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- Sollicitatie opgeslagen
 
-Tip een vriend(in)-mail
+**{prefix} - Voorvoegsel (heer, mevrouw enz.)**
 
-Portable CV
+Sollicitatie ontvangen
 
-Beoordeling van kandidaat
+Registratie ontvangen
+
+Kopie van sollicitatie
+
+Handmatige afwijzing
+
+Automatische afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden
+
+Uitnodiging voor MINT, Matrigma en Service-F tests
+
+cut-e kandidaatrapport
+
+Arbeidsovereenkomst
 
 Brief sollicitatie ontvangen / afgewezen
 
-Notificatie verlopen vacature
-
-SHL en cut-e assessment uitnodiging
-
 Organisatiespecifieke e-mails
-
-Sollicitatie opgeslagen
-
-
 
 
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjQwMTE4NCwtMTU0MzQ0MzE2LDIyOD
-k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
-XX0=
+eyJoaXN0b3J5IjpbNjQxMzE4OTM5LC0xNTQzNDQzMTYsMjI4OT
+g5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNd
+fQ==
 -->
