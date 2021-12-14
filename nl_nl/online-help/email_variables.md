@@ -390,10 +390,42 @@ Notificatie verlopen vacature
 - Portable CV
 - Organisatiespecifieke e-mails
 - E-mailhandtekeningen
+- Sollicitatie opgeslagen
+
+{department} - Naam afdeling
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Verzoek om goedkeuring vacature
+
+Bericht nieuwe gebruiker
+
+Arbeidsovereenkomst
+
+Tip een vriend(in)-mail
+
+Portable CV
+
+Brief sollicitatie ontvangen / afgewezen
+
+SHL en cut-e assessment uitnodiging
+
+Organisatiespecifieke e-mails
+
+E-mailhandtekeningen
 
 Sollicitatie opgeslagen
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNj
-E1MjgwM119
+eyJoaXN0b3J5IjpbMjAxMDIwNDE0LDE0NTA0NjA2NTksODY1OT
+QwNTA5LC04MjYxNTI4MDNdfQ==
 -->
