@@ -225,30 +225,55 @@ Beoordeling van kandidaat
 - Uitnodiging voor MINT, Matrigma en Service-F tests
 - cut-e kandidaatrapport
 - Job-alert
+- Verzoek om goedkeuring vacature
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
+- Sollicitatie opgeslagen
 
-Verzoek om goedkeuring vacature
+**{company-name} - Bedrijfsnaam**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Bericht nieuwe gebruiker
+- Verzoek om goedkeuring vacature
+- Wachtwoord opvragen
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
 
-Bericht nieuwe gebruiker
+{confirmlink}
 
-Arbeidsovereenkomst
+Link om afspraak te bevestigen
 
-Tip een vriend(in)-mail
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 
-Portable CV
 
-Beoordeling van kandidaat
 
-Brief sollicitatie ontvangen / afgewezen
-
-SHL en cut-e assessment uitnodiging
-
-Organisatiespecifieke e-mails
-
-E-mailhandtekeningen
-
-Sollicitatie opgeslagen
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM3NDY5OTRdfQ==
+eyJoaXN0b3J5IjpbLTExNjQ5ODgzNDZdfQ==
 -->
