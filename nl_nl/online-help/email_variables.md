@@ -104,17 +104,37 @@ Groepsbeoordeling
 - Uitnodiging voor MINT, Matrigma en Service-F tests
 - cut-e kandidaatrapport
 - Job-alert
+- Arbeidsovereenkomst
+- Portable CV
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
 
-Arbeidsovereenkomst
+**{candidate-password} - Wachtwoord kandidaat**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Automatische afwijzing
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
 
-Portable CV
 
-Brief sollicitatie ontvangen / afgewezen
 
-SHL en cut-e assessment uitnodiging
 
-Organisatiespecifieke e-mails
-> Written with [StackEdit](https://stackedit.io/).
+
+
+
+
+
+
+
+
+
+>Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTM5ODY4MF19
+eyJoaXN0b3J5IjpbMTc0Mzk0OTA2OF19
 -->
