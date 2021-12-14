@@ -378,23 +378,15 @@ Notificatie verlopen vacature
 - Automatische afwijzing
 - Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 - Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-- Bevestiging van gebruikersnaam
-
-Gegevens verplaatst naar cv-database
-
-Sollicitatie forwarden
-
-Uitnodiging voor MINT, Matrigma en Service-F tests
-
-cut-e kandidaatrapport
-
-Verzoek om goedkeuring vacature
-
-Bericht nieuwe gebruiker
-
-Arbeidsovereenkomst
-
-Tip een vriend(in)-mail
+- evestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Verzoek om goedkeuring vacature
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
 
 Portable CV
 
@@ -405,6 +397,6 @@ E-mailhandtekeningen
 Sollicitatie opgeslagen
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI0OTQ5MCw4NjU5NDA1MDksLTgyNj
-E1MjgwM119
+eyJoaXN0b3J5IjpbOTA2NTM2NzU2LDg2NTk0MDUwOSwtODI2MT
+UyODAzXX0=
 -->
