@@ -508,7 +508,7 @@ Sollicitatie opgeslagen
 **{first-name} - Voornaam kandidaat opgegeven voor de opgeslagen sollicitatie**
 Sollicitatie opgeslagen
 
-{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Aanhef
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Aanhef**
 - Sollicitatie ontvangen
 - Registratie ontvangen
 - Kopie van sollicitatie
@@ -525,14 +525,16 @@ Sollicitatie opgeslagen
 - Job-alert
 - Arbeidsovereenkomst
 - Portable CV
+- SHL assessment uitnodiging
+- Organisatiespecifieke e-mails
 
-SHL assessment uitnodiging
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Aanhef voor de opgeslagen sollicitatie**
+Sollicitatie opgeslagen
 
-Organisatiespecifieke e-mails
 
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzI1NjA5MywyMjg5ODk0NjUsMTQ1MD
+eyJoaXN0b3J5IjpbMTMxMTcxNTM4NCwyMjg5ODk0NjUsMTQ1MD
 Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
