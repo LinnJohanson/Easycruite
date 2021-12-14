@@ -441,7 +441,17 @@ E-mail plaatsingskanaal
 - Organisatiespecifieke e-mails
 - E-mailhandtekeningen
 
+**{departments} - Afdelingen**
+E-mail plaatsingskanaal
 
+**{duration} - Duur van het interview**
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+**{email} - Voegt e-mailadres gebruiker in in de e-mail**
+Bericht nieuwe gebruiker
+
+{employer-about} - Informatie over werkgever
+E-mail plaatsingskanaal
 
 
 
@@ -449,6 +459,6 @@ E-mail plaatsingskanaal
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjA3MDQzMSwxNDUwNDYwNjU5LDg2NT
+eyJoaXN0b3J5IjpbLTk0ODcxOTg0NCwxNDUwNDYwNjU5LDg2NT
 k0MDUwOSwtODI2MTUyODAzXX0=
 -->
