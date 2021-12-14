@@ -505,9 +505,34 @@ Sollicitatie opgeslagen
 - SHL assessment uitnodiging
 - Organisatiespecifieke e-mails
 
+**{first-name} - Voornaam kandidaat opgegeven voor de opgeslagen sollicitatie**
+Sollicitatie opgeslagen
+
+{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Aanhef
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Tijdgebonden afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Sollicitatie forwarden
+- E-mailhandtekeningen
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Arbeidsovereenkomst
+- Portable CV
+
+SHL assessment uitnodiging
+
+Organisatiespecifieke e-mails
+
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OT
-QwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbLTI2NzI1NjA5MywyMjg5ODk0NjUsMTQ1MD
+Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
