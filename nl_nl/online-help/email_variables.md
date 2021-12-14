@@ -304,9 +304,39 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
+**{contact-person-cellular-telephone} - Mobiel telefoonnummer contactpersoon**
+E-mail plaatsingskanaal
 
+**{contact-person-email} - E-mailadres contactpersoon**
+E-mail plaatsingskanaal
 
+**{contact-person-name} - Naam contactpersoon**
+- Sollicitatie ontvangen
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Bericht nieuwe gebruiker
+- Uitnodiging voor MINT, Matrigma en Service-F test
+- Arbeidsovereenkomst
+- Brief sollicitatie ontvangen / afgewezen
+- Portable CV
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+
+{contact-person-office-telephone} - Zakelijk telefoonnummer contactpersoon
+E-mail plaatsingskanaal
+
+{contact-persons}
+
+Contactpersonen
+
+E-mail plaatsingskanaal
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUwODQxNjNdfQ==
+eyJoaXN0b3J5IjpbOTE3NjA2NzA5XX0=
 -->
