@@ -794,11 +794,10 @@ Notificatie verlopen vacature
 - Job-alert
 - Beoordeling van kandidaat
 - SHL en cut-e assessment uitnodiging
-
-Organisatiespecifieke e-mails
+- Organisatiespecifieke e-mails
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNT
-QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
-LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE3Mjc4Mjc1MywxNTc3NDczNzU4LDExNT
+Y2MDQ2OTcsLTE1NDM0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1
+OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
