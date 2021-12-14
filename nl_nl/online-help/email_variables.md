@@ -758,9 +758,30 @@ Rapport kandidatenstatus
 - Verzoek om goedkeuring vacature
 - Notificatie verlopen vacature
 
+**{publication-channel} - Publicatiekanaal**
+Beoordeling van kandidaat
+
+**{recruiter-name} - Naam recruiter**
+- Rapport kandidatenstatus
+- Stuurt e-mail terug bij afgeronde beoordeling
+
+**{reference-number} - Referentienummer**
+Rapport kandidatenstatus
+
+**{route} - Routebeschrijving**
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+**{sender-name} - Naam sollicitant**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Tip een vriend(in)-mail
+
+
+
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNjA0NTE0LDExNTY2MDQ2OTcsLTE1ND
-M0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDks
-LTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbMTM3NTkwMjk5MiwxMTU2NjA0Njk3LC0xNT
+QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
+LC04MjYxNTI4MDNdfQ==
 -->
