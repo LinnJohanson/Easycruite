@@ -655,8 +655,12 @@ Job Agent
 - Brief sollicitatie ontvangen / afgewezen
 - SHL assessment uitnodiging
 - Organisatiespecifieke e-mails
+
+{middle-name} - Tweede voornaam kandidaat opgegeven voor de opgeslagen sollicitatie
+
+Sollicitatie opgeslagen
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgyMTkwNjAsMjI4OTg5NDY1LDE0NT
-A0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbMjYzOTY2NDc1LDIyODk4OTQ2NSwxNDUwND
+YwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
 -->
