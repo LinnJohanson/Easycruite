@@ -387,16 +387,13 @@ Notificatie verlopen vacature
 - Bericht nieuwe gebruiker
 - Arbeidsovereenkomst
 - Tip een vriend(in)-mail
-
-Portable CV
-
-Organisatiespecifieke e-mails
-
-E-mailhandtekeningen
+- Portable CV
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
 
 Sollicitatie opgeslagen
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NTM2NzU2LDg2NTk0MDUwOSwtODI2MT
-UyODAzXX0=
+eyJoaXN0b3J5IjpbMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNj
+E1MjgwM119
 -->
