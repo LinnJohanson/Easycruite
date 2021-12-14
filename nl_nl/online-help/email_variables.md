@@ -819,9 +819,11 @@ Uitnodiging voor MINT, Matrigma en Service-F tests
 - Bevestiging van gebruikersnaam
 - Werknemer uitnodigen om cv te uploaden / bij te werken
 - Sollicitatie forwarden
+- 
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDkxNDI2NCwtMTcyNzgyNzUzLDE1Nz
-c0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyODk4OTQ2
-NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
+eyJoaXN0b3J5IjpbLTE4NzgwNjAxNDEsMTQ4NDkxNDI2NCwtMT
+cyNzgyNzUzLDE1Nzc0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0
+MzE2LDIyODk4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtOD
+I2MTUyODAzXX0=
 -->
