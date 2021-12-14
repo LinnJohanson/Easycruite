@@ -285,7 +285,7 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
-{contact-person}
+**{contact-person}**
 - Contactpersoon (voor dit project)
 - Sollicitatie ontvangen
 - Handmatige afwijzing
@@ -334,7 +334,7 @@ E-mail plaatsingskanaal
 **{contact-persons} - Contactpersonen**
 E-mail plaatsingskanaal
 
-{customer-name} - Naam klant
+**{customer-name} - Naam klant**
 - Sollicitatie ontvangen
 - Registratie ontvangen
 - Kopie van sollicitatie
@@ -415,5 +415,5 @@ E-mailhandtekeningen
 Sollicitatie opgeslagen
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
 -->
