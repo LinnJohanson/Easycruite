@@ -795,9 +795,27 @@ Notificatie verlopen vacature
 - Beoordeling van kandidaat
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
+
+**{test-code} - Referentiecode voor test**
+Uitnodiging voor MINT, Matrigma en Service-F tests
+
+**{test-link} - Link naar de onlinetest**
+Uitnodiging voor MINT, Matrigma en Service-F tests
+
+{test-password}
+
+Wachtwoord voor toegang tot 16PF test
+
+16PF-mails
+
+{test-username}
+
+Gebruikersnaam voor toegang tot 16PF test
+
+16PF-mails
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjc4Mjc1MywxNTc3NDczNzU4LDExNT
-Y2MDQ2OTcsLTE1NDM0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1
-OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbLTIxNDMxOTM2NTksLTE3Mjc4Mjc1MywxNT
+c3NDczNzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMxNiwyMjg5ODk0
+NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
