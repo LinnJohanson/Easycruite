@@ -122,7 +122,25 @@ Groepsbeoordeling
 - Uitnodiging voor MINT, Matrigma en Service-F tests
 - cut-e kandidaatrapport
 
-
+**{candidate-salutation} - Aanhef kandidaat**
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Registratie ontvangen
+- Handmatige afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Automatische afwijzing
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+ Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Arbeidsovereenkomst
+- Portable CV
+- Brief sollicitatie ontvangen / afgewezen
+- SHL assessment uitnodiging
+- Organisatiespecifieke e-mails
 
 
 
@@ -136,5 +154,5 @@ Groepsbeoordeling
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mzk0OTA2OF19
+eyJoaXN0b3J5IjpbLTEwODE1MTgzMjJdfQ==
 -->
