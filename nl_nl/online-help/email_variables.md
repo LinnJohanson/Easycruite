@@ -724,26 +724,16 @@ Beoordeling van kandidaat
 - Sollicitatie opgeslagen
 
 **{prefix} - Voorvoegsel (heer, mevrouw enz.)**
-
-Sollicitatie ontvangen
-
-Registratie ontvangen
-
-Kopie van sollicitatie
-
-Handmatige afwijzing
-
-Automatische afwijzing
-
-Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
-
-Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-
-Bevestiging van gebruikersnaam
-
-Werknemer uitnodigen om cv te uploaden / bij te werken
-
-Sollicitatie forwarden
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+-. Sollicitatie forwarden
 
 Uitnodiging voor MINT, Matrigma en Service-F tests
 
@@ -758,7 +748,7 @@ Organisatiespecifieke e-mails
 
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxMzE4OTM5LC0xNTQzNDQzMTYsMjI4OT
-g5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNd
-fQ==
+eyJoaXN0b3J5IjpbMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyOD
+k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
+XX0=
 -->
