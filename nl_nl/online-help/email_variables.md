@@ -819,11 +819,84 @@ Uitnodiging voor MINT, Matrigma en Service-F tests
 - Bevestiging van gebruikersnaam
 - Werknemer uitnodigen om cv te uploaden / bij te werken
 - Sollicitatie forwarden
-- 
+
+{title-grade}
+
+Niveau vacaturetitel
+
+Sollicitatie ontvangen
+
+Registratie ontvangen
+
+Kopie van sollicitatie
+
+Handmatige afwijzing
+
+Automatische afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Gegevens verplaatst naar cv-database
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden{title-grade}
+
+Niveau vacaturetitel
+
+Sollicitatie ontvangen
+
+Registratie ontvangen
+
+Kopie van sollicitatie
+
+Handmatige afwijzing
+
+Automatische afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Gegevens verplaatst naar cv-database
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden{title-grade}
+
+Niveau vacaturetitel
+
+Sollicitatie ontvangen
+
+Registratie ontvangen
+
+Kopie van sollicitatie
+
+Handmatige afwijzing
+
+Automatische afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Gegevens verplaatst naar cv-database
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgwNjAxNDEsMTQ4NDkxNDI2NCwtMT
-cyNzgyNzUzLDE1Nzc0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0
-MzE2LDIyODk4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtOD
-I2MTUyODAzXX0=
+eyJoaXN0b3J5IjpbLTQxMzc4OTEzLDE0ODQ5MTQyNjQsLTE3Mj
+c4Mjc1MywxNTc3NDczNzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMx
+NiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNj
+E1MjgwM119
 -->
