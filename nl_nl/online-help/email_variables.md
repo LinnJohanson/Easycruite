@@ -181,7 +181,31 @@ Groepsbeoordeling
 - Organisatiespecifieke e-mails
 - E-mailhandtekeningen
 
-
+**{client-name} - Naam klant (enkel voor wervingsbureaus)**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Verzoek om goedkeuring vacature
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- E-mailhandtekeningen
 
 
 
@@ -189,5 +213,5 @@ Groepsbeoordeling
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTkwMTI5XX0=
+eyJoaXN0b3J5IjpbMTQ4MjQyMjI2Nl19
 -->
