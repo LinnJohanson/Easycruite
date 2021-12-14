@@ -808,30 +808,20 @@ Uitnodiging voor MINT, Matrigma en Service-F tests
 **{test-username} - Gebruikersnaam voor toegang tot 16PF test**
 16PF-mails
 
-{title} - Vacaturetitel
-
-Sollicitatie ontvangen
-
-Registratie ontvangen
-
-Kopie van sollicitatie
-
-Handmatige afwijzing
-
-Automatische afwijzing
-
-Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
-
-Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-
-Bevestiging van gebruikersnaam
-
-Werknemer uitnodigen om cv te uploaden / bij te werken
-
-Sollicitatie forwarden
+**{title} - Vacaturetitel**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODE5MDc1NCwtMTcyNzgyNzUzLDE1Nz
+eyJoaXN0b3J5IjpbMTQ4NDkxNDI2NCwtMTcyNzgyNzUzLDE1Nz
 c0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyODk4OTQ2
 NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
 -->
