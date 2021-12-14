@@ -734,21 +734,17 @@ Beoordeling van kandidaat
 - Bevestiging van gebruikersnaam
 - Werknemer uitnodigen om cv te uploaden / bij te werken
 -  Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Arbeidsovereenkomst
+- Brief sollicitatie ontvangen / afgewezen
+- Organisatiespecifieke e-mails
 
-Uitnodiging voor MINT, Matrigma en Service-F tests
-
-cut-e kandidaatrapport
-
-Arbeidsovereenkomst
-
-Brief sollicitatie ontvangen / afgewezen
-
-Organisatiespecifieke e-mails
-
-
+**{processed-applicants] - Tag gebruikt om rapport over verwerkte sollicitanten te starten; Tag gebruikt om rapport over verwerkte sollicitanten te stoppen**
+Rapport kandidatenstatus
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTE5ODE5NywxMTU2NjA0Njk3LC0xNT
-QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
-LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbODI2ODQzOTYzLDExNTY2MDQ2OTcsLTE1ND
+M0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDks
+LTgyNjE1MjgwM119
 -->
