@@ -456,10 +456,31 @@ E-mail plaatsingskanaal
 **{employer-name} - Naam werkgever**
 E-mail plaatsingskanaal
 
-
+{family-name} - Achternaam
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NjM4OTE4LDE0NTA0NjA2NTksODY1OT
-QwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTE5ODQ3NDQsMTQ1MDQ2MDY1OSw4Nj
+U5NDA1MDksLTgyNjE1MjgwM119
 -->
