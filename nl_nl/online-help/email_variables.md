@@ -563,48 +563,48 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 **{interviewtime} - Tijd interview**
 Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 
-{job}
+**{job} - Functie**
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- - rbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- Notificatie verlopen vacature
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
 
-Functie
-
-Sollicitatie ontvangen
-
-Kopie van sollicitatie
-
-Handmatige afwijzing
-
-Automatische afwijzing
-
-Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
-
-Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-
-Bevestiging van gebruikersnaam
-
-Sollicitatie forwarden
-
-Uitnodiging voor MINT, Matrigma en Service-F tests
-
-cut-e kandidaatrapport
-
-Arbeidsovereenkomst
-
-Tip een vriend(in)-mail
-
-Portable CV
-
-Beoordeling van kandidaat
-
-Brief sollicitatie ontvangen / afgewezen
-
-Notificatie verlopen vacature
-
-SHL en cut-e assessment uitnodiging
+**{job-position} - Positie**
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Notificatie verlopen vacature
 
 Organisatiespecifieke e-mails
-
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE2NDk2NDksMjI4OTg5NDY1LDE0NT
-A0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbLTExODQyNDI3MywyMjg5ODk0NjUsMTQ1MD
+Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
