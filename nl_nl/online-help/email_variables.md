@@ -531,10 +531,32 @@ Sollicitatie opgeslagen
 **{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Aanhef voor de opgeslagen sollicitatie**
 Sollicitatie opgeslagen
 
+**{given-name} - Voornaam**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
 
+Organisatiespecifieke e-mails
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTcxNTM4NCwyMjg5ODk0NjUsMTQ1MD
-Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbLTMyMzk3OTI3LDIyODk4OTQ2NSwxNDUwND
+YwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
 -->
