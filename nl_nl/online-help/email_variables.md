@@ -67,8 +67,54 @@ Groepsbeoordeling
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
+**{candidate-given-name} - Voornaam**
+ - Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+- Bericht nieuwe gebruiker
+- Arbeidsovereenkomst
+- Portable CV
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
 
+**{candidate-middle-name} - Tweede voornaam**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Job-alert
+
+Arbeidsovereenkomst
+
+Portable CV
+
+Brief sollicitatie ontvangen / afgewezen
+
+SHL en cut-e assessment uitnodiging
+
+Organisatiespecifieke e-mails
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM2NTM0ODhdfQ==
+eyJoaXN0b3J5IjpbLTkwOTM5ODY4MF19
 -->
