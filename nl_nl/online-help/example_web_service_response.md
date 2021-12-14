@@ -1,24 +1,24 @@
 # Voorbeeld Web Service Response
 
-<Candidate id="26980851" language="gb">
+< Candidate id="26980851" language="gb">
 
-<PersonalDetails>
+< PersonalDetails>
 
-<CurrentEmploymentStatus id="17">Engagement</CurrentEmploymentStatus>
+< CurrentEmploymentStatus id="17">Engagement< /CurrentEmploymentStatus>
 
-< Title id="1">Mr</Title>
+< Title id="1">Mr< /Title>
 
-< TitleGrade>heer</TitleGrade>
+< TitleGrade>heer< /TitleGrade>
 
-< FirstName>Voornaam</FirstName>
+< FirstName>Voornaam< /FirstName>
 
-< MiddleName>Tweede voornaam</MiddleName>
+< MiddleName>Tweede voornaam< /MiddleName>
 
-< LastName>Achternaam</LastName>
+< LastName>Achternaam< /LastName>
 
-< Nationality iso="SE" id="204">Swedish</Nationality>
+< Nationality iso="SE" id="204">Swedish< /Nationality>
 
-< MaritalStatus id="2">Married</MaritalStatus>
+< MaritalStatus id="2">Married< /MaritalStatus>
 
 < DateOfBirth>1980-01-01< /DateOfBirth>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjAxMDg4OV19
+eyJoaXN0b3J5IjpbNTUxODMwNzA3LC01MDIwMTA4ODldfQ==
 -->
