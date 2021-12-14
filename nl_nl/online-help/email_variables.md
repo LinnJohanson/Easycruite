@@ -780,40 +780,25 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 **{site} - Naam van website waarop de vacature geplaatst is**
 Notificatie verlopen vacature
 
-{surname}
-
-Achternaam
-
-Handmatige afwijzing
-
-Automatische afwijzing
-
-Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
-
-Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-
-Bevestiging van gebruikersnaam
-
-Gegevens verplaatst naar cv-database
-
-Werknemer uitnodigen om cv te uploaden / bij te werken
-
-Sollicitatie forwarden
-
-cut-e kandidaatrapport
-
-Bericht nieuwe gebruiker
-
-Job-alert
-
-Beoordeling van kandidaat
-
-SHL en cut-e assessment uitnodiging
+**{surname} - Achternaam**
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+-  Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- cut-e kandidaatrapport
+- Bericht nieuwe gebruiker
+- Job-alert
+- Beoordeling van kandidaat
+- SHL en cut-e assessment uitnodiging
 
 Organisatiespecifieke e-mails
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0OTA5NjIyLDExNTY2MDQ2OTcsLTE1ND
-M0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDks
-LTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNT
+QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
+LC04MjYxNTI4MDNdfQ==
 -->
