@@ -681,10 +681,62 @@ Sollicitatie opgeslagen
 - E-mailhandtekeningen
 - Sollicitatie opgeslagen
 
+**{new-applicants} - Tag gebruikt om rapport over nieuwe sollicitanten te starten; Tag gebruikt om rapport over nieuwe sollicitanten te stoppen**
+Rapport kandidatenstatus
+
+**{number-of-applicants} - Aantal sollicitanten dat naar de beoordelaar gestuurd is voor beoordeling**
+Beoordeling van kandidaat
+
+**{password} - Wachtwoord kandidaat**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Automatische afwijzing
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Wachtwoord opvragen
+- Inloggen
+
+**{position} - Titel van positie waarnaar gesolliciteerd is**
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- Job-alert
+- cut-e kandidaatrapport
+- Arbeidsovereenkomst
+
+Tip een vriend(in)-mail
+
+Portable CV
+
+Beoordeling van kandidaat
+
+Brief sollicitatie ontvangen / afgewezen
+
+Notificatie verlopen vacature
+
+SHL en cut-e assessment uitnodiging
+
+Organisatiespecifieke e-mails
+
+Sollicitatie opgeslagen
+
+
+
 
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ1NTY5MTIsLTE1NDM0NDMxNiwyMj
-g5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1Mjgw
-M119
+eyJoaXN0b3J5IjpbLTYxNjQwMTE4NCwtMTU0MzQ0MzE2LDIyOD
+k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
+XX0=
 -->
