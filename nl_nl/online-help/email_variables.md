@@ -370,25 +370,15 @@ Notificatie verlopen vacature
 **{days} - Aantal dagen van tevoren dat gewaarschuwd moet worden**
 Notificatie verlopen vacature
 
-{department-disclaimer}
-
-Tekst disclaimer afdeling
-
-Sollicitatie ontvangen
-
-Registratie ontvangen
-
-Kopie van sollicitatie
-
-Handmatige afwijzing
-
-Automatische afwijzing
-
-Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
-
-Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
-
-Bevestiging van gebruikersnaam
+**{department-disclaimer} - Tekst disclaimer afdeling**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
 
 Gegevens verplaatst naar cv-database
 
@@ -415,5 +405,6 @@ E-mailhandtekeningen
 Sollicitatie opgeslagen
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbLTExNTI0OTQ5MCw4NjU5NDA1MDksLTgyNj
+E1MjgwM119
 -->
