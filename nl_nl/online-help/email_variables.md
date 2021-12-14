@@ -360,19 +360,60 @@ E-mail plaatsingskanaal
 - Organisatiespecifieke e-mails
 - E-mailhandtekeningen
 
-{cv} - Voegt cv toe
-Groepsbeoordeling
+**{cv} - Voegt cv toe**
+- Groepsbeoordeling
+- Kopie van sollicitatie
+
+**{date} - Datum waarop vacature verloopt**
+Notificatie verlopen vacature
+
+**{days} - Aantal dagen van tevoren dat gewaarschuwd moet worden**
+Notificatie verlopen vacature
+
+{department-disclaimer}
+
+Tekst disclaimer afdeling
+
+Sollicitatie ontvangen
+
+Registratie ontvangen
+
 Kopie van sollicitatie
 
-{date} - Datum waarop vacature verloopt
-Notificatie verlopen vacature
+Handmatige afwijzing
 
-{days}
+Automatische afwijzing
 
-Aantal dagen van tevoren dat gewaarschuwd moet worden
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 
-Notificatie verlopen vacature
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Gegevens verplaatst naar cv-database
+
+Sollicitatie forwarden
+
+Uitnodiging voor MINT, Matrigma en Service-F tests
+
+cut-e kandidaatrapport
+
+Verzoek om goedkeuring vacature
+
+Bericht nieuwe gebruiker
+
+Arbeidsovereenkomst
+
+Tip een vriend(in)-mail
+
+Portable CV
+
+Organisatiespecifieke e-mails
+
+E-mailhandtekeningen
+
+Sollicitatie opgeslagen
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjU4NDgwNF19
+eyJoaXN0b3J5IjpbLTgyNjE1MjgwM119
 -->
