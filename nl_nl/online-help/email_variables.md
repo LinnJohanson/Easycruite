@@ -656,11 +656,52 @@ Job Agent
 - SHL assessment uitnodiging
 - Organisatiespecifieke e-mails
 
-{middle-name} - Tweede voornaam kandidaat opgegeven voor de opgeslagen sollicitatie
+**{middle-name} - Tweede voornaam kandidaat opgegeven voor de opgeslagen sollicitatie**
+Sollicitatie opgeslagen
+
+{name} - Voornaam kandidaat
+
+Sollicitatie ontvangen
+
+Handmatige afwijzing
+
+Automatische afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Gegevens verplaatst naar cv-database
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden
+
+Uitnodiging voor MINT, Matrigma en Service-F tests
+
+cut-e kandidaatrapport
+
+Bericht nieuwe gebruiker
+
+Arbeidsovereenkomst
+
+Portable CV
+
+Beoordeling van kandidaat
+
+Brief sollicitatie ontvangen / afgewezen
+
+SHL en cut-e assessment uitnodiging
+
+Organisatiespecifieke e-mails
+
+E-mailhandtekeningen
 
 Sollicitatie opgeslagen
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzOTY2NDc1LDIyODk4OTQ2NSwxNDUwND
-YwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
+eyJoaXN0b3J5IjpbLTE1NDM0NDMxNiwyMjg5ODk0NjUsMTQ1MD
+Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
