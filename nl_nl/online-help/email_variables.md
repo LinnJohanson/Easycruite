@@ -601,10 +601,52 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 - Brief sollicitatie ontvangen / afgewezen
 - SHL en cut-e assessment uitnodiging
 - Notificatie verlopen vacature
+- Organisatiespecifieke e-mails
+
+**{last-name} - Achternaam**
+- Sollicitatie ontvangen
+
+Kopie van sollicitatie
+
+Registratie ontvangen
+
+Handmatige afwijzing
+
+Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+
+Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+
+Bevestiging van gebruikersnaam
+
+Automatische afwijzing
+
+Gegevens verplaatst naar cv-database
+
+Werknemer uitnodigen om cv te uploaden / bij te werken
+
+Sollicitatie forwarden
+
+Uitnodiging voor MINT, Matrigma en Service-F test
+
+cut-e kandidaatrapport
+
+Bericht nieuwe gebruiker
+
+Job-alert
+
+Arbeidsovereenkomst
+
+Portable CV
+
+Beoordeling van kandidaat
+
+Brief sollicitatie ontvangen / afgewezen
+
+SHL assessment uitnodiging
 
 Organisatiespecifieke e-mails
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQyNDI3MywyMjg5ODk0NjUsMTQ1MD
+eyJoaXN0b3J5IjpbLTQ5MDQwODg1NCwyMjg5ODk0NjUsMTQ1MD
 Q2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
 -->
