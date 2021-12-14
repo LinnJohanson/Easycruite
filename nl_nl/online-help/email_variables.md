@@ -15,40 +15,60 @@ Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 **{advertisement-body} - Tekst advertentie**
 E-mail plaatsingskanaal
 
-{advertisement-heading} - Koptekst advertentie
+**{advertisement-heading} - Koptekst advertentie**
 E-mail plaatsingskanaal
 
-{advertisement-title} - Titel advertentie
+**{advertisement-title} - Titel advertentie**
 E-mail plaatsingskanaal
 
-{advertisement-work-place} - Functielocatie advertentie
+**{advertisement-work-place} - Functielocatie advertentie**
 E-mail plaatsingskanaal
 
-{appetizer-text} - Teasertekst advertentie
+**{appetizer-text} - Teasertekst advertentie**
 E-mail plaatsingskanaal
 
-{applicant-department} - Afdeling waaraan sollicitant gekoppeld is
+**{applicant-department} - Afdeling waaraan sollicitant gekoppeld is**
 Rapport kandidatenstatus
 
-{applicant-id} - ID-nummer sollicitant
+**{applicant-id} - ID-nummer sollicitant**
 Rapport kandidatenstatus
 
-{applicant-name} - Naam sollicitant
+**{applicant-name} - Naam sollicitant**
 Rapport kandidatenstatus
 
-{approval-link} - Invoegen goedkeuringslink
+**{approval-link} - Invoegen goedkeuringslink**
 Verzoek om goedkeuring vacature
 
-{assessment-test-name-link-group} - Naam + URL cut-e test
-
+**{assessment-test-name-link-group} - Naam + URL cut-e test**
 cut-e assessment uitnodiging
 
-{ballot-link}
-
-Link voor collega's voor classificeren van kandidaten
-
+**{ballot-link} - Link voor collega's voor classificeren van kandidaten**
 Groepsbeoordeling
+
+**{candidate-family-name} - Achternaam**
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Bericht nieuwe gebruiker
+- Job-alert
+- Arbeidsovereenkomst
+- Portable CV
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTA2OTYxNl19
+eyJoaXN0b3J5IjpbLTIwMDM2NTM0ODhdfQ==
 -->
