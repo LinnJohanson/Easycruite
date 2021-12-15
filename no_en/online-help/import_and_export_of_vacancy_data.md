@@ -432,7 +432,7 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 <passwordString>?</passwordString>
 
-</Password>
+< /Password>
 
 <!--Optional:-->
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTYyMDY3ODFdfQ==
+eyJoaXN0b3J5IjpbNzIyMTIxMDA5XX0=
 -->
