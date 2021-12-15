@@ -673,10 +673,65 @@ Application Saved
 - Forward Application
 - Invitation to MINT Matrigma and Service-F tests
 - cut-e Report
+- New User Email
+- Employment Contract
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Email Signatures
+- Application Saved
 
-New User Email
+**{new-applicants} - Tag used to start report on new applicants, Tag used to end report on new applicants**
+Pending Further Action Report
+
+**{number-of-applicants} - Number of applicants submitted to the reviewer for review**
+Review of candidate
+
+**{password} - Candidate Password**
+- Application Received
+- Registration Received
+- Copy of Application
+- Automatic Rejection
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- User password request
+- Login
+
+{position}
+
+Title of position applied for
+
+Application Received
+
+Copy of Application
+
+Rejection Following Application Review
+
+Automatic Rejection
+
+Invitation to Initial 1st 2nd and 3rd Meeting
+
+Rejection after Initial 1st 2nd and 3rd Meeting
+
+Confirmation of Username
+
+Forward Application
+
+Invitation to MINT Matrigma and Service-F tests
+
+Job Agent alert
+
+cut-e Report
 
 Employment Contract
+
+Send to a Friend Vacancy
 
 Portable CV
 
@@ -684,14 +739,14 @@ Review of candidate
 
 Letter of application received/rejected
 
+Vacancy Expiry Warning
+
 SHL and cut-e Assessment invite
 
 Custom Email
 
-Email Signatures
-
 Application Saved
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxMjE1MDkxLDEwMzMzMzY1Ml19
+eyJoaXN0b3J5IjpbLTE1MTQzMTQyMTYsMTAzMzMzNjUyXX0=
 -->
