@@ -911,11 +911,41 @@ Niet gebruikt (bestaat niet in broncode)
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
+{vacancy-title} - Vacaturetitel
+- Sollicitatie ontvangen
+- Kopie van sollicitatie
+- Handmatige afwijzing
+- Automatische afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+- Arbeidsovereenkomst
+- Tip een vriend(in)-mail
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+
+Notificatie verlopen vacature
+
+SHL en cut-e assessment uitnodiging
+
+Organisatiespecifieke e-mails
+
+Zie ook:
+
+![](../Resources/Images/icon-document-link.png)  [E-mailtypes](standard_response_email_types.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Afmelden voor job-alerts](unsubscribe_from_job_agent.htm)
+
+![](../Resources/Images/icon-document-link.png)  [Tabblad Wervingsacties](recruitment_activities_list_tab.htm)
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA0ODA3MDUsODM0MDAyNzQwLC0xOT
-E3MzYwNzkzLC00MTM3ODkxMywxNDg0OTE0MjY0LC0xNzI3ODI3
-NTMsMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNTQzNDQzMTYsMj
-I4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4
-MDNdfQ==
+eyJoaXN0b3J5IjpbOTA0NDM0MDgzLDgzNDAwMjc0MCwtMTkxNz
+M2MDc5MywtNDEzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUz
+LDE1Nzc0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyOD
+k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
+XX0=
 -->
