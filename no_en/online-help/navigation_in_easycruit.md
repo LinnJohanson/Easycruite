@@ -4,32 +4,26 @@ EasyCruit provides the features and functionality to enable an organization to i
 
 Regardless of the user's access level, the EasyCruit workspace is laid out in the same consistent manner.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Toolbar
+#### Toolbar
 
 The toolbar provides quick links to the key components that a user needs on a daily basis. The options available in the toolbar change depending on which type of user is logged in.
 
-Start page
-
+**Start page**
 Takes you to the start page with the recruitment activities.
 
-New vacancy
-
+**New vacancy**
 Takes you to the page where you create  New vacancy.
 
-Vacancy list
-
+**Vacancy list**
 Takes you to the  Vacancy list.
 
-Settings
-
+**Settings**
 Takes you to the Setting page, where you can make changes to the settings of the system.
 
-Logout
-
+**Logout**
 Logout.
 
-Help/Support
-
+**Help/Support**
 The question mark takes you to the help pages.
 
 #### Content pane
@@ -138,5 +132,5 @@ To learn more about user access levels refer to  [Access Control](access_control
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcxMTU3MDFdfQ==
+eyJoaXN0b3J5IjpbMTcwNTkwMTM1MF19
 -->
