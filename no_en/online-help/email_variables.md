@@ -897,11 +897,15 @@ Email Channel Posting
 - Custom Email
 - Vacancy Expiry Warning
 
+{vacancy-link}
 
+Link to vacancy
+
+Not used (does not exist in source code)
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTIxODEwLC03MzY4MTI0NjYsMTQ1MD
-I4NjI4MSwxMzc1NzE4MjQxLC0xNTE0MzE0MjE2LDEwMzMzMzY1
-Ml19
+eyJoaXN0b3J5IjpbNjE0NjY5ODIzLC0yNTEyMTgxMCwtNzM2OD
+EyNDY2LDE0NTAyODYyODEsMTM3NTcxODI0MSwtMTUxNDMxNDIx
+NiwxMDMzMzM2NTJdfQ==
 -->
