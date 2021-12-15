@@ -839,19 +839,41 @@ Invitation to MINT, Matrigma and Service-F tests
 - Letter of application received/rejected
 - SHL and cut-e Assessment invite
 
-{unsubscribe-click-here}
+**{unsubscribe-click-here} - Provides the Unsubscribe Here text**
+ - Job Agent alert
 
-Provides the Unsubscribe Here text
-
+**{unsubscribe-link} - Provides the link for the Unsubscribe Here text**
 Job Agent alert
 
-{unsubscribe-link}
+{url}
 
-Provides the link for the Unsubscribe Here text
+URL for recovering password
 
-Job Agent alert
+Confirmation of Username
+
+Details Transferred to CV Database
+
+Invite to Send/Update CV Employee
+
+{user-cellular-telephone}
+
+User's Mobile Phone Number
+
+Email Channel Posting
+
+{user-family-name}
+
+User's Surname
+
+Email Channel Posting
+
+{user-given-name}
+
+User's First Name
+
+Email Channel Posting
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2ODQxOTE1NywtMTUxNDMxNDIxNiwxMD
+eyJoaXN0b3J5IjpbMTM3NTcxODI0MSwtMTUxNDMxNDIxNiwxMD
 MzMzM2NTJdfQ==
 -->
