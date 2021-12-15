@@ -436,81 +436,81 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 <!--Optional:-->
 
-<Version>?</Version>
+< Version>?</Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImport>
+< urn:VacancyImport>
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<urn:Vacancy RefId="?">
+ < urn:Vacancy RefId="?">
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<urn:Version Language="?">
+< urn:Version Language="?">
 
-<!--You may enter the following 8 items in any order-->
+< !--You may enter the following 8 items in any order-->
 
-<urn:Title>?</urn:Title>
+< urn:Title>?< /urn:Title>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:TitleHeading>?</urn:TitleHeading>
+< urn:TitleHeading>?< /urn:TitleHeading>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Body>?</urn:Body>
+< urn:Body>?< /urn:Body>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Deadline>?</urn:Deadline>
+< urn:Deadline>?< /urn:Deadline>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Engagement>?</urn:Engagement>
+< urn:Engagement>?< /urn:Engagement>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Location>?</urn:Location>
+< urn:Location>?< /urn:Location>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:DailyHours>?</urn:DailyHours>
+< urn:DailyHours>?< /urn:DailyHours>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<urn:Questions>?</urn:Questions>
+< urn:Questions>?< /urn:Questions>
 
-</urn:Version>
+< /urn:Version>
 
-</urn:Vacancy>
+< /urn:Vacancy>
 
-</urn:VacancyImport>
+< /urn:VacancyImport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### VacancyImport SOAP response example
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImportResponse>
+< urn:VacancyImportResponse>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Status>?</Status>
+< Status>?< /Status>
 
-</urn:VacancyImportResponse>
+< /urn:VacancyImportResponse>
 
 < /soapenv:Body>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3Mzg2Njk1XX0=
+eyJoaXN0b3J5IjpbLTM4MDY3NjIxNV19
 -->
