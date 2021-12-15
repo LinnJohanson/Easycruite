@@ -22,23 +22,18 @@ To send shortlisted candidates to specific internal or external people for revie
 5.  Modify the subject and content of the email as required. The subject and content of the email defaults to that of the template created by your Administrator (configured under  Settings  >  Response Mails  >  Other). The mail merge tags include the project title, how many applicants have been submitted to the reviewer for review, and the URL from which the reviewers undertake their review (reviewers do not need to log in to EasyCruit to undertake their review).
 6.  Select the relevant tickboxes as required. The tickbox options at the bottom of the editor are:
 
-Tickbox
-
+**Tickbox** 
 Description
 
-Do not allow rating
-
+**Do not allow rating** 
 Ticking this box means reviewers cannot provide a 1-7 rating for a candidate.
 
-Do not allow comments
-
+Do not allow comments 
 Ticking this box means that reviewers can only rate with numbers and cannot provide textual comments against a candidate.
 
-Email me each time a reviewer completes
-
-Ticking this box means that you as the logged in user receive an email when a reviewer completes the review of their candidates. For example if you send candidates to five people for them to review, you receive five emails in return.
-
-Note that this could result in many emails if you regularly request a lot of candidates to be reviewed by a lot of people!
+Email me each time a reviewer completes 
+- Ticking this box means that you as the logged in user receive an email when a reviewer completes the review of their candidates. For example if you send candidates to five people for them to review, you receive five emails in return.
+- Note that this could result in many emails if you regularly request a lot of candidates to be reviewed by a lot of people!
 
 8.  Click  Send.
 
@@ -50,19 +45,19 @@ Reviewers can click the name of the candidate to see an overview of their profil
 
 This marks the review as complete in the  Recruitment Activities List  for that candidate, and the requestor is sent an email advising that the review is complete if they opted for that service.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Viewing Ratings
+#### Viewing Ratings
 
 1.  From the recruiting overview you can see that the candidates are now in the section called  Collaborative Rating.
 2.  Clicking on this item displays a list of candidates who have been submitted for review, and you can see the average ratings against each candidate.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Configuring Collaborative Rating
+#### Configuring Collaborative Rating
 
 1.  On the first page when creating/editing a vacancy, select the  Use collaborative rating for this project  option. This will allow any users who have access to the vacancy and the applicants to provide a 1-7 rating of the candidate.
 2.  To send an email to specific users whenever a new candidate applies, requesting them to review the candidate, from the Edit Vacancy page, select  Collaborative rating  then select the required recruiters.
 3.  Select the  Include candidate's personal details and attachments  option to send the applicant's details to the users who are taking part in the ranking.
 4.  Click  Save  when complete.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Using Collaborative Rating
+#### Using Collaborative Rating
 
 Ensure the previous procedure has been completed for the required vacancy.
 
@@ -92,5 +87,5 @@ If you select the  Name  of the applicant and then the  Collaborative Rating  pa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjczMDA2OF19
+eyJoaXN0b3J5IjpbMTcyNDEwMTM3LC00MjI3MzAwNjhdfQ==
 -->
