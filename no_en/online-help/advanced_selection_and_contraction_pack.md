@@ -2,24 +2,18 @@
 
 As your recruitment process gains in maturity, so too does EasyCruit. We have a range of tools to help you go to the next level in communicating and progressing candidates and identifying internal talent.
 
-The Challenge
-
-The Business Impact
-
+**The Challenge**
+*The Business Impact*
 The Solution
 
-Reach candidates
-
-Delays in recruitment process due to candidates not seeing emails
-
+**Reach candidates**
+*Delays in recruitment process due to candidates not seeing emails*
 1. SMS
-
 Easliy sent text message updates and reminders to one or many candidates
 
-Communicate regularly with candidates, in a managed way, according to company selection process
-
-- No central tracking of all steps
-- Inconsistent message to candidates
+**Communicate regularly with candidates, in a managed way, according to company selection process**
+- *No central tracking of all steps*
+- *Inconsistent message to candidates*
 2. Custom progress steps & emails
 Improved candidate communication through tailored email templates
 More granularity on company feedback on candidates
@@ -64,5 +58,5 @@ Automatic notification of potential duplicates
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTU2MzYyMl19
+eyJoaXN0b3J5IjpbLTU2MDk4OTUyMl19
 -->
