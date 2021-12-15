@@ -7,10 +7,9 @@ Once a suitable applicant has been found and the required interviews and referen
 3.  From the  Further Progress  list, select  Send job offer  then click  Execute.
 4.  The applicant's  Vacancy Status  is updated to  Received job offer.
 
-See also:
+##### See also:
 
 ![](../Resources/Images/icon-document-link.png) [Test Integrations](test_integrations.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Interviewing Applicants](interviewing_applicants.htm)
 ![](../Resources/Images/icon-document-link.png) [Collaborative Rating/Panel Review](collaborative_rating_panel_review.htm)
 ![](../Resources/Images/icon-document-link.png) [Application Handling Page Overview](application_handling_page_overview.htm)
@@ -19,5 +18,5 @@ See also:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM3NDgzNDldfQ==
+eyJoaXN0b3J5IjpbLTEwNjA1MTg2NzBdfQ==
 -->
