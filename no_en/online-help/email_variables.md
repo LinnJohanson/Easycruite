@@ -267,9 +267,52 @@ Review of candidate
 - Custom Email
 - Email Signatures
 
-{confirmlink} - Link to confirm the date
+**{confirmlink} - Link to confirm the date**
 Invitation to Initial, 1st, 2nd and 3rd Meeting
+
+**{contact-name}**
+- Application Received
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+-  Forward Application
+- New User Email
+- Invitation to MINT Matrigma and Service-F tests
+- Employment Contract
+- Letter of application received/rejected
+- Portable CV
+- SHL and cut-e Assessment invite
+- Custom Email
+
+**{contact-person} - Contact person (for this project)**
+- Application Received
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- New User Email
+- Job Agent alert
+- Employment Contract
+-  Letter of application received/rejected
+- SHL and cut-e Assessment invite
+ - Custom Email
+
+{contact-person-cellular-telephone} - Contact's Mobile Phone Number
+Email Channel Posting
+
+{contact-person-email} - Contact's Email Address
+Email Channel Posting
+
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTM3NjA1Ml19
+eyJoaXN0b3J5IjpbLTIwMTc1MjE2ODVdfQ==
 -->
