@@ -25,28 +25,28 @@ An applicant can be rejected at any stage during the application process. Reject
 **Save application**
 This changes the applicant's  Vacancy Status  to  Saved. This option saves the applicant to the database and is typically used to flag an applicant that has an excellent profile and may be suitable for other vacancies.
 
-Save and send User Name & Password
+**Save and send User Name & Password**
 This adds to the previous option by also sending the applicant an email with their username and password, informing them their details have been saved to the system.
 
-Forward to email
+**Forward to email**
 This can be used to send an ad hoc email to someone in regards to the applicant. When sending this email, the user can select the option to  Withhold personal information  or the option  Do not include attachments/CV  to limit the applicant details that are shared with the recipient of the email.
 
-[Transfer](transferring_applicants.htm)
+**[Transfer](transferring_applicants.htm)**
 The applicant can be transferred to a different vacancy using this option. While it does transfer the applicant, it does not transfer any vacancy specific information, such as application text and specific screening questions.
 
-[Send job offer](making_an_offer_to_an_applicant.htm)
+**[Send job offer](making_an_offer_to_an_applicant.htm)**
 When an applicant is progressed to this stage their  Vacancy Status  is updated to  Received job offer.
 
-Hire
+**Hire**
 This option moves the applicant to the employees section of the system, where they are associated with a position and a department and are no longer considered to be a candidates. For more information refer to  [Employees](guide_for_users_employees.htm).
 
-Employment contract
+**Employment contract**
 This option sends a PDF document to the applicant containing their specific contract information.
 
-Send letter
+**Send letter**
 This enables the recruiter to write a letter to the applicant. Currently this is limited to letter templates for received and rejected applications. Any letters still need to be manually printed and manually sent via regular mail to the applicant.
 
-[Send for panel review](collaborative_rating_panel_review.htm)
+**[Send for panel review](collaborative_rating_panel_review.htm)**
 This enables the recruiter to send an email to internal/ external persons with a link for them to review the candidates and provide a 1-7 rating and comments. (see  [Collaborative Rating / Panel Review](collaborative_rating_panel_review.htm))
 
 ##### See also:
@@ -60,5 +60,5 @@ This enables the recruiter to send an email to internal/ external persons with a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjI4OTU2NF19
+eyJoaXN0b3J5IjpbLTg2MjM3MzY2OF19
 -->
