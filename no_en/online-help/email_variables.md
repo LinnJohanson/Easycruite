@@ -866,12 +866,9 @@ Email Channel Posting
 - Automatic Rejection
 - Confirmation of Username
 - Details Transferred to CV Database
-
-Invite to Send/Update CV Employee
-
-Forward Application
-
-Invitation to MINT Matrigma and Service-F tests
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
 
 cut-e Report
 
@@ -883,6 +880,7 @@ Application Saved
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjgxMjQ2NiwxNDUwMjg2MjgxLDEzNz
-U3MTgyNDEsLTE1MTQzMTQyMTYsMTAzMzMzNjUyXX0=
+eyJoaXN0b3J5IjpbLTU5MTMyMDA1MSwtNzM2ODEyNDY2LDE0NT
+AyODYyODEsMTM3NTcxODI0MSwtMTUxNDMxNDIxNiwxMDMzMzM2
+NTJdfQ==
 -->
