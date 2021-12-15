@@ -32,28 +32,28 @@ Systeemgegenereerde, unieke ID van de persoon toegewezen bij het maken van de va
 **Naam**
 Naam van de persoon toegewezen bij het maken van de vacature
 
-Huidige status goedkeuring
+**Huidige status goedkeuring**
 y = goedgekeurd, n = niet goedgekeurd, In afwachting van reactie = goedkeuring aangevraagd maar nog niet goedgekeurd, blanco = geen goedkeuring aangevraagd
 
-Approved by (Goedgekeurd door)
+**Approved by (Goedgekeurd door)**
 Naam van de persoon die de vacature goedgekeurd heeft indien gebruik gemaakt wordt van goedkeuringen
 
-Date Approved (Datum goedgekeurd)
+**Date Approved (Datum goedgekeurd)**
 Datum waarop de vacature goedgekeurd is indien gebruik gemaakt wordt van goedkeuringen
 
-Afdelingsnaam
+**Afdelingsnaam**
 Naam van de afdeling waarvoor de vacature gemaakt is. Indien deze gekoppeld is aan meer dan één afdeling, dan worden alle afdelingen weergegeven met een scheidingsteken
 
-Department ID (Afdelings-ID)
+**Department ID (Afdelings-ID)**
 Systeemgegenereerde afdelings-ID van de afdeling waarvoor de vacature gemaakt is. Indien deze gekoppeld is aan meer dan één afdeling, dan worden alle afdelingen weergegeven met een scheidingsteken
 
-Contactpersonen
+**Contactpersonen**
 Naam van de contactpersonen die toegevoegd zijn aan de vacature
 
-Land
+**Land**
 Land dat geselecteerd is voor de vacature
 
-Regio
+**Regio**
 Regio's die geselecteerd zijn voor de vacature
 
 **Profielvraag**
@@ -72,5 +72,5 @@ Regio's die geselecteerd zijn voor de vacature
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNTkyNzU5XX0=
+eyJoaXN0b3J5IjpbMTI0MTQwNjcxMV19
 -->
