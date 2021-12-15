@@ -70,57 +70,57 @@ EasyCruit stöder flera publiceringsperioder som kan väljas av användaren. Som
 
 <LogoURL>Fullständig URL till uppladdad logotyp</LogoURL>
 
-<VacancyURL>URL till annons</VacancyURL>
+< VacancyURL>URL till annons</VacancyURL>
 
-<ApplicationURL>URL till ansökningsformulär</ApplicationURL>
+< ApplicationURL>URL till ansökningsformulär</ApplicationURL>
 
-</Department>
+< /Department>
 
-</Departments>
+< /Departments>
 
-</Vacancy>
+< /Vacancy>
 
 #### Annons XML
 
 Förutom ovanstående variabler är finns dessa variabler för platsannonsen.
 
-<Description>Annonstext i html-format ingår</Description>
+< Description>Annonstext i html-format ingår< /Description>
 
-<About>Avdelning, inledning i html-format</About>
+< About>Avdelning, inledning i html-format< /About>
 
-<PrivacyPolicy>Avdelning, integritetspolicy i html-format</PrivacyPolicy>
+< PrivacyPolicy>Avdelning, integritetspolicy i html-format< /PrivacyPolicy>
 
-<Address type="postal">(Avdelningens postadress)
+< Address type="postal">(Avdelningens postadress)
 
-<Street>Gatuadress/nummer</Street>
+< Street>Gatuadress/nummer< /Street>
 
-<Area>Ort</Area>
+< Area>Ort< /Area>
 
-<AreaCode>Postnummer</AreaCode>
+< AreaCode>Postnummer< /AreaCode>
 
 </ Address>
 
 < Address type="office">(Avdelningens besöksadress)
 
-< Street>Gatuadress/nummer</Street>
+< Street>Gatuadress/nummer< /Street>
 
-< Area>Ort</Area>
+< Area>Ort< /Area>
 
-< AreaCode>Postnummer</AreaCode>
+< AreaCode>Postnummer< /AreaCode>
 
 < /Address>
 
 < Telephone type="office">Telefon</ Telephone>
 
-<Telephone type="telefax">Fax</Telephone>
+< Telephone type="telefax">Fax< /Telephone>
 
-<ContactPersons>
+< ContactPersons>
 
-<ContactPerson>
+< ContactPerson>
 
-<CommonName>Kontaktpersonens namn</CommonName>
+< CommonName>Kontaktpersonens namn< /CommonName>
 
-<Email>Kontaktpersonens e-postadress om den är publicerad</Email>
+< Email>Kontaktpersonens e-postadress om den är publicerad< /Email>
 
 < Telephone type="office">Kontaktpersonens telefonnummer< /Telephone>
 
@@ -167,5 +167,5 @@ Annons:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NzA3NTI3XX0=
+eyJoaXN0b3J5IjpbNzgzODU2NzU1XX0=
 -->
