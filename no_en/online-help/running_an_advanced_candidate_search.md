@@ -8,7 +8,7 @@
 6.  Click  Refine  to provide a total for  Current number of hits  and then continue to narrow the search if required.
 7.  Click  View search result  to display the matching candidates.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Saved Searches
+#### Saved Searches
 
 Saved searches enable complicated advanced search criteria to be easily reused. New searches can be saved and existing searches can be updated.
 
@@ -39,5 +39,5 @@ Saved searches enable complicated advanced search criteria to be easily reused. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzI2ODQ1NV19
+eyJoaXN0b3J5IjpbLTk4OTcyMDUxNl19
 -->
