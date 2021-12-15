@@ -10,53 +10,29 @@ The toolbar provides access to most of the editor functions and commands. The bu
 
 The toolbar options are as follows:
 
-Button
+Button - Description
 
-Description
+![](../Resources/Images/bold.jpg) - Bold text style (CTRL + B)
 
-![](../Resources/Images/bold.jpg)
+![](../Resources/Images/italic.jpg) - Italic text style (CTRL + I)
 
-Bold text style (CTRL + B)
+![](../Resources/Images/underlined.jpg) - Underline text style (CTRL + U)
 
-![](../Resources/Images/italic.jpg)
+![](../Resources/Images/strike.jpg) - Strike through text style
 
-Italic text style (CTRL + I)
+![](../Resources/Images/align_left.jpg) - Align left
 
-![](../Resources/Images/underlined.jpg)
+![](../Resources/Images/align_centre2.jpg) - Align centre
 
-Underline text style (CTRL + U)
+![](../Resources/Images/align_right.jpg) - Align right
 
-![](../Resources/Images/strike.jpg)
+![](../Resources/Images/align_centre.jpg) - Align justified
 
-Strike through text style
+![](../Resources/Images/format.jpg) - Format list. Contains a list of pre-formatted font styles
 
-![](../Resources/Images/align_left.jpg)
+![](../Resources/Images/font_family.jpg) - Font family. Provides a number of different fonts, including those to enable double-byte character languages, such as Simplified Chinese, to be displayed correctly
 
-Align left
-
-![](../Resources/Images/align_centre2.jpg)
-
-Align centre
-
-![](../Resources/Images/align_right.jpg)
-
-Align right
-
-![](../Resources/Images/align_centre.jpg)
-
-Align justified
-
-![](../Resources/Images/format.jpg)
-
-Format list. Contains a list of pre-formatted font styles
-
-![](../Resources/Images/font_family.jpg)
-
-Font family. Provides a number of different fonts, including those to enable double-byte character languages, such as Simplified Chinese, to be displayed correctly
-
-![](../Resources/Images/font_size.jpg)
-
-Font size list
+![](../Resources/Images/font_size.jpg) - Font size list
 
 ![](../Resources/Images/font_color.jpg) - Font color. Selecting the dropdown arrow provides a color picker to select from and also enables you to select custom colors
 
@@ -176,5 +152,5 @@ Changes can be made to the text in the WYSIWYG editor using the Find and Replace
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk3NzM5NjddfQ==
+eyJoaXN0b3J5IjpbMTA4NjM2MDI4OV19
 -->
