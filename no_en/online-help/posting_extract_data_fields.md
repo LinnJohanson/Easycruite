@@ -2,68 +2,52 @@
 
 The following table describes the fields used in the Post extract.
 
-Field Name
-
+**Field Name**
 Description
 
-Channel
-
+**Channel**
 Name of the channel vacancy was posted to
 
-Vacancy ID
-
+**Vacancy ID**
 Unique ID of the project/ vacancy, system generated
 
-Vacancy Reference Number
-
+**Vacancy Reference Number**
 Reference number of the vacancy if used
 
-Vacancy Title
-
+**Vacancy Title**
 Internal vacancy title, which can be amended at any time. Not the title given in the job advertisement
 
-Number of Applicants
-
+**Number of Applicants**
 Total number of applicants from the channel against the vacancy
 
-Hired Candidates
-
+**Hired Candidates**
 Total number of hired candidates from the channel against the vacancy
 
-Cost of Publication
-
+**Cost of Publication**
 Cost of the publication if entered against the channel
 
-First Date Published
-
+**First Date Published**
 The latest 'from' date that the vacancy was posted to the channel
 
-Last Date Published
-
+**Last Date Published**
 The latest 'to' date that the vacancy was posted to the channel
 
-Employment Type
-
+**Employment Type**
 Criteria selected when posting the vacancy
 
-Working Days
-
+**Working Days**
 Criteria selected when posting the vacancy
 
-Working Hours
-
+**Working Hours**
 Criteria selected when posting the vacancy
 
-Position Type
-
+**Position Type**
 Criteria selected when posting the vacancy
 
-Job Level
-
+**Job Level**
 Criteria selected when posting the vacancy
 
-Industry Sector
-
+**Industry Sector**
 Criteria selected when posting the vacancy
 
 ##### See also:
@@ -77,5 +61,5 @@ Criteria selected when posting the vacancy
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc5NTQxN119
+eyJoaXN0b3J5IjpbODkyMDIxMzE1XX0=
 -->
