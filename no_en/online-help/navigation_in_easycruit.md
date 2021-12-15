@@ -32,67 +32,43 @@ Help/Support
 
 The question mark takes you to the help pages.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Content pane
+#### Content pane
 
-Icon
+Icon - Description
 
-Description
+![](../Resources/Images/new_vacancy.jpg) - New vacancy
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vacancy list
 
-New vacancy
+![](../Resources/Images/recruitment_calendar.jpg) - Recruitment calendar
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/employees.jpg) - Employees
 
-Vacancy list
+![](../Resources/Images/search.jpg) - Search
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/add_candidate.jpg) - Add candidate
 
-Recruitment calendar
+![](../Resources/Images/deleted_applications.jpg) - Deleted applications
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/reports.jpg) - Reports
 
-Employees
+![](../Resources/Images/guidelines.jpg) - Guidelines
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Candidates to be deleted
 
-Search
-
-![](../Resources/Images/add_candidate.jpg)
-
-Add candidate
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Deleted applications
-
-![](../Resources/Images/reports.jpg)
-
-Reports
-
-![](../Resources/Images/guidelines.jpg)
-
-Guidelines
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Candidates to be deleted
-
-![](../Resources/Images/stored_applications.jpg)
-
-Stored applications
+![](../Resources/Images/stored_applications.jpg) - Stored applications
 
 The top of the  Content Pane  displays changing text information that corresponds to the task a user is performing.
 
 From the  Start page  and the  Settings page, selecting icons will take you to the overview page for that subject. The available icons depend on the user's access level.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Quick Link Menus
+#### Quick Link Menus
 
 My Projects  lists the last ten vacancies you have viewed.  My Expired Vacancies  lists your last ten expired vacancies. Beneath this are quick search links for finding an applicant by searching for their name or User CV ID.  My Requested Documents  provides links to requested documents and search templates if you have previously accessed these.
 
 Selecting one of the vacancies displayed in  My Projects  or  My Expired Vacancies  takes the user to the  Application Handling  page for that vacancy.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Accessing the Workspace
+#### Accessing the Workspace
 
 Access to the workspace and its functions is dependent on a user's access right level. The objects that are accessible on the  Start page  and those on the  Settings page  can be configured using the four standard user levels or can be as highly customized as your organization requires.
 
@@ -100,71 +76,39 @@ The following examples for a standard complete user and a standard limited user 
 
 #### Complete user
 
-Icon
+Icon - Description
 
-Description
+![](../Resources/Images/new_vacancy.jpg) - New vacancy
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vacancy list
 
-New vacancy
+![](../Resources/Images/recruitment_calendar.jpg) - Recruitment calendar
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/employees.jpg) - Employees
 
-Vacancy list
+![](../Resources/Images/search.jpg) - Search
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/add_candidate.jpg) - Add candidate
 
-Recruitment calendar
+![](../Resources/Images/deleted_applications.jpg) - Deleted applications
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/reports.jpg) - Reports
 
-Employees
+![](../Resources/Images/guidelines.jpg) - Guidelines
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Candidates to be deleted
 
-Search
-
-![](../Resources/Images/add_candidate.jpg)
-
-Add candidate
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Deleted applications
-
-![](../Resources/Images/reports.jpg)
-
-Reports
-
-![](../Resources/Images/guidelines.jpg)
-
-Guidelines
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Candidates to be deleted
-
-![](../Resources/Images/stored_applications.jpg)
-
-Stored applications
+![](../Resources/Images/stored_applications.jpg) - Stored applications
 
 #### Limited user
 
-Icon
+Icon - Description
 
-Description
+![](../Resources/Images/new_vacancy.jpg) - New vacancy
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Vacation list
 
-New vacancy
-
-![](../Resources/Images/vacancy_list.jpg)
-
-Vacation list
-
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Recruitment calendar
+![](../Resources/Images/recruitment_calendar.jpg) - Recruitment calendar
 
 ![](../Resources/Images/add_candidate.jpg) - Add candidate
 
@@ -194,5 +138,5 @@ To learn more about user access levels refer to  [Access Control](access_control
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzE5MDkzNF19
+eyJoaXN0b3J5IjpbLTE5MjcxMTU3MDFdfQ==
 -->
