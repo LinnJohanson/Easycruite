@@ -80,52 +80,52 @@ Candidate's response to this question if asked
 **Town/City**
 Candidate's response to this question if asked
 
-City
+**City**
 Candidate's response to this question if asked
 
-Nationality
+**Nationality**
 Candidate's response to this question if asked
 
-Received Job Offer
+**Received Job Offer**
 Date when the application status was set to 'Job Offer'
 
-Current Job
+**Current Job**
 Candidate's response to this question if asked
 
-Employer
+**Employer**
 Candidate's response to this question if asked
 
-Date Telephone Interview
+**Date Telephone Interview**
 Latest date when this interview was scheduled to take place
 
-Date First Interview
+**Date First Interview**
 Latest date when this interview was scheduled to take place
 
-Date Second Interview
+**Date Second Interview**
 Latest date when this interview was scheduled to take place
 
-Date Third Interview
+**Date Third Interview**
 Latest date when this interview was scheduled to take place
 
-Date Phone Interview Invite
+**Date Phone Interview Invite**
 Latest date when the application status changed to 'Interview'
 
-Date First Interview Invite
+**Date First Interview Invite**
 Latest date when the application status changed to 'Interview'
 
-Date Second Interview Invite
+**Date Second Interview Invite**
 Latest date when the application status changed to 'Interview'
 
-Date Third Interview Invite
+**Date Third Interview Invite**
 Latest date when the application status changed to 'Interview'
 
-Date Panel Review
+**Date Panel Review**
 Latest date when the application status changed to 'Panel Review'
 
-Date of Job Offer
+**Date of Job Offer**
 Latest date when the application status changed to 'Job Offer'
 
-Date
+**Date**
 Latest date when the application status changed to the custom status 1 (NB heading would change based on the name of the custom status the customer has)
 
 ##### See also:
@@ -139,5 +139,5 @@ Latest date when the application status changed to the custom status 1 (NB headi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzMyODk1NV19
+eyJoaXN0b3J5IjpbLTYzMzk0Mzk5NV19
 -->
