@@ -336,52 +336,64 @@ Email Channel Posting
 **{contact-persons} - Contact Person(s)**
 Email Channel Posting
 
-{customer-name} - Customer Name
+**{customer-name} - Customer Name**
 - Application Received
 - Registration Received
 - Copy of Application
 - Rejection Following Application Review
 - Automatic Rejection
--
-Invitation to Initial 1st 2nd and 3rd Meeting
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- New User Email
+ - Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- Request for vacancy approval
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Email Signatures
 
-Rejection after Initial 1st 2nd and 3rd Meeting
+**{cv} - Attaches CV**
+- Associate Candidate Ranking
+- Copy of Application
 
-Confirmation of Username
+**{date} - Date when vacancy will expire**
+Vacancy Expiry Warning
 
-Details Transferred to CV Database
+**{days} - Number of days in advance you want to be notified**
+Vacancy Expiry Warning
 
-New User Email
-
-Invite to Send/Update CV Employee
-
-Forward Application
-
-Invitation to MINT Matrigma and Service-F tests
-
-cut-e Report
-
-Job Agent alert
-
-Request for vacancy approval
-
-Employment Contract
-
-Send to a Friend Vacancy
-
-Portable CV
-
-Review of candidate
-
-Letter of application received/rejected
-
-SHL and cut-e Assessment invite
-
-Custom Email
-
-Email Signatures
-
+{department-disclaimer} - Department disclaimer text
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Request for vacancy approval
+- New User Email
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Custom Email
+- Email Signatures
+ Application Saved
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkzNDQ0NjVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTY3NTAxMDddfQ==
 -->
