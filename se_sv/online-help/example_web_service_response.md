@@ -126,65 +126,65 @@
 
 <Duration type="hours">100</Duration>
 
-</Certification>
+< /Certification>
 
-</Certifications>
+< /Certifications>
 
-<References>
+< References>
 
-<Reference id="3686853">
+< Reference id="3686853">
 
-<CompanyName>Företagsnamn</CompanyName>
+< CompanyName>Företagsnamn</CompanyName>
 
-<PersonName>Namn</PersonName>
+< PersonName>Namn</PersonName>
 
-<ContactInfo>123456</ContactInfo>
+< ContactInfo>123456</ContactInfo>
 
-</Reference>
+< /Reference>
 
-</References>
+< /References>
 
-<Competencies name="IT Knowledge">
+< Competencies name="IT Knowledge">
 
-<Competency id="12018913">
+< Competency id="12018913">
 
-<Name>Officepaketet</Name>
+< Name>Officepaketet< /Name>
 
-<Level id="3">2. Advanced student</Level>
+< level id="3">2. Advanced student< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Language">
+< Competencies name="Language">
 
-<Competency id="21575765">
+< Competency id="21575765">
 
-<Name iso="SE" id="204">Swedish</Name>
+< Name iso="SE" id="204">Swedish</Name>
 
-<Level type="speaking" id="3">Native speaker</Level>
+< Level type="speaking" id="3">Native speaker</Level>
 
-<Level type="reading" id="3">Native speaker</Level>
+< Level type="reading" id="3">Native speaker< /Level>
 
-<Level type="writing" id="3">Native speaker</Level>
+< Level type="writing" id="3">Native speaker< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Driverlicense">
+< Competencies name="Driverlicense">
 
-<Competency id="6315595"><Name id="1">Personbil</Name>
+< Competency id="6315595">< Name id="1">Personbil< /Name>
 
-<Level type="date">1995</Level>
+< Level type="date">1995< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Personality>
+< Personality>
 
- <Trait id="22"/><Trait id="31"/><Trait id="1"/><Trait id="4"/>
+ < Trait id="22"/>< Trait id="31"/>< Trait id="1"/>< Trait id="4"/>
 
 < /Personality>
 
@@ -231,5 +231,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3NjY5NzczXX0=
+eyJoaXN0b3J5IjpbLTQ1ODIyMzQ1XX0=
 -->
