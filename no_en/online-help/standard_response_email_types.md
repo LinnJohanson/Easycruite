@@ -75,113 +75,86 @@ Email that is manually sent to candidates, telling them they will not be progres
 Rejection following 3rd interview (1)
 
 Email that is manually sent to candidates, telling them they will not be progressing any further in the application progress.
-
-Other
-
+***
+**Other**
 Description
 
-Save and Send Username
-
+**Save and Send Username**
 Email sent to candidates informing them that their details are stored in the application database and that they can login with their username and password and change their details.
 
-Transfer of candidates not hired to the application database
-
+**Transfer of candidates not hired to the application database**
 Email sent to candidates who were not successful with their application. Contains their username and password and invites them to apply for other positions.
 
-Invite employee to submit CV
-
+**Invite employee to submit CV**
 Email sent to internal employees, inviting them to login to the company's candidate website and ensure their details are up to date.
 
-Forward application (1)
-
+**Forward application (1)**
 Email forwarded to relevant contacts, containing an applicant's CV and application.
 
-Save and Send Username
-
+**Save and Send Username**
 Email sent to candidates informing them that their details are stored in the application database and that they can log in with their username and password and change their details.
 
-Invitation to Service-F
-
+**Invitation to Service-F**
 Email invitations sent to applicants for the Service-F test.
 
-Invitation to Matrigma test
-
+**Invitation to Matrigma test**
 Email invitations sent to applicants for the Matrigma test.
 
-Invitation to 16PF test
-
+**Invitation to 16PF test**
 Email invitations sent to applicants for the 16PF test.
 
-Invitation to MINT test
-
+**Invitation to MINT test**
 Email invitations sent to applicants for the MINT test.
 
-cut-e candidate report
-
+**cut-e candidate report**
 Invitation sent to a candidate who has completed a cut-e assessment test.
 
-JobAgent
-
+**JobAgent**
 Email sent to a candidate containing information on current job matches.
 
-Notification to non-updated candidates
-
+**Notification to non-updated candidates**
 Email sent to candidates that have not updated their CV over a chosen period of time, inviting them to login to the candidate website and update their details.
 
-Notification to candidates to be deleted that have login
-
+**Notification to candidates to be deleted that have login**
 Email sent to candidates with a login that have not been active for a specified amount of time.
 
-Notification to candidates to be deleted that have no login
-
+**Notification to candidates to be deleted that have no login**
 Email sent to candidates with a login that have not been active for a specified amount of time.
 
-Pending further action report (1)
-
+**Pending further action report (1)**
 Email sent to relevant contacts, containing details on candidates who have not been active over a designated period for a specific vacancy.
 
 Associate candidate ranking
-
 Email sent to relevant contacts, asking them to provide their feedback on the quality of a candidate. This includes a link to where they can score the candidate.
 
 New user notification
-
 Email sent to new users containing a username and password for logging in to EasyCruit.
 
 Approving of vacancy
-
 Email sent to submit a vacancy for approval. This email is sent to the users designated as approvers for a vacancy
 
 Vacancy expire alert (1 , 2)
-
 Email sent to recruiters a designated number of days before a vacancy expires. This provides the recruiter with time to extend the expiration date if required.
 
 Password retrieval email
-
 Email sent to users who have made a password request.
 
 Contract email
-
 Email sent to candidates who are being made a contract offer.
 
 Send to a friend email
-
 Email used to enable candidates to email vacancies to their friends.
 
 Portable CV
-
 Email used to send a Portable CV.
 
 Auto update to saved
-
 Auto update the candidate's type from Candidate to Saved.
 
 Sends email to have candidates reviewed
-
 Email to panel review recipients requesting them to rate and/or comment.
 
 Sends email back to recruiter of confirmation of review
-
 Notification to recruiter for each completed panel review.
 ***
 **Letter**
@@ -232,5 +205,5 @@ This section must be activated by your EasyCruit consultant. Once it is activate
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjE2NDc5Nl19
+eyJoaXN0b3J5IjpbLTcyNzkyMDg5Ml19
 -->
