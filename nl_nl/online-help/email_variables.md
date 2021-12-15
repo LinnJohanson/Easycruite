@@ -833,28 +833,39 @@ Uitnodiging voor MINT, Matrigma en Service-F tests
 - Werknemer uitnodigen om cv te uploaden / bij te werken
 - Sollicitatie forwarden
 - 
-{unsubscribe-click-here} - Voegt hier de tekst voor Hier afmelden in
+**{unsubscribe-click-here} - Voegt hier de tekst voor Hier afmelden in**
 Job-alert
 
-{unsubscribe-link}
-
-Voegt de link bij de tekst voor Hier afmelden in
-
+**{unsubscribe-link} - Voegt de link bij de tekst voor Hier afmelden in**
 Job-alert
 
-{url}
+**{url} - URL voor herstellen wachtwoord**
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
 
-URL voor herstellen wachtwoord
 
-Bevestiging van gebruikersnaam
+{user-cellular-telephone}
 
-Gegevens verplaatst naar cv-database
+Mobiel telefoonnummer gebruiker
 
-Werknemer uitnodigen om cv te uploaden / bij te werken
+E-mail plaatsingskanaal
+
+{user-family-name}
+
+Achternaam gebruiker
+
+E-mail plaatsingskanaal
+
+{user-given-name}
+
+Voornaam gebruiker
+
+E-mail plaatsingskanaal
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjIzODgzNjAsLTE5MTczNjA3OTMsLT
-QxMzc4OTEzLDE0ODQ5MTQyNjQsLTE3Mjc4Mjc1MywxNTc3NDcz
-NzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMxNiwyMjg5ODk0NjUsMT
-Q1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbMTE0NTk4OTg0MywtMTkxNzM2MDc5MywtND
+EzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUzLDE1Nzc0NzM3
+NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyODk4OTQ2NSwxND
+UwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
 -->
