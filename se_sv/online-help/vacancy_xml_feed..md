@@ -14,21 +14,21 @@ EasyCruit stöder flera publiceringsperioder som kan väljas av användaren. Som
 
 #### Att lista i XML
 
-<Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
+< Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
 
-<Versions>
+< Versions>
 
-<Version language="en"> (Annonsens språk t.ex. da, sv, gb, osv.)
+< Version language="en"> (Annonsens språk t.ex. da, sv, gb, osv.)
 
-<Title>Obligatorisk rubrik</Title>
+< Title>Obligatorisk rubrik< /Title>
 
-<TitleHeading>Ej obligatorisk underrubrik</TitleHeading>
+< TitleHeading>Ej obligatorisk underrubrik< /TitleHeading>
 
-<AlternativeCompanyName>Företagsnamn</AlternativeCompanyName>
+< AlternativeCompanyName>Företagsnamn< /AlternativeCompanyName>
 
-<ApplicationDeadline>Fritextfält med sista ansökningsdag</ApplicationDeadline>
+< ApplicationDeadline>Fritextfält med sista ansökningsdag< /ApplicationDeadline>
 
-<Location>Fritextfält med placeringsort</Location>
+< Location>Fritextfält med placeringsort< /Location>
 
 < Engagement>Fritextfält med anställningstid</ Engagement>
 
@@ -36,43 +36,43 @@ EasyCruit stöder flera publiceringsperioder som kan väljas av användaren. Som
 
 < Country id="xx" name="Sweden"> (Land där jobbet finns)
 
-<County id="xxx">Region i det valda landet</County>
+< County id="xxx">Region i det valda landet< /County>
 
-</Country>
+< /Country>
 
-</Region>
+< /Region>
 
 < Categories>
 
-< Item type="area-of-interest" id="xxx">Intresseområde</Item>
+< Item type="area-of-interest" id="xxx">Intresseområde< /Item>
 
-< Item type="position-type" id="xxx">Jobbkategori</Item>
+< Item type="position-type" id="xxx">Jobbkategori< /Item>
 
-<Item type="job-level" id="xxx">Nivå</Item>
+< Item type="job-level" id="xxx">Nivå< /Item>
 
-<Item type="duration" id="xxx">Varaktighet</Item>
+< Item type="duration" id="xxx">Varaktighet< /Item>
 
-<Item type="extent" id="xxx">Omfattning</Item>
+< Item type="extent" id="xxx">Omfattning< /Item>
 
-<Item type="operating-time" id="xxx">Driftstid</Item>
+< Item type="operating-time" id="xxx">Driftstid< /Item>
 
-</Categories>
+< /Categories>
 
-</Version>
+< /Version>
 
-</Versions>
+< /Versions>
 
-<Departments>
+ < Departments>
 
-<Department id="xxx">
+< Department id="xxx">
 
-<Name>Avdelningsnamn</Name>
+< Name>Avdelningsnamn< /Name>
 
-<LogoURL>Fullständig URL till uppladdad logotyp</LogoURL>
+<LogoURL>Fullständig URL till uppladdad logotyp< /LogoURL>
 
-< VacancyURL>URL till annons</VacancyURL>
+< VacancyURL>URL till annons< /VacancyURL>
 
-< ApplicationURL>URL till ansökningsformulär</ApplicationURL>
+< ApplicationURL>URL till ansökningsformulär< /ApplicationURL>
 
 < /Department>
 
@@ -167,5 +167,5 @@ Annons:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzODU2NzU1XX0=
+eyJoaXN0b3J5IjpbODIzODIzMDAxXX0=
 -->
