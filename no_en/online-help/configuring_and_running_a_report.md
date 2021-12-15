@@ -13,19 +13,16 @@
 3.  Click  Activate column editor  then click X next to the column to remove from the report or select a value from the list and click  Add  to add it to the report.
     
 
-See also:
+##### See also:
 
 [Data Extract](data_extract.htm)
-
 [Export Templates](export_templates.htm)
-
 [Guide for Users - Reports](guide_for_users_reports.htm)
-
 [Candidate Report](candidate_report.htm)
 [Applicant List Report](applicant_list_report.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTU1NTkwMl19
+eyJoaXN0b3J5IjpbMTY1NjEwNzY2NV19
 -->
