@@ -845,19 +845,12 @@ Invitation to MINT, Matrigma and Service-F tests
 **{unsubscribe-link} - Provides the link for the Unsubscribe Here text**
 Job Agent alert
 
-{url}
+{url} - URL for recovering password
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
 
-URL for recovering password
-
-Confirmation of Username
-
-Details Transferred to CV Database
-
-Invite to Send/Update CV Employee
-
-{user-cellular-telephone}
-
-User's Mobile Phone Number
+{user-cellular-telephone - User's Mobile Phone Number
 
 Email Channel Posting
 
@@ -874,6 +867,6 @@ User's First Name
 Email Channel Posting
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTcxODI0MSwtMTUxNDMxNDIxNiwxMD
-MzMzM2NTJdfQ==
+eyJoaXN0b3J5IjpbMTQ1MDI4NjI4MSwxMzc1NzE4MjQxLC0xNT
+E0MzE0MjE2LDEwMzMzMzY1Ml19
 -->
