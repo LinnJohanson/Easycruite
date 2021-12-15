@@ -2,7 +2,7 @@
 
 Als een sollicitant of prospect rechtstreeks contact opneemt met de recruiter via e-mail of per brief, dan moet deze handmatig ingevoerd worden in het systeem.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van het type Kandidaat
+#### Toevoegen van het type Kandidaat
 
 Sollicitaties die handmatig ingestuurd worden, zoals van sollicitanten die hun sollicitatie gemaild hebben buiten EasyCruit om, moeten door de recruiter toegevoegd worden in het systeem. Met de functie  Kandidaat toevoegen  kunnen recruiters handmatig een kandidaat toevoegen aan een vacature in EasyCruit. De functie kan ook gebruikt worden om andere types kandidaten toe te voegen, zoals prospects en werknemers. Voor meer informatie over types kandidaten, zie  [Types kandidaten](candidate_types.htm).
 
@@ -18,7 +18,7 @@ Sollicitaties die handmatig ingestuurd worden, zoals van sollicitanten die hun s
     Klik op  Opslaan  en ga naar vacature  om naar de pagina  Sollicitatie & cv  te gaan van de vacature waaraan de kandidaat toegevoegd is.  
     Als aan de kandidaat een gebruikersnaam en wachtwoord voor de vacaturewebsite gegeven is, dan mag de recruiter de gegevens van de kandidaat niet meer bewerken, tenzij hier expliciet om verzocht wordt.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van het type Werknemer
+#### Toevoegen van het type Werknemer
 
 1.  Selecteer op de  Startpagina  Kandidaat toevoegen.
 2.  Selecteer  Werknemer in de lijst  Type kandidaat.
@@ -28,7 +28,7 @@ Sollicitaties die handmatig ingestuurd worden, zoals van sollicitanten die hun s
     Welke informatie verplicht is, is afhankelijk van de configuratie van uw organisatie.
 6.  Klik op de laatste pagina op  Opslaan  om het proces te voltooien en terug te keren naar de pagina  Kandidaat toevoegen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van het type Prospect
+#### Toevoegen van het type Prospect
 
 1.  Selecteer op de  Startpagina  Kandidaat toevoegen.
 2.  Selecteer  Prospect  in de lijst  Type kandidaat.
@@ -40,7 +40,7 @@ Sollicitaties die handmatig ingestuurd worden, zoals van sollicitanten die hun s
     - of -  
     Klik op  Opslaan en ga naar vacature  om naar de pagina  Sollicitatie & cv  van de vacature te gaan.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Toevoegen van het type Opgeslagen
+#### Toevoegen van het type Opgeslagen
 
 1.  Selecteer op de  Startpagina  Kandidaat toevoegen.
 2.  Selecteer  Opgeslagen  in de lijst  Type kandidaat.
@@ -48,7 +48,7 @@ Sollicitaties die handmatig ingestuurd worden, zoals van sollicitanten die hun s
 4.  Voer de  Persoonlijke gegevens  en overige informatie van de persoon in.
 5.  Klik op  Opslaan  als u klaar bent om terug te keren naar de pagina  Kandidaat toevoegen.
 
-#Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Aanmaken van een nieuwe vacature](creating_a_new_vacancy.htm)
 ![](../Resources/Images/icon-document-link.png)  [Toevoegen van werknemers](adding_employees.htm)
@@ -59,5 +59,5 @@ Sollicitaties die handmatig ingestuurd worden, zoals van sollicitanten die hun s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjMxOTE2NTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjYwNzkyMjFdfQ==
 -->
