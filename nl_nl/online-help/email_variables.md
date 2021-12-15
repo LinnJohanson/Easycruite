@@ -934,15 +934,13 @@ Niet gebruikt (bestaat niet in broncode)
 ##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [E-mailtypes](standard_response_email_types.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Afmelden voor job-alerts](unsubscribe_from_job_agent.htm)
-
 ![](../Resources/Images/icon-document-link.png)  [Tabblad Wervingsacties](recruitment_activities_list_tab.htm)
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY5NzYzNTkxLDkwNDQzNDA4Myw4MzQwMD
-I3NDAsLTE5MTczNjA3OTMsLTQxMzc4OTEzLDE0ODQ5MTQyNjQs
-LTE3Mjc4Mjc1MywxNTc3NDczNzU4LDExNTY2MDQ2OTcsLTE1ND
-M0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDks
-LTgyNjE1MjgwM119
+eyJoaXN0b3J5IjpbLTYxMjE1NDQyNSw5MDQ0MzQwODMsODM0MD
+AyNzQwLC0xOTE3MzYwNzkzLC00MTM3ODkxMywxNDg0OTE0MjY0
+LC0xNzI3ODI3NTMsMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNT
+QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
+LC04MjYxNTI4MDNdfQ==
 -->
