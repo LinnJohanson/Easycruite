@@ -2,7 +2,7 @@
 
 All the users of the system use the same URL to gain access and their access right levels determine what functionality they have once logged in.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Logging in to EasyCruit
+#### Logging in to EasyCruit
 
 1.  To access the Backend login page, type  easycruit.com  in the address bar at the top of your Web browser.
 2.  Enter the  Company,  Username  and  Password  details as supplied by your system administrator.
@@ -10,7 +10,7 @@ All the users of the system use the same URL to gain access and their access rig
 
 Login details are case sensitive; if you receive a  Login failed  message ensure that  Caps Lock  is not on
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Logging Out of EasyCruit
+#### Logging Out of EasyCruit
 
 1.  Click icon  Logout  in the header to log out of the system and return to the  Login page.
 
@@ -33,5 +33,5 @@ If EasyCruit is idle for 30 minutes the system automatically logs the user out.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjgzNzg5M119
+eyJoaXN0b3J5IjpbODUyNjIwOTkzLC01NzY4Mzc4OTNdfQ==
 -->
