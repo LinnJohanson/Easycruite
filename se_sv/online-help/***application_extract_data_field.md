@@ -66,22 +66,22 @@ Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.
 Kandidatens svar på den här frågan om tillfrågad
 
 **Efternamn**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Postnummer**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Land**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Län**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Ort**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Nationalitet**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Fått jobberbjudande**
 *Det datum då ansökningsstatus blev ”Jobberbjudande”*
@@ -127,5 +127,5 @@ Kandidatens svar på den här frågan om tillfrågad
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDAzNTU3OSwtMTE3NTY4MjMxOV19
+eyJoaXN0b3J5IjpbNTc1MDAzMDA1LC0xMTc1NjgyMzE5XX0=
 -->
