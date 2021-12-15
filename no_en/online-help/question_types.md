@@ -28,31 +28,31 @@ Multiple - No
 *System values*
 Single - No
 
-HTML Formatted Text
-None
+**HTML Formatted Text**
+*None*
 N/A - No
 
-Text Area
-Free text
+**Text Area**
+*Free text*
 Single - No
 
-Textbox
-Free text
+**Textbox**
+*Free text*
 Single - No
 
-Country
-Custom values
+**Country**
+*Custom values*
 Single - No
 
-Country Dropdown Multiple
-Custom values
+**Country Dropdown Multiple**
+*Custom values*
 Multiple - No
 
-Date
-Custom values
+**Date**
+*Custom values*
 Single - No
 
-Heading
+**Heading**
 None
 N/A - No
 
@@ -66,5 +66,5 @@ Single - No
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDU3OTQwOSwxMTMxOTEyNDM1XX0=
+eyJoaXN0b3J5IjpbLTEzMTYxODM1NzEsMTEzMTkxMjQzNV19
 -->
