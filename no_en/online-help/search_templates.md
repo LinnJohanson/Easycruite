@@ -6,7 +6,7 @@ For example, the  Work Experience  section of the search templates provides the 
 
 For information on running searches refer to  [Searching for Candidates](../getting-started/searching_for_candidates.htm).
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Creating a Search Template
+#### Creating a Search Template
 
 1.  From the  Toolbar  click  Settings  then  Search Template.
 2.  To create a brand new search template, ensure the  Choose Search Template  list is set to  Select  
@@ -18,7 +18,7 @@ For information on running searches refer to  [Searching for Candidates](../gett
     For each section that has had search parameters selected, a red asterisk is placed in the heading row.
 6.  Click  Save Template  to save the new template.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Editing an Existing Search Template
+#### Editing an Existing Search Template
 
 1.  From the  Toolbar  click  Settings  then  Search Templates.
 2.  Select the template to be edited from the  Choose Search Template  list.
@@ -27,20 +27,20 @@ For information on running searches refer to  [Searching for Candidates](../gett
 4.  Select the required values for the search parameters.
 5.  Click  Update Template  to save the changes.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Deleting a Search Template
+#### Deleting a Search Template
 
 1.  From the  Toolbar  click  Settings  then  Search Templates.
 2.  Select the template to be deleted from the  Choose Search Template  list.
 3.  Click  Delete Template  then click  OK  when prompted to confirm the deletion.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Using Quick Links for Searching
+#### Using Quick Links for Searching
 
 1.  From the  Start  page click the plus icon to expand the  Quick Links to Search  box.
 2.  Click the required search item from the list of  Search Templates  or  Saved Searches  to display the advanced  Candidate Search  page.
 3.  Complete the search as required.  
     The Quick Links search option is not available by default and must be enabled in your system.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Search Criteria Considerations and Examples
+#### Search Criteria Considerations and Examples
 
 When setting up the search terms for search templates, there are a number of considerations that affect the results. If the expected search results are not being displayed, it could be due to the following issues:
 
@@ -50,7 +50,7 @@ Search terms must be a minimum of three characters in length and special charact
 
 There are a number of operators that can be included in the search criteria. This helps enable more focused searches and is made up of the following:
 
-.+ : A plus sign indicates that the following word must be present
+.**+** : A plus sign indicates that the following word must be present
 
 .**-** : A negative sign indicates that the following word must not be present
 
@@ -88,5 +88,5 @@ To illustrate the information above, the following examples show how different s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYwMzMzMDddfQ==
+eyJoaXN0b3J5IjpbMTE5NTI3Njk0MF19
 -->
