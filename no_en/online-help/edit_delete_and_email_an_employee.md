@@ -1,20 +1,20 @@
 # Edit, Delete and Email an Employee
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Editing an Employee
+#### Editing an Employee
 
 1.  From the  Start  page select  Employees.
 2.  Locate your required employee then click on the icon with a pencil in the  Edit  column for the employee that is to be modified.
 3.  The employees  Personal Details  can be edited, such as their department, sector, start dates and name, while the Overview information, such as uploaded files and additional questions are read only.
 4.  Click  Save  when the changes are complete.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Deleting an Employee
+#### Deleting an Employee
 
 1.  From the  Start  page, select  Employees.
 2.  Locate your required employee then click on the icon with a trashcan in the  Delete  column for the employee to be removed and click  OK  when prompted.
 3.  Click  Delete  on the following page to confirm the employee's deletion.  
     Note that if an employee was a candidate who was hired, when you delete the  Employee, they will become a  Candidate  again, and if you will need to then delete them as a  Candidate  also if you want to permanently delete them. Refer to  [Deleting a Candidate](deleting_an_applicant.htm).
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Emailing an Employee
+#### Emailing an Employee
 
 1.  From the  Start  page, select  Employees.
 2.  Locate your required employee and select the checkbox next to their name, then from the  Further Progress  list select one of the following and click  Execute:
@@ -35,5 +35,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMDA0ODg2XX0=
+eyJoaXN0b3J5IjpbMTExNDU0Mjc5M119
 -->
