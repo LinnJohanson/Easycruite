@@ -8,8 +8,8 @@ The table below provides a summary of each of the question types.
 *Available Answer*
 Selections - Screening
 
-Radio Buttons
-Custom values
+**Radio Buttons**
+*Custom values*
 Single - Yes
 
 Checkboxes
@@ -66,5 +66,5 @@ Single - No
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjAwOTY2OV19
+eyJoaXN0b3J5IjpbMTEzMTkxMjQzNV19
 -->
