@@ -740,10 +740,27 @@ Review of candidate
 - cut-e Report
 - Employment Contract
 - Letter of application received/rejected
+- Custom Email
 
-Custom Email
+**{processed-applicants] - Tag used to start report on processed applicants, Tag used to end report on processed applicants**
+Pending Further Action Report
+
+**{project} - Project**
+- Request for vacancy approval
+- Review of candidate
+- Vacancy Expiry Warning
+
+**{project-period-end} - Date when project ended**
+Pending Further Action Report
+
+**{project-period-start} - Date when project started**
+Pending Further Action Report
+
+**{project-title} - Project Title**
+- Request for vacancy approval
+- Vacancy Expiry Warning
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODk4MjYyLC0xNTE0MzE0MjE2LDEwMz
-MzMzY1Ml19
+eyJoaXN0b3J5IjpbLTE1NTQxODUwOTQsLTE1MTQzMTQyMTYsMT
+AzMzMzNjUyXX0=
 -->
