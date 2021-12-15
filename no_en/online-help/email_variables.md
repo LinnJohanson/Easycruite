@@ -556,21 +556,55 @@ Application Saved
 - SHL and cut-e Assessment invite
 - Custom Email
 
-{interviewdate} - Date of interview
+**{interviewdate} - Date of interview**
 Invitation to Initial, 1st, 2nd and 3rd Meeting
 
-{interviewer} {interviewers}
-Interviewers who will be present
-
+**{interviewer} {interviewers} - Interviewers who will be present**
 Invitation to Initial, 1st, 2nd and 3rd Meeting
 
-{interviewtime}
-
-Time of interview
-
+**{interviewtime} - Time of interview**
 Invitation to Initial, 1st, 2nd and 3rd Meeting
 
+**{job} - Job**
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- Vacancy Expiry Warning
+- SHL and cut-e Assessment invite
+- Custom Email
+
+**{job-position} - Job Position**
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Vacancy Expiry Warning
+- Custom Email
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTgxNjE5LDEwMzMzMzY1Ml19
+eyJoaXN0b3J5IjpbMzIwMzY1NDk2LDEwMzMzMzY1Ml19
 -->
