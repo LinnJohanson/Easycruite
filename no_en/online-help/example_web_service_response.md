@@ -4,23 +4,23 @@
 
 < PersonalDetails>
 
-< CurrentEmploymentStatus id="17">Engagement</CurrentEmploymentStatus>
+< CurrentEmploymentStatus id="17">Engagement< /CurrentEmploymentStatus>
 
-< Title id="1">Mr</Title>
+< Title id="1">Mr< /Title>
 
-< TitleGrade>Mr</TitleGrade>
+< TitleGrade>Mr< /TitleGrade>
 
-< FirstName>First name</FirstName>
+< FirstName>First name< /FirstName>
 
-< MiddleName>Middle name</MiddleName>
+< MiddleName>Middle name< /MiddleName>
 
-< LastName>Surname</LastName>
+< LastName>Surname< /LastName>
 
-< Nationality iso="SE" id="204">Swedish</Nationality>
+< Nationality iso="SE" id="204">Swedish< /Nationality>
 
-< MaritalStatus id="2">Married</MaritalStatus>
+< MaritalStatus id="2">Married< /MaritalStatus>
 
-< DateOfBirth>1980-01-01</DateOfBirth>
+< DateOfBirth>1980-01-01< /DateOfBirth>
 
 < Gender>m< /Gender>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDkwMzI4XX0=
+eyJoaXN0b3J5IjpbMTI5MzA5ODYyOF19
 -->
