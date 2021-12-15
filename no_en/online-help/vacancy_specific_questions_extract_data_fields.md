@@ -2,112 +2,84 @@
 
 Vacancy Specific Questions Extract includes candidate responses to vacancy specific questions for a selected vacancy. The following table describes the fields used in the Vacancy specific questions Extract.
 
-Field Name
-
+**Field Name**
 Description
 
-Candidate ID
-
+**Candidate ID**
 Unique ID of the candidate, system generated
 
-Vacancy ID
-
+**Vacancy ID**
 Unique ID of the project/vacancy, system generated
 
-Vacancy Reference Number
-
+**Vacancy Reference Number**
 Reference number of the vacancy if used
 
-Vacancy Title
-
+**Vacancy Title**
 Internal vacancy title, which can be amended at any time. Not the title given in the job advertisement
 
-Department Name
-
+**Department Name**
 Name of the department referred to in the department ID
 
-Department ID
-
+**Department ID**
 System generated department ID which the candidate has applied to. This can be used in Lookups on other extracts
 
-Application Date
-
+**Application Date**
 Date the application was made
 
-Application Updated
-
+**Application Updated**
 Last date the application was updated by either the candidate or EasyCruit user e.g. when processing an application (changing the status)
 
-Gender
-
+**Gender**
 Candidate's response to this question if asked
 
-Date of Birth
-
+**Date of Birth**
 Candidate's response to this question if asked
 
-Internal Categorization
-
+**Internal Categorization**
 Candidate type e.g. CV candidate, Employee, etc
 
-First Name
-
+**First Name**
 Candidate's response to this question if asked
 
-Surname
-
+**Surname**
 Candidate's response to this question if asked
 
-Post Code
-
+**Post Code**
 Candidate's response to this question if asked
 
-City
-
+**City**
 Candidate's response to this question if asked
 
-Country
-
+**Country**
 Candidate's response to this question if asked
 
-Region
-
+**Region**
 Candidate's response to this question if asked
 
-Town/City
-
+**Town/City**
 Candidate's response to this question if asked
 
-Nationality
-
+**Nationality**
 Candidate's response to this question if asked
 
-Email
-
+**Email**
 Candidate's response to this question if asked
 
-Vacancy specific question
+**Vacancy specific question**
+- Candidate's response to this question if asked
+- NB each  Vacancy specific  question will be present as a separate column.
+- NB heading would change based on the title of the question
 
-Candidate's response to this question if asked
-
-NB each  Vacancy specific  question will be present as a separate column.
-
-NB heading would change based on the title of the question
-
-See also:
+##### See also:
 
 ![](../Resources/Images/icon-document-link.png) [Export Templates](export_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Configuring and Running a Report](configuring_and_running_a_report.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Guide for Users - Reports](guide_for_users_reports.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Candidate Report](candidate_report.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Applicant List Report](applicant_list_report.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTczMzQ2MF19
+eyJoaXN0b3J5IjpbLTYzMjUzMjg5MF19
 -->
