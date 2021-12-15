@@ -35,77 +35,77 @@ De resultatenlijst bevat één Vacancy-element voor elke beschikbare vacature. D
 
 ### XML-schemadefinities
 
-XML-schema voor VacancyList-request:  [https://www.easycruit.com/wsdl/ws/Va...istRequest.xsd](https://www.easycruit.com/wsdl/ws/Va...istRequest.xsd)
+XML-schema voor VacancyList-request:  [https://www.easycruit.com/wsdl/ws/Va...istRequest.xsd] (https://www.easycruit.com/wsdl/ws/Va...istRequest.xsd)
 
-XML-schema voor VacancyList-response:  [https://www.easycruit.com/wsdl/ws/Va...stResponse.xsd](https://www.easycruit.com/wsdl/ws/Va...stResponse.xsd)
+XML-schema voor VacancyList-response:  [https://www.easycruit.com/wsdl/ws/Va...stResponse.xsd] (https://www.easycruit.com/wsdl/ws/Va...stResponse.xsd)
 
 ### XML-voorbeelden
 
 #### Voorbeeld VacancyList SOAP-request
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyList>
+< urn:VacancyList>
 
-<urn:Vacancy language="?" department="?"/>
+< urn:Vacancy language="?" department="?"/>
 
-</urn:VacancyList>
+< /urn:VacancyList>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### Voorbeeld VacancyList SOAP-response
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyListResponse>
+< urn:VacancyListResponse>
 
-<VacancyList ContentLanguage="?">
+< VacancyList ContentLanguage="?">
 
-<!--Nul of meer herhalingen:-->
+< !--Nul of meer herhalingen:-->
 
-<Vacancy id="?">
+< Vacancy id="?">
 
-<!--U kunt de volgende 4 items in elke volgorde invoeren-->
+< !--U kunt de volgende 4 items in elke volgorde invoeren-->
 
-< Title>?</Title>
+< Title>?< /Title>
 
-< RefId>?</RefId>
+< RefId>?< /RefId>
 
 < Departments>
 
 < !--1 of meer herhalingen:-->
 
-< Department id="?">?</Department>
+< Department id="?">?< /Department>
 
 < /Departments>
 
@@ -113,7 +113,7 @@ XML-schema voor VacancyList-response:  [https://www.easycruit.com/wsdl/ws/Va...s
 
 < !--1 of meer herhalingen:-->
 
-< Language iso="?">?</Language>
+< Language iso="?">?< /Language>
 
 < /Languages>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwODU5MTk0LDY1ODA3NjEyMl19
+eyJoaXN0b3J5IjpbLTE1MzM3NTgxOTIsNjU4MDc2MTIyXX0=
 -->
