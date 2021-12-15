@@ -125,37 +125,72 @@ Associate Candidate Ranking
 - Invitation to MINT Matrigma and Service-F tests
 - cut-e Report
 
-{candidate-salutation} - Candidate Salutation
+**{candidate-salutation} - Candidate Salutation**
 - Application Received
 - Copy of Application
 - Registration Received
- Rejection Following Application Review
- Invitation to Initial 1st 2nd and 3rd Meeting
- Rejection after Initial 1st 2nd and 3rd Meeting
- Confirmation of Username
+ - Rejection Following Application Review
+ - Invitation to Initial 1st 2nd and 3rd Meeting
+ - Rejection after Initial 1st 2nd and 3rd Meeting
+ - Confirmation of Username
+- Automatic Rejection
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- Letter of application received/rejected
+- SHL Assessment invite
+- Custom Email
 
-Automatic Rejection
+**{candidate-username} - Candidate's Username**
+- Application Received
+- Registration Received
+- Copy of Application
+- Automatic Rejection
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- New User Email
 
-Invite to Send/Update CV Employee
+{client} - Client (For Recruitment Agency only)
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+ - Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- Request for vacancy approval
+- New User Email
+- Employment Contract
 
-Forward Application
-
-Invitation to MINT Matrigma and Service-F tests
-
-cut-e Report
-
-Job Agent alert
-
-Employment Contract
+Send to a Friend Vacancy
 
 Portable CV
 
+Review of candidate
+
 Letter of application received/rejected
 
-SHL Assessment invite
+SHL and cut-e Assessment invite
 
 Custom Email
+
+Email Signatures
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTc3ODVdfQ==
+eyJoaXN0b3J5IjpbLTE4NzUyMzU3NjJdfQ==
 -->
