@@ -458,7 +458,7 @@ Email Channel Posting
 **{employer-name} - Employer Name**
 Email Channel Posting
 
-{family-name} - Surname
+**{family-name} - Surname**
 - Application Received
 - Registration Received
 - Copy of Application
@@ -481,7 +481,43 @@ Email Channel Posting
 - SHL and cut-e Assessment invite
 - Custom Email
 
+**{family-name} - Candidate surname provided for the saved application**
+Application Saved
+
+ **{first-name} - First Name**
+- Application Received
+- Copy of Application
+- Registration Received
+- Rejection Following Application Review
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Automatic Rejection
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- New User Email
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL Assessment invite
+- Custom Email
+
+**{first-name} - Candidate first name provided for the saved application**
+Application Saved
+
+
+
+
+
+
+
+
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NzAzOTk0LDEwMzMzMzY1Ml19
+eyJoaXN0b3J5IjpbMTg3NjQ4NDg0MSwxMDMzMzM2NTJdfQ==
 -->
