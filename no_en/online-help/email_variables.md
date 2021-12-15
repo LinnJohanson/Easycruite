@@ -92,20 +92,49 @@ Associate Candidate Ranking
 - SHL and cut-e Assessment invite
 - Custom Email
 
-{candidate-middle-name} - Middle Name
+**{candidate-middle-name} - Middle Name**
 - Application Received
 - Registration Received
 - Copy of Application
 - Rejection Following Application Review
 - Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+ - Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
 
-Invitation to Initial 1st 2nd and 3rd Meeting
+**{candidate-password} - Candidate's Password**
+- Application Received
+- Registration Received
+- Copy of Application
+- Automatic Rejection
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
 
-Rejection after Initial 1st 2nd and 3rd Meeting
+{candidate-salutation} - Candidate Salutation
+- Application Received
+- Copy of Application
+- Registration Received
+ Rejection Following Application Review
+ Invitation to Initial 1st 2nd and 3rd Meeting
+ Rejection after Initial 1st 2nd and 3rd Meeting
+ Confirmation of Username
 
-Confirmation of Username
-
-Details Transferred to CV Database
+Automatic Rejection
 
 Invite to Send/Update CV Employee
 
@@ -123,10 +152,10 @@ Portable CV
 
 Letter of application received/rejected
 
-SHL and cut-e Assessment invite
+SHL Assessment invite
 
 Custom Email
-> Written with [StackEdit](https://stackedit.io/).
+>Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjUxMTczOTRdfQ==
+eyJoaXN0b3J5IjpbMTIyNTc3ODVdfQ==
 -->
