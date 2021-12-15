@@ -12,20 +12,20 @@ Selections - Screening
 *Custom values*
 Single - Yes
 
-Checkboxes
-Custom values
+**Checkboxes**
+*Custom values*
 Multiple - No
 
-Dropdown Single
-Custom values
+**Dropdown Single**
+*Custom values*
 Single - Yes
 
-Dropdown Multiple
-Custom values
+**Dropdown Multiple**
+*Custom values*
 Multiple - No
 
-Department Question
-System values
+**Department Question**
+*System values*
 Single - No
 
 HTML Formatted Text
@@ -66,5 +66,5 @@ Single - No
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTkxMjQzNV19
+eyJoaXN0b3J5IjpbLTQyMDU3OTQwOSwxMTMxOTEyNDM1XX0=
 -->
