@@ -2,120 +2,91 @@
 
 The following table describes the fields used in the Application extract.
 
-Field Name
-
+**Field Name**
 Description
 
-Candidate ID
-
+**Candidate ID**
 Unique ID of the candidate, system generated
 
-Vacancy ID
-
+**Vacancy ID**
 Unique ID of the project/vacancy, system generated
 
-Vacancy Reference Number
-
+**Vacancy Reference Number**
 Reference number of the vacancy if used
 
-Vacancy Title
-
+**Vacancy Title**
 Internal vacancy title, which can be amended at any time. Not the title given in the job advertisement
 
-Department ID
-
+**Department ID**
 System generated department ID which the candidate has applied to. This can be used in Lookups on other extracts
 
-Department Name
-
+**Department Name**
 Name of the department referred to in the department ID
 
-Application Status
-
+**Application Status**
 Shows the status of the candidate's application e.g. Interview 1, Saved, Transferred, Rejected
 
-Application Updated
-
+**Application Updated**
 Last date the application was updated by either the candidate or EasyCruit user e.g. when processing an application (changing the status)
 
-Ranking
-
+**Ranking**
 Ranking 1, 2 or 3 if provided
 
-Average Rating
-
+**Average Rating**
 Average panel review rating if provided
 
-Reference Check
-
+**Reference Check**
 Based on the dropdown options in EasyCruit e.g. Positive, Negative
 
-Application Date
-
+**Application Date**
 Date the application was made
 
-Hired Date
-
+**Hired Date**
 Date the application was moved to status 'Hired'
 
-Start Date
-
+**Start Date**
 Date supplied when a candidate is hired
 
-Rejected Reason
-
+**Rejected Reason**
 Reason provided for rejection reason based on dropdown available
 
-Application Source
-
+**Application Source**
 Channel the application was received from
 
-Gender
-
+**Gender**
 Candidate's response to this question if asked
 
-Date of Birth
-
+**Date of Birth**
 Candidate's response to this question if asked
 
-Internal Categorization
-
+**Internal Categorization**
 Candidate type e.g. CV candidate, Employee, etc
 
-First Name
-
+**First Name**
 Candidate's response to this question if asked
 
-Surname
-
+**Surname**
 Candidate's response to this question if asked
 
-Post Code
-
+**Post Code**
 Candidate's response to this question if asked
 
-Country
-
+**Country**
 Candidate's response to this question if asked
 
-Region
-
+**Region**
 Candidate's response to this question if asked
 
-Town/City
-
+**Town/City**
 Candidate's response to this question if asked
 
 City
-
 Candidate's response to this question if asked
 
 Nationality
-
 Candidate's response to this question if asked
 
 Received Job Offer
-
 Date when the application status was set to 'Job Offer'
 
 Current Job
@@ -168,5 +139,5 @@ Latest date when the application status changed to the custom status 1 (NB headi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTM4ODk5N119
+eyJoaXN0b3J5IjpbLTE0MzMyODk1NV19
 -->
