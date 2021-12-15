@@ -852,12 +852,12 @@ E-mail plaatsingskanaal
 E-mail plaatsingskanaal
 
 {user-given-name} - Voornaam gebruiker
-
 E-mail plaatsingskanaal
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0MDAyNzQwLC0xOTE3MzYwNzkzLC00MT
-M3ODkxMywxNDg0OTE0MjY0LC0xNzI3ODI3NTMsMTU3NzQ3Mzc1
-OCwxMTU2NjA0Njk3LC0xNTQzNDQzMTYsMjI4OTg5NDY1LDE0NT
-A0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbMTE1OTA4NTE0LDgzNDAwMjc0MCwtMTkxNz
+M2MDc5MywtNDEzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUz
+LDE1Nzc0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyOD
+k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
+XX0=
 -->
