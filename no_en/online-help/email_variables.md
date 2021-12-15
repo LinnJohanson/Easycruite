@@ -703,50 +703,47 @@ Review of candidate
 - User password request
 - Login
 
-{position}
+**{position} - Title of position applied for**
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- Job Agent alert
+- cut-e Report
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- Vacancy Expiry Warning
+- SHL and cut-e Assessment invite
+- Custom Email
+- Application Saved
 
-Title of position applied for
-
-Application Received
-
-Copy of Application
-
-Rejection Following Application Review
-
-Automatic Rejection
-
-Invitation to Initial 1st 2nd and 3rd Meeting
-
-Rejection after Initial 1st 2nd and 3rd Meeting
-
-Confirmation of Username
-
-Forward Application
-
-Invitation to MINT Matrigma and Service-F tests
-
-Job Agent alert
-
-cut-e Report
-
-Employment Contract
-
-Send to a Friend Vacancy
-
-Portable CV
-
-Review of candidate
-
-Letter of application received/rejected
-
-Vacancy Expiry Warning
-
-SHL and cut-e Assessment invite
+**{prefix} - Prefix (Mr, Mrs, Ms, and so on)**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Employment Contract
+- Letter of application received/rejected
 
 Custom Email
-
-Application Saved
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQzMTQyMTYsMTAzMzMzNjUyXX0=
+eyJoaXN0b3J5IjpbLTY0ODk4MjYyLC0xNTE0MzE0MjE2LDEwMz
+MzMzY1Ml19
 -->
