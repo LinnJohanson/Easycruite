@@ -34,10 +34,10 @@ Unique, vacancy specific screen questions can be added, removed and edited.
 The automated emails that are associated with the specific vacancy can be edited, as well as activated and set as not registered.
 
 **Publish2board/Publish2Print...**
-This option enables the career websites and other posting channels where the vacancy is displayed to be changed.
-If the vacancy is currently unapproved this option cannot be edited.
+- This option enables the career websites and other posting channels where the vacancy is displayed to be changed.
+- If the vacancy is currently unapproved this option cannot be edited.
 
-[Access Control](../faq/who_has_access_to_a_vacancy.htm)
+**[Access Control](../faq/who_has_access_to_a_vacancy.htm)**
 Used to select which system users can have access to the vacancy. The list of available users is divided by departments. You can now define a user’s rights for each specific vacancy. Three different levels of access are enabled and include the following capabilities (please note this list is not exhaustive):
 
 -   Read - Ability to view all aspects of the vacancy and the candidates within that vacancy
@@ -58,5 +58,5 @@ For more details on these options refer to  [Creating a Vacancy](creating_a_new_
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAyMjAzMjFdfQ==
+eyJoaXN0b3J5IjpbMTM3ODIzOTQ5M119
 -->
