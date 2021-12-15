@@ -897,15 +897,59 @@ Email Channel Posting
 - Custom Email
 - Vacancy Expiry Warning
 
-{vacancy-link}
-
-Link to vacancy
-
+**{vacancy-link} - Link to vacancy**
 Not used (does not exist in source code)
 
+{vacancy-ref-number} - Reference number of the vacancy
+- Rejection Following Application Review
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- Request for vacancy approval
+- Employment Contract
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+
+{vacancy-title} - Vacancy Title
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial, 1st, 2nd and 3rd Meeting
+- Rejection after Initial, 1st, 2nd and 3rd Meeting
+- Confirmation of Username
+- Forward Application
+- Invitation to MINT, Matrigma and Service-F tests
+- cut-e Report
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+
+Vacancy Expiry Warning
+
+SHL and cut-e Assessment invite
+
+Custom Email
+
+See also:
+
+![](../Resources/Images/icon-document-link.png) [Standard Response Email Types](standard_response_email_types.htm)
+
+![](../Resources/Images/icon-document-link.png) [Unsubscribe from Job Agent](unsubscribe_from_job_agent.htm)
+
+![](../Resources/Images/icon-document-link.png) [Recruitment Activities List tab](recruitment_activities_list_tab.htm)
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0NjY5ODIzLC0yNTEyMTgxMCwtNzM2OD
-EyNDY2LDE0NTAyODYyODEsMTM3NTcxODI0MSwtMTUxNDMxNDIx
-NiwxMDMzMzM2NTJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDA4NTU1NzEsLTI1MTIxODEwLC03Mz
+Y4MTI0NjYsMTQ1MDI4NjI4MSwxMzc1NzE4MjQxLC0xNTE0MzE0
+MjE2LDEwMzMzMzY1Ml19
 -->
