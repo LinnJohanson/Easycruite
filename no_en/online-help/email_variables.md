@@ -442,7 +442,37 @@ Email Channel Posting
 - SHL and cut-e Assessment invite
 - Custom Email
 - Email Signatures
+
+{departments}
+
+Department(s)
+
+Email Channel Posting
+
+{duration}
+
+Duration of interview
+
+Invitation to Initial, 1st, 2nd and 3rd Meeting
+
+{email}
+
+Enters the users email address in the email
+
+New User Email
+
+{employer-about}
+
+About the employer
+
+Email Channel Posting
+
+{employer-name}
+
+Employer Name
+
+Email Channel Posting
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzMzNjUyXX0=
+eyJoaXN0b3J5IjpbNzA1OTg3NzQ5LDEwMzMzMzY1Ml19
 -->
