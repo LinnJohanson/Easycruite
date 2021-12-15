@@ -282,55 +282,55 @@ XML-schema voor VacancyExport-response:  [https://www.easycruit.com/wsdl/ws/Va..
 
 <Contacts>
 
-<!--Nul of meer herhalingen:-->
+< !--Nul of meer herhalingen:-->
 
-<Contact>
+< Contact>
 
-<!--U kunt de volgende 5 items in elke volgorde invoeren-->
+< !--U kunt de volgende 5 items in elke volgorde invoeren-->
 
-<Name>?</Name>
+< Name>?< /Name>
 
-<EmailAddress>?</EmailAddress>
+< EmailAddress>?< /EmailAddress>
 
-<TelephoneOffice>?</TelephoneOffice>
+< TelephoneOffice>?< /TelephoneOffice>
 
-<TelephoneMobile>?</TelephoneMobile>
+< TelephoneMobile>?< /TelephoneMobile>
 
-<Department id="?">?</Department>
+< Department id="?">?< /Department>
 
-</Contact>
+< /Contact>
 
-</Contacts>
+< /Contacts>
 
-<Questions>?</Questions>
+< Questions>?< /Questions>
 
-<CompanyInformation>
+< CompanyInformation>
 
-<!--Nul of meer herhalingen:-->
+< !--Nul of meer herhalingen:-->
 
-<Company>
+< Company>
 
-<!--U kunt de volgende 3 items in elke volgorde invoeren-->
+< !--U kunt de volgende 3 items in elke volgorde invoeren-->
 
-<Department>?</Department>
+< Department>?< /Department>
 
-<About>?</About>
+< About>?< /About>
 
-<Homepage>?</Homepage>
+< Homepage>?< /Homepage>
 
-</Company>
+< /Company>
 
-</CompanyInformation>
+< /CompanyInformation>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyExportResponse>
+< /urn:VacancyExportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 Voorbeeld .NET C#:
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MDc2MTIyXX0=
+eyJoaXN0b3J5IjpbMTY0MzY4MDc3Miw2NTgwNzYxMjJdfQ==
 -->
