@@ -859,7 +859,7 @@ Email Channel Posting
 **{user-given-name} - User's First Name**
 Email Channel Posting
 
-{username} - Candidate User Name
+**{username} - Candidate User Name**
 - Application Received
 - Registration Received
 - Copy of Application
@@ -869,18 +869,39 @@ Email Channel Posting
 - Invite to Send/Update CV Employee
 - Forward Application
 - Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- New User Email
+- Login
+- Application Saved
 
-cut-e Report
+**{user-office-telephone} - User's Office Phone Number**
+Email Channel Posting
 
-New User Email
+**{vacancy}**
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Vacancy Expiry Warning
 
-Login
 
-Application Saved
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTMyMDA1MSwtNzM2ODEyNDY2LDE0NT
-AyODYyODEsMTM3NTcxODI0MSwtMTUxNDMxNDIxNiwxMDMzMzM2
-NTJdfQ==
+eyJoaXN0b3J5IjpbLTI1MTIxODEwLC03MzY4MTI0NjYsMTQ1MD
+I4NjI4MSwxMzc1NzE4MjQxLC0xNTE0MzE0MjE2LDEwMzMzMzY1
+Ml19
 -->
