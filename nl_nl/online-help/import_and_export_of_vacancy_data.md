@@ -97,35 +97,35 @@ XML-schema voor VacancyList-response:  [https://www.easycruit.com/wsdl/ws/Va...s
 
 <!--U kunt de volgende 4 items in elke volgorde invoeren-->
 
-<Title>?</Title>
+< Title>?</Title>
 
-<RefId>?</RefId>
+< RefId>?</RefId>
 
-<Departments>
+< Departments>
 
-<!--1 of meer herhalingen:-->
+< !--1 of meer herhalingen:-->
 
-<Department id="?">?</Department>
+< Department id="?">?</Department>
 
-</Departments>
+< /Departments>
 
-<Languages>
+< Languages>
 
-<!--1 of meer herhalingen:-->
+< !--1 of meer herhalingen:-->
 
-<Language iso="?">?</Language>
+< Language iso="?">?</Language>
 
-</Languages>
+< /Languages>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyListResponse>
+< /urn:VacancyListResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 Voorbeeld .NET C#
 
@@ -198,89 +198,89 @@ Elementen die gebruikt worden voor publicatie zijn:
 
 ### XML-schemadefinities
 
-XML-schema voor VacancyExport-request:  [https://www.easycruit.com/wsdl/ws/Va...ortRequest.xsd](https://www.easycruit.com/wsdl/ws/Va...ortRequest.xsd)
+XML-schema voor VacancyExport-request:  [https://www.easycruit.com/wsdl/ws/Va...ortRequest.xsd] (https://www.easycruit.com/wsdl/ws/Va...ortRequest.xsd)
 
-XML-schema voor VacancyExport-response:  [https://www.easycruit.com/wsdl/ws/Va...rtResponse.xsd](https://www.easycruit.com/wsdl/ws/Va...rtResponse.xsd)
+XML-schema voor VacancyExport-response:  [https://www.easycruit.com/wsdl/ws/Va...rtResponse.xsd] (https://www.easycruit.com/wsdl/ws/Va...rtResponse.xsd)
 
 ### XML-voorbeelden
 
 #### Voorbeeld VacancyExport SOAP-request
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+ < urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExport>
+< urn:VacancyExport>
 
-<urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
+< urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
 
-</urn:VacancyExport>
+< /urn:VacancyExport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 ## Voorbeeld VacancyExport SOAP-response
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExportResponse>
+ < urn:VacancyExportResponse>
 
-<VacancyList>
+ < VacancyList>
 
-<!--Nul of meer herhalingen:-->
+< !--Nul of meer herhalingen:-->
 
-<Vacancy id="?" language="?">
+< Vacancy id="?" language="?">
 
-<!--U kunt de volgende 13 items in elke volgorde invoeren-->
+< !--U kunt de volgende 13 items in elke volgorde invoeren-->
 
-<ProjectTitle>?</ProjectTitle>
+< ProjectTitle>?< /ProjectTitle>
 
-<refId>?</refId>
+< refId>?< /refId>
 
-<TitleHeading>?</TitleHeading>
+< TitleHeading>?< /TitleHeading>
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<CompanyName>?</CompanyName>
+< CompanyName>?< /CompanyName>
 
-<Body>?</Body>
+< Body>?< /Body>
 
-<Deadline>?</Deadline>
+< Deadline>?< /Deadline>
 
-<Engagement>?</Engagement>
+< Engagement>?< /Engagement>
 
-<Location>?</Location>
+< Location>?< /Location>
 
-<DailyHours>?</DailyHours>
+< DailyHours>?< /DailyHours>
 
-<Contacts>
+< Contacts>
 
 < !--Nul of meer herhalingen:-->
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzY4MDc3Miw2NTgwNzYxMjJdfQ==
+eyJoaXN0b3J5IjpbMzQwODU5MTk0LDY1ODA3NjEyMl19
 -->
