@@ -155,9 +155,7 @@ Lägg till kandidat
 
 Raderade ansökningar
 
-![](../Resources/Images/guidelines.jpg)
-
-Riktlinjer
+![](../Resources/Images/guidelines.jpg) - Riktlinjer
 
 #### Användarnivåer
 
@@ -177,30 +175,5 @@ För att läsa mer om behörighetsnivåer för användare, se alternativ för  [
 ![](../Resources/Images/icon-document-link.png)  [Få tillgång till EasyCruit](accessing_easycruit.htm)
 ![](../Resources/Images/icon-document-link.png)  [Wysiwyg/Texteditor](wysiwyg_text_editor.htm)
 <!--stackedit_data:
-eyJkaXNjdXNzaW9ucyI6eyJ3WHRobk5DcGd6ZDZoelVaIjp7In
-N0YXJ0Ijo0OTQsImVuZCI6NTA4LCJ0ZXh0IjoiIVtDbG9zZWRd
-KC4uL1NraW5zL0RlZmF1bHQvU3R5bGVzaGVldHMvSW1hZ2VzL3
-RyYW5zcGFyZW50LmdpZilWZXJrdHlnc2bDpGx0ZXQifSwiZXp5
-NVIxejFtVnZzSnlPdiI6eyJzdGFydCI6MTE4NSwiZW5kIjoxMj
-AxLCJ0ZXh0IjoiIVtDbG9zZWRdKC4uL1NraW5zL0RlZmF1bHQv
-U3R5bGVzaGVldHMvSW1hZ2VzL3RyYW5zcGFyZW50LmdpZilDbG
-9zZWRJbm5laMOlbGxzZsO24oCmIn0sIjNOaDJ0UVlZVHNWWGNV
-MnMiOnsic3RhcnQiOjEyNTgsImVuZCI6MTI4MiwidGV4dCI6Ik
-55dHQgcmVrcnl0ZXJpbmdzcHJvamVrdCJ9fSwiY29tbWVudHMi
-OnsiNHBoVUxzNjJHMGxoWUtjMSI6eyJkaXNjdXNzaW9uSWQiOi
-J3WHRobk5DcGd6ZDZoelVaIiwic3ViIjoiZ2g6OTM1MTY4NDEi
-LCJ0ZXh0IjoiIVtDbG9zZWRdKC4uL1NraW5zL0RlZmF1bHQvU3
-R5bGVzaGVldHMvSW1hZ2VzL3RyYW5zcGFyZW50LmdpZilWZXJr
-dHlnc2bDpGx0ZXQiLCJjcmVhdGVkIjoxNjM2MTAyMzA3NjkwfS
-wiSFZCMUpZOG9xYkZ6S3dRViI6eyJkaXNjdXNzaW9uSWQiOiJl
-enk1UjF6MW1WdnNKeU92Iiwic3ViIjoiZ2g6OTM1MTY4NDEiLC
-J0ZXh0IjoiIVtDbG9zZWRdKC4uL1NraW5zL0RlZmF1bHQvU3R5
-bGVzaGVldHMvSW1hZ2VzL3RyYW5zcGFyZW50LmdpZilDbG9zZW
-RJbm5laMOlbGxzZsO2bnN0ZXIiLCJjcmVhdGVkIjoxNjM2MTAy
-NDExMzI4fSwiSFYxRGZVSHFoVldrdW5nQiI6eyJkaXNjdXNzaW
-9uSWQiOiIzTmgydFFZWVRzVlhjVTJzIiwic3ViIjoiZ2g6OTM1
-MTY4NDEiLCJ0ZXh0IjoiIVtdKC4uL1Jlc291cmNlcy9JbWFnZX
-MvcmVjcnVpdG1lbnRfY2FsZW5kYXIuanBnKSIsImNyZWF0ZWQi
-OjE2MzYxMDI1MzYzNjV9fSwiaGlzdG9yeSI6Wy0xOTY1ODgxMT
-AwXX0=
+eyJoaXN0b3J5IjpbLTEyMDg4Njc4NDhdfQ==
 -->
