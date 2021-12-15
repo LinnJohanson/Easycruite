@@ -4,7 +4,7 @@ The Candidate Report returns customizable details on the candidates who have app
 
 The options that can be selected for a candidate report are dependent on your system's configuration. However, the process for creating the reports is the same regardless of the data that can be reported on.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Candidate Report
+#### Candidate Report
 
 1.  Select a vacancy then select the  Candidate Report  tab.
 2.  Select the personal details and other criteria to be reported on then click  Next.
@@ -28,7 +28,7 @@ The options that can be selected for a candidate report are dependent on your sy
 5.  Set the  Report style  option to  Merge documents after each CV  or  Attach all documents after CVs.
 6.  Click  Request Report  then wait for the report to be created.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Requesting Reports
+#### Requesting Reports
 
 To ensure that a PDF report containing candidate details for a vacancy is compiled and formatted correctly, users can request a report. The reports are built in accordance with how they are set up for a vacancy's candidate report. Once reports have been created and requested, the  My Requested Documents  page is used to manage them. From that page, the reports can be viewed, deleted and update requests can be made.
 
@@ -53,5 +53,5 @@ To ensure that a PDF report containing candidate details for a vacancy is compil
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTgyNzg4OV19
+eyJoaXN0b3J5IjpbNDQzMjQzMTAzXX0=
 -->
