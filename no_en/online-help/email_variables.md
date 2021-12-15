@@ -213,61 +213,63 @@ Associate Candidate Ranking
 **{collaborative-link-url} - URL from which the reviewers undertake their review**
 Review of candidate
 
-{company}
+**{company} - Company Name**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+ - Job Agent alert
+- Request for vacancy approval
+- New User Email
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+ - Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Email Signatures
+- Application Saved
 
-Company Name
+**{company-name} - Company Name**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- New User Email
+- Request for vacancy approval
+- User password request
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Email Signatures
 
-Application Received
-
-Registration Received
-
-Copy of Application
-
-Rejection Following Application Review
-
-Automatic Rejection
-
-Invitation to Initial 1st 2nd and 3rd Meeting
-
-Rejection after Initial 1st 2nd and 3rd Meeting
-
-Confirmation of Username
-
-Details Transferred to CV Database
-
-Invite to Send/Update CV Employee
-
-Forward Application
-
-Invitation to MINT Matrigma and Service-F tests
-
-cut-e Report
-
-Job Agent alert
-
-Request for vacancy approval
-
-New User Email
-
-Employment Contract
-
-Send to a Friend Vacancy
-
-Portable CV
-
-Review of candidate
-
-Letter of application received/rejected
-
-SHL and cut-e Assessment invite
-
-Custom Email
-
-Email Signatures
-
-Application Saved
-
+{confirmlink} - Link to confirm the date
+Invitation to Initial, 1st, 2nd and 3rd Meeting
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDA1MTcyN119
+eyJoaXN0b3J5IjpbLTczNTM3NjA1Ml19
 -->
