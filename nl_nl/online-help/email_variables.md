@@ -885,6 +885,28 @@ E-mail plaatsingskanaal
 - Arbeidsovereenkomst
 - Tip een vriend(in)-mail
 - Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
+- Notificatie verlopen vacature
+
+{vacancy-link} - Link naar vacature
+Niet gebruikt (bestaat niet in broncode)
+
+{vacancy-ref-number} - Referentienummer van de vacature
+- Handmatige afwijzing
+- Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
+- Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
+- Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- Verzoek om goedkeuring vacature
+- Arbeidsovereenkomst
+
+Portable CV
 
 Beoordeling van kandidaat
 
@@ -893,11 +915,9 @@ Brief sollicitatie ontvangen / afgewezen
 SHL en cut-e assessment uitnodiging
 
 Organisatiespecifieke e-mails
-
-Notificatie verlopen vacature
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjQ1ODY0OCw4MzQwMDI3NDAsLTE5MT
+eyJoaXN0b3J5IjpbLTgzODk3MDc2Niw4MzQwMDI3NDAsLTE5MT
 czNjA3OTMsLTQxMzc4OTEzLDE0ODQ5MTQyNjQsLTE3Mjc4Mjc1
 MywxNTc3NDczNzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMxNiwyMj
 g5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1Mjgw
