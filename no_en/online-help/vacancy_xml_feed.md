@@ -52,93 +52,93 @@ EasyCruit supports multiple posting periods that can be picked by the user. Per 
 
 <Item type="duration" id="xxx">Duration</Item>
 
-<Item type="extent" id="xxx">Extent</Item>
+< Item type="extent" id="xxx">Extent</Item>
 
-<Item type="operating-time" id="xxx">Operation time</Item>
+< Item type="operating-time" id="xxx">Operation time</Item>
 
-</Categories>
+< /Categories>
 
-</Version>
+< /Version>
 
-</Versions>
+< /Versions>
 
-<Departments>
+< Departments>
 
-<Department id="xxx">
+< Department id="xxx">
 
-<Name>Department name</Name>
+< Name>Department name< /Name>
 
-<LogoURL>Full URL to uploaded logo</LogoURL>
+< LogoURL>Full URL to uploaded logo< /LogoURL>
 
-<VacancyURL>URL to vacancy</VacancyURL>
+< VacancyURL>URL to vacancy< /VacancyURL>
 
-<ApplicationURL>URL to application form</ApplicationURL>
+< ApplicationURL>URL to application form< /ApplicationURL>
 
-</Department>
+< /Department>
 
-</Departments>
+< /Departments>
 
-</Vacancy>
+< /Vacancy>
 
 #### Vacancy XML
 
 Besides the above variables these are the variables for the vacancy ad.
 
-<Description>Vacancy text with html formatting included</Description>
+<Description>Vacancy text with html formatting included< /Description>
 
-<About>Department ingress with html formatting</About>
+< About>Department ingress with html formatting< /About>
 
-<PrivacyPolicy>Department Privacy Policy with html formatting</PrivacyPolicy>
+< PrivacyPolicy>Department Privacy Policy with html formatting< /PrivacyPolicy>
 
-<Address type="postal">(Department postal)
+< Address type="postal">(Department postal)
 
-<Street>Street name / number</Street>
+< Street>Street name / number< /Street>
 
-<Area>City</Area>
+< Area>City< /Area>
 
-<AreaCode>Zip</AreaCode>
+< AreaCode>Zip< /AreaCode>
 
-</Address>
+< /Address>
 
-<Address type="office">(Department visiting address)
+< Address type="office">(Department visiting address)
 
-<Street>Street name / number</Street>
+< Street>Street name / number< /Street>
 
-<Area>City</Area>
+< Area>City< /Area>
 
-<AreaCode>Zip</AreaCode>
+< AreaCode>Zip< /AreaCode>
 
-</Address>
+< /Address>
 
-<Telephone type="office">Phone</Telephone>
+< Telephone type="office">Phone< /Telephone>
 
-<Telephone type="telefax">Fax</Telephone>
+< Telephone type="telefax">Fax< /Telephone>
 
-<ContactPersons>
+< ContactPersons>
 
-<ContactPerson>
+< ContactPerson>
 
-<CommonName>Contact person name</CommonName>
+< CommonName>Contact person name< /CommonName>
 
-<Email>Contact person e-mail if published</Email>
+< Email>Contact person e-mail if published< /Email>
 
-<Telephone type="office">Contact person phone number</Telephone>
+< Telephone type="office">Contact person phone number< /Telephone>
 
-<Telephone type="cellular">Contact person cellular</Telephone>
+< Telephone type="cellular">Contact person cellular< /Telephone>
 
-</ContactPerson>
+< /ContactPerson>
 
-</ContactPersons>
+< /ContactPersons>
 
-<HomepageURL>Department web site address</HomepageURL>
+< HomepageURL>Department web site address< /HomepageURL>
 
-<ImageURL>Full URL to uploaded image</ImageURL>
+< ImageURL>Full URL to uploaded image< /ImageURL>
 
 ### Notes
 
-There may be multiple instances of the following variables <Country>, <County>, <ContactPersons>, <Item
+There may be multiple instances of the following variables < Country>, < County>, < ContactPersons>, <Item
 
-type="area-of-interest">, <Item type="position-type">, <Item type="job-level">, <Item type="duration">,<Item type="extent">, < Item type="operating-time"> in every vacancy.
+type="area-of-interest">, < Item type="position-type">, < Item type="job-level">, < Item type="duration">,< Item type="extent">, < Item type="operating-time"> in every vacancy.
 
 Only mandatory variable is <Title>. Therefore other fields might be empty.
 
@@ -167,5 +167,5 @@ Vacancy:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAxNDI2NTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTI5NDM2NTldfQ==
 -->
