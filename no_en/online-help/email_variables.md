@@ -900,7 +900,7 @@ Email Channel Posting
 **{vacancy-link} - Link to vacancy**
 Not used (does not exist in source code)
 
-{vacancy-ref-number} - Reference number of the vacancy
+**{vacancy-ref-number} - Reference number of the vacancy**
 - Rejection Following Application Review
 - Invitation to Initial 1st 2nd and 3rd Meeting
 - Rejection after Initial 1st 2nd and 3rd Meeting
@@ -917,7 +917,7 @@ Not used (does not exist in source code)
 - SHL and cut-e Assessment invite
 - Custom Email
 
-{vacancy-title} - Vacancy Title
+**{vacancy-title} - Vacancy Title**
 - Application Received
 - Copy of Application
 - Rejection Following Application Review
@@ -933,23 +933,18 @@ Not used (does not exist in source code)
 - Portable CV
 - Review of candidate
 - Letter of application received/rejected
+- Vacancy Expiry Warning
+- SHL and cut-e Assessment invite
+- Custom Email
 
-Vacancy Expiry Warning
-
-SHL and cut-e Assessment invite
-
-Custom Email
-
-See also:
+##### See also:
 
 ![](../Resources/Images/icon-document-link.png) [Standard Response Email Types](standard_response_email_types.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Unsubscribe from Job Agent](unsubscribe_from_job_agent.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Recruitment Activities List tab](recruitment_activities_list_tab.htm)
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA4NTU1NzEsLTI1MTIxODEwLC03Mz
-Y4MTI0NjYsMTQ1MDI4NjI4MSwxMzc1NzE4MjQxLC0xNTE0MzE0
-MjE2LDEwMzMzMzY1Ml19
+eyJoaXN0b3J5IjpbLTMzNTgzNDUxNSwtMjUxMjE4MTAsLTczNj
+gxMjQ2NiwxNDUwMjg2MjgxLDEzNzU3MTgyNDEsLTE1MTQzMTQy
+MTYsMTAzMzMzNjUyXX0=
 -->
