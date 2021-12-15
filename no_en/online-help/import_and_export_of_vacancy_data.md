@@ -258,51 +258,51 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 <Vacancy id="?" language="?">
 
-<!--You may enter the following 13 items in any order-->
+< !--You may enter the following 13 items in any order-->
 
-<ProjectTitle>?</ProjectTitle>
+< ProjectTitle>?< /ProjectTitle>
 
-<refId>?</refId>
+< refId>?< /refId>
 
-<TitleHeading>?</TitleHeading>
+< TitleHeading>?< /TitleHeading>
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<CompanyName>?</CompanyName>
+< CompanyName>?< /CompanyName>
 
-<Body>?</Body>
+< Body>?< /Body>
 
-<Deadline>?</Deadline>
+< Deadline>?< /Deadline>
 
-<Engagement>?</Engagement>
+< Engagement>?< /Engagement>
 
-<Location>?</Location>
+< Location>?< /Location>
 
-<DailyHours>?</DailyHours>
+< DailyHours>?< /DailyHours>
 
-<Contacts>
+< Contacts>
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Contact>
+< Contact>
 
-<!--You may enter the following 5 items in any order-->
+< !--You may enter the following 5 items in any order-->
 
-<Name>?</Name>
+< Name>?< /Name>
 
-<EmailAddress>?</EmailAddress>
+< EmailAddress>?< /EmailAddress>
 
-<TelephoneOffice>?</TelephoneOffice>
+< TelephoneOffice>?< /TelephoneOffice>
 
-<TelephoneMobile>?</TelephoneMobile>
+< TelephoneMobile>?< /TelephoneMobile>
 
-< Department id="?">?</Department>
+< Department id="?">?< /Department>
 
 < /Contact>
 
 < /Contacts>
 
-< Questions>?</Questions>
+< Questions>?< /Questions>
 
 < CompanyInformation>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDc1MjUxOV19
+eyJoaXN0b3J5IjpbLTkyMjgzNDE1XX0=
 -->
