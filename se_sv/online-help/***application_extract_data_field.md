@@ -84,22 +84,22 @@ Kandidatens svar på den här frågan om tillfrågad
 Kandidatens svar på den här frågan om tillfrågad
 
 **Fått jobberbjudande**
-*Det datum då ansökningsstatus blev ”Jobberbjudande”*
+Det datum då ansökningsstatus blev ”Jobberbjudande”
 
 **Aktuellt jobb**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Arbetsgivare**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Datum för informationsmöte/telefonintervju**
-*Senaste datum för när denna intervju var schemalagd att äga rum*
+Senaste datum för när denna intervju var schemalagd att äga rum
 
 **Datum för intervju 1**
-*Senaste datum för när denna intervju var schemalagd att äga rum*
+Senaste datum för när denna intervju var schemalagd att äga rum
 
 **Datum för intervju 2**
-*Senaste datum för när denna intervju var schemalagd att äga rum*
+Senaste datum för när denna intervju var schemalagd att äga rum
 
 **Datum för intervju 3**
 *Senaste datum för när denna intervju var schemalagd att äga rum*
@@ -127,5 +127,6 @@ Kandidatens svar på den här frågan om tillfrågad
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1MDAzMDA1LC0xMTc1NjgyMzE5XX0=
+eyJoaXN0b3J5IjpbMTMzMDk3MzA1MSw1NzUwMDMwMDUsLTExNz
+U2ODIzMTldfQ==
 -->
