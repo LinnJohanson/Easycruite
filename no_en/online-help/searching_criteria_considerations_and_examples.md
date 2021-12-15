@@ -7,50 +7,36 @@ When setting up the search terms for search templates, there are a number of con
 
 There are a number of operators that can be included in the search criteria. This helps enable more focused searches and is made up of the following:
 
-+
+.**+** : A plus sign indicates that the following word must be present
 
-A plus sign indicates that the following word must be present
+.**-**  : A negative sign indicates that the following word must not be present
 
--
+**( )** : Parentheses enable words to be grouped together into sub-expressions
 
-A negative sign indicates that the following word must not be present
+.***** : The asterisk is a wildcard that can be appended to the end or a search word.
 
-( )
-
-Parentheses enable words to be grouped together into sub-expressions
-
-*
-
-The asterisk is a wildcard that can be appended to the end or a search word.
-
-"
-
-A phrase contained within double quotes must be matched identically for it to be included in any search results.
+**"** : A phrase contained within double quotes must be matched identically for it to be included in any search results.
 
 To illustrate the information above, the following examples show how different search terms return different results:
 
-sales dept
+**sales dept** - Returns results where at least one of the two words is found
 
-Returns results where at least one of the two words is found
+**+sales +dept** - Returns results where both words are found
 
-+sales +dept
+**+sales dept** - Returns results where "sales" is found, but ranks results higher that also contain "dept"
 
-Returns results where both words are found
+**+sales -dept** - Returns results where "sales" is found and "dept" is not
 
-+sales dept - Returns results where "sales" is found, but ranks results higher that also contain "dept"
+**+sales ~dept** - Returns results where "sales" is found, but ranks results lower that also contain "dept"
 
-+sales -dept - Returns results where "sales" is found and "dept" is not
+**+sales +(>dept <exec)** - Returns results that contain "sales" and "dept" or "sales" and "exec", in any order, however, "sales dept" would rank higher than "sales exec"
 
-+sales ~dept - Returns results where "sales" is found, but ranks results lower that also contain "dept"
+**sales*** - Returns results that contain words such as "sales", "salesman" or "salesperson"
 
-+sales +(>dept <exec) - Returns results that contain "sales" and "dept" or "sales" and "exec", in any order, however, "sales dept" would rank higher than "sales exec"
-
-sales* - Returns results that contain words such as "sales", "salesman" or "salesperson"
-
-"sales dept" - Returns results that contain the exact phrase "sales dept"
+**"sales dept"** - Returns results that contain the exact phrase "sales dept"
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTMyMTkwM119
+eyJoaXN0b3J5IjpbLTEwNjg4NDM3MzldfQ==
 -->
