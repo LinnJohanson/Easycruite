@@ -306,13 +306,82 @@ Invitation to Initial, 1st, 2nd and 3rd Meeting
 - SHL and cut-e Assessment invite
  - Custom Email
 
-{contact-person-cellular-telephone} - Contact's Mobile Phone Number
+**{contact-person-cellular-telephone} - Contact's Mobile Phone Number**
 Email Channel Posting
 
-{contact-person-email} - Contact's Email Address
+**{contact-person-email} - Contact's Email Address**
 Email Channel Posting
+
+**{contact-person-name} - Contact Name**
+- Application Received
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- New User Email
+- Invitation to MINT Matrigma and Service-F test
+- Employment Contract
+- Letter of application received/rejected
+- Portable CV
+- SHL and cut-e Assessment invite
+- Custom Email
+
+**{contact-person-office-telephone} - Contact's Mobile Office Number**
+Email Channel Posting
+
+**{contact-persons} - Contact Person(s)**
+Email Channel Posting
+
+{customer-name} - Customer Name
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+-
+Invitation to Initial 1st 2nd and 3rd Meeting
+
+Rejection after Initial 1st 2nd and 3rd Meeting
+
+Confirmation of Username
+
+Details Transferred to CV Database
+
+New User Email
+
+Invite to Send/Update CV Employee
+
+Forward Application
+
+Invitation to MINT Matrigma and Service-F tests
+
+cut-e Report
+
+Job Agent alert
+
+Request for vacancy approval
+
+Employment Contract
+
+Send to a Friend Vacancy
+
+Portable CV
+
+Review of candidate
+
+Letter of application received/rejected
+
+SHL and cut-e Assessment invite
+
+Custom Email
+
+Email Signatures
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc1MjE2ODVdfQ==
+eyJoaXN0b3J5IjpbLTExODkzNDQ0NjVdfQ==
 -->
