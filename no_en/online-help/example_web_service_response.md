@@ -1,102 +1,102 @@
 # Example Web Service Response
 
-<Candidate id="26980851" language="gb">
+< Candidate id="26980851" language="gb">
 
-<PersonalDetails>
+< PersonalDetails>
 
-<CurrentEmploymentStatus id="17">Engagement</CurrentEmploymentStatus>
+< CurrentEmploymentStatus id="17">Engagement</CurrentEmploymentStatus>
 
-<Title id="1">Mr</Title>
+< Title id="1">Mr</Title>
 
-<TitleGrade>Mr</TitleGrade>
+< TitleGrade>Mr</TitleGrade>
 
-<FirstName>First name</FirstName>
+< FirstName>First name</FirstName>
 
-<MiddleName>Middle name</MiddleName>
+< MiddleName>Middle name</MiddleName>
 
-<LastName>Surname</LastName>
+< LastName>Surname</LastName>
 
-<Nationality iso="SE" id="204">Swedish</Nationality>
+< Nationality iso="SE" id="204">Swedish</Nationality>
 
-<MaritalStatus id="2">Married</MaritalStatus>
+< MaritalStatus id="2">Married</MaritalStatus>
 
-<DateOfBirth>1980-01-01</DateOfBirth>
+< DateOfBirth>1980-01-01</DateOfBirth>
 
-<Gender>m</Gender>
+< Gender>m< /Gender>
 
-<SSN>123456</SSN>
+< SSN>123456< /SSN>
 
-<Phone type="private">+46 123456</Phone>
+< Phone type="private">+46 123456< /Phone>
 
-<Phone type="work">+46 123456</Phone>
+< Phone type="work">+46 123456< /Phone>
 
-<Phone type="cellular">+46 123456</Phone>
+< Phone type="cellular">+46 123456< /Phone>
 
-<Email>test@test.abc</Email>
+< Email>test@test.abc< /Email>
 
-<Homepage>www.test123.com</Homepage>
+< Homepage>www.test123.com< /Homepage>
 
-<PostalAddress>
+< PostalAddress>
 
-<Country iso="SE" id="204">Sweden</Country>
+< Country iso="SE" id="204">Sweden< /Country>
 
-<PostalCode>12345</PostalCode>
+< PostalCode>12345< /PostalCode>
 
-<PostalArea>City</PostalArea>
+< PostalArea>City< /PostalArea>
 
-<Municipality id="543">Malmö stad</Municipality>
+< Municipality id="543">Malmö stad< /Municipality>
 
-<County id="46">Skåne</County>
+< County id="46">Skåne< /County>
 
-<Address>Streetname</Address>
+< Address>Streetname< /Address>
 
-</PostalAddress>
+< /PostalAddress>
 
-<PhotoFileName>Untitled-1.gif</PhotoFileName>
+< PhotoFileName>Untitled-1.gif< /PhotoFileName>
 
-<CVFileName>cv.docx</CVFileName>
+< CVFileName>cv.docx< /CVFileName>
 
-</PersonalDetails>
+< /PersonalDetails>
 
-<EmploymentHistory>
+< EmploymentHistory>
 
-<Employment current="1" id="29980191">
+< Employment current="1" id="29980191">
 
-<EmployerName>Test AB</EmployerName>
+< EmployerName>Test AB< /EmployerName>
 
-<PositionTitle>Test</PositionTitle>
+< PositionTitle>Test< /PositionTitle>
 
-<PositionDescription>Description</PositionDescription>
+< PositionDescription>Description< /PositionDescription>
 
-<Sector id="35"/>
+< Sector id="35"/>
 
-<JobCategory id="35">Call Centre</JobCategory>
+< JobCategory id="35">Call Centre< /JobCategory>
 
-<SubCategory id="357">Team Leader</SubCategory>
+< SubCategory id="357">Team Leader< /SubCategory>
 
-<WorkRole id="6">Kundansvarig</WorkRole>
+< WorkRole id="6">Kundansvarig< /WorkRole>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2013-03-01</EndDate>
+< EndDate>2013-03-01< /EndDate>
 
-</Employment>
+< /Employment>
 
-</EmploymentHistory>
+< /EmploymentHistory>
 
 < EducationHistory>
 
 < Education current="1" id="20060247">
 
-< InstituteType id="3">College</InstituteType>
+< InstituteType id="3">College< /InstituteType>
 
-< InstituteName>School</InstituteName>
+< InstituteName>School< /InstituteName>
 
-< AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
+< AreaOfEducation id="98">Aerospace Engineering< /AreaOfEducation>
 
-< Degree id="91">Architect</Degree>
+< Degree id="91">Architect< /Degree>
 
-< StartDate>2010-03-01</StartDate>
+< StartDate>2010-03-01< /StartDate>
 
 < EndDate>2014-04-01< /EndDate>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTMyMjE1Ml19
+eyJoaXN0b3J5IjpbLTcyNDkwMzI4XX0=
 -->
