@@ -760,51 +760,29 @@ Pending Further Action Report
 - Request for vacancy approval
 - Vacancy Expiry Warning
 
-{publication-channel}
-
-Publication Channel
-
+**{publication-channel} - Publication Channel**
 Review of candidate
 
-{recruiter-name}
+**{recruiter-name} - Recruiter Name**
+- Pending Further Action Report
+- Sends e-mail back to recruiter of confirmation of review
 
-Recruiter Name
-
+**{reference-number} - Reference Number**
 Pending Further Action Report
 
-Sends e-mail back to recruiter of confirmation of review
-
-{reference-number}
-
-Reference Number
-
-Pending Further Action Report
-
-{route}
-
-Directions
-
+**{route} - Directions**
 Invitation to Initial, 1st, 2nd and 3rd Meeting
 
-{sender-name}
+**{sender-name} - Applicant's Name**
+- Application Received
+- Registration Received
+- Copy of Application
+- Send to a Friend Vacancy
 
-Applicant's Name
-
-Application Received
-
-Registration Received
-
-Copy of Application
-
-Send to a Friend Vacancy
-
-{site}
-
-Name of channel where the job is posted
-
+**{site} - Name of channel where the job is posted**
 Vacancy Expiry Warning
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk4MTUxOSwtMTUxNDMxNDIxNiwxMD
-MzMzM2NTJdfQ==
+eyJoaXN0b3J5IjpbLTU2NDQyMTUzLC0xNTE0MzE0MjE2LDEwMz
+MzMzY1Ml19
 -->
