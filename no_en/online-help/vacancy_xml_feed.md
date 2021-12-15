@@ -14,47 +14,47 @@ EasyCruit supports multiple posting periods that can be picked by the user. Per 
 
 #### Listing XML
 
-<Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
+< Vacancy id="xxxxxx" date_start="yyyy-mm-dd" date_end="yyyy-mm-dd" reference_number="">
 
-<Versions>
+< Versions>
 
-<Version language="en"> (Vacancy language, ex. da, sv, gb, etc.)
+< Version language="en"> (Vacancy language, ex. da, sv, gb, etc.)
 
-<Title>Mandatory title</Title>
+< Title>Mandatory title< /Title>
 
-<TitleHeading>Not mandatory sub title</TitleHeading>
+< TitleHeading>Not mandatory sub title< /TitleHeading>
 
-<AlternativeCompanyName>Company name</AlternativeCompanyName>
+< AlternativeCompanyName>Company name< /AlternativeCompanyName>
 
-<ApplicationDeadline>Free text field with application deadline</ApplicationDeadline>
+< ApplicationDeadline>Free text field with application deadline< /ApplicationDeadline>
 
-<Location>Free text field with job location</Location>
+< Location>Free text field with job location< /Location>
 
-<Engagement>Free text field with engagement</Engagement>
+< Engagement>Free text field with engagement< /Engagement>
 
-<Region>
+< Region>
 
-<Country id="xx" name="Sweden"> (Vacancy country)
+< Country id="xx" name="Sweden"> (Vacancy country)
 
-<County id="xxx">Region in selected country</County>
+< County id="xxx">Region in selected country< /County>
 
-</Country>
+< /Country>
 
-</Region>
+< /Region>
 
-<Categories>
+< Categories>
 
-<Item type="area-of-interest" id="xxx">Area of interest</Item>
+< Item type="area-of-interest" id="xxx">Area of interest< /Item>
 
-<Item type="position-type" id="xxx">Position type</Item>
+< Item type="position-type" id="xxx">Position type< /Item>
 
-<Item type="job-level" id="xxx">Job level</Item>
+< Item type="job-level" id="xxx">Job level< /Item>
 
-<Item type="duration" id="xxx">Duration</Item>
+< Item type="duration" id="xxx">Duration< /Item>
 
-< Item type="extent" id="xxx">Extent</Item>
+< Item type="extent" id="xxx">Extent< /Item>
 
-< Item type="operating-time" id="xxx">Operation time</Item>
+< Item type="operating-time" id="xxx">Operation time</ Item>
 
 < /Categories>
 
@@ -167,5 +167,5 @@ Vacancy:  [https://www.easycruit.com/dtd/vacancy.xsd](https://www.easycruit.com/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI5NDM2NTldfQ==
+eyJoaXN0b3J5IjpbMjA2NzUzMzQ5NV19
 -->
