@@ -49,71 +49,71 @@ XML Schema for VacancyList response:  [https://www.easycruit.com/wsdl/ws/Va...st
 
 <urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?</Customer>
 
-<Username>?</Username>
+< Username>?</Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?</passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyList>
+< urn:VacancyList>
 
-<urn:Vacancy language="?" department="?"/>
+< urn:Vacancy language="?" department="?"/>
 
-</urn:VacancyList>
+< /urn:VacancyList>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### VacancyList SOAP response example
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyListResponse>
+< urn:VacancyListResponse>
 
-<VacancyList ContentLanguage="?">
+< VacancyList ContentLanguage="?">
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Vacancy id="?">
+< Vacancy id="?">
 
-<!--You may enter the following 4 items in any order-->
+< !--You may enter the following 4 items in any order-->
 
-<Title>?</Title>
+< Title>?< /Title>
 
-<RefId>?</RefId>
+< RefId>?< /RefId>
 
-<Departments>
+< Departments>
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<Department id="?">?</Department>
+< Department id="?">?< /Department>
 
-</Departments>
+< /Departments>
 
-<Languages>
+< Languages>
 
-<!--1 or more repetitions:-->
+< !--1 or more repetitions:-->
 
-<Language iso="?">?</Language>
+< Language iso="?">?< /Language>
 
 < /Languages>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjE5NjU0NV19
+eyJoaXN0b3J5IjpbMjAwMTIyNjY1M119
 -->
