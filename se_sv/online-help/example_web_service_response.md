@@ -52,79 +52,79 @@
 
 </PostalAddress>
 
-<PhotoFileName>Untitled-1.gif</PhotoFileName>
+< PhotoFileName>Untitled-1.gif</PhotoFileName>
 
-<CVFileName>cv.docx</CVFileName>
+< CVFileName>cv.docx</CVFileName>
 
-</PersonalDetails>
+< /PersonalDetails>
 
-<EmploymentHistory>
+< EmploymentHistory>
 
-<Employment current="1" id="29980191">
+< Employment current="1" id="29980191">
 
-<EmployerName>Test AB</EmployerName>
+< EmployerName>Test AB< /EmployerName>
 
-<PositionTitle>Test</PositionTitle>
+< PositionTitle>Test< /PositionTitle>
 
-<PositionDescription>Beskrivning</PositionDescription>
+< PositionDescription>Beskrivning< /PositionDescription>
 
-<Sector id="35"/>
+< Sector id="35"/>
 
-<JobCategory id="35">Call-center</JobCategory>
+< JobCategory id="35">Call-center< /JobCategory>
 
-<SubCategory id="357">Team Leader</SubCategory>
+< SubCategory id="357">Team Leader < /SubCategory>
 
-<WorkRole id="6">Kundansvarig</WorkRole>
+< WorkRole id="6">Kundansvarig< /WorkRole>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2013-03-01</EndDate>
+< EndDate>2013-03-01< /EndDate>
 
-</Employment>
+< /Employment>
 
-</EmploymentHistory>
+< /EmploymentHistory>
 
-<EducationHistory>
+< EducationHistory>
 
-<Education current="1" id="20060247">
+< Education current="1" id="20060247">
 
-<InstituteType id="3">College</InstituteType>
+< InstituteType id="3">College< /InstituteType>
 
-<InstituteName>Skolans namn</InstituteName>
+< InstituteName>Skolans namn< /InstituteName>
 
-<AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
+< AreaOfEducation id="98">Aerospace Engineering< /AreaOfEducation>
 
-<Degree id="91">Architect</Degree>
+< Degree id="91">Architect< /Degree>
 
-<StartDate>2010-03-01</StartDate>
+< StartDate>2010-03-01< /StartDate>
 
-<EndDate>2014-04-01</EndDate>
+< EndDate>2014-04-01< /EndDate>
 
-<AverageGrade>Medelbetyg</AverageGrade>
+< AverageGrade>Medelbetyg< /AverageGrade>
 
-<ResultPoints>544</ResultPoints>
+< ResultPoints>544< /ResultPoints>
 
-<Country iso="SE" id="14">Sweden</Country>
+< Country iso="SE" id="14">Sweden< /Country>
 
-<Comments>Specialisering</Comments>
+< Comments>Specialisering< /Comments>
 
-</Education>
+< /Education>
 
-</EducationHistory>
+< /EducationHistory>
 
-<Certifications>
+< Certifications>
 
-<Certification id="5101959">
+< Certification id="5101959">
 
-<Name>Kurs</Name>
+< Name>Kurs< /Name>
 
-<Description>Beskr.</Description>
+< Description>Beskr.< /Description>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2014-04-01</EndDate>
+< EndDate>2014-04-01< /EndDate>
 
-<Duration type="hours">100</Duration>
+< Duration type="hours">100< /Duration>
 
 < /Certification>
 
@@ -134,11 +134,11 @@
 
 < Reference id="3686853">
 
-< CompanyName>Företagsnamn</CompanyName>
+< CompanyName>Företagsnamn< /CompanyName>
 
-< PersonName>Namn</PersonName>
+< PersonName>Namn< /PersonName>
 
-< ContactInfo>123456</ContactInfo>
+< ContactInfo>123456< /ContactInfo>
 
 < /Reference>
 
@@ -160,9 +160,9 @@
 
 < Competency id="21575765">
 
-< Name iso="SE" id="204">Swedish</Name>
+< Name iso="SE" id="204">Swedish< /Name>
 
-< Level type="speaking" id="3">Native speaker</Level>
+< Level type="speaking" id="3">Native speaker< /Level>
 
 < Level type="reading" id="3">Native speaker< /Level>
 
@@ -231,5 +231,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODIyMzQ1XX0=
+eyJoaXN0b3J5IjpbNDExNjM5MTM1XX0=
 -->
