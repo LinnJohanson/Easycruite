@@ -4,7 +4,7 @@ There are a number of assessment tests, provided by Assessio,cut-e and SHL, inte
 
 The test integrations are only available to clients who have subscribed to this functionality.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Using Tests
+#### Using Tests
 
 1.  To use tests for a vacancy, from the New Vacancy quick link select the required test under  Misc. Settings.  
     The tests are then active for the project.
@@ -14,11 +14,11 @@ The test integrations are only available to clients who have subscribed to this 
 
 Tests can be used in a variety of ways. For example you may want to set up screening questions that must be passed correctly before a test is sent automatically, or you may wish to send tests manually to selected candidates.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Assessio
+#### Assessio
 
 Assessio is one of the vendors that provides assessment tests which can be integrated into EasyCruit.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Viewing the results of Vacancy Service-F Assessment Tests
+#### Viewing the results of Vacancy Service-F Assessment Tests
 
 1.  Log in to EasyCruit and select a vacancy.
 2.  Select the  Application Handling  tab.  
@@ -26,7 +26,7 @@ Assessio is one of the vendors that provides assessment tests which can be integ
 3.  Select  Service-F.  
     The  Recruitment Information  page is displayed showing a list of the candidates who have completed the Service-F assessment test together with each individual’s scores.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Viewing the results of Vacancy MINT Personality Tests
+#### Viewing the results of Vacancy MINT Personality Tests
 
 1.  Log in to EasyCruit and select a vacancy.
 2.  Select the  Application Handling  tab.  
@@ -34,7 +34,7 @@ Assessio is one of the vendors that provides assessment tests which can be integ
 3.  Select  MINT.  
     The  Recruitment Information  page is displayed showing a list of the candidates who have completed the MINT assessment test together with each individual’s scores for Integrity, Interpersonal Orientation and Task Orientation.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Viewing the Results of Vacancy Matrigma Problem Solving Abilities Test
+#### Viewing the Results of Vacancy Matrigma Problem Solving Abilities Test
 
 1.  Log in to EasyCruit and select a vacancy.
 2.  Select the  Application Handling  tab.  
@@ -42,11 +42,11 @@ Assessio is one of the vendors that provides assessment tests which can be integ
 3.  Select  Matrigma.  
     The  Recruitment information  page is displayed showing a list of the candidates who have completed the Matrigma assessment test together with each individual’s C:Score and links to two reports.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)SHL
+#### SHL
 
 SHL is one of the vendors that provides assessment tests which can be integrated into EasyCruit.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Viewing the Results of the SHL Assessment Tests
+#### Viewing the Results of the SHL Assessment Tests
 
 1.  Log in to EasyCruit and select a vacancy.
 2.  Select the  Application Handling  tab. The assessment tests are shown at the bottom left of the page.
@@ -59,7 +59,7 @@ SHL is one of the vendors that provides assessment tests which can be integrated
           
         The  Recruitment Information  page is displayed showing a list of the candidates who have completed the test together with each individual’s raw score and links to one or more reports.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)cut-e
+#### cut-e
 
 cut-e is one of the vendors that provides assessment tests which can be integrated into EasyCruit.
 
@@ -94,5 +94,5 @@ You can send multiple tests, or your organisation may have configured a 'bundle'
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjAxMTMzN119
+eyJoaXN0b3J5IjpbNzQzMjk1NjM5XX0=
 -->
