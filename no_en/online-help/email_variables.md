@@ -851,12 +851,9 @@ Job Agent alert
 - Invite to Send/Update CV Employee
 
 {user-cellular-telephone - User's Mobile Phone Number
-
 Email Channel Posting
 
-{user-family-name}
-
-User's Surname
+{user-family-name}User's Surname
 
 Email Channel Posting
 
@@ -867,6 +864,6 @@ User's First Name
 Email Channel Posting
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDI4NjI4MSwxMzc1NzE4MjQxLC0xNT
-E0MzE0MjE2LDEwMzMzMzY1Ml19
+eyJoaXN0b3J5IjpbLTE2MjA1Mzg1NjksMTQ1MDI4NjI4MSwxMz
+c1NzE4MjQxLC0xNTE0MzE0MjE2LDEwMzMzMzY1Ml19
 -->
