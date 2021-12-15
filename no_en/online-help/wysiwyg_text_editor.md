@@ -58,89 +58,47 @@ Font family. Provides a number of different fonts, including those to enable dou
 
 Font size list
 
-![](../Resources/Images/font_color.jpg)
+![](../Resources/Images/font_color.jpg) - Font color. Selecting the dropdown arrow provides a color picker to select from and also enables you to select custom colors
 
-Font color. Selecting the dropdown arrow provides a color picker to select from and also enables you to select custom colors
+![](../Resources/Images/background_color.jpg) - Background color. Selecting the dropdown arrow provides a color picker to select from and also enables you to select custom colors
 
-![](../Resources/Images/background_color.jpg)
+![](../Resources/Images/bullet_list.jpg) - Ordered list/numbered list
 
-Background color. Selecting the dropdown arrow provides a color picker to select from and also enables you to select custom colors
+![](../Resources/Images/numbered_list.jpg) - Unordered list/bulleted list
 
-![](../Resources/Images/bullet_list.jpg)
+![](../Resources/Images/decrease.jpg) - Decrease indentation
 
-Ordered list/numbered list
+![](../Resources/Images/increase.jpg) - Increase indentation
 
-![](../Resources/Images/numbered_list.jpg)
+![](../Resources/Images/undo.jpg) - Undo the last operation (CTRL + Z)
 
-Unordered list/bulleted list
+![](../Resources/Images/redo.jpg) - Redo the last operation (CTRL + Y)
 
-![](../Resources/Images/decrease.jpg)
+![](../Resources/Images/insert_link.jpg) - Insert a new link. Clicking this opens a new dialog box, where the URL for link can be entered, along with selecting whether to open the link in a new window or the current window
 
-Decrease indentation
+![](../Resources/Images/remove_link.jpg) - Remove selected link. Highlight a link with the cursor and click this button to remove the link
 
-![](../Resources/Images/increase.jpg)
+![](../Resources/Images/anchor.jpg) - Insert a new anchor. Select this button opens a new dialog box, where an anchor name can be provided for the point on the page where the cursor is active. This enables a new link to be included, linking to that part of the page.
 
-Increase indentation
+![](../Resources/Images/clean_up.jpg) - Cleanup code. Removes unwanted formatting. This function is useful when copying pre-formatted text from Word.
 
-![](../Resources/Images/undo.jpg)
+![](../Resources/Images/help.jpg) - WYSIWYG Editor Help
 
-Undo the last operation (CTRL + Z)
+![](../Resources/Images/html.jpg) - HTML Coding. This button opens a new window where content can be entered in the editor in HTML code. When it is saved and closed, the content is updated in the WYSIWYG editor without the code being displayed
 
-![](../Resources/Images/redo.jpg)
+![](../Resources/Images/cut.jpg) - Cuts highlighted text (CTRL + X)
 
-Redo the last operation (CTRL + Y)
+![](../Resources/Images/copy.jpg) - Copies highlighted text (CTRL + C)
 
-![](../Resources/Images/insert_link.jpg)
+![](../Resources/Images/paste1.jpg) - Pastes content into the editor along with its formatting (CTRL + P)
 
-Insert a new link. Clicking this opens a new dialog box, where the URL for link can be entered, along with selecting whether to open the link in a new window or the current window
+![](../Resources/Images/paste2.jpg) - Pastes content into the editor as plain text, removing any formatting
 
-![](../Resources/Images/remove_link.jpg)
+![](../Resources/Images/replace.jpg) - Find and Replace feature which can replace a single instance or every instance of a word or phrase within the editor
 
-Remove selected link. Highlight a link with the cursor and click this button to remove the link
+![](../Resources/Images/remove.jpg) - Remove formatting, such as bold and colored text
 
-![](../Resources/Images/anchor.jpg)
-
-Insert a new anchor. Select this button opens a new dialog box, where an anchor name can be provided for the point on the page where the cursor is active. This enables a new link to be included, linking to that part of the page.
-
-![](../Resources/Images/clean_up.jpg)
-
-Cleanup code. Removes unwanted formatting. This function is useful when copying pre-formatted text from Word.
-
-![](../Resources/Images/help.jpg)
-
-WYSIWYG Editor Help
-
-![](../Resources/Images/html.jpg)
-
-HTML Coding. This button opens a new window where content can be entered in the editor in HTML code. When it is saved and closed, the content is updated in the WYSIWYG editor without the code being displayed
-
-![](../Resources/Images/cut.jpg)
-
-Cuts highlighted text (CTRL + X)
-
-![](../Resources/Images/copy.jpg)
-
-Copies highlighted text (CTRL + C)
-
-![](../Resources/Images/paste1.jpg)
-
-Pastes content into the editor along with its formatting (CTRL + P)
-
-![](../Resources/Images/paste2.jpg)
-
-Pastes content into the editor as plain text, removing any formatting
-
-![](../Resources/Images/replace.jpg)
-
-Find and Replace feature which can replace a single instance or every instance of a word or phrase within the editor
-
-![](../Resources/Images/remove.jpg)
-
-Remove formatting, such as bold and colored text
-
-![](../Resources/Images/insert_table.jpg)
-
-Insert Table. Selecting this option opens a new window where the table parameters can be configured. See the WYSIWYG editor help for more details
+![](../Resources/Images/insert_table.jpg) - Insert Table. Selecting this option opens a new window where the table parameters can be configured. See the WYSIWYG editor help for more details
 
 ## Editor Actions
 
@@ -148,11 +106,11 @@ The WYSIWYG editor includes the standard editing features that you would expect 
 
 When using the WYSIWYG editor with HTML emails, images are currently supported for emails but not for vacancies.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Selecting Text and Graphics
+#### Selecting Text and Graphics
 
 When you want to move, delete or replace content in the editor, you must first select what you want to work with. You can do this using the mouse or keyboard.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Selecting Content Using the Mouse
+#### Selecting Content Using the Mouse
 
 Drag the pointer across what you want to select or use one of the following shortcuts:
 
@@ -161,7 +119,7 @@ Drag the pointer across what you want to select or use one of the following shor
 -   Start a selection - Click at the start of the selection
 -   End a selection - Hold down SHIFT and click at the end of the selection
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Selecting Content Using the Keyboard
+#### Selecting Content Using the Keyboard
 
 Use one of the following shortcuts:
 
@@ -177,24 +135,19 @@ Use one of the following shortcuts:
 
 You can copy, cut and paste content using the system clipboard. This is a quick way of transferring content from other applications to the WYSIWYG editor and within the editor itself.
 
-To Perform This Action ...
-
+**To Perform This Action ...**
 Do this
 
-Copy selected content in the WYSIWYG editor onto the clipboard.
-
+**Copy selected content in the WYSIWYG editor onto the clipboard.**
 Select the content and click on the icon for copy or CTRL + C.
 
-Move (copy and delete) content in the WYSIWYG editor onto the clipboard.
-
+**Move (copy and delete) content in the WYSIWYG editor onto the clipboard.**
 Select the content and click on the icon for cut or CTRL + X.
 
-Paste contents of the clipboard into the WYSIWYG editor.
-
+**Paste contents of the clipboard into the WYSIWYG editor.**
 Use the cursor to indicate where the content should be placed and click on the icon for paste or CTRL + V.
 
-Paste the contents of the clipboard into the WYSIWYG editor, as plain text without any formatting.
-
+**Paste the contents of the clipboard into the WYSIWYG editor, as plain text without any formatting.**
 Use the cursor to indicate where the content should be placed and click on the icon for paste plain text.
 
 #### Redoing and Undoing Actions
@@ -223,5 +176,5 @@ Changes can be made to the text in the WYSIWYG editor using the Find and Replace
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE4MDgzNDddfQ==
+eyJoaXN0b3J5IjpbLTEzNzk3NzM5NjddfQ==
 -->
