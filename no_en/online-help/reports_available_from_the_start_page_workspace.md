@@ -2,7 +2,7 @@
 
 EasyCruit enables you to create reports on the data associated with the application process. You can create reports on the sources to which a vacancy is posted, the reason applicants were rejected and what stages applicants are at in a vacancy.
 
-For information related specifically to candidate reporting refer to  [Reporting on Candidates](reporting_on_candidates.htm).
+For information related specifically to candidate reporting refer to  [Reporting on Candidates] (reporting_on_candidates.htm).
 
 The following report types are available:
 
@@ -12,22 +12,22 @@ Description
 **Source Report**
 Provides an overview of the posting channels (career websites, job boards and those manually added to the system) where vacancies have been listed. It includes information such as number of hits, number of applications and number of hires.
 
-Source/Diversity Report
+**Source/Diversity Report**
 Provides information on the sex and age of people who apply for vacancies that are listed on the posting channels.
 
-Vacancy Report
+**Vacancy Report**
 Provides information on the different stages applicants have reached for specific vacancies, such as Invited to Interview, Rejected Candidates, Time to Offer, Offers Made and Hired.
 
-Vacancy/Diversity Report
+**Vacancy/Diversity Report**
 Provides information on the sex and age of the applicants for each vacancy.
 
-Rejection Reasons Report
+**Rejection Reasons Report**
 Provides details on the reasons an applicant was rejected for a vacancy.
 
-CBS Report
+**CBS Report**
 The Central Bureau of Statistics (CBS) report is a quarterly report which must be completed by all companies in the Netherlands. The report includes the number of open vacancies, filled vacancies, created vacancies, and closed (but not filled) vacancies for the quarter.
 
-[Data Extract](data_extract.htm)
+**[Data Extract](data_extract.htm)**
 This add-on feature exports EasyCruit data into an Excel spreadsheet. This data can be copied and pasted into a number of pre-configured Excel graphs to give you insight into your recruiting activities. Example graphs include Candidates by Source, and Vacancies and Candidates by Department.
 
 ##### See also:
@@ -41,5 +41,5 @@ This add-on feature exports EasyCruit data into an Excel spreadsheet. This data 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjQ3MjA2MF19
+eyJoaXN0b3J5IjpbMTU4MDYzNTkxMF19
 -->
