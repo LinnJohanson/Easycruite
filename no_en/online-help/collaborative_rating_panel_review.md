@@ -81,12 +81,10 @@ Applicants have an average value in the  Ranking  column.
 
 If you select the  Name  of the applicant and then the  Collaborative Rating  page, all of the ratings and all of the comments made by anyone who provided rating feedback are displayed.
 
-See also:
+##### See also:
 
 ![](../Resources/Images/icon-document-link.png) [Collaborative Rating tab](collaborative_rating_tab.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Advanced Selection and Contracting Pack](advanced_selection_and_contraction_pack.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Application and CV page overview](application_and_cv_page_overview.htm)
 ![](../Resources/Images/icon-document-link.png) [Two-Way email tab](two_way_email_tab.htm)
 ![](../Resources/Images/icon-document-link.png) [Viewing a Candidate's Multiple Application](viewing_a_candidates_multiple_applications.htm)
@@ -94,5 +92,5 @@ See also:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTQzMDc2M119
+eyJoaXN0b3J5IjpbLTQyMjczMDA2OF19
 -->
