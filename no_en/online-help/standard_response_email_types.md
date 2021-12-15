@@ -183,47 +183,37 @@ Email to panel review recipients requesting them to rate and/or comment.
 Sends email back to recruiter of confirmation of review
 
 Notification to recruiter for each completed panel review.
-
-Letter
-
+***
+**Letter**
 Description
 
-Application received
-
+**Application received**
 Letter used to confirm that an application for a vacancy has been received.
 
-Application rejected
-
+**Application rejected**
 Letter used to confirm that an application for a vacancy has been unsuccessful.
-
-Email Default Publication Channel
-
+***
+**Email Default Publication Channel**
 Description
 
-Start publication email
+**Start publication email**
+Email sent to a publication channel to inform them to publish a new vacancy. This email can make use of the < department-about-inherited /> tag to ensure that the about information related to a vacancy is displayed on a career site and included in email matches. Using the tag, the about information for the department associated with the vacancy is displayed if it is available. If it is not, the tag searches up department levels until it finds about information to include in the email.
 
-Email sent to a publication channel to inform them to publish a new vacancy. This email can make use of the <department-about-inherited /> tag to ensure that the about information related to a vacancy is displayed on a career site and included in email matches. Using the tag, the about information for the department associated with the vacancy is displayed if it is available. If it is not, the tag searches up department levels until it finds about information to include in the email.
-
-Stop publication email
-
+**Stop publication email**
 Email notification to stop publishing a vacancy.
-
-Assessment Test Emails
-
+***
+**Assessment Test Emails**
 Description
 
-SHL Assessment Invite
-
+**SHL Assessment Invite**
 Email sent to candidates, inviting them to an SHL assessment.
 
-Master Management Assessment Invite
-
+**Master Management Assessment Invite**
 Email sent to candidates, inviting them to an Master Management assessment.
 
-cut-e Assessment Invite
-
+**cut-e Assessment Invite**
 Email sent to candidates, inviting them to a cut-e assessment.
-
+***
 **Custom Email Template**
 Description
 
@@ -242,5 +232,5 @@ This section must be activated by your EasyCruit consultant. Once it is activate
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTg3NjY2MF19
+eyJoaXN0b3J5IjpbLTQ4NjE2NDc5Nl19
 -->
