@@ -420,7 +420,29 @@ Vacancy Expiry Warning
 
 **{department-address} - Department Address**
 Email Channel Posting
+
+{department-name} - Department Name
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- New User Email
+- Request for vacancy approval
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Email Signatures
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDg4OTYxOF19
+eyJoaXN0b3J5IjpbOTU5NjM3NzgwXX0=
 -->
