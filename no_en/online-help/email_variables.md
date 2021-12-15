@@ -604,7 +604,39 @@ Invitation to Initial, 1st, 2nd and 3rd Meeting
 - SHL and cut-e Assessment invite
 - Vacancy Expiry Warning
 - Custom Email
+
+**{last-name} - Surname**
+- Application Received
+- Copy of Application
+- Registration Received
+- Rejection Following Application Review
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Automatic Rejection
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F test
+- cut-e Report
+- New User Email
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL Assessment invite
+- Custom Email
+
+{link} - Link to recover password
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Application Saved
+
+{matches} - Inserts all matching jobs that the candidate may be interested in
+Job Agent
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwMzY1NDk2LDEwMzMzMzY1Ml19
+eyJoaXN0b3J5IjpbLTEyMDg0MDA1NzMsMTAzMzMzNjUyXX0=
 -->
