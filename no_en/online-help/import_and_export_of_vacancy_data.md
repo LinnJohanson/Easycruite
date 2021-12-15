@@ -115,17 +115,17 @@ XML Schema for VacancyList response:  [https://www.easycruit.com/wsdl/ws/Va...st
 
 <Language iso="?">?</Language>
 
-</Languages>
+< /Languages>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyListResponse>
+< /urn:VacancyListResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# example
 
@@ -206,57 +206,57 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 #### VacancyExport SOAP request example
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/],(http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExport>
+< urn:VacancyExport>
 
-<urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
+< urn:Vacancy id="?" department="?" language="?" allowMLTags="?"/>
 
-</urn:VacancyExport>
+< /urn:VacancyExport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 ## VacancyExport SOAP response example
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyExportResponse>
+< urn:VacancyExportResponse>
 
-<VacancyList>
+< VacancyList>
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Vacancy id="?" language="?">
+< Vacancy id="?" language="?">
 
 < !--You may enter the following 13 items in any order-->
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjgzNDE1XX0=
+eyJoaXN0b3J5IjpbMTYzMjE5NjU0NV19
 -->
