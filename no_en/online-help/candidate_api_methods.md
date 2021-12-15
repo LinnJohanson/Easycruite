@@ -292,49 +292,49 @@ RAW SOAP REQUEST EXAMPLE
 
 xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns="urn:EasyCruit">
 
-<soap:Header>
+< soap:Header>
 
-<AuthHeader>
+< AuthHeader>
 
-<Customer>customer</Customer>
+< Customer>customer< /Customer>
 
-<Username>username</Username>
+< Username>username< /Username>
 
-<Password>password</Password>
+< Password>password< /Password>
 
-</AuthHeader>
+< /AuthHeader>
 
-</soap:Header>
+< /soap:Header>
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExport>
+< CandidateExport>
 
-<Language>no</Language><CandidateId>123456789</CandidateId>
+< Language>no< /Language>< CandidateId>123456789< /CandidateId>
 
-</CandidateExport>
+< /CandidateExport>
 
-</soap:Body>
+< /soap:Body>
 
-</soap:Envelope>
+< /soap:Envelope>
 
 RAW SOAP RESPONSE EXAMPLE
 
-<?xml version="1.0" encoding="UTF8"?>
+< ?xml version="1.0" encoding="UTF8"?>
 
-<soap:Envelope xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)">
+< soap:Envelope xmlns:soap="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)">
 
-<soap:Body>
+< soap:Body>
 
-<CandidateExportResponse xmlns="urn:EasyCruit">
+< CandidateExportResponse xmlns="urn:EasyCruit">
 
-<Candidate>DATA</Candidate>
+< Candidate>DATA< /Candidate>
 
-</CandidateExportResponse>
+< /CandidateExportResponse>
 
-</soap:Body>
+< /soap:Body>
 
-</soap:Envelope>
+< /soap:Envelope>
 
 The DATA for this example needs to be decoded, and the resulting XML is based on schema below:  [https://www.easycruit.com/wsdl/ws/Candidate.xsd](https://www.easycruit.com/wsdl/ws/Candidate.xsd)
 
@@ -349,5 +349,5 @@ The DATA for this example needs to be decoded, and the resulting XML is based on
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjQ3ODQyNl19
+eyJoaXN0b3J5IjpbLTEwMzgzNDM2OTRdfQ==
 -->
