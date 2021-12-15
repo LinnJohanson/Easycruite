@@ -628,15 +628,70 @@ Invitation to Initial, 1st, 2nd and 3rd Meeting
 - SHL Assessment invite
 - Custom Email
 
-{link} - Link to recover password
+**{link} - Link to recover password**
 - Confirmation of Username
 - Details Transferred to CV Database
 - Invite to Send/Update CV Employee
 - Application Saved
 
-{matches} - Inserts all matching jobs that the candidate may be interested in
+**{matches} - Inserts all matching jobs that the candidate may be interested in**
 Job Agent
+
+**{middle-name} - Middle Name**
+- Application Received
+- Copy of Application
+- Registration Received
+- Rejection Following Application Review
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Automatic Rejection
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- Letter of application received/rejected
+- SHL Assessment invite
+- Custom Email
+
+**{middle-name} - Candidate middle name provided for the saved application**
+Application Saved
+
+{name} - Candidate First Name
+- Application Received
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+
+New User Email
+
+Employment Contract
+
+Portable CV
+
+Review of candidate
+
+Letter of application received/rejected
+
+SHL and cut-e Assessment invite
+
+Custom Email
+
+Email Signatures
+
+Application Saved
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg0MDA1NzMsMTAzMzMzNjUyXX0=
+eyJoaXN0b3J5IjpbMzkxMjE1MDkxLDEwMzMzMzY1Ml19
 -->
