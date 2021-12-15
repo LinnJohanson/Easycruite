@@ -436,7 +436,7 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 <!--Optional:-->
 
-< Version>?</Version>
+< Version>?< /Version>
 
 < /urn:AuthHeader>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDY3NjIxNV19
+eyJoaXN0b3J5IjpbLTEwOTYyMDY3ODFdfQ==
 -->
