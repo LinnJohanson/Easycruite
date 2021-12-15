@@ -927,12 +927,9 @@ Niet gebruikt (bestaat niet in broncode)
 - Portable CV
 - Beoordeling van kandidaat
 - Brief sollicitatie ontvangen / afgewezen
-
-Notificatie verlopen vacature
-
-SHL en cut-e assessment uitnodiging
-
-Organisatiespecifieke e-mails
+- Notificatie verlopen vacature
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
 
 Zie ook:
 
@@ -943,9 +940,9 @@ Zie ook:
 ![](../Resources/Images/icon-document-link.png)  [Tabblad Wervingsacties](recruitment_activities_list_tab.htm)
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0NDM0MDgzLDgzNDAwMjc0MCwtMTkxNz
-M2MDc5MywtNDEzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUz
-LDE1Nzc0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyOD
-k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
-XX0=
+eyJoaXN0b3J5IjpbLTMzOTM4MjMzMiw5MDQ0MzQwODMsODM0MD
+AyNzQwLC0xOTE3MzYwNzkzLC00MTM3ODkxMywxNDg0OTE0MjY0
+LC0xNzI3ODI3NTMsMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNT
+QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
+LC04MjYxNTI4MDNdfQ==
 -->
