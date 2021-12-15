@@ -15,20 +15,16 @@ For more information on export templates refer to  [Export Templates](export_tem
 5.  Click  Next  to display the report results.
 6.  As required, click the  Print,  PDF,  XLS  or  PDF and email  icon.
 
-See also:
+##### See also:
 
 ![](../Resources/Images/icon-document-link.png) [Candidate Report](candidate_report.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Export Templates](export_templates.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Guide for Administrators - Reports](guide_for_administrators_reports.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Applicant List Report](applicant_list_report.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Guide for Administrators - Reports](guide_for_administrators_reports.htm)C 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTUzNTI5Nl19
+eyJoaXN0b3J5IjpbLTExNDE2NzE1MTVdfQ==
 -->
