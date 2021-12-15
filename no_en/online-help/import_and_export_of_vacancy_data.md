@@ -296,41 +296,41 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 <TelephoneMobile>?</TelephoneMobile>
 
-<Department id="?">?</Department>
+< Department id="?">?</Department>
 
-</Contact>
+< /Contact>
 
-</Contacts>
+< /Contacts>
 
-<Questions>?</Questions>
+< Questions>?</Questions>
 
-<CompanyInformation>
+< CompanyInformation>
 
-<!--Zero or more repetitions:-->
+< !--Zero or more repetitions:-->
 
-<Company>
+< Company>
 
-<!--You may enter the following 3 items in any order-->
+< !--You may enter the following 3 items in any order-->
 
-<Department>?</Department>
+< Department>?< /Department>
 
-<About>?</About>
+< About>?< /About>
 
-<Homepage>?</Homepage>
+< Homepage>?< /Homepage>
 
-</Company>
+< /Company>
 
-</CompanyInformation>
+< /CompanyInformation>
 
-</Vacancy>
+< /Vacancy>
 
-</VacancyList>
+< /VacancyList>
 
-</urn:VacancyExportResponse>
+< /urn:VacancyExportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 .NET C# example:
 
@@ -418,23 +418,23 @@ XML Schema for VacancyExport response:  [https://www.easycruit.com/wsdl/ws/Va...
 
 #### VacancyImport SOAP request example
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
 < /Password>
 
-<!--Optional:-->
+< !--Optional:-->
 
 < Version>?< /Version>
 
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyMTIxMDA5XX0=
+eyJoaXN0b3J5IjpbMTgwNDc1MjUxOV19
 -->
