@@ -781,8 +781,77 @@ Invitation to Initial, 1st, 2nd and 3rd Meeting
 
 **{site} - Name of channel where the job is posted**
 Vacancy Expiry Warning
+
+**{surname} / Surname**
+- Rejection Following Application Review
+ - Automatic Rejection
+ - Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- cut-e Report
+- New User Email
+- Job Agent alert
+- Review of candidate
+- SHL and cut-e Assessment invite
+- Custom Email
+
+**{test-code} - Reference code for test**
+Invitation to MINT, Matrigma and Service-F tests
+
+**{test-link} - Link to the online test**
+Invitation to MINT, Matrigma and Service-F tests
+
+**{test-password} - Password to access 16PF test**
+16PF Emails
+
+**{test-username} - Username to access 16PF test**
+16PF Emails
+
+**{title} - Job Title**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Invite to Send/Update CV Employee
+- Forward Application
+
+**{title-grade} - Grade of Job Title**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Employment Contract
+- Portable CV
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+
+{unsubscribe-click-here}
+
+Provides the Unsubscribe Here text
+
+Job Agent alert
+
+{unsubscribe-link}
+
+Provides the link for the Unsubscribe Here text
+
+Job Agent alert
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDQyMTUzLC0xNTE0MzE0MjE2LDEwMz
-MzMzY1Ml19
+eyJoaXN0b3J5IjpbMTc2ODQxOTE1NywtMTUxNDMxNDIxNiwxMD
+MzMzM2NTJdfQ==
 -->
