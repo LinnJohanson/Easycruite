@@ -851,15 +851,13 @@ E-mail plaatsingskanaal
 **{user-family-name} - Achternaam gebruiker**
 E-mail plaatsingskanaal
 
-{user-given-name}
-
-Voornaam gebruiker
+{user-given-name} - Voornaam gebruiker
 
 E-mail plaatsingskanaal
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDg1Mjg5MywtMTkxNzM2MDc5MywtND
-EzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUzLDE1Nzc0NzM3
-NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyODk4OTQ2NSwxND
-UwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
+eyJoaXN0b3J5IjpbODM0MDAyNzQwLC0xOTE3MzYwNzkzLC00MT
+M3ODkxMywxNDg0OTE0MjY0LC0xNzI3ODI3NTMsMTU3NzQ3Mzc1
+OCwxMTU2NjA0Njk3LC0xNTQzNDQzMTYsMjI4OTg5NDY1LDE0NT
+A0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4MDNdfQ==
 -->
