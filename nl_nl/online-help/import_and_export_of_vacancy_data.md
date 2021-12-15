@@ -418,103 +418,103 @@ XML-schema voor VacancyExport-response:  [https://www.easycruit.com/wsdl/ws/Va..
 
 #### Voorbeeld VacancyImport SOAP-request
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header>
+< soapenv:Header>
 
-<urn:AuthHeader>
+< urn:AuthHeader>
 
-<Customer>?</Customer>
+< Customer>?< /Customer>
 
-<Username>?</Username>
+< Username>?< /Username>
 
-<Password passwordEncoding="?">
+< Password passwordEncoding="?">
 
-<passwordString>?</passwordString>
+< passwordString>?< /passwordString>
 
-</Password>
+< /Password>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<Version>?</Version>
+< Version>?< /Version>
 
-</urn:AuthHeader>
+< /urn:AuthHeader>
 
-</soapenv:Header>
+< /soapenv:Header>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImport>
+< urn:VacancyImport>
 
-<!--1 of meer herhalingen:-->
+< !--1 of meer herhalingen:-->
 
-<urn:Vacancy RefId="?">
+< urn:Vacancy RefId="?">
 
-<!--1 of meer herhalingen:-->
+< !--1 of meer herhalingen:-->
 
-<urn:Version Language="?">
+< urn:Version Language="?">
 
-<!--U kunt de volgende 8 items in elke volgorde invoeren-->
+< !--U kunt de volgende 8 items in elke volgorde invoeren-->
 
-<urn:Title>?</urn:Title>
+< urn:Title>?< /urn:Title>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:TitleHeading>?</urn:TitleHeading>
+< urn:TitleHeading>?< /urn:TitleHeading>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:Body>?</urn:Body>
+< urn:Body>?< /urn:Body>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:Deadline>?</urn:Deadline>
+< urn:Deadline>?< /urn:Deadline>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:Engagement>?</urn:Engagement>
+< urn:Engagement>?< /urn:Engagement>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:Location>?</urn:Location>
+< urn:Location>?< /urn:Location>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:DailyHours>?</urn:DailyHours>
+< urn:DailyHours>?< /urn:DailyHours>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<urn:Questions>?</urn:Questions>
+< urn:Questions>?< /urn:Questions>
 
-</urn:Version>
+< /urn:Version>
 
-</urn:Vacancy>
+< /urn:Vacancy>
 
-</urn:VacancyImport>
+< /urn:VacancyImport>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### Voorbeeld VacancyImport SOAP-response
 
-<soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/](http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
+< soapenv:Envelope xmlns:soapenv="[http://schemas.xmlsoap.org/soap/envelope/] (http://schemas.xmlsoap.org/soap/envelope/)" xmlns:urn="urn:EasyCruit">
 
-<soapenv:Header/>
+< soapenv:Header/>
 
-<soapenv:Body>
+< soapenv:Body>
 
-<urn:VacancyImportResponse>
+ < urn:VacancyImportResponse>
 
-<!--Optioneel:-->
+< !--Optioneel:-->
 
-<Status>?</Status>
+< Status>?< /Status>
 
-</urn:VacancyImportResponse>
+< /urn:VacancyImportResponse>
 
-</soapenv:Body>
+< /soapenv:Body>
 
-</soapenv:Envelope>
+< /soapenv:Envelope>
 
 #### Voorbeeld .NET C#
 
@@ -556,7 +556,7 @@ Console.WriteLine(result.Status);
 
 }
 
-####Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [Kandidaten-API-methodes](candidate_api_methods.htm)
 ![](../Resources/Images/icon-document-link.png)  [Vacature-XML-feed](vacancy_xml_feed.htm)
@@ -567,5 +567,5 @@ Console.WriteLine(result.Status);
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODY2ODAwOV19
+eyJoaXN0b3J5IjpbNjU4MDc2MTIyXX0=
 -->
