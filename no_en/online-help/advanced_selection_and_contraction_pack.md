@@ -18,50 +18,33 @@ Easliy sent text message updates and reminders to one or many candidates
 
 Communicate regularly with candidates, in a managed way, according to company selection process
 
-No central tracking of all steps
-
-Inconsistent message to candidates
-
+- No central tracking of all steps
+- Inconsistent message to candidates
 2. Custom progress steps & emails
-
 Improved candidate communication through tailored email templates
-
 More granularity on company feedback on candidates
 
-  
-
-Collection feedback from colleagues about candidates in a structured way
-
-Lower efficiencies and poor visibility on feedback
-
-Less informed hiring choices, increasing risk
-
+**Collection feedback from colleagues about candidates in a structured way**
+- *Lower efficiencies and poor visibility on feedback*
+- *Less informed hiring choices, increasing risk*
 3. Panel review
-
 Easily request, view and compare feedback on candidates
-
 Reduce the risk of hiring a candidate who doesn’t fit
 
-Keep track of ad-hoc candidate communication
-
-Loss of dialogue history with candidates
-
+**Keep track of ad-hoc candidate communication**
+*Loss of dialogue history with candidates*
 4. 2 way email
-
 Integration with your usual email tool
 
-Inconsistency in contracts
-
-Time to produce contracts
-
+**Inconsistency in contracts**
+*Time to produce contracts*
 5. Contract template
-
 Mail merge to create branded contracts for new hires
 
-Identifying internal talent suitable for vacancies
-- Higher recruiting costs
-- Slower time to fill
-- Longer time to performance
+**Identifying internal talent suitable for vacancies**
+- *Higher recruiting costs*
+- *Slower time to fill*
+- *Longer time to performance*
 6. Employee classification
 Easily search for internal talent based on your criteria
 
@@ -81,5 +64,5 @@ Automatic notification of potential duplicates
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0Mjk4OTAyXX0=
+eyJoaXN0b3J5IjpbMTI2NTU2MzYyMl19
 -->
