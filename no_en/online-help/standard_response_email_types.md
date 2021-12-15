@@ -21,59 +21,45 @@ Application Saved (1, 2)
 Personalized email that is sent to a candidate confirming that their application has been saved.
 
 Application Rejected
-
 Description
 
 Rejection following application review (1)
-
 Email sent to candidates advising that they are not suitable for the position.
 
 Automatic rejection (1, 2)
-
 Email sent to candidates that do not achieve a successful result from the screening questions for a vacancy.
-
-Timed Rejection
-
+***
+**Timed Rejection**
 Description
 
-Timed rejection (1, 2)
-
+**Timed rejection (1, 2)**
 Email sent to candidates informing them their application is not progressing any further. It is sent based on a lack of further progress over a designated time period (weeks).
-
-Meeting Invitation/Rejection
-
+***
+**Meeting Invitation/Rejection**
 Description
 
-Initial meeting/telephone interview (1)
-
+**Initial meeting/telephone interview (1)**
 Email sent to the candidates for an initial meeting or telephone interview.
 
-First interview (1)
-
+**First interview (1)**
 Email sent to candidates for an invitation to a first interview.
 
-Second interview (1)
-
+**Second interview (1)**
 Email sent to candidates for an invitation to a second interview.
 
-Third interview (1)
-
+**Third interview (1)**
 Email sent to candidates for an invitation to a third interview.
 
-Rejection following initial meeting/telephone interview (1)
-
+**Rejection following initial meeting/telephone interview (1)**
 Email that is manually sent to candidates, telling them they will not be progressing any further in the application progress.
 
-Rejection following 1st interview (1)
-
+**Rejection following 1st interview (1)**
 Email that is manually sent to candidates, telling them they will not be progressing any further in the application progress.
 
-Rejection following 2nd interview (1)
-
+**Rejection following 2nd interview (1)**
 Email that is manually sent to candidates, telling them they will not be progressing any further in the application progress.
 
-Rejection following 3rd interview (1)
-
+**Rejection following 3rd interview (1)**
 Email that is manually sent to candidates, telling them they will not be progressing any further in the application progress.
 ***
 **Other**
@@ -124,37 +110,37 @@ Email sent to candidates with a login that have not been active for a specified 
 **Pending further action report (1)**
 Email sent to relevant contacts, containing details on candidates who have not been active over a designated period for a specific vacancy.
 
-Associate candidate ranking
+**Associate candidate ranking**
 Email sent to relevant contacts, asking them to provide their feedback on the quality of a candidate. This includes a link to where they can score the candidate.
 
-New user notification
+**New user notification**
 Email sent to new users containing a username and password for logging in to EasyCruit.
 
-Approving of vacancy
+**Approving of vacancy**
 Email sent to submit a vacancy for approval. This email is sent to the users designated as approvers for a vacancy
 
-Vacancy expire alert (1 , 2)
+**Vacancy expire alert (1 , 2)**
 Email sent to recruiters a designated number of days before a vacancy expires. This provides the recruiter with time to extend the expiration date if required.
 
-Password retrieval email
+**Password retrieval email**
 Email sent to users who have made a password request.
 
-Contract email
+**Contract email**
 Email sent to candidates who are being made a contract offer.
 
-Send to a friend email
+**Send to a friend email**
 Email used to enable candidates to email vacancies to their friends.
 
-Portable CV
+**Portable CV**
 Email used to send a Portable CV.
 
-Auto update to saved
+**Auto update to saved**
 Auto update the candidate's type from Candidate to Saved.
 
-Sends email to have candidates reviewed
+**Sends email to have candidates reviewed**
 Email to panel review recipients requesting them to rate and/or comment.
 
-Sends email back to recruiter of confirmation of review
+**Sends email back to recruiter of confirmation of review**
 Notification to recruiter for each completed panel review.
 ***
 **Letter**
@@ -205,5 +191,5 @@ This section must be activated by your EasyCruit consultant. Once it is activate
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzkyMDg5Ml19
+eyJoaXN0b3J5IjpbLTE1MzQzMTMyMDRdfQ==
 -->
