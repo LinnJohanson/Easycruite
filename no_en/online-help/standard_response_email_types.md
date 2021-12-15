@@ -1,32 +1,27 @@
 # Standard Response Email Types
 
-Application Received
-
+**Application Received**
 Description
 
-Application received (1, 2)
-
+**Application received (1, 2)**
 Email sent to candidates confirming that their application has been received.
 
-CV registered (1)
-
+**CV registered (1)**
 Email sent to candidates confirming that their CV has been registered.
 
-Send candidate a copy of their application
-
+**Send candidate a copy of their application**
 Email sent to candidates that request a copy of their application is forwarded to them. To enable this functionality, the application form must contain the email fields in the Personal Details section.
 
-Application Saved (1, 2)
-
+**Application Saved (1, 2)**
 Personalized email that is sent to a candidate confirming that their application has been saved.
-
-Application Rejected
+***
+**Application Rejected**
 Description
 
-Rejection following application review (1)
+**Rejection following application review (1)**
 Email sent to candidates advising that they are not suitable for the position.
 
-Automatic rejection (1, 2)
+**Automatic rejection (1, 2)**
 Email sent to candidates that do not achieve a successful result from the screening questions for a vacancy.
 ***
 **Timed Rejection**
@@ -191,5 +186,5 @@ This section must be activated by your EasyCruit consultant. Once it is activate
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzQzMTMyMDRdfQ==
+eyJoaXN0b3J5IjpbMTQ2Mjk5NjYxMF19
 -->
