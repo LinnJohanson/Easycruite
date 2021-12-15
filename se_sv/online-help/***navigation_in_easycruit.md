@@ -64,10 +64,8 @@ Riktlinjer
 
 Kandidater som ska raderas
 
-![](../Resources/Images/stored_applications.jpg)
+![](../Resources/Images/stored_applications.jpg)Lagrade ansökningar
 
-Lagrade ansökningar
-> Written with [StackEdit](https://stackedit.io/).
 
 Den översta delen i  Innehållsfönstret  visar textinformation som ändras beroende på vilken uppgift en användare utför.
 
@@ -89,71 +87,39 @@ Följande exempel för en standardanvändare med full tillgång och en standarda
 
 Nytt rekryteringsprojekt
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Rekryteringsöversikt
 
-Rekryteringsöversikt
+![](../Resources/Images/recruitment_calendar.jpg) - Rekryteringskalender
 
-![](../Resources/Images/recruitment_calendar.jpg)
+![](../Resources/Images/employees.jpg) - Medarbetare
 
-Rekryteringskalender
+![](../Resources/Images/search.jpg) - Sök
 
-![](../Resources/Images/employees.jpg)
+![](../Resources/Images/add_candidate.jpg) - Lägg till kandidat
 
-Medarbetare
+![](../Resources/Images/deleted_applications.jpg) - Raderade ansökningar
 
-![](../Resources/Images/search.jpg)
+![](../Resources/Images/reports.jpg) - Rapporter
 
-Sök
+![](../Resources/Images/guidelines.jpg) - Riktlinjer
 
-![](../Resources/Images/add_candidate.jpg)
+![](../Resources/Images/candidates_to_be_deleted.jpg) - Kandidater som ska raderas
 
-Lägg till kandidat
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Raderade ansökningar
-
-![](../Resources/Images/reports.jpg)
-
-Rapporter
-
-![](../Resources/Images/guidelines.jpg)
-
-Riktlinjer
-
-![](../Resources/Images/candidates_to_be_deleted.jpg)
-
-Kandidater som ska raderas
-
-![](../Resources/Images/stored_applications.jpg)
-
-Lagrade ansökningar
+![](../Resources/Images/stored_applications.jpg) - Lagrade ansökningar
 
 #### Användare med begränsad tillgång
 
-Ikon
+Ikon - Beskrivning
 
-Beskrivning
+![](../Resources/Images/new_vacancy.jpg) - Nytt rekryteringsprojekt
 
-![](../Resources/Images/new_vacancy.jpg)
+![](../Resources/Images/vacancy_list.jpg) - Rekryteringsöversikt
 
-Nytt rekryteringsprojekt
+![](../Resources/Images/recruitment_calendar.jpg) - Rekryteringskalender
 
-![](../Resources/Images/vacancy_list.jpg)
+![](../Resources/Images/add_candidate.jpg) - Lägg till kandidat
 
-Rekryteringsöversikt
-
-![](../Resources/Images/recruitment_calendar.jpg)
-
-Rekryteringskalender
-
-![](../Resources/Images/add_candidate.jpg)
-
-Lägg till kandidat
-
-![](../Resources/Images/deleted_applications.jpg)
-
-Raderade ansökningar
+![](../Resources/Images/deleted_applications.jpg) - Raderade ansökningar
 
 ![](../Resources/Images/guidelines.jpg) - Riktlinjer
 
@@ -175,5 +141,5 @@ För att läsa mer om behörighetsnivåer för användare, se alternativ för  [
 ![](../Resources/Images/icon-document-link.png)  [Få tillgång till EasyCruit](accessing_easycruit.htm)
 ![](../Resources/Images/icon-document-link.png)  [Wysiwyg/Texteditor](wysiwyg_text_editor.htm)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg4Njc4NDhdfQ==
+eyJoaXN0b3J5IjpbODA0OTUwNDAwXX0=
 -->
