@@ -52,19 +52,19 @@ Multiple - No
 *Custom values*
 Single - No
 
-**Heading**
-None
+**Heading**     
+*None*
 N/A - No
 
-File Upload
-Upload
+**File Upload**
+*Upload*
 Single - No
 
-Video question
-Record live or upload
+**Video question**
+*Record live or upload*
 Single - No
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYxODM1NzEsMTEzMTkxMjQzNV19
+eyJoaXN0b3J5IjpbLTEyOTI4MDY2OTMsMTEzMTkxMjQzNV19
 -->
