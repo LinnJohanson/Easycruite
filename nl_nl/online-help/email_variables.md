@@ -931,7 +931,7 @@ Niet gebruikt (bestaat niet in broncode)
 - SHL en cut-e assessment uitnodiging
 - Organisatiespecifieke e-mails
 
-Zie ook:
+##### Zie ook:
 
 ![](../Resources/Images/icon-document-link.png)  [E-mailtypes](standard_response_email_types.htm)
 
@@ -940,9 +940,9 @@ Zie ook:
 ![](../Resources/Images/icon-document-link.png)  [Tabblad Wervingsacties](recruitment_activities_list_tab.htm)
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTM4MjMzMiw5MDQ0MzQwODMsODM0MD
-AyNzQwLC0xOTE3MzYwNzkzLC00MTM3ODkxMywxNDg0OTE0MjY0
-LC0xNzI3ODI3NTMsMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNT
-QzNDQzMTYsMjI4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5
-LC04MjYxNTI4MDNdfQ==
+eyJoaXN0b3J5IjpbNzY5NzYzNTkxLDkwNDQzNDA4Myw4MzQwMD
+I3NDAsLTE5MTczNjA3OTMsLTQxMzc4OTEzLDE0ODQ5MTQyNjQs
+LTE3Mjc4Mjc1MywxNTc3NDczNzU4LDExNTY2MDQ2OTcsLTE1ND
+M0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDks
+LTgyNjE1MjgwM119
 -->
