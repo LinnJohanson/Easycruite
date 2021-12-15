@@ -33,37 +33,37 @@ Senaste datum då ansökan uppdaterades av antingen kandidaten eller en EasyCrui
 Rangordning 1, 2 eller 3 om angiven
 
 **Genomsnittlig rangordning**
-*Genomsnittlig rangordning efter panelgranskning om angiven*
+Genomsnittlig rangordning efter panelgranskning om angiven
 
 **Referenskontroll**
-*Baserat på alternativen i listmenyn i EasyCruit t.ex. Positiv, Negativ*
+Baserat på alternativen i listmenyn i EasyCruit t.ex. Positiv, Negativ
 
 **Ansökningsdatum**
-*Det datum ansökan gjordes*
+Det datum ansökan gjordes
 
 **Anställningsdatum**
-*Det datum då kandidaten fick statusen ”Anställd”*
+**Det datum då kandidaten fick statusen ”Anställd*”*
 
 **Startdatum**
-*Datum som anges när en kandidat är anställd*
+Datum som anges när en kandidat är anställd
 
 **Orsak till avslag**
-*Angiven orsak för avslag baserat på tillgänglig listmeny*
+Angiven orsak för avslag baserat på tillgänglig listmeny
 
 **Ansökningskälla**
-*Kanalen som ansökan mottogs från*
+Kanalen som ansökan mottogs från
 
 **Kön**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Födelsedatum**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Intern kategorisering**
-*Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.*
+Kandidattyp t.ex. CV-kandidat, Medarbetare, osv.
 
 **Förnamn**
-*Kandidatens svar på den här frågan om tillfrågad*
+Kandidatens svar på den här frågan om tillfrågad
 
 **Efternamn**
 *Kandidatens svar på den här frågan om tillfrågad*
@@ -127,5 +127,5 @@ Rangordning 1, 2 eller 3 om angiven
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMzUzOTE5LC0xMTc1NjgyMzE5XX0=
+eyJoaXN0b3J5IjpbLTQ1NDAzNTU3OSwtMTE3NTY4MjMxOV19
 -->
