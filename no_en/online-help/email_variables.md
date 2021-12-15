@@ -421,7 +421,7 @@ Vacancy Expiry Warning
 **{department-address} - Department Address**
 Email Channel Posting
 
-{department-name} - Department Name
+**{department-name} - Department Name**
 - Application Received
 - Copy of Application
 - Rejection Following Application Review
@@ -444,5 +444,5 @@ Email Channel Posting
 - Email Signatures
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NjM3NzgwXX0=
+eyJoaXN0b3J5IjpbMTAzMzMzNjUyXX0=
 -->
