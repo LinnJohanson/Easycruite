@@ -372,7 +372,7 @@ Vacancy Expiry Warning
 **{days} - Number of days in advance you want to be notified**
 Vacancy Expiry Warning
 
-{department-disclaimer} - Department disclaimer text
+**{department-disclaimer} - Department disclaimer text**
 - Application Received
 - Registration Received
 - Copy of Application
@@ -392,8 +392,35 @@ Vacancy Expiry Warning
 - Portable CV
 - Custom Email
 - Email Signatures
- Application Saved
+- Application Saved
+
+**{department} - Department Name**
+- Application Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+ - Job Agent alert
+- Request for vacancy approval
+- New User Email
+- Employment Contract
+- Send to a Friend Vacancy
+- Portable CV
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
+- Email Signatures
+- Application Saved
+
+**{department-address} - Department Address**
+Email Channel Posting
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY3NTAxMDddfQ==
+eyJoaXN0b3J5IjpbMjExNDg4OTYxOF19
 -->
