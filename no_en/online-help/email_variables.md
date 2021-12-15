@@ -2,10 +2,10 @@
 
 The  [standard response emails](standard_response_email_types.htm)  may contain the following variables (merge fields):
 
-Variable - Description
+**Variable - Description**
 Used In
 
-{address} - Location of interview
+**{address} - Location of interview**
 Invitation to Initial, 1st, 2nd and 3rd Meeting
 
 **{advertisement-active-from-date} - Start date for advertisement**
@@ -45,8 +45,32 @@ Request for vacancy approval
 **{assessment-test-name-link-group} - cut-e Test Name + URL**
 cut-e Assessment invite
 
+**{ballot-link} - Link for associates to rank candidates**
+Associate Candidate Ranking
+
+{candidate-family-name} - Surname
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- New User Email
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE0NjA5NThdfQ==
+eyJoaXN0b3J5IjpbLTk2NDg4MTEzNV19
 -->
