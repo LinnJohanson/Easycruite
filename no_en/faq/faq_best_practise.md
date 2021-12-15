@@ -20,7 +20,7 @@ If you do not have a consent text today, a privacy policy text will be implement
 
 Take a look at this video, that will explain how you need to prepare for the new Consent Handling:
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Finn.no - publishing
+#### Finn.no - publishing
 
 ### The advert has not been published to Finn.no - What can I do?
 
@@ -56,7 +56,7 @@ Sometimes the application date has the wrong month or wrong year. The applicatio
 
 In order to post to Finn.no a contract with Finn.no AS is required. If you have questions regarding your contract, please call your contact person at Finn.no. You can also contact their support. You'll find contact information here:  [https://hjelpesenter.finn.no](https://hjelpesenter.finn.no/)
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Add a video to job advertisement
+#### Add a video to job advertisement
 
 It is possible to add a video to your advertisement in EasyCruit, by embedding the video code from an online video provider like  [YouTube](https://www.youtube.com/)  or  [Vimeo](https://vimeo.com/). In this article we will show you how you can do it.
 
@@ -84,7 +84,7 @@ Depending on the width of your company homepage, you may want to modify the heig
 -   Paste the embedding code in the preferred position within the HTML-code.
 -   Click  Update  and then  Save.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Attach a Cover Letter
+#### Attach a Cover Letter
 
 ### A Candidate Forgot to Attach a Cover Letter
 
@@ -117,7 +117,7 @@ Alternatively, if you wish, you could also ask the candidates to apply again. He
 4.  Go to the start page. Open Deleted Applications. Select the candidate, scroll down to the bottom and choose Delete permanently.
 5.  Tell the candidate they may apply again using the updated information.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Who Has Access to a Vacancy
+#### Who Has Access to a Vacancy
 
 When you create a Vacancy in EasyCruit, there are a group of users that automatically are granted rights to the vacancy:
 
@@ -528,5 +528,5 @@ If you have any questions, you are welcome to contact our support.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk5NjI3NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyMzI1NDM3MDRdfQ==
 -->
