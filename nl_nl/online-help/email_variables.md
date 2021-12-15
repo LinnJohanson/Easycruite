@@ -820,7 +820,7 @@ Uitnodiging voor MINT, Matrigma en Service-F tests
 - Werknemer uitnodigen om cv te uploaden / bij te werken
 - Sollicitatie forwarden
 
-**{title-grade} _ Niveau vacaturetitel**
+**{title-grade} - Niveau vacaturetitel**
 - Sollicitatie ontvangen
 - Registratie ontvangen
 - Kopie van sollicitatie
@@ -884,8 +884,8 @@ Werknemer uitnodigen om cv te uploaden / bij te werken
 Sollicitatie forwarden
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjUxNDMxNSwtNDEzNzg5MTMsMTQ4ND
-kxNDI2NCwtMTcyNzgyNzUzLDE1Nzc0NzM3NTgsMTE1NjYwNDY5
-NywtMTU0MzQ0MzE2LDIyODk4OTQ2NSwxNDUwNDYwNjU5LDg2NT
-k0MDUwOSwtODI2MTUyODAzXX0=
+eyJoaXN0b3J5IjpbLTE5MTczNjA3OTMsLTQxMzc4OTEzLDE0OD
+Q5MTQyNjQsLTE3Mjc4Mjc1MywxNTc3NDczNzU4LDExNTY2MDQ2
+OTcsLTE1NDM0NDMxNiwyMjg5ODk0NjUsMTQ1MDQ2MDY1OSw4Nj
+U5NDA1MDksLTgyNjE1MjgwM119
 -->
