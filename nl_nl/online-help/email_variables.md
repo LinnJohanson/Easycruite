@@ -851,13 +851,31 @@ E-mail plaatsingskanaal
 **{user-family-name} - Achternaam gebruiker**
 E-mail plaatsingskanaal
 
-{user-given-name} - Voornaam gebruiker
+**{user-given-name} - Voornaam gebruiker**
 E-mail plaatsingskanaal
+
+{username} - Gebruikersnaam kandidaat
+- Sollicitatie ontvangen
+- Registratie ontvangen
+- Kopie van sollicitatie
+- Automatische afwijzing
+-. Bevestiging van gebruikersnaam
+- Gegevens verplaatst naar cv-database
+- Werknemer uitnodigen om cv te uploaden / bij te werken
+- Sollicitatie forwarden
+- Uitnodiging voor MINT, Matrigma en Service-F tests
+- cut-e kandidaatrapport
+
+Bericht nieuwe gebruiker
+
+Inloggen
+
+Sollicitatie opgeslagen
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTA4NTE0LDgzNDAwMjc0MCwtMTkxNz
-M2MDc5MywtNDEzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUz
-LDE1Nzc0NzM3NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyOD
-k4OTQ2NSwxNDUwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAz
-XX0=
+eyJoaXN0b3J5IjpbMTI2MzQ0ODQ2Miw4MzQwMDI3NDAsLTE5MT
+czNjA3OTMsLTQxMzc4OTEzLDE0ODQ5MTQyNjQsLTE3Mjc4Mjc1
+MywxNTc3NDczNzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMxNiwyMj
+g5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1Mjgw
+M119
 -->
