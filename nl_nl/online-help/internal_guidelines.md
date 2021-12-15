@@ -6,7 +6,7 @@ De plaatsen waar richtlijnen toegevoegd kunnen worden in EasyCruit zijn voorgeco
 
 Als er richtlijnen aangemaakt zijn voor subafdelingen, dan verschijnt een sterretje naast die afdeling, dat zichtbaar is bij het weergeven van de lijst  Afdeling selecteren  op de pagina  Richtlijnen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Aanmaken en bewerken van richtlijnen
+#### Aanmaken en bewerken van richtlijnen
 
 1.  Selecteer in de  Taakbalk  de optie  Instellingen  en selecteer vervolgens  Richtlijnen.
 2.  Klik op het potlood naast de richtlijn die aangemaakt / bewerkt moet worden om de pagina  Edit richtlijnen  (Richtlijnen bewerken) weer te geven.
@@ -15,7 +15,7 @@ Als er richtlijnen aangemaakt zijn voor subafdelingen, dan verschijnt een sterre
 5.  Klik op  Opslaan  om de wijzigingen door te voeren en controleer de richtlijn.
 6.  Klik op  Vorige  om terug te keren naar de pagina  Richtlijnen.
 
-![Gesloten](../Skins/Default/Stylesheets/Images/transparent.gif)Weergeven van bestaande richtlijnen
+#### Weergeven van bestaande richtlijnen
 
 1.  Selecteer in de  Taakbalk  de  Instellingen  en vervolgens  Richtlijnen.
 2.  Klik op het oog bij de richtlijn die u wilt bekijken om de pagina met de eigenschappen van de  Richtlijn  weer te geven. Klik indien van toepassing op de naam van het bestand om de geüploade documenten weer te geven.
@@ -29,5 +29,5 @@ Als er richtlijnen aangemaakt zijn voor subafdelingen, dan verschijnt een sterre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjkxNTk1MV19
+eyJoaXN0b3J5IjpbMTM3NDg5OTQ2NV19
 -->
