@@ -7,7 +7,7 @@ Interview reminders can be configured for the following four response mails:
 -   Second interview
 -   Third interview
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Configuring Default Interview Reminder Templates
+#### Configuring Default Interview Reminder Templates
 
 To configure the default wording and settings for Interview Reminder Templates
 
@@ -42,5 +42,5 @@ To configure the default wording and settings for Interview Reminder Templates
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzYwNzUwMV19
+eyJoaXN0b3J5IjpbMTI1ODE4NjM3MF19
 -->
