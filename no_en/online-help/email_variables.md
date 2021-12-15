@@ -510,14 +510,67 @@ Application Saved
 **{first-name} - Candidate first name provided for the saved application**
 Application Saved
 
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Salutation**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application
+- Review Automatic Rejection
+- Timed Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Forward Application
+- Email Signatures
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- Employment Contract
+- Portable CV
+- SHL Assessment invite
+- Custom Email
 
+**{gender-specific male="Mr" female="Miss / Mrs" unknown=""} - Salutation for the saved application**
+Application Saved
 
+**{given-name} - First Name**
+- Application Received
+- Registration Received
+- Copy of Application
+- Rejection Following Application Review
+- Automatic Rejection
+- Invitation to Initial 1st 2nd and 3rd Meeting
+- Rejection after Initial 1st 2nd and 3rd Meeting
+- Confirmation of Username
+- Details Transferred to CV Database
+- Invite to Send/Update CV Employee
+- Forward Application
+- Invitation to MINT Matrigma and Service-F tests
+- cut-e Report
+- Job Agent alert
+- New User Email
+- Employment Contract
+- Portable CV
+- Review of candidate
+- Letter of application received/rejected
+- SHL and cut-e Assessment invite
+- Custom Email
 
+{interviewdate} - Date of interview
+Invitation to Initial, 1st, 2nd and 3rd Meeting
 
+{interviewer} {interviewers}
+Interviewers who will be present
 
+Invitation to Initial, 1st, 2nd and 3rd Meeting
 
+{interviewtime}
+
+Time of interview
+
+Invitation to Initial, 1st, 2nd and 3rd Meeting
 
 >Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjQ4NDg0MSwxMDMzMzM2NTJdfQ==
+eyJoaXN0b3J5IjpbMTE4OTgxNjE5LDEwMzMzMzY1Ml19
 -->
