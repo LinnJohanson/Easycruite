@@ -11,51 +11,51 @@ Unique ID of the candidate, system generated
 **Last modified**
 Latest date that the candidate made a change to any of the information within the candidate career centre
 
-Gender
+**Gender**
 Candidate's response to this question if asked
 
-Date of Birth
+**Date of Birth**
 Candidate's response to this question if asked
 
-Internal Categorization
+**Internal Categorization**
 Candidate type e.g. CV candidate, Employee, etc
 
-First Name
+**First Name**
 Candidate's response to this question if asked
 
-Surname
+**Surname**
 Candidate's response to this question if asked
 
-Post Code
+**Post Code**
 Candidate's response to this question if asked
 
-City
+**City**
 Candidate's response to this question if asked
 
-Country
+**Country**
 Candidate's response to this question if asked
 
-Region
+**Region**
 Candidate's response to this question if asked
 
-Town/City
+**Town/City**
 Candidate's response to this question if asked
 
-Nationality
+**Nationality**
 Candidate's response to this question if asked
 
-Email
+**Email**
 Candidate's response to this question if asked
 
-Candidate profile question
-Candidate's response to this question if asked
-NB each  Self Classification  –  Candidate profile  question will be present as a separate column.
-NB heading would change based on the title of the question
+**Candidate profile question**
+- Candidate's response to this question if asked
+- NB each  Self Classification  –  Candidate profile  question will be present as a separate column.
+- NB heading would change based on the title of the question
 
-HR Classification - Candidate profile question
-Candidate's response to this question if asked
-NB each  Self Classification  –  Candidate profile  question will be present as a separate column.
-NB heading would change based on the title of the question
+**HR Classification - Candidate profile question**
+- Candidate's response to this question if asked
+- NB each  Self Classification  –  Candidate profile  question will be present as a separate column.
+- NB heading would change based on the title of the question
 
 ##### See also:
 
@@ -68,5 +68,5 @@ NB heading would change based on the title of the question
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NTg1NDQ3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNzQwMjAyNjQ5LDczMDk5ODExNl19
 -->
