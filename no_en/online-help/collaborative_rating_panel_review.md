@@ -11,7 +11,7 @@ There are different ways the ranking can be used:
 
 After activating collaborative rating for a vacancy, recruiters can then choose specific users who should be sent an email whenever a new candidate applies to the vacancy in order to rate them. This is useful for specialized positions, and not recommended for positions with a high volume of candidates, as users may receive many emails.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Panel Review
+#### Panel Review
 
 To send shortlisted candidates to specific internal or external people for review
 
@@ -28,10 +28,10 @@ Description
 **Do not allow rating** 
 Ticking this box means reviewers cannot provide a 1-7 rating for a candidate.
 
-Do not allow comments 
+**Do not allow comments** 
 Ticking this box means that reviewers can only rate with numbers and cannot provide textual comments against a candidate.
 
-Email me each time a reviewer completes 
+**Email me each time a reviewer completes** 
 - Ticking this box means that you as the logged in user receive an email when a reviewer completes the review of their candidates. For example if you send candidates to five people for them to review, you receive five emails in return.
 - Note that this could result in many emails if you regularly request a lot of candidates to be reviewed by a lot of people!
 
@@ -87,5 +87,5 @@ If you select the  Name  of the applicant and then the  Collaborative Rating  pa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDEwMTM3LC00MjI3MzAwNjhdfQ==
+eyJoaXN0b3J5IjpbMTEyNzAxMjY5MiwtNDIyNzMwMDY4XX0=
 -->
