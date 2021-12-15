@@ -2,34 +2,35 @@
 
 Följande tabell beskriver de fält som används för Kandidatexport.
 
-**Fältnamn** *Beskrivning*
+**Fältnamn** 
+Beskrivning
 
 **Kandidatens ID**
-*Unikt systemgenererat kandidat-ID*
+Unikt systemgenererat kandidat-ID
 
 **Projekt/annons-ID**
-*Unikt systemgenererat projekt/annons-ID*
+Unikt systemgenererat projekt/annons-ID
 
 **Rekryteringsprojekts referensnummer**
-*Referensnummer för rekryteringsprojekt om använt*
+Referensnummer för rekryteringsprojekt om använt
 
 **Rekryteringstitel**
-*Intern annonstitel (rekryteringstitel), som kan ändras när som helst. Inte titeln som jobbannonsen fått*
+Intern annonstitel (rekryteringstitel), som kan ändras när som helst. Inte titeln som jobbannonsen fått
 
 **Avdelnings-ID**
-*Systemgenererat avdelnings-ID som kandidaten har ansökt till. Detta kan användas för sökningar i andra exporter*
+Systemgenererat avdelnings-ID som kandidaten har ansökt till. Detta kan användas för sökningar i andra exporter
 
 **Avdelningsnamn**
-*Namnet på avdelningen som avses i avdelnings-ID:t*
+Namnet på avdelningen som avses i avdelnings-ID:t
 
 **Ansökningsstatus**
-*Visar statusen för kandidatens ansökan t.ex. Intervju 1, Sparad, Överförd, Avslag*
+Visar statusen för kandidatens ansökan t.ex. Intervju 1, Sparad, Överförd, Avslag
 
 **Ansökan uppdaterad**
-*Senaste datum då ansökan uppdaterades av antingen kandidaten eller en EasyCruit-användare t.ex. när en ansökan behandlades (statusändring)*
+Senaste datum då ansökan uppdaterades av antingen kandidaten eller en EasyCruit-användare t.ex. när en ansökan behandlades (statusändring)
 
 **Rangordning**
-*Rangordning 1, 2 eller 3 om angiven*
+Rangordning 1, 2 eller 3 om angiven
 
 **Genomsnittlig rangordning**
 *Genomsnittlig rangordning efter panelgranskning om angiven*
@@ -126,5 +127,5 @@ Följande tabell beskriver de fält som används för Kandidatexport.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzg3MTkwMywtMTE3NTY4MjMxOV19
+eyJoaXN0b3J5IjpbOTUwMzUzOTE5LC0xMTc1NjgyMzE5XX0=
 -->
