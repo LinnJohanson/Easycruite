@@ -2,89 +2,73 @@
 
 De Data-extract sollicitatievragen bevat alle sollicitatiespecifieke vragen en antwoorden voor elke sollicitatie. In de volgende tabel staan de velden beschreven die gebruikt worden in de Data-extractie sollicitatievragen.
 
-Veldnaam
-
+**Veldnaam**
 Beschrijving
 
-Kandidaat-ID
-
+**Kandidaat-ID**
 Unieke ID van de kandidaat, systeemgegenereerd
 
-Project-ID
-
+**Project-ID**
 Unieke ID van het project / de vacature, systeemgegenereerd
 
-Referentienummer
-
+**Referentienummer**
 Referentienummer van de vacature indien gebruikt
 
-Vacaturetitel & Projecteigenaar
-
+**Vacaturetitel & Projecteigenaar**
 Interne vacaturetitel, die op elk gewenst moment gewijzigd kan worden. Niet de titel zoals in de vacatureadvertentie
 
-Afdelingsnaam
-
+**Afdelingsnaam**
 Naam van de afdeling waarnaar verwezen in de afdelings-ID
 
-Department ID (Afdelings-ID)
-
+**Department ID (Afdelings-ID)**
 Systeemgegenereerde ID van de afdeling waar de kandidaat gesolliciteerd heeft. Kan gebruikt worden voor opzoeken in andere extracties
 
-Datum van sollicitatie
-
+**Datum van sollicitatie**
 Datum waarop gesolliciteerd is
 
-Application Updated (Sollicitatie bijgewerkt)
-
+**Application Updated (Sollicitatie bijgewerkt)**
 Laatste datum waarop de sollicitatie bijwerkt is door de kandidaat of EasyCruit-gebruiker bv. bij het verwerken van een sollicitatie (wijzigen van de status)
 
-Geslacht
-
+**Geslacht**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Geboortedatum
-
+**Geboortedatum**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Type kandidaat
-
+**Type kandidaat**
 Kandidaattype bv. Career-center, Werknemer enz.
 
-Voornaam
-
+**Voornaam**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Achternaam
-
+**Achternaam**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Postcode
-
+**Postcode**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Plaats
-
+**Plaats**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Land
+**Land**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Regio
+**Regio**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Gemeente
+**Gemeente**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Nationaliteit
+**Nationaliteit**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-E-mail
+**E-mail**
 Antwoord van de kandidaat op deze vraag indien gesteld
 
-Sollicitatievraag
-Antwoord van de kandidaat op deze vraag indien gesteld
-NB: Elke vraag bij  Kandidaat:  vacaturespecifieke vragen  wordt weergegeven in een aparte kolom.
-NB: De kolomkop wijzigt op basis van de titel van de vraag.
+**Sollicitatievraag**
+- Antwoord van de kandidaat op deze vraag indien gesteld
+- NB: Elke vraag bij  Kandidaat:  vacaturespecifieke vragen  wordt weergegeven in een aparte kolom.
+- NB: De kolomkop wijzigt op basis van de titel van de vraag.
 
 ##### Zie ook:
 
@@ -97,5 +81,5 @@ NB: De kolomkop wijzigt op basis van de titel van de vraag.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjQxNjQwMF19
+eyJoaXN0b3J5IjpbLTIwNDcyNDc2NDVdfQ==
 -->
