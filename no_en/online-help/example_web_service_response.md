@@ -84,107 +84,107 @@
 
 </EmploymentHistory>
 
-<EducationHistory>
+< EducationHistory>
 
-<Education current="1" id="20060247">
+< Education current="1" id="20060247">
 
-<InstituteType id="3">College</InstituteType>
+< InstituteType id="3">College</InstituteType>
 
-<InstituteName>School</InstituteName>
+< InstituteName>School</InstituteName>
 
-<AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
+< AreaOfEducation id="98">Aerospace Engineering</AreaOfEducation>
 
-<Degree id="91">Architect</Degree>
+< Degree id="91">Architect</Degree>
 
-<StartDate>2010-03-01</StartDate>
+< StartDate>2010-03-01</StartDate>
 
-<EndDate>2014-04-01</EndDate>
+< EndDate>2014-04-01< /EndDate>
 
-<AverageGrade>Grade</AverageGrade>
+< AverageGrade>Grade< /AverageGrade>
 
-<ResultPoints>544</ResultPoints>
+< ResultPoints>544< /ResultPoints>
 
-<Country iso="SE" id="14">Sweden</Country>
+<  Country iso="SE" id="14">Sweden< /Country>
 
-<Comments>Specialisation</Comments>
+< Comments>Specialisation< /Comments>
 
-</Education>
+< /Education>
 
-</EducationHistory>
+< /EducationHistory>
 
-<Certifications>
+< Certifications>
 
-<Certification id="5101959">
+< Certification id="5101959">
 
-<Name>Course</Name>
+< Name>Course< /Name>
 
-<Description>Desc.</Description>
+< Description>Desc.< /Description>
 
-<StartDate>2010-04-01</StartDate>
+< StartDate>2010-04-01< /StartDate>
 
-<EndDate>2014-04-01</EndDate>
+< EndDate>2014-04-01< /EndDate>
 
-<Duration type="hours">100</Duration>
+< Duration type="hours">100< /Duration>
 
-</Certification>
+< /Certification>
 
-</Certifications>
+< /Certifications>
 
-<References>
+< References>
 
-<Reference id="3686853">
+< Reference id="3686853">
 
-<CompanyName>Company</CompanyName>
+< CompanyName>Company< /CompanyName>
 
-<PersonName>Name</PersonName>
+< PersonName>Name< /PersonName>
 
-<ContactInfo>123456</ContactInfo>
+< ContactInfo>123456< /ContactInfo>
 
-</Reference>
+< /Reference>
 
-</References>
+< /References>
 
-<Competencies name="IT Knowledge">
+< Competencies name="IT Knowledge">
 
-<Competency id="12018913">
+< Competency id="12018913">
 
-<Name>Office</Name>
+< Name>Office< /Name>
 
-<Level id="3">2. Advanced student</Level>
+< Level id="3">2. Advanced student< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Language">
+< Competencies name="Language">
 
-<Competency id="21575765">
+< Competency id="21575765">
 
-<Name iso="SE" id="204">Swedish</Name>
+< Name iso="SE" id="204">Swedish< /Name>
 
-<Level type="speaking" id="3">Native speaker</Level>
+< Level type="speaking" id="3">Native speaker< /Level>
 
-<Level type="reading" id="3">Native speaker</Level>
+< Level type="reading" id="3">Native speaker< /Level>
 
-<Level type="writing" id="3">Native speaker</Level>
+< Level type="writing" id="3">Native speaker< /Level>
 
-</Competency>
+< /Competency>
 
-</Competencies>
+< /Competencies>
 
-<Competencies name="Driverlicense">
+< Competencies name="Driverlicense">
 
-<Competency id="6315595"><Name id="1">Car/Van</Name>
+< Competency id="6315595">< Name id="1">Car/Van< /Name>
 
-<Level type="date">1995</Level>
+< Level type="date">1995< /Level>
 
-</Competency>
+< /Competency>
 
 < /Competencies>
 
 < Personality>
 
-< Trait id="22"/><Trait id="31"/><Trait id="1"/><Trait id="4"/>
+< Trait id="22"/>< Trait id="31"/>< Trait id="1"/>< Trait id="4"/>
 
 < /Personality>
 
@@ -194,9 +194,9 @@
 
 < Application id="1029513">
 
-< ProjectTitle>Lumesse test 2</ProjectTitle>
+< ProjectTitle>Lumesse test 2< /ProjectTitle>
 
-< VacancyTitle>Lumesse test 2</VacancyTitle>
+< VacancyTitle>Lumesse test 2< /VacancyTitle>
 
 < DepartmentID>2109< /DepartmentID>
 
@@ -235,5 +235,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTA5MzM5Nl19
+eyJoaXN0b3J5IjpbMjExNTMyMjE1Ml19
 -->
