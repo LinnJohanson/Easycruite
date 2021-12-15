@@ -854,7 +854,7 @@ E-mail plaatsingskanaal
 **{user-given-name} - Voornaam gebruiker**
 E-mail plaatsingskanaal
 
-{username} - Gebruikersnaam kandidaat
+**{username} - Gebruikersnaam kandidaat**
 - Sollicitatie ontvangen
 - Registratie ontvangen
 - Kopie van sollicitatie
@@ -872,7 +872,7 @@ E-mail plaatsingskanaal
 **{user-office-telephone} - Zakelijk telefoonnummer gebruiker**
 E-mail plaatsingskanaal
 
-{vacancy} - Sollicitatie ontvangen
+**{vacancy} - Sollicitatie ontvangen**
 - Kopie van sollicitatie
 - Handmatige afwijzing
 - Automatische afwijzing
@@ -891,10 +891,10 @@ E-mail plaatsingskanaal
 - Organisatiespecifieke e-mails
 - Notificatie verlopen vacature
 
-{vacancy-link} - Link naar vacature
+**{vacancy-link} - Link naar vacature**
 Niet gebruikt (bestaat niet in broncode)
 
-{vacancy-ref-number} - Referentienummer van de vacature
+**{vacancy-ref-number} - Referentienummer van de vacature**
 - Handmatige afwijzing
 - Uitnodiging voor informatief gesprek, 1ste, 2de en 3de interview
 - Afwijzing na informatief gesprek, 1ste, 2de en 3de interview
@@ -905,21 +905,17 @@ Niet gebruikt (bestaat niet in broncode)
 - Uitnodiging voor MINT, Matrigma en Service-F tests
 - Verzoek om goedkeuring vacature
 - Arbeidsovereenkomst
+- Portable CV
+- Beoordeling van kandidaat
+- Brief sollicitatie ontvangen / afgewezen
+- SHL en cut-e assessment uitnodiging
+- Organisatiespecifieke e-mails
 
-Portable CV
-
-Beoordeling van kandidaat
-
-Brief sollicitatie ontvangen / afgewezen
-
-SHL en cut-e assessment uitnodiging
-
-Organisatiespecifieke e-mails
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODk3MDc2Niw4MzQwMDI3NDAsLTE5MT
-czNjA3OTMsLTQxMzc4OTEzLDE0ODQ5MTQyNjQsLTE3Mjc4Mjc1
-MywxNTc3NDczNzU4LDExNTY2MDQ2OTcsLTE1NDM0NDMxNiwyMj
-g5ODk0NjUsMTQ1MDQ2MDY1OSw4NjU5NDA1MDksLTgyNjE1Mjgw
-M119
+eyJoaXN0b3J5IjpbLTExOTA0ODA3MDUsODM0MDAyNzQwLC0xOT
+E3MzYwNzkzLC00MTM3ODkxMywxNDg0OTE0MjY0LC0xNzI3ODI3
+NTMsMTU3NzQ3Mzc1OCwxMTU2NjA0Njk3LC0xNTQzNDQzMTYsMj
+I4OTg5NDY1LDE0NTA0NjA2NTksODY1OTQwNTA5LC04MjYxNTI4
+MDNdfQ==
 -->
