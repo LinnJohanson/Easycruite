@@ -2,7 +2,7 @@
 
 EasyCruit provides recruiters with a vacancy creation process that is tailored to a company's specific needs. With that in mind, it is possible that the following procedure may vary slightly from your company's vacancy creation process. It is important that the EasyCruit administrator has configured the system correctly before creating vacancies.
 
-![Closed](../Skins/Default/Stylesheets/Images/transparent.gif)Instructions
+#### Instructions
 
 1.  Select the  New Vacancy  quick link from the top of the page to display the  New vacancy  page. A progress bar will display to list the steps and show where you are in the vacancy creation process.  
     You can navigate between steps by clicking the steps on the progress bar. Each step will only be active if that step can be performed. For example, the  Departments  and  Contacts  step is only active after the  Title  and  Region  step has been completed.
@@ -32,7 +32,7 @@ EasyCruit provides recruiters with a vacancy creation process that is tailored t
 13.  If any questions have been added the  Project Profile  page will be displayed. Enter the required answers then click  Next  to display the  Vacancy Ad  page.
 14.  On the  Vacancy Ad  page you can create a completely new vacancy by filling in the required fields or choose a template and click  Select.
     
-    -   Vacancy Templates  - This option provides a list of vacancy templates to choose from. For more details on templates refer to  [Vacancy Template](vacancy_templates.htm).
+    -   Vacancy Templates  - This option provides a list of vacancy templates to choose from. For more details on templates refer to  [Vacancy Template] (vacancy_templates.htm).
     -   Previous Vacancies  - This option enables any previously created vacancy to be used as a template.  
           
         
@@ -45,7 +45,7 @@ EasyCruit provides recruiters with a vacancy creation process that is tailored t
     -   Application Deadline  - This is the last day that applications are accepted for the position.
     -   Expected Start Date  - This can be a specific date or a term such as "ASAP".
     -   Location  - The location of the vacancy.
-    -   Appetizer text  and  Vacancy text  - This is the content of the applicant listing created using the  [WYSIWYG editor.](wysiwyg_text_editor.htm)
+    -   Appetizer text  and  Vacancy text  - This is the content of the applicant listing created using the  [WYSIWYG editor.] (wysiwyg_text_editor.htm)
 16.  When the vacancy details are complete click  Next  to display the  Application Form  page.
 17.  Select one of the following new application form options or select  No Form  to include an application form with the vacancy listing on the website:
     -   Complete Application Form  - Only select this option if you want to have every value that has been included in the CV database for your company included on the application form. Selecting this can lead to a very large list and should only be specified for highly technical positions.
@@ -55,15 +55,15 @@ EasyCruit provides recruiters with a vacancy creation process that is tailored t
         EasyCruit can be configured to limit the ability to edit application forms. Non-administrator users may not be able to edit application form options; in that instance the application form is read-only.
 18.  Click  Next  and where required select the options to be included on the application form, selecting whether they are to be  Mandatory.
 19.  Click  Next  to display the  Screening  page.
-20.  If necessary, click  Add Question  to add a new screening question and complete the required questions as described in  [Configuring Additional Questions](additional_questions.htm).
+20.  If necessary, click  Add Question  to add a new screening question and complete the required questions as described in  [Configuring Additional Questions] (additional_questions.htm).
 21.  Click  Next  to display the  Response Mail  page and click pencil icon to activate the required response emails then click  Save.
-22.  Click  Next  to display the  Posting  page and select the channels you want to post to. If multiposting has been activated for your EasyCruit implementation this page will enable you to select the required posting channels as described in  [Multiposting](multiposting.htm).
+22.  Click  Next  to display the  Posting  page and select the channels you want to post to. If multiposting has been activated for your EasyCruit implementation this page will enable you to select the required posting channels as described in  [Multiposting] (multiposting.htm).
 23.  Click  Next  to display the  Approving of Vacancy  page and select a user from the  Recipient  list who is responsible for approving the vacancy before it can be published.  
       
     Using an approver is optional. It is possible that your company's vacancy creation process does not include this step.
 24.  Click  Next  then click  Finish  and  Post  to post the vacancy and display the  Edit Vacancy  page.  
       
-    At this point the vacancy has been saved in EasyCruit and can be activated and made available on the company's website, or further edits can be made, such as providing other users  [access to the vacancy](../faq/who_has_access_to_a_vacancy.htm), or setting up  Project Profile Questions.
+    At this point the vacancy has been saved in EasyCruit and can be activated and made available on the company's website, or further edits can be made, such as providing other users  [access to the vacancy] (../faq/who_has_access_to_a_vacancy.htm), or setting up  Project Profile Questions.
 
 ##### See also:
 
@@ -75,5 +75,5 @@ EasyCruit provides recruiters with a vacancy creation process that is tailored t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM4MjA1MzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNDQ5NTM1NTIzLDczMDk5ODExNl19
 -->
