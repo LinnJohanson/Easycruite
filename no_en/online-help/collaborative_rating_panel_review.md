@@ -88,13 +88,11 @@ See also:
 ![](../Resources/Images/icon-document-link.png) [Advanced Selection and Contracting Pack](advanced_selection_and_contraction_pack.htm)
 
 ![](../Resources/Images/icon-document-link.png) [Application and CV page overview](application_and_cv_page_overview.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Two-Way email tab](two_way_email_tab.htm)
-
 ![](../Resources/Images/icon-document-link.png) [Viewing a Candidate's Multiple Application](viewing_a_candidates_multiple_applications.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NDYxMTI3XX0=
+eyJoaXN0b3J5IjpbMjEzMTQzMDc2M119
 -->
