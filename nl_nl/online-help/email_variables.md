@@ -845,9 +845,7 @@ Job-alert
 - Werknemer uitnodigen om cv te uploaden / bij te werken
 
 
-{user-cellular-telephone}
-
-Mobiel telefoonnummer gebruiker
+**{user-cellular-telephone}** / Mobiel telefoonnummer gebruiker
 
 E-mail plaatsingskanaal
 
@@ -864,7 +862,7 @@ Voornaam gebruiker
 E-mail plaatsingskanaal
 >- ritten with [StackEdit](https://stackedit.io/).- - - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTk4OTg0MywtMTkxNzM2MDc5MywtND
+eyJoaXN0b3J5IjpbLTM1MTgxMTU3NCwtMTkxNzM2MDc5MywtND
 EzNzg5MTMsMTQ4NDkxNDI2NCwtMTcyNzgyNzUzLDE1Nzc0NzM3
 NTgsMTE1NjYwNDY5NywtMTU0MzQ0MzE2LDIyODk4OTQ2NSwxND
 UwNDYwNjU5LDg2NTk0MDUwOSwtODI2MTUyODAzXX0=
