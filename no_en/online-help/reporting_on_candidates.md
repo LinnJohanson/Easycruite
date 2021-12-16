@@ -21,10 +21,10 @@ For more information on export templates refer to  [Export Templates](export_tem
 ![](../Resources/Images/icon-document-link.png) [Export Templates](export_templates.htm)
 ![](../Resources/Images/icon-document-link.png) [Guide for Administrators - Reports](guide_for_administrators_reports.htm)
 ![](../Resources/Images/icon-document-link.png) [Applicant List Report](applicant_list_report.htm)
-![](../Resources/Images/icon-document-link.png) [Guide for Administrators - Reports](guide_for_administrators_reports.htm)C 
+![](../Resources/Images/icon-document-link.png) [Guide for Administrators - Reports](guide_for_administrators_reports.htm)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE2NzE1MTVdfQ==
+eyJoaXN0b3J5IjpbMTcxNTkxODUzMF19
 -->
